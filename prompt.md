@@ -252,3 +252,9 @@ Comprehensive test coverage is required across all layers:
 - Challenge system works reliably
 - Material 3 design is visually consistent throughout
 - User can complete the entire alarm flow (create → trigger → challenge → snooze/stop)
+
+## Completion Signal
+
+  Output the following when ALL stopping conditions are met:
+
+  <promise>COMPLETE</promise>
