@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "com.betterclock.app-debug-61:/drawable_ic_alarm.xml.flat",
+        "source": "com.betterclock.app-main-63:/drawable/ic_alarm.xml"
+    },
+    {
+        "merged": "com.betterclock.app-debug-61:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.betterclock.app-main-63:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.betterclock.app-debug-61:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.betterclock.app-main-63:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.betterclock.app-debug-61:/drawable_ic_snooze.xml.flat",
+        "source": "com.betterclock.app-main-63:/drawable/ic_snooze.xml"
+    },
+    {
+        "merged": "com.betterclock.app-debug-61:/xml_backup_rules.xml.flat",
+        "source": "com.betterclock.app-main-63:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.betterclock.app-debug-61:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.betterclock.app-main-63:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.betterclock.app-debug-61:/xml_data_extraction_rules.xml.flat",
+        "source": "com.betterclock.app-main-63:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.betterclock.app-debug-61:/drawable_ic_stop.xml.flat",
+        "source": "com.betterclock.app-main-63:/drawable/ic_stop.xml"
+    }
+]

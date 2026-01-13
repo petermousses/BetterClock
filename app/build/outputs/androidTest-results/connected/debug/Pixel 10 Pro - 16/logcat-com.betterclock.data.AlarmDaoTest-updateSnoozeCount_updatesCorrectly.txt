@@ -1,0 +1,2 @@
+01-13 06:26:14.857  9693  9709 I TestRunner: started: updateSnoozeCount_updatesCorrectly(com.betterclock.data.AlarmDaoTest)
+01-13 06:26:14.883  9693  9709 I TestRunner: finished: updateSnoozeCount_updatesCorrectly(com.betterclock.data.AlarmDaoTest)

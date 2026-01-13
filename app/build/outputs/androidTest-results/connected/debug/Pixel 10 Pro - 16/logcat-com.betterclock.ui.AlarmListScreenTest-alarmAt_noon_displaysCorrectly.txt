@@ -1,0 +1,308 @@
+01-13 06:26:24.124  9693  9709 I TestRunner: started: alarmAt_noon_displaysCorrectly(com.betterclock.ui.AlarmListScreenTest)
+01-13 06:26:24.126  9693  9709 D IdlingRegistry: Registering idling resources: [androidx.compose.ui.test.EspressoLink@24d3ed8]
+01-13 06:26:24.128  9693  9709 W Settings: Setting always_finish_activities has moved from android.provider.Settings.System to android.provider.Settings.Global, returning read-only value.
+01-13 06:26:24.130  2656  2727 D WindowOnBackDispatcher: setTopOnBackInvokedCallback (unwrapped): null
+01-13 06:26:24.131  1584  1691 V GrammaticalInflectionUtils: AttributionSource: android.content.AttributionSource@428f98d6 does not have READ_SYSTEM_GRAMMATICAL_GENDER permission.
+01-13 06:26:24.138  9693  9693 D LifecycleMonitor: Lifecycle status change: androidx.activity.ComponentActivity@b464c1c in: PRE_ON_CREATE
+01-13 06:26:24.138  9693  9693 V ActivityScenario: Activity lifecycle changed event received but ignored because the reported transition was not ON_CREATE while the last known transition was PRE_ON_CREATE
+01-13 06:26:24.140  9693  9698 W com.betterclock: Cleared Reference was only reachable from finalizer (only reported once)
+01-13 06:26:24.141  9693  9698 W com.betterclock: userfaultfd: MOVE ioctl seems unsupported: Connection timed out
+01-13 06:26:24.142  2656  2727 D WindowOnBackDispatcher: setTopOnBackInvokedCallback (unwrapped): android.view.ViewRootImpl$$ExternalSyntheticLambda12@6a89bf2
+01-13 06:26:24.144  9693  9693 D LifecycleMonitor: Lifecycle status change: androidx.activity.ComponentActivity@b464c1c in: CREATED
+01-13 06:26:24.144  9693  9693 V ActivityScenario: Update currentActivityStage to CREATED, currentActivity=androidx.activity.ComponentActivity@b464c1c
+01-13 06:26:24.145  9693  9693 D LifecycleMonitor: Lifecycle status change: androidx.activity.ComponentActivity@b464c1c in: STARTED
+01-13 06:26:24.145  9693  9693 V ActivityScenario: Update currentActivityStage to STARTED, currentActivity=androidx.activity.ComponentActivity@b464c1c
+01-13 06:26:24.146  9693  9693 D LifecycleMonitor: Lifecycle status change: androidx.activity.ComponentActivity@b464c1c in: RESUMED
+01-13 06:26:24.146  9693  9693 V ActivityScenario: Update currentActivityStage to RESUMED, currentActivity=androidx.activity.ComponentActivity@b464c1c
+01-13 06:26:24.146  1197 24555 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:24.146  1197 24555 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:24.146  1197 24555 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:24.147  1197 24555 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:24.147  1197 24555 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:24.149  1197 24555 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:24.149  1197 24555 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:24.149  1197 24555 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:24.149  1197 24555 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:24.149  1197 24555 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:24.151  9693  9693 D LifecycleMonitor: Lifecycle status change: androidx.activity.ComponentActivity@b464c1c in: PAUSED
+01-13 06:26:24.151  9693  9693 V ActivityScenario: Update currentActivityStage to PAUSED, currentActivity=androidx.activity.ComponentActivity@b464c1c
+01-13 06:26:24.152  9693  9693 D WindowOnBackDispatcher: setTopOnBackInvokedCallback (unwrapped): android.view.ViewRootImpl$$ExternalSyntheticLambda12@a32e99e
+01-13 06:26:24.165  1584  1674 I ActivityTaskManager: Displayed com.betterclock/androidx.activity.ComponentActivity for user 0: +34ms
+01-13 06:26:24.166  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:24.166  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:24.166  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:24.166  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:24.166  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:24.166  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:24.166  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:24.166  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:24.166  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:24.166  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:24.166  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:24.166  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:24.166  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:24.166  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:24.166  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:24.166  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:24.166  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:24.166  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:24.166  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:24.166  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:24.167  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:24.167  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:24.167  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:24.167  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:24.167  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:24.167  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:24.167  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:24.167  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:24.167  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:24.167  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:24.167  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:24.167  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:24.167  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:24.168  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:24.168  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:24.168  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:24.168  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:24.168  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:24.168  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:24.168  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:24.168  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:24.168  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:24.168  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:24.168  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:24.168  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:24.168  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:24.168  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:24.168  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:24.168  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:24.168  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:24.168  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:24.168  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:24.168  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:24.168  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:24.168  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:24.169  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:24.169  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:24.169  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:24.169  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:24.169  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:24.169  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:24.169  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:24.169  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:24.169  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:24.169  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:24.169  9693  9693 D LifecycleMonitor: Lifecycle status change: androidx.activity.ComponentActivity@b464c1c in: STOPPED
+01-13 06:26:24.169  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:24.169  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:24.169  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:24.169  9693  9693 V ActivityScenario: Update currentActivityStage to STOPPED, currentActivity=androidx.activity.ComponentActivity@b464c1c
+01-13 06:26:24.169  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:24.169  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:24.169  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:24.169  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:24.169  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:24.169  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:24.169  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:24.169  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:24.169  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:24.169  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:24.169  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:24.170  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:24.170  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:24.170  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:24.170  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:24.170  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:24.170  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:24.170  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:24.170  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:24.170  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:24.170  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:24.170  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:24.170  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:24.170  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:24.171  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:24.171  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:24.171  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:24.171  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:24.172  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:24.172  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:24.172  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:24.172  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:24.172  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:24.172  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:24.172  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:24.172  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:24.172  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:24.172  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:24.172  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:24.172  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:24.172  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:24.172  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:24.172  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:24.172  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:24.173  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:24.173  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:24.173  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:24.173  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:24.173  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:24.173  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:24.173  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:24.173  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:24.173  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:24.173  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:24.180  9739  9739 D WindowOnBackDispatcher: setTopOnBackInvokedCallback (unwrapped): null
+01-13 06:26:24.180  2656  2727 D WindowOnBackDispatcher: setTopOnBackInvokedCallback (unwrapped): null
+01-13 06:26:24.192  9739  9739 D ViewRootImpl: Skipping stats log for color mode
+01-13 06:26:24.204 16650 16650 D RecentsView: onTaskRemoved: 10060, not handling task stack changes
+01-13 06:26:24.204 16650 16650 D RecentsView: onTaskRemoved: 10060, not handling task stack changes
+01-13 06:26:24.247   656  2760 E powerhal-libperfmgr: Error: shouldn't report duration during pause state.
+01-13 06:26:24.285   656  2760 E powerhal-libperfmgr: Error: shouldn't report duration during pause state.
+01-13 06:26:24.306 17749 17819 I ReactNativeJNI: Memory warning (pressure level: TRIM_MEMORY_UI_HIDDEN) received by JS VM, ignoring because it's non-severe
+01-13 06:26:24.877  1538  1571 I pixel-thermal: VIRTUAL-SKIN-CPU-HIGH:31.4339 raw data: VIRTUAL-SKIN:31433.9 VIRTUAL-SKIN-CPU-HIGH:31433.9
+01-13 06:26:24.903  1538  1571 I pixel-thermal: VIRTUAL-SKIN-SPEAKER-MODEL: model_input: [34472.00 27940.00 28912.00 32283.00 32522.00 33258.00 34316.00 27478.00 ]
+01-13 06:26:24.904  1538  1571 I native  : I0000 00:00:1768310784.903888    1571 thermal_tflite_wrapper.cc:261] ThermalTfliteInvoke
+01-13 06:26:24.904  1538  1571 I pixel-thermal: VIRTUAL-SKIN-SPEAKER-MODEL: model_output: [26514.3 ]
+01-13 06:26:24.904  1538  1571 I pixel-thermal: VIRTUAL-SKIN-SPEAKER-MODEL: predicted_value: [26514.3 ]
+01-13 06:26:24.905  1538  1571 I pixel-thermal: VIRTUAL-SKIN-SPEAKER:26.3346 raw data: VIRTUAL-SKIN-SPEAKER:26334.6 VIRTUAL-SKIN-SPEAKER-LEGACY:30290.3 VIRTUAL-SKIN-SPEAKER-LEGACY-MODEL-DIFF:3775.95 VIRTUAL-SKIN-SPEAKER-MODEL:26514.3 VIRTUAL-SKIN-SPEAKER-MODEL-CLAMPED:26514.3 VIRTUAL-SKIN-SPEAKER-MODEL-LEGACY-DIFF:-3775.95 VIRTUAL-SKIN-SPEAKER-MODEL-UPPER-CLAMPED:26514.3 VIRTUAL-SKIN-SPEAKER-SUB-0:30290.3 VT_SPEAKER_LEGACY_WEIGHT:3.63413e-13 VT_SPEAKER_MODEL_WEIGHT:1 charging_therm:34472 disp0_therm:27940 flash_therm:28912 north_therm:32283 quiet_therm:32522 rfpa_therm:33258 soc_therm:34316 usb_pwr_therm:27478
+01-13 06:26:24.905  1538  1571 I pixel-thermal: VIRTUAL-SKIN-CPU-LIGHT-ODPM:31.4339 raw data: VIRTUAL-SKIN:31433.9 VIRTUAL-SKIN-CPU-LIGHT-ODPM:31433.9
+01-13 06:26:24.905  1538  1571 I pixel-thermal: cellular-emergency:31.4339 raw data: VIRTUAL-SKIN:31433.9 cellular-emergency:31433.9
+01-13 06:26:24.906  1538  1571 I pixel-thermal: north_therm:32.283 raw data: north_therm:32283
+01-13 06:26:24.906  1538  1571 I pixel-thermal: VIRTUAL-SKIN-CPU-MID:31.4339 raw data: VIRTUAL-SKIN:31433.9 VIRTUAL-SKIN-CPU-MID:31433.9
+01-13 06:26:24.906  1538  1571 I pixel-thermal: VIRTUAL-SKIN:31.4339 raw data: VIRTUAL-SKIN:31433.9
+01-13 06:26:24.906  1538  1571 I pixel-thermal: VIRTUAL-SKIN-HINT:31.4339 raw data: VIRTUAL-SKIN:31433.9 VIRTUAL-SKIN-HINT:31433.9
+01-13 06:26:24.906  1538  1571 I pixel-thermal: VIRTUAL-SKIN-CPU-ODPM:31.4339 raw data: VIRTUAL-SKIN:31433.9 VIRTUAL-SKIN-CPU-ODPM:31433.9
+01-13 06:26:24.907  1538  1571 I pixel-thermal: VIRTUAL-SKIN-CHARGE-WIRED:31.4339 raw data: NO_WLC:1 VIRTUAL-SKIN-CHARGE:31433.9 VIRTUAL-SKIN-CHARGE-WIRED:31433.9 VIRTUAL-SKIN-EQ:31433.9 WLC_CHECK:1 thb_hda:54
+01-13 06:26:24.908  1538  1571 I pixel-thermal: VIRTUAL-SKIN-SOC:31.4339 raw data: VIRTUAL-SKIN:31433.9 VIRTUAL-SKIN-SOC:31433.9
+01-13 06:26:24.908  1538  1571 I pixel-thermal: VIRTUAL-SKIN-CHARGE-PERSIST:31.4339 raw data: VIRTUAL-SKIN-CHARGE:31433.9 VIRTUAL-SKIN-CHARGE-PERSIST:31433.9
+01-13 06:26:25.171  2804  3007 D ImpulseConnection: timeout didn't happen: com.google.android.apps.turbo
+01-13 06:26:25.203  2804  3001 D TemperatureStateSource: sequence=127777 actualDelay=10000
+01-13 06:26:25.208  2804  3001 D TemperatureStateSource: Reading temperature: sequence=127778
+01-13 06:26:25.211  1538  1538 I pixel-thermal: VIRTUAL-SKIN:31.4339 raw data: VIRTUAL-SKIN:31433.9
+01-13 06:26:25.212  2804  3001 D TemperatureStateSource: getDeviceTemperatures: sequence=127778 deviceTemperatureType=3 temperatureSource=0 temperatures=[31.433928]
+01-13 06:26:25.212  2804  3001 D BusinessScope: Enqueuing the block
+01-13 06:26:25.212  2804  3001 D TemperatureStateSource: sequence=127778 waitTime=10000
+01-13 06:26:25.212  2804  4163 D BusinessScope: Start running the #256469 block
+01-13 06:26:25.215  1538  1538 I pixel-thermal: VIRTUAL-SKIN:31.4339 raw data: VIRTUAL-SKIN:31433.9
+01-13 06:26:25.217  2804  4163 I TemperatureStateSource: temperature was set
+01-13 06:26:25.217  2804  4163 D BusinessScope: Enqueuing the block
+01-13 06:26:25.217  2804  4163 D ImpulseStateSource: Notify clients: 128231
+01-13 06:26:25.217  2804  4163 D BusinessScope: Finish running the #256469 block
+01-13 06:26:25.218  2804  4163 D BusinessScope: Start running the #256470 block
+01-13 06:26:25.219  2804  3001 D BusinessScope: Finish running the #256470 block
+01-13 06:26:25.835  1584  2539 D InetDiagMessage: Destroyed 0 sockets, proto=IPPROTO_TCP, family=AF_INET, states=14
+01-13 06:26:25.838  1584  2539 D InetDiagMessage: Destroyed 0 sockets, proto=IPPROTO_TCP, family=AF_INET6, states=14
+01-13 06:26:25.838  1584  2539 D InetDiagMessage: Destroyed live tcp sockets for uids={10126} in 6ms
+01-13 06:26:26.472  1239  1239 D AOC     : A3:MSG: tmd3743_device.cc, 977: USF: TMD3743: C/G switch 2 -> 1 d_lux:0.98 w_lux: 0.63 C:0.02 G:0.00
+01-13 06:26:26.570  1239  1239 D AOC     : A3:MSG: tmd3743_device.cc, 977: USF: TMD3743: C/G switch 1 -> 2 d_lux:0.95 w_lux: 0.63 C:0.02 G:0.00
+01-13 06:26:27.664  1239  1239 D AOC     : A3:MSG: tmd3743_device.cc, 977: USF: TMD3743: C/G switch 2 -> 1 d_lux:0.97 w_lux: 0.64 C:0.02 G:0.00
+01-13 06:26:27.764  1239  1239 D AOC     : A3:MSG: tmd3743_device.cc, 977: USF: TMD3743: C/G switch 1 -> 2 d_lux:0.94 w_lux: 0.63 C:0.02 G:0.00
+01-13 06:26:27.944 31312 31312 I Finsky  : [2] Memory trim requested to level 40
+01-13 06:26:27.944 31312 31312 I Finsky  : [2] Flushing in-memory image cache
+01-13 06:26:27.986 31312 31312 I Finsky  : [2] Memory trim requested to level 40
+01-13 06:26:27.987 31312 31312 I Finsky  : [2] Flushing in-memory image cache
+01-13 06:26:28.111 31312 31312 I Finsky  : [2] Memory trim requested to level 40
+01-13 06:26:28.111 31312 31312 I Finsky  : [2] Flushing in-memory image cache
+01-13 06:26:28.169  1538  1571 I pixel-thermal: soc_therm:34.073 raw data: soc_therm:34073
+01-13 06:26:28.200  1538  1571 I pixel-thermal: rfpa_therm:33.13 raw data: rfpa_therm:33130
+01-13 06:26:28.204  1538  1571 I pixel-thermal: VIRTUAL-SKIN-PREDICTION-MODEL: model_input: [32182.00 28926.00 34073.00 33130.00 34233.00 27869.00 27466.00 32420.00 ]
+01-13 06:26:28.204  1538  1571 I native  : I0000 00:00:1768310788.204755    1571 thermal_tflite_wrapper.cc:261] ThermalTfliteInvoke
+01-13 06:26:28.209  1538  1571 I pixel-thermal: VIRTUAL-SKIN-PREDICTION-MODEL: model_output: [29954.2 29966.5 29961 29977.9 29993.1 30001.8 30021.1 30053.8 30072 30113.2 ]
+01-13 06:26:28.209  1538  1571 I pixel-thermal: VIRTUAL-SKIN-PREDICTION-MODEL: predicted_value: [29954.2 29966.5 29961 29977.9 29993.1 30001.8 30021.1 30053.8 30072 30113.2 ]
+01-13 06:26:28.209  1538  1571 I pixel-thermal: sensor_name: VT-FORECAST-60SEC-BACK no valid prediction samples found
+01-13 06:26:28.209  1538  1571 I pixel-thermal: VT-FORECAST-ERROR-60SEC data is under collecting
+01-13 06:26:28.209  1538  1571 I pixel-thermal: STATS-UPDATOR data is under collecting
+01-13 06:26:28.209  1538  1571 I pixel-thermal: Thermal sensor STATS-UPDATOR is under collecting
+01-13 06:26:28.209  1538  1571 I pixel-thermal: thermalWatcherCallbackFunc: data under collecting for sensor: STATS-UPDATOR
+01-13 06:26:28.297  1584  3662 V GrammaticalInflectionUtils: AttributionSource: android.content.AttributionSource@44447175 does not have READ_SYSTEM_GRAMMATICAL_GENDER permission.
+01-13 06:26:28.324  2656  2727 D WindowOnBackDispatcher: setTopOnBackInvokedCallback (unwrapped): android.view.ViewRootImpl$$ExternalSyntheticLambda12@49a7b69
+01-13 06:26:28.327  1197  2479 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:28.327  1197  2479 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:28.327  1197  2479 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:28.327  1197  2479 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:28.327  1197  2479 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:28.331  1197  2479 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:28.331  1197  2479 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:28.331  1197  2479 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:28.331  1197  2479 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:28.331  1197  2479 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:28.336 31312 31312 I Finsky  : [2] SCH: job service start with id 9732.
+01-13 06:26:28.341  9739  9739 D WindowOnBackDispatcher: setTopOnBackInvokedCallback (unwrapped): android.view.ViewRootImpl$$ExternalSyntheticLambda12@2ddb0aa
+01-13 06:26:28.342 31312  9354 I Finsky  : [1652] SCH: Satisfied jobs for 9732 are: 12-1
+01-13 06:26:28.342 31312  9417 I Finsky  : [1659] SCH: Job 12-1 starting
+01-13 06:26:28.342 31312 31312 I Finsky  : [2] WM::SCH: Logging work start for 12-1
+01-13 06:26:28.342 31312 31312 I Finsky  : [2] [ContentSync] job started
+01-13 06:26:28.344  9693  9693 D LifecycleMonitor: Lifecycle status change: androidx.activity.ComponentActivity@b464c1c in: DESTROYED
+01-13 06:26:28.344  9693  9693 V ActivityScenario: Update currentActivityStage to DESTROYED, currentActivity=null
+01-13 06:26:28.344  9693  9693 D WindowOnBackDispatcher: setTopOnBackInvokedCallback (unwrapped): null
+01-13 06:26:28.350  1584  1674 I ActivityTaskManager: Displayed com.betterclock.test/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity for user 0: +61ms
+01-13 06:26:28.351 16650 16650 D RecentsView: onTaskRemoved: 10061, not handling task stack changes
+01-13 06:26:28.351 16650 16650 D RecentsView: onTaskRemoved: 10061, not handling task stack changes
+01-13 06:26:28.352  9693  9709 D IdlingRegistry: Unregistering idling resources: [androidx.compose.ui.test.EspressoLink@24d3ed8]
+01-13 06:26:28.353  9693  9709 E TestRunner: failed: alarmAt_noon_displaysCorrectly(com.betterclock.ui.AlarmListScreenTest)
+01-13 06:26:28.353  9693  9709 E TestRunner: ----- begin exception -----
+01-13 06:26:28.353  9693  9709 E TestRunner: java.lang.IllegalStateException: No compose hierarchies found in the app. Possible reasons include: (1) the Activity that calls setContent did not launch; (2) setContent was not called; (3) setContent was called before the ComposeTestRule ran. If setContent is called by the Activity, make sure the Activity is launched after the ComposeTestRule runs
+01-13 06:26:28.353  9693  9709 E TestRunner: 	at androidx.compose.ui.test.TestContext.getAllSemanticsNodes$ui_test_release(TestOwner.kt:87)
+01-13 06:26:28.353  9693  9709 E TestRunner: 	at androidx.compose.ui.test.SemanticsNodeInteraction.fetchSemanticsNodes$ui_test_release(SemanticsNodeInteraction.kt:63)
+01-13 06:26:28.353  9693  9709 E TestRunner: 	at androidx.compose.ui.test.SemanticsNodeInteraction.fetchSemanticsNodes$ui_test_release$default(SemanticsNodeInteraction.kt:56)
+01-13 06:26:28.353  9693  9709 E TestRunner: 	at androidx.compose.ui.test.AndroidAssertions_androidKt.checkIsDisplayed(AndroidAssertions.android.kt:29)
+01-13 06:26:28.353  9693  9709 E TestRunner: 	at androidx.compose.ui.test.AssertionsKt.isDisplayed(Assertions.kt:359)
+01-13 06:26:28.353  9693  9709 E TestRunner: 	at androidx.compose.ui.test.AssertionsKt.assertIsDisplayed(Assertions.kt:33)
+01-13 06:26:28.353  9693  9709 E TestRunner: 	at com.betterclock.ui.AlarmListScreenTest.alarmAt_noon_displaysCorrectly(AlarmListScreenTest.kt:409)
+01-13 06:26:28.353  9693  9709 E TestRunner: 	at java.lang.reflect.Method.invoke(Native Method)
+01-13 06:26:28.353  9693  9709 E TestRunner: 	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:59)
+01-13 06:26:28.353  9693  9709 E TestRunner: 	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+01-13 06:26:28.353  9693  9709 E TestRunner: 	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:56)
+01-13 06:26:28.353  9693  9709 E TestRunner: 	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
+01-13 06:26:28.353  9693  9709 E TestRunner: 	at org.junit.rules.ExternalResource$1.evaluate(ExternalResource.java:54)
+01-13 06:26:28.353  9693  9709 E TestRunner: 	at androidx.compose.ui.test.junit4.AndroidComposeTestRule$apply$1$evaluate$1.invoke(AndroidComposeTestRule.android.kt:272)
+01-13 06:26:28.353  9693  9709 E TestRunner: 	at androidx.compose.ui.test.junit4.AndroidComposeTestRule$apply$1$evaluate$1.invoke(AndroidComposeTestRule.android.kt:271)
+01-13 06:26:28.353  9693  9709 E TestRunner: 	at androidx.compose.ui.test.AndroidComposeUiTestEnvironment$AndroidComposeUiTestImpl.withDisposableContent(ComposeUiTest.android.kt:505)
+01-13 06:26:28.353  9693  9709 E TestRunner: 	at androidx.compose.ui.test.AndroidComposeUiTestEnvironment$runTest$1$1$1$1$1$1.invoke(ComposeUiTest.android.kt:333)
+01-13 06:26:28.353  9693  9709 E TestRunner: 	at androidx.compose.ui.test.AndroidComposeUiTestEnvironment.withComposeIdlingResource(ComposeUiTest.android.kt:385)
+01-13 06:26:28.353  9693  9709 E TestRunner: 	at androidx.compose.ui.test.AndroidComposeUiTestEnvironment.access$withComposeIdlingResource(ComposeUiTest.android.kt:219)
+01-13 06:26:28.353  9693  9709 E TestRunner: 	at androidx.compose.ui.test.AndroidComposeUiTestEnvironment$runTest$1$1$1$1$1.invoke(ComposeUiTest.android.kt:332)
+01-13 06:26:28.353  9693  9709 E TestRunner: 	at androidx.compose.ui.test.AndroidComposeUiTestEnvironment.withWindowRecomposer(ComposeUiTest.android.kt:359)
+01-13 06:26:28.353  9693  9709 E TestRunner: 	at androidx.compose.ui.test.AndroidComposeUiTestEnvironment.access$withWindowRecomposer(ComposeUiTest.android.kt:219)
+01-13 06:26:28.353  9693  9709 E TestRunner: 	at androidx.compose.ui.test.AndroidComposeUiTestEnvironment$runTest$1$1$1$1.invoke(ComposeUiTest.android.kt:331)
+01-13 06:26:28.353  9693  9709 E TestRunner: 	at androidx.compose.ui.test.AndroidComposeUiTestEnvironment.withTestCoroutines(ComposeUiTest.android.kt:372)
+01-13 06:26:28.353  9693  9709 E TestRunner: 	at androidx.compose.ui.test.AndroidComposeUiTestEnvironment.access$withTestCoroutines(ComposeUiTest.android.kt:219)
+01-13 06:26:28.353  9693  9709 E TestRunner: 	at androidx.compose.ui.test.AndroidComposeUiTestEnvironment$runTest$1$1$1.invoke(ComposeUiTest.android.kt:330)
+01-13 06:26:28.353  9693  9709 E TestRunner: 	at androidx.compose.ui.test.EspressoLink.withStrategy(EspressoLink.android.kt:66)
+01-13 06:26:28.353  9693  9709 E TestRunner: 	at androidx.compose.ui.test.AndroidComposeUiTestEnvironment$runTest$1$1.invoke(ComposeUiTest.android.kt:329)
+01-13 06:26:28.353  9693  9709 E TestRunner: 	at androidx.compose.ui.test.IdlingResourceRegistry.withRegistry(IdlingResourceRegistry.jvm.kt:155)
+01-13 06:26:28.353  9693  9709 E TestRunner: 	at androidx.compose.ui.test.AndroidComposeUiTestEnvironment$runTest$1.invoke(ComposeUiTest.android.kt:328)
+01-13 06:26:28.353  9693  9709 E TestRunner: 	at androidx.compose.ui.test.ComposeRootRegistry.withRegistry(ComposeRootRegistry.android.kt:146)
+01-13 06:26:28.353  9693  9709 E TestRunner: 	at androidx.compose.ui.test.AndroidComposeUiTestEnvironment.runTest(ComposeUiTest.android.kt:327)
+01-13 06:26:28.353  9693  9709 E TestRunner: 	at androidx.compose.ui.test.junit4.AndroidComposeTestRule$apply$1.evaluate(AndroidComposeTestRule.android.kt:271)
+01-13 06:26:28.353  9693  9709 E TestRunner: 	at org.junit.runners.ParentRunner$3.evaluate(ParentRunner.java:306)
+01-13 06:26:28.353  9693  9709 E TestRunner: 	at org.junit.runners.BlockJUnit4ClassRunner$1.evaluate(BlockJUnit4ClassRunner.java:100)
+01-13 06:26:28.353  9693  9709 E TestRunner: 	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:366)
+01-13 06:26:28.353  9693  9709 E TestRunner: 	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:103)
+01-13 06:26:28.353  9693  9709 E TestRunner: 	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:63)
+01-13 06:26:28.353  9693  9709 E TestRunner: 	at org.junit.runners.ParentRunner$4.run(ParentRunner.java:331)
+01-13 06:26:28.353  9693  9709 E TestRunner: 	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:79)
+01-13 06:26:28.353  9693  9709 E TestRunner: 	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:329)
+01-13 06:26:28.353  9693  9709 E TestRunner: 	at org.junit.runners.ParentRunner.access$100(ParentRunner.java:66)
+01-13 06:26:28.353  9693  9709 E TestRunner: 	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:293)
+01-13 06:26:28.353  9693  9709 E TestRunner: 	at org.junit.runners.ParentRunner$3.evaluate(ParentRunner.java:306)
+01-13 06:26:28.353  9693  9709 E TestRunner: 	at org.junit.runners.ParentRunner.run(ParentRunner.java:413)
+01-13 06:26:28.353  9693  9709 E TestRunner: 	at androidx.test.ext.junit.runners.AndroidJUnit4.run(AndroidJUnit4.java:162)
+01-13 06:26:28.353  9693  9709 E TestRunner: 	at org.junit.runners.Suite.runChild(Suite.java:128)
+01-13 06:26:28.353  9693  9709 E TestRunner: 	at org.junit.runners.Suite.runChild(Suite.java:27)
+01-13 06:26:28.353  9693  9709 E TestRunner: 	at org.junit.runners.ParentRunner$4.run(ParentRunner.java:331)
+01-13 06:26:28.353  9693  9709 E TestRunner: 	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:79)
+01-13 06:26:28.353  9693  9709 E TestRunner: 	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:329)
+01-13 06:26:28.353  9693  9709 E TestRunner: 	at org.junit.runners.ParentRunner.access$100(ParentRunner.java:66)
+01-13 06:26:28.353  9693  9709 E TestRunner: 	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:293)
+01-13 06:26:28.353  9693  9709 E TestRunner: 	at org.junit.runners.ParentRunner$3.evaluate(ParentRunner.java:306)
+01-13 06:26:28.353  9693  9709 E TestRunner: 	at org.junit.runners.ParentRunner.run(ParentRunner.java:413)
+01-13 06:26:28.353  9693  9709 E TestRunner: 	at org.junit.runner.JUnitCore.run(JUnitCore.java:137)
+01-13 06:26:28.353  9693  9709 E TestRunner: 	at org.junit.runner.JUnitCore.run(JUnitCore.java:115)
+01-13 06:26:28.353  9693  9709 E TestRunner: 	at androidx.test.internal.runner.TestExecutor.execute(TestExecutor.java:68)
+01-13 06:26:28.353  9693  9709 E TestRunner: 	at androidx.test.internal.runner.TestExecutor.execute(TestExecutor.java:59)
+01-13 06:26:28.353  9693  9709 E TestRunner: 	at androidx.test.runner.AndroidJUnitRunner.onStart(AndroidJUnitRunner.java:463)
+01-13 06:26:28.353  9693  9709 E TestRunner: 	at android.app.Instrumentation$InstrumentationThread.run(Instrumentation.java:2604)
+01-13 06:26:28.353  9693  9709 E TestRunner: ----- end exception -----
+01-13 06:26:28.354  9693  9709 I TestRunner: finished: alarmAt_noon_displaysCorrectly(com.betterclock.ui.AlarmListScreenTest)

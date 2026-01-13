@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.betterclock.data.model.AlarmTest" tests="9" skipped="0" failures="0" errors="0" timestamp="2026-01-13T13:26:01" hostname="MacBookAir.mousses.xyz" time="0.003">
+  <properties/>
+  <testcase name="getFormattedTime returns correct 24-hour format" classname="com.betterclock.data.model.AlarmTest" time="0.002"/>
+  <testcase name="repeatsOnDay returns false for one-time alarm" classname="com.betterclock.data.model.AlarmTest" time="0.0"/>
+  <testcase name="getFormattedTime returns correct 12-hour format" classname="com.betterclock.data.model.AlarmTest" time="0.0"/>
+  <testcase name="repeatsOnDay correctly identifies repeat days" classname="com.betterclock.data.model.AlarmTest" time="0.0"/>
+  <testcase name="alarm equality works correctly" classname="com.betterclock.data.model.AlarmTest" time="0.0"/>
+  <testcase name="isOneTime returns true when repeatDays is 0" classname="com.betterclock.data.model.AlarmTest" time="0.0"/>
+  <testcase name="alarm copy works correctly" classname="com.betterclock.data.model.AlarmTest" time="0.0"/>
+  <testcase name="default alarm values are correct" classname="com.betterclock.data.model.AlarmTest" time="0.001"/>
+  <testcase name="getRepeatDescription returns correct descriptions" classname="com.betterclock.data.model.AlarmTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,2 @@
+01-13 06:26:14.918  9693  9709 I TestRunner: started: getEnabledAlarmCount_returnsCorrectCount(com.betterclock.data.AlarmDaoTest)
+01-13 06:26:14.944  9693  9709 I TestRunner: finished: getEnabledAlarmCount_returnsCorrectCount(com.betterclock.data.AlarmDaoTest)

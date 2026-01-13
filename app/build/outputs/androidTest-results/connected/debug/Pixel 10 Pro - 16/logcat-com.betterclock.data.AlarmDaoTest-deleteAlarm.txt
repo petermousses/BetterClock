@@ -1,0 +1,3 @@
+01-13 06:26:14.708  9693  9709 I TestRunner: started: deleteAlarm(com.betterclock.data.AlarmDaoTest)
+01-13 06:26:14.727  1239  1239 D AOC     : A3:MSG: tmd3743_device.cc, 977: USF: TMD3743: C/G switch 2 -> 1 d_lux:0.99 w_lux: 0.63 C:0.02 G:0.00
+01-13 06:26:14.729  9693  9709 I TestRunner: finished: deleteAlarm(com.betterclock.data.AlarmDaoTest)

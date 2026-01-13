@@ -1,0 +1,249 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.betterclock"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="26"
+9        android:targetSdkVersion="35" />
+10
+11    <!-- Alarm permissions -->
+12    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
+12-->/Users/petermousses/Local/Github/BetterClock/app/src/main/AndroidManifest.xml:6:5-81
+12-->/Users/petermousses/Local/Github/BetterClock/app/src/main/AndroidManifest.xml:6:22-78
+13    <uses-permission android:name="android.permission.WAKE_LOCK" />
+13-->/Users/petermousses/Local/Github/BetterClock/app/src/main/AndroidManifest.xml:7:5-68
+13-->/Users/petermousses/Local/Github/BetterClock/app/src/main/AndroidManifest.xml:7:22-65
+14    <uses-permission android:name="android.permission.SCHEDULE_EXACT_ALARM" />
+14-->/Users/petermousses/Local/Github/BetterClock/app/src/main/AndroidManifest.xml:8:5-79
+14-->/Users/petermousses/Local/Github/BetterClock/app/src/main/AndroidManifest.xml:8:22-76
+15    <uses-permission android:name="android.permission.USE_EXACT_ALARM" />
+15-->/Users/petermousses/Local/Github/BetterClock/app/src/main/AndroidManifest.xml:9:5-74
+15-->/Users/petermousses/Local/Github/BetterClock/app/src/main/AndroidManifest.xml:9:22-71
+16    <uses-permission android:name="android.permission.VIBRATE" />
+16-->/Users/petermousses/Local/Github/BetterClock/app/src/main/AndroidManifest.xml:10:5-66
+16-->/Users/petermousses/Local/Github/BetterClock/app/src/main/AndroidManifest.xml:10:22-63
+17    <uses-permission android:name="android.permission.POST_NOTIFICATIONS" />
+17-->/Users/petermousses/Local/Github/BetterClock/app/src/main/AndroidManifest.xml:11:5-77
+17-->/Users/petermousses/Local/Github/BetterClock/app/src/main/AndroidManifest.xml:11:22-74
+18    <uses-permission android:name="android.permission.USE_FULL_SCREEN_INTENT" />
+18-->/Users/petermousses/Local/Github/BetterClock/app/src/main/AndroidManifest.xml:12:5-81
+18-->/Users/petermousses/Local/Github/BetterClock/app/src/main/AndroidManifest.xml:12:22-78
+19    <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
+19-->/Users/petermousses/Local/Github/BetterClock/app/src/main/AndroidManifest.xml:13:5-77
+19-->/Users/petermousses/Local/Github/BetterClock/app/src/main/AndroidManifest.xml:13:22-74
+20    <uses-permission android:name="android.permission.FOREGROUND_SERVICE_MEDIA_PLAYBACK" />
+20-->/Users/petermousses/Local/Github/BetterClock/app/src/main/AndroidManifest.xml:14:5-92
+20-->/Users/petermousses/Local/Github/BetterClock/app/src/main/AndroidManifest.xml:14:22-89
+21
+22    <permission
+22-->[androidx.core:core:1.15.0] /Users/petermousses/.gradle/caches/8.11.1/transforms/71486d6556b65ae64daa2925a8588768/transformed/core-1.15.0/AndroidManifest.xml:22:5-24:47
+23        android:name="com.betterclock.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+23-->[androidx.core:core:1.15.0] /Users/petermousses/.gradle/caches/8.11.1/transforms/71486d6556b65ae64daa2925a8588768/transformed/core-1.15.0/AndroidManifest.xml:23:9-81
+24        android:protectionLevel="signature" />
+24-->[androidx.core:core:1.15.0] /Users/petermousses/.gradle/caches/8.11.1/transforms/71486d6556b65ae64daa2925a8588768/transformed/core-1.15.0/AndroidManifest.xml:24:9-44
+25
+26    <uses-permission android:name="com.betterclock.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
+26-->[androidx.core:core:1.15.0] /Users/petermousses/.gradle/caches/8.11.1/transforms/71486d6556b65ae64daa2925a8588768/transformed/core-1.15.0/AndroidManifest.xml:26:5-97
+26-->[androidx.core:core:1.15.0] /Users/petermousses/.gradle/caches/8.11.1/transforms/71486d6556b65ae64daa2925a8588768/transformed/core-1.15.0/AndroidManifest.xml:26:22-94
+27
+28    <application
+28-->/Users/petermousses/Local/Github/BetterClock/app/src/main/AndroidManifest.xml:16:5-75:19
+29        android:name="com.betterclock.BetterClockApplication"
+29-->/Users/petermousses/Local/Github/BetterClock/app/src/main/AndroidManifest.xml:17:9-47
+30        android:allowBackup="true"
+30-->/Users/petermousses/Local/Github/BetterClock/app/src/main/AndroidManifest.xml:18:9-35
+31        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+31-->[androidx.core:core:1.15.0] /Users/petermousses/.gradle/caches/8.11.1/transforms/71486d6556b65ae64daa2925a8588768/transformed/core-1.15.0/AndroidManifest.xml:28:18-86
+32        android:dataExtractionRules="@xml/data_extraction_rules"
+32-->/Users/petermousses/Local/Github/BetterClock/app/src/main/AndroidManifest.xml:19:9-65
+33        android:debuggable="true"
+34        android:extractNativeLibs="false"
+35        android:fullBackupContent="@xml/backup_rules"
+35-->/Users/petermousses/Local/Github/BetterClock/app/src/main/AndroidManifest.xml:20:9-54
+36        android:icon="@mipmap/ic_launcher"
+36-->/Users/petermousses/Local/Github/BetterClock/app/src/main/AndroidManifest.xml:21:9-43
+37        android:label="@string/app_name"
+37-->/Users/petermousses/Local/Github/BetterClock/app/src/main/AndroidManifest.xml:22:9-41
+38        android:roundIcon="@mipmap/ic_launcher_round"
+38-->/Users/petermousses/Local/Github/BetterClock/app/src/main/AndroidManifest.xml:23:9-54
+39        android:supportsRtl="true"
+39-->/Users/petermousses/Local/Github/BetterClock/app/src/main/AndroidManifest.xml:24:9-35
+40        android:theme="@style/Theme.BetterClock" >
+40-->/Users/petermousses/Local/Github/BetterClock/app/src/main/AndroidManifest.xml:25:9-49
+41        <activity
+41-->/Users/petermousses/Local/Github/BetterClock/app/src/main/AndroidManifest.xml:28:9-36:20
+42            android:name="com.betterclock.MainActivity"
+42-->/Users/petermousses/Local/Github/BetterClock/app/src/main/AndroidManifest.xml:29:13-41
+43            android:exported="true"
+43-->/Users/petermousses/Local/Github/BetterClock/app/src/main/AndroidManifest.xml:30:13-36
+44            android:theme="@style/Theme.BetterClock" >
+44-->/Users/petermousses/Local/Github/BetterClock/app/src/main/AndroidManifest.xml:31:13-53
+45            <intent-filter>
+45-->/Users/petermousses/Local/Github/BetterClock/app/src/main/AndroidManifest.xml:32:13-35:29
+46                <action android:name="android.intent.action.MAIN" />
+46-->/Users/petermousses/Local/Github/BetterClock/app/src/main/AndroidManifest.xml:33:17-69
+46-->/Users/petermousses/Local/Github/BetterClock/app/src/main/AndroidManifest.xml:33:25-66
+47
+48                <category android:name="android.intent.category.LAUNCHER" />
+48-->/Users/petermousses/Local/Github/BetterClock/app/src/main/AndroidManifest.xml:34:17-77
+48-->/Users/petermousses/Local/Github/BetterClock/app/src/main/AndroidManifest.xml:34:27-74
+49            </intent-filter>
+50        </activity>
+51        <activity
+51-->/Users/petermousses/Local/Github/BetterClock/app/src/main/AndroidManifest.xml:38:9-45:56
+52            android:name="com.betterclock.ui.screens.AlarmActivity"
+52-->/Users/petermousses/Local/Github/BetterClock/app/src/main/AndroidManifest.xml:39:13-53
+53            android:exported="true"
+53-->/Users/petermousses/Local/Github/BetterClock/app/src/main/AndroidManifest.xml:40:13-36
+54            android:launchMode="singleTop"
+54-->/Users/petermousses/Local/Github/BetterClock/app/src/main/AndroidManifest.xml:44:13-43
+55            android:showOnLockScreen="true"
+55-->/Users/petermousses/Local/Github/BetterClock/app/src/main/AndroidManifest.xml:41:13-44
+56            android:showWhenLocked="true"
+56-->/Users/petermousses/Local/Github/BetterClock/app/src/main/AndroidManifest.xml:43:13-42
+57            android:theme="@style/Theme.BetterClock"
+57-->/Users/petermousses/Local/Github/BetterClock/app/src/main/AndroidManifest.xml:45:13-53
+58            android:turnScreenOn="true" />
+58-->/Users/petermousses/Local/Github/BetterClock/app/src/main/AndroidManifest.xml:42:13-40
+59
+60        <!-- Alarm Receiver -->
+61        <receiver
+61-->/Users/petermousses/Local/Github/BetterClock/app/src/main/AndroidManifest.xml:48:9-55:20
+62            android:name="com.betterclock.alarm.AlarmReceiver"
+62-->/Users/petermousses/Local/Github/BetterClock/app/src/main/AndroidManifest.xml:49:13-48
+63            android:enabled="true"
+63-->/Users/petermousses/Local/Github/BetterClock/app/src/main/AndroidManifest.xml:50:13-35
+64            android:exported="false" >
+64-->/Users/petermousses/Local/Github/BetterClock/app/src/main/AndroidManifest.xml:51:13-37
+65            <intent-filter>
+65-->/Users/petermousses/Local/Github/BetterClock/app/src/main/AndroidManifest.xml:52:13-54:29
+66                <action android:name="com.betterclock.ALARM_TRIGGER" />
+66-->/Users/petermousses/Local/Github/BetterClock/app/src/main/AndroidManifest.xml:53:17-72
+66-->/Users/petermousses/Local/Github/BetterClock/app/src/main/AndroidManifest.xml:53:25-69
+67            </intent-filter>
+68        </receiver>
+69
+70        <!-- Boot Receiver to reschedule alarms -->
+71        <receiver
+71-->/Users/petermousses/Local/Github/BetterClock/app/src/main/AndroidManifest.xml:58:9-66:20
+72            android:name="com.betterclock.alarm.BootReceiver"
+72-->/Users/petermousses/Local/Github/BetterClock/app/src/main/AndroidManifest.xml:59:13-47
+73            android:enabled="true"
+73-->/Users/petermousses/Local/Github/BetterClock/app/src/main/AndroidManifest.xml:60:13-35
+74            android:exported="true" >
+74-->/Users/petermousses/Local/Github/BetterClock/app/src/main/AndroidManifest.xml:61:13-36
+75            <intent-filter>
+75-->/Users/petermousses/Local/Github/BetterClock/app/src/main/AndroidManifest.xml:62:13-65:29
+76                <action android:name="android.intent.action.BOOT_COMPLETED" />
+76-->/Users/petermousses/Local/Github/BetterClock/app/src/main/AndroidManifest.xml:63:17-79
+76-->/Users/petermousses/Local/Github/BetterClock/app/src/main/AndroidManifest.xml:63:25-76
+77                <action android:name="android.intent.action.QUICKBOOT_POWERON" />
+77-->/Users/petermousses/Local/Github/BetterClock/app/src/main/AndroidManifest.xml:64:17-82
+77-->/Users/petermousses/Local/Github/BetterClock/app/src/main/AndroidManifest.xml:64:25-79
+78            </intent-filter>
+79        </receiver>
+80
+81        <!-- Alarm Service -->
+82        <service
+82-->/Users/petermousses/Local/Github/BetterClock/app/src/main/AndroidManifest.xml:69:9-73:61
+83            android:name="com.betterclock.alarm.AlarmService"
+83-->/Users/petermousses/Local/Github/BetterClock/app/src/main/AndroidManifest.xml:70:13-47
+84            android:enabled="true"
+84-->/Users/petermousses/Local/Github/BetterClock/app/src/main/AndroidManifest.xml:71:13-35
+85            android:exported="false"
+85-->/Users/petermousses/Local/Github/BetterClock/app/src/main/AndroidManifest.xml:72:13-37
+86            android:foregroundServiceType="mediaPlayback" />
+86-->/Users/petermousses/Local/Github/BetterClock/app/src/main/AndroidManifest.xml:73:13-58
+87
+88        <activity
+88-->[androidx.compose.ui:ui-test-manifest:1.7.6] /Users/petermousses/.gradle/caches/8.11.1/transforms/d6b56b37327615aa047710911c37469b/transformed/ui-test-manifest-1.7.6/AndroidManifest.xml:23:9-25:39
+89            android:name="androidx.activity.ComponentActivity"
+89-->[androidx.compose.ui:ui-test-manifest:1.7.6] /Users/petermousses/.gradle/caches/8.11.1/transforms/d6b56b37327615aa047710911c37469b/transformed/ui-test-manifest-1.7.6/AndroidManifest.xml:24:13-63
+90            android:exported="true" />
+90-->[androidx.compose.ui:ui-test-manifest:1.7.6] /Users/petermousses/.gradle/caches/8.11.1/transforms/d6b56b37327615aa047710911c37469b/transformed/ui-test-manifest-1.7.6/AndroidManifest.xml:25:13-36
+91        <activity
+91-->[androidx.compose.ui:ui-tooling-android:1.7.6] /Users/petermousses/.gradle/caches/8.11.1/transforms/ba5bbc74743b9d4f445d86acf6d69370/transformed/ui-tooling-release/AndroidManifest.xml:23:9-25:39
+92            android:name="androidx.compose.ui.tooling.PreviewActivity"
+92-->[androidx.compose.ui:ui-tooling-android:1.7.6] /Users/petermousses/.gradle/caches/8.11.1/transforms/ba5bbc74743b9d4f445d86acf6d69370/transformed/ui-tooling-release/AndroidManifest.xml:24:13-71
+93            android:exported="true" />
+93-->[androidx.compose.ui:ui-tooling-android:1.7.6] /Users/petermousses/.gradle/caches/8.11.1/transforms/ba5bbc74743b9d4f445d86acf6d69370/transformed/ui-tooling-release/AndroidManifest.xml:25:13-36
+94
+95        <provider
+95-->[androidx.emoji2:emoji2:1.3.0] /Users/petermousses/.gradle/caches/8.11.1/transforms/a771ed76523101148870e3e196c657d8/transformed/emoji2-1.3.0/AndroidManifest.xml:24:9-32:20
+96            android:name="androidx.startup.InitializationProvider"
+96-->[androidx.emoji2:emoji2:1.3.0] /Users/petermousses/.gradle/caches/8.11.1/transforms/a771ed76523101148870e3e196c657d8/transformed/emoji2-1.3.0/AndroidManifest.xml:25:13-67
+97            android:authorities="com.betterclock.androidx-startup"
+97-->[androidx.emoji2:emoji2:1.3.0] /Users/petermousses/.gradle/caches/8.11.1/transforms/a771ed76523101148870e3e196c657d8/transformed/emoji2-1.3.0/AndroidManifest.xml:26:13-68
+98            android:exported="false" >
+98-->[androidx.emoji2:emoji2:1.3.0] /Users/petermousses/.gradle/caches/8.11.1/transforms/a771ed76523101148870e3e196c657d8/transformed/emoji2-1.3.0/AndroidManifest.xml:27:13-37
+99            <meta-data
+99-->[androidx.emoji2:emoji2:1.3.0] /Users/petermousses/.gradle/caches/8.11.1/transforms/a771ed76523101148870e3e196c657d8/transformed/emoji2-1.3.0/AndroidManifest.xml:29:13-31:52
+100                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+100-->[androidx.emoji2:emoji2:1.3.0] /Users/petermousses/.gradle/caches/8.11.1/transforms/a771ed76523101148870e3e196c657d8/transformed/emoji2-1.3.0/AndroidManifest.xml:30:17-75
+101                android:value="androidx.startup" />
+101-->[androidx.emoji2:emoji2:1.3.0] /Users/petermousses/.gradle/caches/8.11.1/transforms/a771ed76523101148870e3e196c657d8/transformed/emoji2-1.3.0/AndroidManifest.xml:31:17-49
+102            <meta-data
+102-->[androidx.lifecycle:lifecycle-process:2.8.7] /Users/petermousses/.gradle/caches/8.11.1/transforms/e02eeb9cffe2f2426d9a18e20ff7167b/transformed/lifecycle-process-2.8.7/AndroidManifest.xml:29:13-31:52
+103                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+103-->[androidx.lifecycle:lifecycle-process:2.8.7] /Users/petermousses/.gradle/caches/8.11.1/transforms/e02eeb9cffe2f2426d9a18e20ff7167b/transformed/lifecycle-process-2.8.7/AndroidManifest.xml:30:17-78
+104                android:value="androidx.startup" />
+104-->[androidx.lifecycle:lifecycle-process:2.8.7] /Users/petermousses/.gradle/caches/8.11.1/transforms/e02eeb9cffe2f2426d9a18e20ff7167b/transformed/lifecycle-process-2.8.7/AndroidManifest.xml:31:17-49
+105            <meta-data
+105-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/petermousses/.gradle/caches/8.11.1/transforms/909e59bf03fd488ddd145cd510dd040b/transformed/profileinstaller-1.3.1/AndroidManifest.xml:29:13-31:52
+106                android:name="androidx.profileinstaller.ProfileInstallerInitializer"
+106-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/petermousses/.gradle/caches/8.11.1/transforms/909e59bf03fd488ddd145cd510dd040b/transformed/profileinstaller-1.3.1/AndroidManifest.xml:30:17-85
+107                android:value="androidx.startup" />
+107-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/petermousses/.gradle/caches/8.11.1/transforms/909e59bf03fd488ddd145cd510dd040b/transformed/profileinstaller-1.3.1/AndroidManifest.xml:31:17-49
+108        </provider>
+109
+110        <service
+110-->[androidx.room:room-runtime:2.6.1] /Users/petermousses/.gradle/caches/8.11.1/transforms/79609f1d4227525ac51e2f9da5002f5e/transformed/room-runtime-2.6.1/AndroidManifest.xml:24:9-28:63
+111            android:name="androidx.room.MultiInstanceInvalidationService"
+111-->[androidx.room:room-runtime:2.6.1] /Users/petermousses/.gradle/caches/8.11.1/transforms/79609f1d4227525ac51e2f9da5002f5e/transformed/room-runtime-2.6.1/AndroidManifest.xml:25:13-74
+112            android:directBootAware="true"
+112-->[androidx.room:room-runtime:2.6.1] /Users/petermousses/.gradle/caches/8.11.1/transforms/79609f1d4227525ac51e2f9da5002f5e/transformed/room-runtime-2.6.1/AndroidManifest.xml:26:13-43
+113            android:exported="false" />
+113-->[androidx.room:room-runtime:2.6.1] /Users/petermousses/.gradle/caches/8.11.1/transforms/79609f1d4227525ac51e2f9da5002f5e/transformed/room-runtime-2.6.1/AndroidManifest.xml:27:13-37
+114
+115        <receiver
+115-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/petermousses/.gradle/caches/8.11.1/transforms/909e59bf03fd488ddd145cd510dd040b/transformed/profileinstaller-1.3.1/AndroidManifest.xml:34:9-52:20
+116            android:name="androidx.profileinstaller.ProfileInstallReceiver"
+116-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/petermousses/.gradle/caches/8.11.1/transforms/909e59bf03fd488ddd145cd510dd040b/transformed/profileinstaller-1.3.1/AndroidManifest.xml:35:13-76
+117            android:directBootAware="false"
+117-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/petermousses/.gradle/caches/8.11.1/transforms/909e59bf03fd488ddd145cd510dd040b/transformed/profileinstaller-1.3.1/AndroidManifest.xml:36:13-44
+118            android:enabled="true"
+118-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/petermousses/.gradle/caches/8.11.1/transforms/909e59bf03fd488ddd145cd510dd040b/transformed/profileinstaller-1.3.1/AndroidManifest.xml:37:13-35
+119            android:exported="true"
+119-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/petermousses/.gradle/caches/8.11.1/transforms/909e59bf03fd488ddd145cd510dd040b/transformed/profileinstaller-1.3.1/AndroidManifest.xml:38:13-36
+120            android:permission="android.permission.DUMP" >
+120-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/petermousses/.gradle/caches/8.11.1/transforms/909e59bf03fd488ddd145cd510dd040b/transformed/profileinstaller-1.3.1/AndroidManifest.xml:39:13-57
+121            <intent-filter>
+121-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/petermousses/.gradle/caches/8.11.1/transforms/909e59bf03fd488ddd145cd510dd040b/transformed/profileinstaller-1.3.1/AndroidManifest.xml:40:13-42:29
+122                <action android:name="androidx.profileinstaller.action.INSTALL_PROFILE" />
+122-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/petermousses/.gradle/caches/8.11.1/transforms/909e59bf03fd488ddd145cd510dd040b/transformed/profileinstaller-1.3.1/AndroidManifest.xml:41:17-91
+122-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/petermousses/.gradle/caches/8.11.1/transforms/909e59bf03fd488ddd145cd510dd040b/transformed/profileinstaller-1.3.1/AndroidManifest.xml:41:25-88
+123            </intent-filter>
+124            <intent-filter>
+124-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/petermousses/.gradle/caches/8.11.1/transforms/909e59bf03fd488ddd145cd510dd040b/transformed/profileinstaller-1.3.1/AndroidManifest.xml:43:13-45:29
+125                <action android:name="androidx.profileinstaller.action.SKIP_FILE" />
+125-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/petermousses/.gradle/caches/8.11.1/transforms/909e59bf03fd488ddd145cd510dd040b/transformed/profileinstaller-1.3.1/AndroidManifest.xml:44:17-85
+125-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/petermousses/.gradle/caches/8.11.1/transforms/909e59bf03fd488ddd145cd510dd040b/transformed/profileinstaller-1.3.1/AndroidManifest.xml:44:25-82
+126            </intent-filter>
+127            <intent-filter>
+127-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/petermousses/.gradle/caches/8.11.1/transforms/909e59bf03fd488ddd145cd510dd040b/transformed/profileinstaller-1.3.1/AndroidManifest.xml:46:13-48:29
+128                <action android:name="androidx.profileinstaller.action.SAVE_PROFILE" />
+128-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/petermousses/.gradle/caches/8.11.1/transforms/909e59bf03fd488ddd145cd510dd040b/transformed/profileinstaller-1.3.1/AndroidManifest.xml:47:17-88
+128-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/petermousses/.gradle/caches/8.11.1/transforms/909e59bf03fd488ddd145cd510dd040b/transformed/profileinstaller-1.3.1/AndroidManifest.xml:47:25-85
+129            </intent-filter>
+130            <intent-filter>
+130-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/petermousses/.gradle/caches/8.11.1/transforms/909e59bf03fd488ddd145cd510dd040b/transformed/profileinstaller-1.3.1/AndroidManifest.xml:49:13-51:29
+131                <action android:name="androidx.profileinstaller.action.BENCHMARK_OPERATION" />
+131-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/petermousses/.gradle/caches/8.11.1/transforms/909e59bf03fd488ddd145cd510dd040b/transformed/profileinstaller-1.3.1/AndroidManifest.xml:50:17-95
+131-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/petermousses/.gradle/caches/8.11.1/transforms/909e59bf03fd488ddd145cd510dd040b/transformed/profileinstaller-1.3.1/AndroidManifest.xml:50:25-92
+132            </intent-filter>
+133        </receiver>
+134    </application>
+135
+136</manifest>

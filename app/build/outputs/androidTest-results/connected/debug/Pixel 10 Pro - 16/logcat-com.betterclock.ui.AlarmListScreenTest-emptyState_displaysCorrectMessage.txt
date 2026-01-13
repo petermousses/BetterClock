@@ -1,0 +1,445 @@
+01-13 06:26:53.770  9693  9709 I TestRunner: started: emptyState_displaysCorrectMessage(com.betterclock.ui.AlarmListScreenTest)
+01-13 06:26:53.771 16650 16650 D RecentsView: onTaskRemoved: 10073, not handling task stack changes
+01-13 06:26:53.771 16650 16650 D RecentsView: onTaskRemoved: 10073, not handling task stack changes
+01-13 06:26:53.772  3743  3770 W pixelstats-vendor: Thread Pool max thread count is 0. Cannot cache binder as linkToDeath cannot be implemented. serviceName: android.frameworks.stats.IStats/default
+01-13 06:26:53.774  9693  9709 D IdlingRegistry: Registering idling resources: [androidx.compose.ui.test.EspressoLink@6a27f22]
+01-13 06:26:53.776  9693  9709 W Settings: Setting always_finish_activities has moved from android.provider.Settings.System to android.provider.Settings.Global, returning read-only value.
+01-13 06:26:53.777  2656  2656 W SsPagerDots: Total number of pages invalid: 0. Assuming 1 page.
+01-13 06:26:53.781 11654 11685 I ForwardSyncCache: reclaimMemory: Clearing caches
+01-13 06:26:53.781 10111  9976 I NearbySharing: Saving the private certificate to file nearby_sharing_private_certificate_file_for_self.
+01-13 06:26:53.782 10111  9476 I NearbySharing: Dismissing HUN as there's no device nearby.
+01-13 06:26:53.782 11654 11685 W Bugle   : TextClassifierLibManagerImpl: Reclaiming memory at level: 40
+01-13 06:26:53.783 11654 11685 I ForwardSyncCache: reclaimMemory: Clearing caches
+01-13 06:26:53.783 11654 11685 W Bugle   : TextClassifierLibManagerImpl: Reclaiming memory at level: 40
+01-13 06:26:53.785 11654 11685 I ForwardSyncCache: reclaimMemory: Clearing caches
+01-13 06:26:53.785 11654 11685 W Bugle   : TextClassifierLibManagerImpl: Reclaiming memory at level: 40
+01-13 06:26:53.786  2656  2656 W SsPagerDots: Total number of pages invalid: 0. Assuming 1 page.
+01-13 06:26:53.787 11654 11685 I ForwardSyncCache: reclaimMemory: Clearing caches
+01-13 06:26:53.787 11654 11685 W Bugle   : TextClassifierLibManagerImpl: Reclaiming memory at level: 40
+01-13 06:26:53.788  1239  1239 D AOC     : A3:MSG: tmd3743_device.cc, 977: USF: TMD3743: C/G switch 4 -> 2 d_lux:0.72 w_lux: 0.68 C:0.02 G:0.00
+01-13 06:26:53.789  1041 29048 D StreamHalAidl: [in|ioHandle:40838] dump
+01-13 06:26:53.789 11654 11685 I ForwardSyncCache: reclaimMemory: Clearing caches
+01-13 06:26:53.790 11654 11685 W Bugle   : TextClassifierLibManagerImpl: Reclaiming memory at level: 40
+01-13 06:26:53.790 11654 11685 I ForwardSyncCache: reclaimMemory: Clearing caches
+01-13 06:26:53.791 11654 11685 W Bugle   : TextClassifierLibManagerImpl: Reclaiming memory at level: 40
+01-13 06:26:53.792 10111  9972 I NetworkScheduler.Stats: (REDACTED) Task %s/%s started execution. cause:%s exec_start_elapsed_seconds: %s
+01-13 06:26:53.794  1041 29048 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:53.794  2656  2656 W SsPagerDots: Total number of pages invalid: 0. Assuming 1 page.
+01-13 06:26:53.794  1041 29048 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:53.794  1041 29048 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:53.794  1041 29048 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:53.794  1584  2869 V GrammaticalInflectionUtils: AttributionSource: android.content.AttributionSource@428f98d6 does not have READ_SYSTEM_GRAMMATICAL_GENDER permission.
+01-13 06:26:53.798  1041 29048 D StreamHalAidl: [in|ioHandle:40838] ~StreamHalAidl
+01-13 06:26:53.802   956 16085 I ASvc::StreamCommonImpl: close (sound-trigger-capture) : closing sound-trigger-capture, on 409107
+01-13 06:26:53.802  2656  2656 W SsPagerDots: Total number of pages invalid: 0. Assuming 1 page.
+01-13 06:26:53.802   956  9983 I ASvc::CommandWorker: cw-sound-trigger-capture: exit command form HAL
+01-13 06:26:53.802   956  9983 I AUtl::Worker: Loop: cw-sound-trigger-capture thread exit
+01-13 06:26:53.806   956  9982 I AUtl::Worker: Loop: pw-sound-trigger-capture thread exit
+01-13 06:26:53.811   547   581 I libbinder.BpBinder: onLastStrongRef automatically unlinking death recipients:
+01-13 06:26:53.812  2656  2656 W SsPagerDots: Total number of pages invalid: 0. Assuming 1 page.
+01-13 06:26:53.813  2656  2727 D WindowOnBackDispatcher: setTopOnBackInvokedCallback (unwrapped): android.view.ViewRootImpl$$ExternalSyntheticLambda12@62fa1f1
+01-13 06:26:53.813  1041  2075 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:53.813  1041  2075 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:53.813  1041  2075 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:53.815  1239  1239 D AOC     : A3:MSG: tmd3743_device.cc, 977: USF: TMD3743: C/G switch 2 -> 4 d_lux:0.06 w_lux: 0.42 C:0.01 G:0.00
+01-13 06:26:53.816  1197  2479 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:53.816  1197  2479 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:53.816  1197  2479 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:53.816  1197  2479 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:53.816  1197  2479 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:53.817  9693  9693 D LifecycleMonitor: Lifecycle status change: androidx.activity.ComponentActivity@a637a46 in: PRE_ON_CREATE
+01-13 06:26:53.817  9693  9693 V ActivityScenario: Activity lifecycle changed event received but ignored because the reported transition was not ON_CREATE while the last known transition was PRE_ON_CREATE
+01-13 06:26:53.818  2656  2656 W SsPagerDots: Total number of pages invalid: 0. Assuming 1 page.
+01-13 06:26:53.819  9693  9693 D LifecycleMonitor: Lifecycle status change: androidx.activity.ComponentActivity@a637a46 in: CREATED
+01-13 06:26:53.819  9693  9693 V ActivityScenario: Update currentActivityStage to CREATED, currentActivity=androidx.activity.ComponentActivity@a637a46
+01-13 06:26:53.820  9693  9693 D LifecycleMonitor: Lifecycle status change: androidx.activity.ComponentActivity@a637a46 in: STARTED
+01-13 06:26:53.820  9693  9693 V ActivityScenario: Update currentActivityStage to STARTED, currentActivity=androidx.activity.ComponentActivity@a637a46
+01-13 06:26:53.820  9693  9693 D LifecycleMonitor: Lifecycle status change: androidx.activity.ComponentActivity@a637a46 in: RESUMED
+01-13 06:26:53.820  9693  9693 V ActivityScenario: Update currentActivityStage to RESUMED, currentActivity=androidx.activity.ComponentActivity@a637a46
+01-13 06:26:53.822 10111 10111 D WearableService: Creating wearable service asynchronously.
+01-13 06:26:53.831  2802  9952 D NetworkMonitor/377: PROBE_HTTPS https://www.google.com/generate_204 time=196ms ret=204 request={Connection=[close], User-Agent=[Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.32 Safari/537.36]} headers={null=[HTTP/1.1 204 No Content], Alt-Svc=[h3=":443"; ma=2592000,h3-29=":443"; ma=2592000], Connection=[close], Content-Length=[0], Cross-Origin-Resource-Policy=[cross-origin], Date=[Tue, 13 Jan 2026 13:26:52 GMT], X-Android-Received-Millis=[1768310813826], X-Android-Response-Source=[NETWORK 204], X-Android-Selected-Protocol=[http/1.1], X-Android-Sent-Millis=[1768310813751]}
+01-13 06:26:53.832  2656  2656 W SsPagerDots: Total number of pages invalid: 0. Assuming 1 page.
+01-13 06:26:53.835  2656  2656 W SsPagerDots: Total number of pages invalid: 0. Assuming 1 page.
+01-13 06:26:53.835  9693  9693 D WindowOnBackDispatcher: setTopOnBackInvokedCallback (unwrapped): android.view.ViewRootImpl$$ExternalSyntheticLambda12@2af6a1b
+01-13 06:26:53.837  2802  9951 D NetworkMonitor/377: isCaptivePortal: isSuccessful()=true isPortal()=false RedirectUrl=null isPartialConnectivity()=false Time=421ms
+01-13 06:26:53.839  2828  2857 D GRIL-S  : [81767]< UPDATE_SCONE_INFO
+01-13 06:26:53.840  3743  3770 W pixelstats-vendor: Thread Pool max thread count is 0. Cannot cache binder as linkToDeath cannot be implemented. serviceName: android.frameworks.stats.IStats/default
+01-13 06:26:53.841  1584  2539 D ConnectivityService: [377 WIFI] validation passed
+01-13 06:26:53.842 10111 10139 D WearableService: onGetService: waiting for onCreate to be completed.
+01-13 06:26:53.842  3197  3342 D EpdgTunnelManager[0]: reportValidationMetricsAtom: reason=2 validationResult=2 transportType=2 duration=430 validationTriggered=true
+01-13 06:26:53.842  3197  3342 D IwlanMetrics: Send metrics data IWLAN_UNDERLYING_NETWORK_VALIDATION_RESULT_REPORTED
+01-13 06:26:53.843  2656  2656 W SsPagerDots: Total number of pages invalid: 0. Assuming 1 page.
+01-13 06:26:53.847  5211  8273 I PlayGamesServices[GamesSyncAdapter]: Starting sync for 115a9f0
+01-13 06:26:53.850 10111  9976 I NearbySharing: Network state changed: NetworkState(isRestricted=false, isOnline=true, isCongested=false, isMetered=false, isWifiConnected=true)
+01-13 06:26:53.850  9739  9739 D VRI[InstrumentationActivityInvoker$EmptyActivity]: visibilityChanged oldVisibility=true newVisibility=false
+01-13 06:26:53.852  2656  2656 W SsPagerDots: Total number of pages invalid: 0. Assuming 1 page.
+01-13 06:26:53.858 10111  9976 I NearbySharing: Network state changed: NetworkState(isRestricted=false, isOnline=true, isCongested=false, isMetered=false, isWifiConnected=true)
+01-13 06:26:53.858  5211  8273 I PlayGamesServices[GamesSyncAdapter]: Sync duration for 115a9f0: 1
+01-13 06:26:53.860  2656  2656 W SsPagerDots: Total number of pages invalid: 0. Assuming 1 page.
+01-13 06:26:53.862 10111 10128 I NearbyConnections: ClientProxy(0p:com.google.android.gms.nearby.sharing) allow WebRtc to use mobile data.
+01-13 06:26:53.862 10111 10128 I NearbyConnections: Client 252322271 requested to update advertising options.
+01-13 06:26:53.863  1584  1674 I ActivityTaskManager: Displayed com.betterclock/androidx.activity.ComponentActivity for user 0: +70ms
+01-13 06:26:53.864 10111  9476 I Nearby  : (REDACTED) Note nearby client %s for operation %s
+01-13 06:26:53.868  2656  2656 W SsPagerDots: Total number of pages invalid: 0. Assuming 1 page.
+01-13 06:26:53.872 10111 10133 I Wear_Controller: Wearable module requires a companion app to be installed.
+01-13 06:26:53.872 10111 10133 I WearableService: onCreate: Wearable Services not starting. Wear is not available on this device.
+01-13 06:26:53.874 10111  9476 I NearbyConnections: [InstantConnectionPcpMgr] In invalidateTxAdvertisementScanning(by pre_updateAdvertising) tx advertisement scanning skipped or stopped for endpointId: serviceId:NearbySharing isScreenUnlocked:true isAdvertising:true powerLevel:LOW isTxScanning:false
+01-13 06:26:53.874 10111  9476 I NearbyConnections: [PcpManager] In updateAdvertisingOptions() advertisingMediums:[WIFI_DIRECT, WIFI_HOTSPOT, WIFI_AWARE, WIFI_LAN, BLE] upgradeMediums:[USB, WIFI_LAN, WIFI_DIRECT, WIFI_AWARE, WIFI_HOTSPOT, WEB_RTC, BLE_L2CAP, BLUETOOTH, BLE, NFC] requireRegisterWifiStatusChangedCallback:true
+01-13 06:26:53.876  5211  5251 I CryptauthV2: [HaveKeyWithKeyNameOperation] Have key with key name operation is called.
+01-13 06:26:53.876  2656  2656 W SsPagerDots: Total number of pages invalid: 0. Assuming 1 page.
+01-13 06:26:53.879 10111 10139 W WearableService: onGetService: Wear is not available on this device.
+01-13 06:26:53.881 10111  9476 I NearbyConnections: Instant Connection Security key rotated.
+01-13 06:26:53.881 10111  9476 I NearbyConnections: Scheduled invalidation of the HPKE key alarm (delayMillis:8000) for client 252322271
+01-13 06:26:53.881 10111  9476 I NearbyConnections: Get local endpoint id from random generation GOI3 (last:5AF6) for client 252322271
+01-13 06:26:53.884  5211  7807 W GoogleApiManager: Not showing notification since connectionResult is not user-facing: jqu{statusCode=API_UNAVAILABLE, resolution=null, message=null, clientMethodKey=null}
+01-13 06:26:53.885  2656  2656 W SsPagerDots: Total number of pages invalid: 0. Assuming 1 page.
+01-13 06:26:53.885  2656  2656 W BcSmartspaceView: Current card is not present in the Adapter; cannot log.
+01-13 06:26:53.887 10111  9476 I NearbyMediums: [DeviceCapabilities] Get wifi usable channels from cache for mode WFD_GC (tryToRefreshCache:false channels:[2412..2462, 5180..5320, 5500..5720, 5745..5805])
+01-13 06:26:53.888  9693  9693 D ImeBackDispatcher: switch root view (mImeCallbacks.size=0)
+01-13 06:26:53.889  5211  6658 W Dck     : [WearManager] failed to list wearables [CONTEXT service_id=289 ]
+01-13 06:26:53.889  5211  6658 W Dck     : java.util.concurrent.ExecutionException: m20.jsz: 17: API: Wearable.API is not available on this device. Connection failed with: jqu{statusCode=API_UNAVAILABLE, resolution=null, message=null, clientMethodKey=null}
+01-13 06:26:53.889  5211  6658 W Dck     : 	at m20.abrg.f(:com.google.android.gms.optional_dck@254932041@25.49.32 (150400-0):28)
+01-13 06:26:53.889  5211  6658 W Dck     : 	at m20.abrg.e(:com.google.android.gms.optional_dck@254932041@25.49.32 (150400-0):39)
+01-13 06:26:53.889  5211  6658 W Dck     : 	at m20.ssa.b(:com.google.android.gms.optional_dck@254932041@25.49.32 (150400-0):13)
+01-13 06:26:53.889  5211  6658 W Dck     : 	at m20.qrf.j(:com.google.android.gms.optional_dck@254932041@25.49.32 (150400-0):3)
+01-13 06:26:53.889  5211  6658 W Dck     : 	at m20.qrf.i(:com.google.android.gms.optional_dck@254932041@25.49.32 (150400-0):2)
+01-13 06:26:53.889  5211  6658 W Dck     : 	at m20.mxq.k(:com.google.android.gms.optional_dck@254932041@25.49.32 (150400-0):145)
+01-13 06:26:53.889  5211  6658 W Dck     : 	at m20.sch.c(:com.google.android.gms.optional_dck@254932041@25.49.32 (150400-0):19)
+01-13 06:26:53.889  5211  6658 W Dck     : 	at m20.sca.a(:com.google.android.gms.optional_dck@254932041@25.49.32 (150400-0):10)
+01-13 06:26:53.889  5211  6658 W Dck     : 	at m20.aafa.i(:com.google.android.gms.optional_dck@254932041@25.49.32 (150400-0):1)
+01-13 06:26:53.889  5211  6658 W Dck     : 	at m20.aafe.run(:com.google.android.gms.optional_dck@254932041@25.49.32 (150400-0):88)
+01-13 06:26:53.889  5211  6658 W Dck     : 	at m20.aiwg.run(:com.google.android.gms.optional_dck@254932041@25.49.32 (150400-0):21)
+01-13 06:26:53.889  5211  6658 W Dck     : 	at m20.kjh.c(:com.google.android.gms.optional_dck@254932041@25.49.32 (150400-0):50)
+01-13 06:26:53.889  5211  6658 W Dck     : 	at m20.kjh.run(:com.google.android.gms.optional_dck@254932041@25.49.32 (150400-0):73)
+01-13 06:26:53.889  5211  6658 W Dck     : 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1154)
+01-13 06:26:53.889  5211  6658 W Dck     : 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:652)
+01-13 06:26:53.889  5211  6658 W Dck     : 	at bedh.run(:com.google.android.gms@254932035@25.49.32 (260400-843446962):8)
+01-13 06:26:53.889  5211  6658 W Dck     : 	at java.lang.Thread.run(Thread.java:1563)
+01-13 06:26:53.889  5211  6658 W Dck     : Caused by: m20.jsz: 17: API: Wearable.API is not available on this device. Connection failed with: jqu{statusCode=API_UNAVAILABLE, resolution=null, message=null, clientMethodKey=null}
+01-13 06:26:53.889  5211  6658 W Dck     : 	at m20.jzv.a(:com.google.android.gms.optional_dck@254932041@25.49.32 (150400-0):13)
+01-13 06:26:53.889  5211  6658 W Dck     : 	at m20.kcc.a(:com.google.android.gms.optional_dck@254932041@25.49.32 (150400-0):29)
+01-13 06:26:53.889  5211  6658 W Dck     : 	at m20.jva.run(:com.google.android.gms.optional_dck@254932041@25.49.32 (150400-0):7)
+01-13 06:26:53.889  5211  6658 W Dck     : 	at m20.kir.c(:com.google.android.gms.optional_dck@254932041@25.49.32 (150400-0):12)
+01-13 06:26:53.889  5211  6658 W Dck     : 	at m20.jvc.a(:com.google.android.gms.optional_dck@254932041@25.49.32 (150400-0):12)
+01-13 06:26:53.889  5211  6658 W Dck     : 	at com.google.android.gms.common.api.internal.BasePendingResult.p(:com.google.android.gms.optional_dck@254932041@25.49.32 (150400-0):72)
+01-13 06:26:53.889  5211  6658 W Dck     : 	at com.google.android.gms.common.api.internal.BasePendingResult.n(:com.google.android.gms.optional_dck@254932041@25.49.32 (150400-0):35)
+01-13 06:26:53.889  5211  6658 W Dck     : 	at m20.juu.j(:com.google.android.gms.optional_dck@254932041@25.49.32 (150400-0):16)
+01-13 06:26:53.889  5211  6658 W Dck     : 	at m20.jul.c(:com.google.android.gms.optional_dck@254932041@25.49.32 (150400-0):3)
+01-13 06:26:53.889  5211  6658 W Dck     : 	at m20.jvw.q(:com.google.android.gms.optional_dck@254932041@25.49.32 (150400-0):48)
+01-13 06:26:53.889  5211  6658 W Dck     : 	at m20.jvw.d(:com.google.android.gms.optional_dck@254932041@25.49.32 (150400-0):10)
+01-13 06:26:53.889  5211  6658 W Dck     : 	at m20.jvw.g(:com.google.android.gms.optional_dck@254932041@25.49.32 (150400-0):218)
+01-13 06:26:53.889  5211  6658 W Dck     : 	at m20.jvw.onConnectionFailed(:com.google.android.gms.optional_dck@254932041@25.49.32 (150400-0):2)
+01-13 06:26:53.889  5211  6658 W Dck     : 	at m20.kay.a(:com.google.android.gms.optional_dck@254932041@25.49.32 (150400-0):3)
+01-13 06:26:53.889  5211  6658 W Dck     : 	at m20.kae.a(:com.google.android.gms.optional_dck@254932041@25.49.32 (150400-0):7)
+01-13 06:26:53.889  5211  6658 W Dck     : 	at m20.jzx.c(:com.google.android.gms.optional_dck@254932041@25.49.32 (150400-0):77)
+01-13 06:26:53.889  5211  6658 W Dck     : 	at m20.jzy.handleMessage(:com.google.android.gms.optional_dck@254932041@25.49.32 (150400-0):267)
+01-13 06:26:53.889  5211  6658 W Dck     : 	at android.os.Handler.dispatchMessage(Handler.java:110)
+01-13 06:26:53.889  5211  6658 W Dck     : 	at m20.aajq.b(:com.google.android.gms.optional_dck@254932041@25.49.32 (150400-0):1)
+01-13 06:26:53.889  5211  6658 W Dck     : 	at m20.aajq.dispatchMessage(:com.google.android.gms.optional_dck@254932041@25.49.32 (150400-0):139)
+01-13 06:26:53.889  5211  6658 W Dck     : 	at android.os.Looper.dispatchMessage(Looper.java:315)
+01-13 06:26:53.889  5211  6658 W Dck     : 	at android.os.Looper.loopOnce(Looper.java:251)
+01-13 06:26:53.889  5211  6658 W Dck     : 	at android.os.Looper.loop(Looper.java:349)
+01-13 06:26:53.889  5211  6658 W Dck     : 	at android.os.HandlerThread.run(HandlerThread.java:100)
+01-13 06:26:53.890  5211  6658 I Dck     : (REDACTED) [AllWearableKeysGetter] getAllWearableKeys(%s)
+01-13 06:26:53.892  1584  2495 I ImeTracker: com.betterclock:b13d8c51: onRequestHide at ORIGIN_SERVER reason HIDE_UNSPECIFIED_WINDOW fromUser false
+01-13 06:26:53.892 17749 17749 D ImeBackDispatcher: Clear (mImeCallbacks.size=0)
+01-13 06:26:53.892 17749 17749 D ImeBackDispatcher: switch root view (mImeCallbacks.size=0)
+01-13 06:26:53.892  9693  9693 D InsetsController: hide(ime())
+01-13 06:26:53.892  9693  9693 I ImeTracker: com.betterclock:b13d8c51: onCancelled at PHASE_CLIENT_ALREADY_HIDDEN
+01-13 06:26:53.894 10111  9476 I NearbyMediums: [DeviceCapabilities] Get wifi usable channels from cache for mode WFD_GO (tryToRefreshCache:false channels:[2412..2462, 5180..5240, 5745..5805])
+01-13 06:26:53.899  1584  5738 I ImeTracker: system_server:694f699f: onRequestHide at ORIGIN_SERVER reason IME_REQUESTED_CHANGED_LISTENER fromUser false
+01-13 06:26:53.899  1584  1677 I ImeTracker: system_server:694f699f: onCancelled at PHASE_SERVER_SHOULD_HIDE
+01-13 06:26:53.901  5211  6658 I Dck     : (REDACTED) [AllWearableKeysGetter] transmitting results: %s
+01-13 06:26:53.917 10111  9965 I NetworkScheduler.Stats: (REDACTED) Task %s/%s finished executing. cause:%s result: %s elapsed_millis: %s uptime_millis: %s exec_start_elapsed_seconds: %s
+01-13 06:26:53.922 10111  9476 I NearbyMediums: [DeviceCapabilities] Get wifi usable channels from cache for mode STA (tryToRefreshCache:false channels:[2412..2472, 5180..5320, 5500..5720, 5745..5885, 5955..7095])
+01-13 06:26:53.922  9739  9739 D WindowOnBackDispatcher: setTopOnBackInvokedCallback (unwrapped): null
+01-13 06:26:53.924  9739  9739 D ViewRootImpl: Skipping stats log for color mode
+01-13 06:26:53.927 10111  9476 I NearbyMediums: [DeviceCapabilities] Get wifi usable channels from cache for mode AWARE (tryToRefreshCache:false channels:[2412..2462, 5180..5240, 5745..5805, 5955..6415, 6535..6855])
+01-13 06:26:53.927 10111  9476 I NearbyConnections: In generateRxInstantConnectionAdvBytes() advertisingMediums:[WIFI_DIRECT, WIFI_HOTSPOT, WIFI_AWARE, WIFI_LAN, BLE] capabilitiesSize:5 apFreq:5180 wfdGcUsableOrAvailableChs:[2412..2462, 5180..5320, 5500..5720, 5745..5805] wfdGoUsableOrAvailableChs:[2412..2462, 5180..5240, 5745..5805] hsStaUsableOrAvailableChs:[2412..2472, 5180..5320, 5500..5720, 5745..5885, 5955..7095] awareUsableOrAvailableChs:[2412..2462, 5180..5240, 5745..5805, 5955..6415, 6535..6855] rxAdvertisement(size:63):A0:17:CA:9C:45:2C:7E:EA:8A:3D:7B:52:D0:6D:7E:00:B1:3A:5E:F5:09:0A:CB:7B:AB:6E:88:76:D1:08:D8:A2:F1:78:84:15:05:3F:00:00:84:15:06:21:00:00:84:15:04:7F:00:00:84:15:07:21:00:00:83:15:01:14:3C
+01-13 06:26:53.930  5211  6660 W PlayGamesServices[UiUtils]: AppVersion: Cannot find the installed destination app.
+01-13 06:26:53.931  5211  6660 I GetServiceValidatorImpl: (REDACTED) onGetService() from Client SDK version [%s], Module version [%s], PGA version [%s], Account [%s], Calling package [%s], Game package [%s]
+01-13 06:26:53.932  5211  6660 W GetGamesServiceReqFacto: Parsing request with ignored arguments. signInOptionsBundle [Bundle[{com.google.android.gms.signin.internal.serverClientId=null, com.google.android.gms.signin.internal.usePromptModeForAuthCode=true, com.google.android.gms.signin.internal.logSessionId=null, com.google.android.gms.signin.internal.hostedDomain=null, com.google.android.gms.signin.internal.offlineAccessRequested=false, com.google.android.gms.signin.internal.waitForAccessTokenRefresh=false, com.google.android.gms.signin.internal.clientRequestedAccount=Account {name=<<default account>>, type=com.google}, com.google.android.gms.signin.internal.idTokenRequested=false, com.google.android.gms.signin.internal.forceCodeForRefreshToken=false}]], isRetryingSignIn [false], skipWelcomePopup [false], requireGooglePlus [false]
+01-13 06:26:53.933  5211  6660 I GetGamesServiceReqFacto: Replacing request for `games` scope with `games_lite`
+01-13 06:26:53.933 10111 10472 I NearbyDiscovery: (REDACTED) FastPairHandler: Received action %s
+01-13 06:26:53.933 10111 10472 I NearbyDiscovery: FastPairController: onSystemStateChanged: skip due to flag disabled [CONTEXT service_id=265 ]
+01-13 06:26:53.939 10111  9476 I NearbyMediums: Device token rotated, old deviceToken : [ 0x48 0x26 ].
+01-13 06:26:53.939 17205 17255 I bt_shim_advertiser: system/main/shim/le_advertising_manager.cc:80 Unregister: in shim layer
+01-13 06:26:53.939 17205 17254 I bluetooth: bluetooth_core::gatt::server::isolation_manager: removing server (if any) associated with advertiser AdvertiserId(1)
+01-13 06:26:53.939 10111  9476 D BluetoothAdapter: isLeEnabled(): ON
+01-13 06:26:53.939 17205 17232 I bluetooth: system/gd/hci/le_address_manager.cc:277 unregister_client: Client unregistered
+01-13 06:26:53.942 17205 17255 I bt_shim_advertiser: system/main/shim/le_advertising_manager.cc:161 StartAdvertisingSet: in shim layer
+01-13 06:26:53.942 17205 17232 I bluetooth: system/gd/hci/le_advertising_manager_impl.cc:944 set_parameters: Support RPA offload, set own address type RESOLVABLE_OR_RANDOM_ADDRESS
+01-13 06:26:53.942 17205 17232 I bluetooth: system/gd/hci/le_address_manager.cc:262 register_client: Client registered
+01-13 06:26:53.943  5211 10029 I SignInPerformer-1: (REDACTED) Handling request [%s], isFirstPartyCaller [%s]
+01-13 06:26:53.945 17205 17255 I bt_shim_advertiser: system/main/shim/le_advertising_manager.cc:188 StartAdvertisingSet: create advertising set, client_id:255, reg_id:-1761
+01-13 06:26:53.947  5211 10029 I SignInPerformer-1: Successfully brokered first-party unauthenticated GamesService [CONTEXT service_id=1 ]
+01-13 06:26:53.947 17205 17232 I bluetooth: system/gd/hci/le_advertising_manager_impl.cc:1775 on_set_advertising_set_random_address_complete: update random address for advertising set 0 : xx:xx:xx:xx:ed:3c
+01-13 06:26:53.948  5211 10029 I GetGamesServiceV2Op: (REDACTED) Successfully brokered GamesService for request %s
+01-13 06:26:53.949  5211  6660 W PlayGamesServices[UiUtils]: AppVersion: Cannot find the installed destination app.
+01-13 06:26:53.949  5211  6660 W PlayGamesServices[UiUtils]: AppVersionName: Cannot find the installed destination app.
+01-13 06:26:53.949 10111  9476 I NearbyMediums: Successfully stopped BLE advertising for service NearbySharing
+01-13 06:26:53.949 10111 10111 I NearbyMediums: [InstantOnLostManager] Start instant onLost extended advertising, hashes = [ 0x00 0x31 0x08 0x26 ].
+01-13 06:26:53.951  2656  2656 I KeyguardTransitionRepository: FINISHED transition: TransitionStep(from=AOD, to=GONE, value=1.0, transitionState=FINISHED, ownerName=FromAodTransitionInteractor(canWakeDirectlyToGone = true))
+01-13 06:26:53.953  2656  2733 D ResourceTrimmer: Sending TRIM_MEMORY_UI_HIDDEN.
+01-13 06:26:53.953  2656  2733 D StatusBar##isHomeStatusBarAllowed: newValue: true
+01-13 06:26:53.954  2656  2732 D StatusBar##chips: newValue: Chips[allowed=true numChips=0]
+01-13 06:26:53.955 10111  9476 D BluetoothAdapter: isLeEnabled(): ON
+01-13 06:26:53.957 17205 17255 I bt_shim_advertiser: system/main/shim/le_advertising_manager.cc:161 StartAdvertisingSet: in shim layer
+01-13 06:26:53.957 17205 17255 I bt_shim_advertiser: system/main/shim/le_advertising_manager.cc:188 StartAdvertisingSet: create advertising set, client_id:255, reg_id:-1762
+01-13 06:26:53.958 17205 17232 I bluetooth: system/gd/hci/le_advertising_manager_impl.cc:1775 on_set_advertising_set_random_address_complete: update random address for advertising set 1 : xx:xx:xx:xx:6a:ec
+01-13 06:26:53.963 10111  9476 I NearbyMediums: Started BLE extended advertising. Regular Advertised : false, Fast Advertised : true, AdvertisingSetting : BleAdvertisingSetting{powerLevel= BALANCED_POWER, isConnectable= false, isPrivateGatt= true}.
+01-13 06:26:53.963 10111  9476 D BluetoothAdapter: isLeEnabled(): ON
+01-13 06:26:53.966  1239  1239 D AOC     : A3:MSG: tmd3743_device.cc, 977: USF: TMD3743: C/G switch 4 -> 2 d_lux:0.46 w_lux: 0.51 C:0.01 G:0.00
+01-13 06:26:53.966 17205 17255 I bt_shim_advertiser: system/main/shim/le_advertising_manager.cc:161 StartAdvertisingSet: in shim layer
+01-13 06:26:53.966 17205 17255 I bt_shim_advertiser: system/main/shim/le_advertising_manager.cc:188 StartAdvertisingSet: create advertising set, client_id:255, reg_id:-1763
+01-13 06:26:53.970 17205 17232 I bluetooth: system/gd/hci/le_advertising_manager_impl.cc:1775 on_set_advertising_set_random_address_complete: update random address for advertising set 2 : xx:xx:xx:xx:15:6d
+01-13 06:26:53.974 10111  9476 I NearbyMediums: Started BLE Legacy advertising. Regular Header Advertised : false, Fast Advertised : true, AdvertisingSettings : BleAdvertisingSetting{powerLevel= BALANCED_POWER, isConnectable= false, isPrivateGatt= true}, isAcceptingConnection : false
+01-13 06:26:53.974 10111  9476 I NearbyMediums: Successfully started BLE advertising of size 23 for service NearbySharing, deviceToken : [ 0x10 0x05 ].
+01-13 06:26:53.975  1197  2479 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:53.975  1197  2479 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:53.975  1197  2479 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:53.975  1197  2479 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:53.975  1197  2479 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:53.976  2656  2727 D WindowOnBackDispatcher: setTopOnBackInvokedCallback (unwrapped): null
+01-13 06:26:53.979 10111  9476 I NearbyMediums: Successfully bound ServerSocket for service NearbySharing to the stable port 53601.
+01-13 06:26:53.979 10111  9476 I NearbyMediums: Successfully started listening for incoming Wifi Lan connections.
+01-13 06:26:53.980 16650 16650 D RecentsView: onTaskRemoved: 10074, not handling task stack changes
+01-13 06:26:53.980 16650 16650 D RecentsView: onTaskRemoved: 10074, not handling task stack changes
+01-13 06:26:53.985  1584  3662 I WifiService: acquireMulticastLock uid=10159 lockTag=nearby-connections-206928414
+01-13 06:26:53.987  2802  7291 E ProcfsParsingUtils: failed to read /sys/class/net/wlan0/mtu
+01-13 06:26:53.987  2802  7291 E ProcfsParsingUtils: java.nio.file.AccessDeniedException: /sys/class/net/wlan0/mtu
+01-13 06:26:53.987  2802  7291 E ProcfsParsingUtils: 	at sun.nio.fs.UnixFileSystemProvider.newByteChannel(UnixFileSystemProvider.java:220)
+01-13 06:26:53.987  2802  7291 E ProcfsParsingUtils: 	at java.nio.file.Files.newByteChannel(Files.java:371)
+01-13 06:26:53.987  2802  7291 E ProcfsParsingUtils: 	at java.nio.file.Files.newByteChannel(Files.java:422)
+01-13 06:26:53.987  2802  7291 E ProcfsParsingUtils: 	at java.nio.file.spi.FileSystemProvider.newInputStream(FileSystemProvider.java:420)
+01-13 06:26:53.987  2802  7291 E ProcfsParsingUtils: 	at java.nio.file.Files.newInputStream(Files.java:156)
+01-13 06:26:53.987  2802  7291 E ProcfsParsingUtils: 	at java.nio.file.Files.newBufferedReader(Files.java:2844)
+01-13 06:26:53.987  2802  7291 E ProcfsParsingUtils: 	at com.android.networkstack.com.android.net.module.util.ProcfsParsingUtils.readFile(ProcfsParsingUtils.java:75)
+01-13 06:26:53.987  2802  7291 E ProcfsParsingUtils: 	at com.android.networkstack.com.android.net.module.util.ProcfsParsingUtils.getInterfaceMtu(ProcfsParsingUtils.java:350)
+01-13 06:26:53.987  2802  7291 E ProcfsParsingUtils: 	at com.android.networkstack.android.net.apf.ApfFilter$Dependencies.getInterfaceMtu(ApfFilter.java:823)
+01-13 06:26:53.987  2802  7291 E ProcfsParsingUtils: 	at com.android.networkstack.android.net.apf.ApfFilter.installNewProgram(ApfFilter.java:4004)
+01-13 06:26:53.987  2802  7291 E ProcfsParsingUtils: 	at com.android.networkstack.android.net.apf.ApfFilter.setMulticastFilter(ApfFilter.java:4290)
+01-13 06:26:53.987  2802  7291 E ProcfsParsingUtils: 	at com.android.networkstack.android.net.ip.IpClient$RunningState.processMessage(IpClient.java:3902)
+01-13 06:26:53.987  2802  7291 E ProcfsParsingUtils: 	at com.android.networkstack.com.android.internal.util.StateMachine$SmHandler.processMsg(StateMachine.java:1007)
+01-13 06:26:53.987  2802  7291 E ProcfsParsingUtils: 	at com.android.networkstack.com.android.internal.util.StateMachine$SmHandler.handleMessage(StateMachine.java:820)
+01-13 06:26:53.987  2802  7291 E ProcfsParsingUtils: 	at android.os.Handler.dispatchMessage(Handler.java:110)
+01-13 06:26:53.987  2802  7291 E ProcfsParsingUtils: 	at android.os.Looper.dispatchMessage(Looper.java:315)
+01-13 06:26:53.987  2802  7291 E ProcfsParsingUtils: 	at android.os.Looper.loopOnce(Looper.java:251)
+01-13 06:26:53.987  2802  7291 E ProcfsParsingUtils: 	at android.os.Looper.loop(Looper.java:349)
+01-13 06:26:53.987  2802  7291 E ProcfsParsingUtils: 	at android.os.HandlerThread.run(HandlerThread.java:100)
+01-13 06:26:53.981  2802  2802 W IpClient.wlan0: type=1400 audit(0.0:302464): avc:  denied  { search } for  name="net" dev="sysfs" ino=53412 scontext=u:r:network_stack:s0 tcontext=u:object_r:sysfs_net:s0 tclass=dir permissive=0
+01-13 06:26:53.987 10111  9476 I Nearby  : (REDACTED) NsdManagerCompat acquired multicast lock %d.
+01-13 06:26:53.988  2802  7291 D IpClient.wlan0: set max DTIM multiplier to 1
+01-13 06:26:53.988  1584  2542 I serviceDiscovery: [MdnsSocketProvider] Start monitoring sockets.
+01-13 06:26:53.988  1039  2619 E WifiHAL : Setting APF program, halHandle = 0xb4000076d792e490
+01-13 06:26:53.988  1039  2619 E WifiHAL : Set apf filter for iface = wlan0
+01-13 06:26:53.988  1039  2619 I WifiHAL : createRequest: APF set program request
+01-13 06:26:53.988  1039  2619 I WifiHAL : mProgramLen : 1217
+01-13 06:26:53.989  4337  5241 I NnfpMusicRecognizer: (REDACTED) Finished recognition for region %s and DB version %s with result: %s
+01-13 06:26:53.989  4337  5241 I RecognitionStateHandler: (REDACTED) Dsp model overrides: reloadDetectionModel = [%b] : new squelch = [%s]
+01-13 06:26:53.989  4337  5241 I RecognitionStateHandler: Reconfiguration [%s] Latest:[%s]
+01-13 06:26:53.990  1584  2542 I TetheringManager: registerTetheringEventCallback caller:android
+01-13 06:26:53.991  4337  5241 I MusicRecognitionHandler: Removed old UIs.
+01-13 06:26:53.991  4337  5241 I MusicRecognitionHandler: (REDACTED) Music recognition was skipped, because secondary music detector score below threshold (= %s)
+01-13 06:26:53.991  1584  2539 D ConnectivityService: NetReassign [no changes] [c 0] [a 0] [i 1]
+01-13 06:26:53.993  1584  2542 I serviceDiscovery: [MdnsAdvertiser] Adding service name: I0dPSTP8n14AAA, type: _FC9F5ED42C8A._tcp, subtypes: , hostAddresses: , hostname: null, port: 53601, network: null, expirationTime: null, txtRecord: {f=5180, n=Ml5iVKrPkzNF0-xKa3NipL4, IPv4=10.9.20.100} with ID 2470 and subtypes {} advertisingOptions MdnsAdvertisingOptions{ }
+01-13 06:26:53.997  1039  2619 D WifiHAL : Setting DTIM config , halHandle = 0xb4000076d792e490 Multiplier = 1
+01-13 06:26:53.997  1039  2619 I WifiHAL : Successfully configured dtim multiplier 1
+01-13 06:26:54.001  2656  2656 W AlarmManager: Unrecognized alarm listener com.google.android.systemui.ambientmusic.AmbientIndicationService$$ExternalSyntheticLambda0@fff6872
+01-13 06:26:54.001  2656  2656 I AmbientIndication: Hiding ambient indication.
+01-13 06:26:54.001  1239  1239 D AOC     : A3:MSG: tmd3743_device.cc, 977: USF: TMD3743: C/G switch 2 -> 4 d_lux:0.33 w_lux: 0.55 C:0.01 G:0.00
+01-13 06:26:54.003  4337  5241 I AmbientMusicDetector: (REDACTED) Pipeline run finished, restarting model: %s
+01-13 06:26:54.004  4337  5241 I AmbientMusicServiceMana: (REDACTED) Trying to load model %s from %s
+01-13 06:26:54.004  4337  5241 I AmbientMusicServiceMana: (REDACTED) Applying config override: %s
+01-13 06:26:54.004  4337  5241 I SmoothedLatchingClassif: Reconfiguring tflite model.
+01-13 06:26:54.004  4337  5241 I SoundTriggerManagerComp: (REDACTED) Loading model %s
+01-13 06:26:54.006  1239  1239 D AOC     : F1:MSG: controller.cc, 275: AudioInCtrl: cmd ID: 0x0101, tag: 0x10 [cntr = 40642]
+01-13 06:26:54.006  1239  1239 D AOC     : F1:TRC: hotword_input_processor.cc, 1014: Receive cmd: 0x6e (110)
+01-13 06:26:54.005  2802  2802 W IpClient.wlan0: type=1400 audit(0.0:302465): avc:  denied  { search } for  name="net" dev="sysfs" ino=53412 scontext=u:r:network_stack:s0 tcontext=u:object_r:sysfs_net:s0 tclass=dir permissive=0
+01-13 06:26:54.008   956 16085 I StHal::Client: ChangeStateTo: client 1 transits from Buffering to ModelUnloaded
+01-13 06:26:54.008  2802  7291 E ProcfsParsingUtils: failed to read /sys/class/net/wlan0/mtu
+01-13 06:26:54.008  2802  7291 E ProcfsParsingUtils: java.nio.file.AccessDeniedException: /sys/class/net/wlan0/mtu
+01-13 06:26:54.008  2802  7291 E ProcfsParsingUtils: 	at sun.nio.fs.UnixFileSystemProvider.newByteChannel(UnixFileSystemProvider.java:220)
+01-13 06:26:54.008  2802  7291 E ProcfsParsingUtils: 	at java.nio.file.Files.newByteChannel(Files.java:371)
+01-13 06:26:54.008  2802  7291 E ProcfsParsingUtils: 	at java.nio.file.Files.newByteChannel(Files.java:422)
+01-13 06:26:54.008  2802  7291 E ProcfsParsingUtils: 	at java.nio.file.spi.FileSystemProvider.newInputStream(FileSystemProvider.java:420)
+01-13 06:26:54.008  2802  7291 E ProcfsParsingUtils: 	at java.nio.file.Files.newInputStream(Files.java:156)
+01-13 06:26:54.008  2802  7291 E ProcfsParsingUtils: 	at java.nio.file.Files.newBufferedReader(Files.java:2844)
+01-13 06:26:54.008  2802  7291 E ProcfsParsingUtils: 	at com.android.networkstack.com.android.net.module.util.ProcfsParsingUtils.readFile(ProcfsParsingUtils.java:75)
+01-13 06:26:54.008  2802  7291 E ProcfsParsingUtils: 	at com.android.networkstack.com.android.net.module.util.ProcfsParsingUtils.getInterfaceMtu(ProcfsParsingUtils.java:350)
+01-13 06:26:54.008  2802  7291 E ProcfsParsingUtils: 	at com.android.networkstack.android.net.apf.ApfFilter$Dependencies.getInterfaceMtu(ApfFilter.java:823)
+01-13 06:26:54.008  2802  7291 E ProcfsParsingUtils: 	at com.android.networkstack.android.net.apf.ApfFilter.installNewProgram(ApfFilter.java:4004)
+01-13 06:26:54.008  2802  7291 E ProcfsParsingUtils: 	at com.android.networkstack.android.net.apf.ApfFilter.updateMulticastAddrs(ApfFilter.java:4413)
+01-13 06:26:54.008  2802  7291 E ProcfsParsingUtils: 	at com.android.networkstack.android.net.apf.ApfFilter$$ExternalSyntheticLambda7.notifyMulticastAddrChange(R8$$SyntheticClass:0)
+01-13 06:26:54.008  2802  7291 E ProcfsParsingUtils: 	at com.android.networkstack.android.net.ip.MulticastReportMonitor$PacketListener.handlePacket(MulticastReportMonitor.java:98)
+01-13 06:26:54.008  2802  7291 E ProcfsParsingUtils: 	at com.android.networkstack.android.net.ip.MulticastReportMonitor$PacketListener.handlePacket(MulticastReportMonitor.java:81)
+01-13 06:26:54.008  2802  7291 E ProcfsParsingUtils: 	at com.android.networkstack.com.android.net.module.util.FdEventsReader.handleInput(FdEventsReader.java:277)
+01-13 06:26:54.008  2802  7291 E ProcfsParsingUtils: 	at com.android.networkstack.com.android.net.module.util.FdEventsReader.lambda$createAndRegisterFd$0(FdEventsReader.java:233)
+01-13 06:26:54.008  2802  7291 E ProcfsParsingUtils: 	at com.android.networkstack.com.android.net.module.util.FdEventsReader.$r8$lambda$jjSC4hVD2AlVH3T-DbWnF2T3fK8(FdEventsReader.java:0)
+01-13 06:26:54.008  2802  7291 E ProcfsParsingUtils: 	at com.android.networkstack.com.android.net.module.util.FdEventsReader$$ExternalSyntheticLambda0.onFileDescriptorEvents(R8$$SyntheticClass:0)
+01-13 06:26:54.008  2802  7291 E ProcfsParsingUtils: 	at android.os.MessageQueue.dispatchEvents(MessageQueue.java:647)
+01-13 06:26:54.008  2802  7291 E ProcfsParsingUtils: 	at android.os.MessageQueue.nativePollOnce(Native Method)
+01-13 06:26:54.008  2802  7291 E ProcfsParsingUtils: 	at android.os.MessageQueue.nextConcurrent(MessageQueue.java:923)
+01-13 06:26:54.008  2802  7291 E ProcfsParsingUtils: 	at android.os.MessageQueue.next(MessageQueue.java:1110)
+01-13 06:26:54.008  2802  7291 E ProcfsParsingUtils: 	at android.os.Looper.loopOnce(Looper.java:197)
+01-13 06:26:54.008  2802  7291 E ProcfsParsingUtils: 	at android.os.Looper.loop(Looper.java:349)
+01-13 06:26:54.008  2802  7291 E ProcfsParsingUtils: 	at android.os.HandlerThread.run(HandlerThread.java:100)
+01-13 06:26:54.008   956 16085 I StHal::SoundTriggerHal: UnloadSoundModel: Unload model with handle 1
+01-13 06:26:54.009   956  1883 I StHal::SoundTriggerHal: ControlThreadLoop: get update command
+01-13 06:26:54.009  1239  1239 D AOC     : F1:TRC: hotword_input_processor.cc, 1510: Finished cmd: 0x6e (110)
+01-13 06:26:54.009  1239  1239 D AOC     : F1:TRC: hotword_input_processor.cc, 1014: Receive cmd: 0x6d (109)
+01-13 06:26:54.009  1239  1239 D AOC     : F1:TRC: hotword_input_processor.cc, 1510: Finished cmd: 0x6d (109)
+01-13 06:26:54.009  1239  1239 D AOC     : F1:TRC: hotword_input_processor.cc, 1014: Receive cmd: 0x70 (112)
+01-13 06:26:54.009  1239  1239 D AOC     : F1:TRC: hotword_input_processor.cc, 1510: Finished cmd: 0x70 (112)
+01-13 06:26:54.009  1239  1239 D AOC     : F1:MSG: controller.cc, 933: AudioInCtrl: ipc: sound_trigger, cmd ID: 0x0101, tag: 0x10, rc: 0
+01-13 06:26:54.009  1239  1239 D AOC     : F1:MSG: controller.cc, 275: AudioInCtrl: cmd ID: 0x0109, tag: 0x11 [cntr = 40643]
+01-13 06:26:54.009  1239  1239 D AOC     : F1:TRC: hotword_input_processor.cc, 1014: Receive cmd: 0x72 (114)
+01-13 06:26:54.009  1239  1239 D AOC     : F1:TRC: hotword_input_processor.cc, 1510: Finished cmd: 0x72 (114)
+01-13 06:26:54.009  1239  1239 D AOC     : F1:MSG: controller.cc, 933: AudioInCtrl: ipc: sound_trigger, cmd ID: 0x0109, tag: 0x11, rc: 0
+01-13 06:26:54.009  1239  1239 D AOC     : A3:MSG: controller.cc, 933: CPM_IPC_HOST: ipc: C-F1-AC, cmd ID: 0x00cb, tag: 0x1b, rc: 0
+01-13 06:26:54.009  1239  1239 D AOC     : A3:MSG: controller.cc, 933: CPM_IPC_HOST: ipc: C-F1-AC, cmd ID: 0x00cb, tag: 0x1c, rc: 0
+01-13 06:26:54.011  4337  5241 I AmbientMusicServiceMana: Re-starting music detector model.
+01-13 06:26:54.013  1039  2619 E WifiHAL : Setting APF program, halHandle = 0xb4000076d792e490
+01-13 06:26:54.013  1039  2619 E WifiHAL : Set apf filter for iface = wlan0
+01-13 06:26:54.013  1039  2619 I WifiHAL : createRequest: APF set program request
+01-13 06:26:54.013  1039  2619 I WifiHAL : mProgramLen : 1508
+01-13 06:26:54.016   956 16085 I StHal::Client: Create: with handle: 1
+01-13 06:26:54.016   956 16085 I StHal::Client: Initialize: model size: 22936
+01-13 06:26:54.016  1239  1239 D AOC     : F1:MSG: controller.cc, 275: AudioInCtrl: cmd ID: 0x0107, tag: 0x12 [cntr = 40644]
+01-13 06:26:54.018  1239  1239 D AOC     : F1:TRC: hotword_input_processor.cc, 1014: Receive cmd: 0x94 (148)
+01-13 06:26:54.018  1239  1239 D AOC     : F1:MSG: hotword_input_processor.cc, 831: Update size of ambient model as 16384
+01-13 06:26:54.018  1239  1239 D AOC     : F1:TRC: hotword_input_processor.cc, 1510: Finished cmd: 0x94 (148)
+01-13 06:26:54.018  1239  1239 D AOC     : F1:MSG: controller.cc, 933: AudioInCtrl: ipc: sound_trigger, cmd ID: 0x0107, tag: 0x12, rc: 0
+01-13 06:26:54.019  1239  1239 D AOC     : F1:MSG: controller.cc, 275: AudioInCtrl: cmd ID: 0x0107, tag: 0x13 [cntr = 40645]
+01-13 06:26:54.019  1239  1239 D AOC     : A3:MSG: controller.cc, 933: CPM_IPC_HOST: ipc: C-F1-AC, cmd ID: 0x00cb, tag: 0x1d, rc: 0
+01-13 06:26:54.019  1239  1239 D AOC     : F1:TRC: hotword_input_processor.cc, 1014: Receive cmd: 0x94 (148)
+01-13 06:26:54.020  1239  1239 D AOC     : F1:MSG: hotword_input_processor.cc, 831: Update size of ambient model as 22936
+01-13 06:26:54.020  1239  1239 D AOC     : F1:TRC: hotword_input_processor.cc, 1510: Finished cmd: 0x94 (148)
+01-13 06:26:54.020  1239  1239 D AOC     : F1:MSG: controller.cc, 933: AudioInCtrl: ipc: sound_trigger, cmd ID: 0x0107, tag: 0x13, rc: 0
+01-13 06:26:54.020  1239  1239 D AOC     : F1:MSG: controller.cc, 275: AudioInCtrl: cmd ID: 0x0108, tag: 0x14 [cntr = 40646]
+01-13 06:26:54.021  1239  1239 D AOC     : F1:TRC: hotword_input_processor.cc, 1014: Receive cmd: 0x71 (113)
+01-13 06:26:54.021  1239  1239 D AOC     : F1:TRC: hotword_input_processor.cc, 916: Enter InternalLoadMusdetModel
+01-13 06:26:54.021  1239  1239 D AOC     : F1:TRC: hotword_input_processor.cc, 922: Musdet: CRC
+01-13 06:26:54.021  1239  1239 D AOC     : F1:TRC: hotword_input_processor.cc, 933: Musdet: identifier
+01-13 06:26:54.021  1239  1239 D AOC     : F1:TRC: hotword_input_processor.cc, 940: Musdet: model
+01-13 06:26:54.021  1239  1239 D AOC     : F1:TRC: hotword_input_processor.cc, 949: Musdet: interpreter
+01-13 06:26:54.022  1239  1239 D AOC     : F1:TRC: hotword_input_processor.cc, 959: Musdet: tensors
+01-13 06:26:54.022  1239  1239 D AOC     : A3:MSG: controller.cc, 933: CPM_IPC_HOST: ipc: C-F1-AC, cmd ID: 0x00cb, tag: 0x1e, rc: 0
+01-13 06:26:54.022   956 16085 I StHal::Client: ChangeStateTo: client 1 transits from ModelUnloaded to ModelLoaded
+01-13 06:26:54.022   956 16085 I StHal::SoundTriggerHal: LoadModel: Loaded model with handle 1
+01-13 06:26:54.023  1239  1239 D AOC     : F1:TRC: hotword_input_processor.cc, 996: Exit success InternalLoadMusdetModel
+01-13 06:26:54.023   956 16085 I StHal::Client: ChangeStateTo: client 1 transits from ModelLoaded to StartDetecting
+01-13 06:26:54.023   956 16085 I StHal::SoundTriggerHal: StartRecognition: Started recognition of client 1 with io_handle 40846
+01-13 06:26:54.023   956  1883 I StHal::SoundTriggerHal: ControlThreadLoop: get update command
+01-13 06:26:54.024  4337  5241 I AmbientMusicServiceMana: (REDACTED) Trying to unloading model %s
+01-13 06:26:54.024  4337  5241 I SoundTriggerManagerComp: (REDACTED) Unloading model %s
+01-13 06:26:54.024  1239  1239 D AOC     : F1:TRC: hotword_input_processor.cc, 1510: Finished cmd: 0x71 (113)
+01-13 06:26:54.024  1239  1239 D AOC     : F1:MSG: controller.cc, 933: AudioInCtrl: ipc: sound_trigger, cmd ID: 0x0108, tag: 0x14, rc: 0
+01-13 06:26:54.024  1239  1239 D AOC     : A3:MSG: controller.cc, 933: CPM_IPC_HOST: ipc: C-F1-AC, cmd ID: 0x00cb, tag: 0x1f, rc: 0
+01-13 06:26:54.024  1239  1239 D AOC     : F1:MSG: controller.cc, 275: AudioInCtrl: cmd ID: 0x0100, tag: 0x15 [cntr = 40647]
+01-13 06:26:54.024  1239  1239 D AOC     : F1:TRC: hotword_input_processor.cc, 1014: Receive cmd: 0x6f (111)
+01-13 06:26:54.024  1239  1239 D AOC     : F1:TRC: hotword_input_processor.cc, 1510: Finished cmd: 0x6f (111)
+01-13 06:26:54.024  1239  1239 D AOC     : F1:MSG: controller.cc, 933: AudioInCtrl: ipc: sound_trigger, cmd ID: 0x0100, tag: 0x15, rc: 0
+01-13 06:26:54.024  1239  1239 D AOC     : A3:MSG: controller.cc, 933: CPM_IPC_HOST: ipc: C-F1-AC, cmd ID: 0x00cb, tag: 0x20, rc: 0
+01-13 06:26:54.028  3743  3770 W pixelstats-vendor: Thread Pool max thread count is 0. Cannot cache binder as linkToDeath cannot be implemented. serviceName: android.frameworks.stats.IStats/default
+01-13 06:26:54.028  4337  5241 I AmbientMusicServiceMana: (REDACTED) Update config: %s Success: %b
+01-13 06:26:54.153  1239  1239 D AOC     : A3:MSG: tmd3743_device.cc, 977: USF: TMD3743: C/G switch 4 -> 2 d_lux:0.51 w_lux: 0.63 C:0.02 G:0.00
+01-13 06:26:54.164  2656  2727 D WindowOnBackDispatcher: setTopOnBackInvokedCallback (unwrapped): null
+01-13 06:26:54.179  1239  1239 D AOC     : A3:MSG: tmd3743_device.cc, 977: USF: TMD3743: C/G switch 2 -> 4 d_lux:0.29 w_lux: 0.53 C:0.01 G:0.00
+01-13 06:26:54.205  2656  2656 D DLObserver: remove listener: com.android.systemui.dock.DockManagerExtensionsKt$retrieveIsDocked$1$callback$1@97a0798
+01-13 06:26:54.206  2656  2656 D DLObserver: remove listener: com.android.systemui.dock.DockManagerExtensionsKt$retrieveIsDocked$1$callback$1@ed5bbf1
+01-13 06:26:54.206  2656  2656 D DLObserver: remove listener: com.android.systemui.dock.DockManagerExtensionsKt$retrieveIsDocked$1$callback$1@e16ccac
+01-13 06:26:54.206  1239  1239 D AOC     : A3:MSG: tmd3743_device.cc, 977: USF: TMD3743: C/G switch 4 -> 2 d_lux:0.62 w_lux: 0.65 C:0.02 G:0.00
+01-13 06:26:54.207  2656  2656 D DLObserver: remove listener: com.android.systemui.dock.DockManagerExtensionsKt$retrieveIsDocked$1$callback$1@f2d810a
+01-13 06:26:54.207  2656  2656 D DLObserver: remove listener: com.android.systemui.dock.DockManagerExtensionsKt$retrieveIsDocked$1$callback$1@b19bd75
+01-13 06:26:54.207  2656  2656 D DLObserver: remove listener: com.android.systemui.dock.DockManagerExtensionsKt$retrieveIsDocked$1$callback$1@b6d2d7b
+01-13 06:26:54.215 10111  9470 I NearbyMediums: This GATT advertisement BleAdvertisement { version=2, socketVersion=2, isFast=true, serviceIdHash=null, data=[ 0x23 0x57 0x38 0x41 0x48 0x11 0x32 0x3c 0x01 0x19 0x1b 0x93 0xb6 0x60 0xed 0xe4 0x1f 0x4e 0x7e 0xd6 0x1e 0xd0 0x99 ], deviceToken=[ 0x5b 0x51 ], rxAdvertisement=null } is a Fast Advertisement and matched UUID 0000fef3-0000-1000-8000-00805f9b34fb in fastAdvertisementServiceUuids map with serviceID NearbySharing
+01-13 06:26:54.234  1239  1239 D AOC     : A3:MSG: tmd3743_device.cc, 977: USF: TMD3743: C/G switch 2 -> 4 d_lux:0.08 w_lux: 0.61 C:0.02 G:0.00
+01-13 06:26:54.260 10111  9470 I NearbySharing: Network state changed: NetworkState(isRestricted=false, isOnline=true, isCongested=false, isMetered=false, isWifiConnected=true)
+01-13 06:26:54.351  1239  1239 D AOC     : A3:MSG: tmd3743_device.cc, 977: USF: TMD3743: C/G switch 4 -> 2 d_lux:0.43 w_lux: 0.63 C:0.01 G:0.00
+01-13 06:26:54.380 17749 17749 D VRI[MainActivity]: visibilityChanged oldVisibility=true newVisibility=false
+01-13 06:26:54.410   960   991 I CHRE    : @ 1849986.615: [WallabyLD] DATA: LIGHTING, 1849984748062289, 0.82, VERY LOW
+01-13 06:26:54.411  3628  3943 I CHRE    : Got message from nanoapp 0x476f6f676c00103b to endpoint 0x8005 with type 0x5 and length 10
+01-13 06:26:54.411   960   991 I CHRE    : @ 1849986.615: [WallabyPD] 	Device (0x1)  >>> not-stationary  - not-in-pocket <<< Config: Optical-Only FCN
+01-13 06:26:54.411   960   991 I CHRE    : @ 1849986.615: [Wallaby] PocketEvent Pos: 0x0 -> 0x1, IsHostAwake: 1
+01-13 06:26:54.411  3628  3943 I CHRE    : Wallaby DR
+01-13 06:26:54.411   960   991 I CHRE    : @ 1849986.615: [WallabyCL] ShouldSendResult: on prior invalid result, prior=0x0, now=0x1
+01-13 06:26:54.411  3628  3943 I CHRE    : Wallaby PD result : 0x00000001(at 1849986615ms)
+01-13 06:26:54.411   960   991 I CHRE    : @ 1849986.616: [WallabyPD] 	Device (0x101)  >>> not-stationary  - not-in-pocket <<< Config: On-demand Optical-Only FCN
+01-13 06:26:54.412   960   991 I CHRE    : @ 1849986.616: [Wallaby] PocketEvent Pos: 0x0 -> 0x101, IsHostAwake: 1
+01-13 06:26:54.412  3628  3943 I CHRE    : Got message from nanoapp 0x476f6f676c00103b to endpoint 0x8005 with type 0x7 and length 21
+01-13 06:26:54.412  3628  3943 I CHRE    : Wallaby QS - Ack:1
+01-13 06:26:54.412  3628  3943 I CHRE    : Wallaby PD result : 0x00000101(at 1849986616ms)
+01-13 06:26:54.414   960   991 I CHRE    : @ 1849986.616: [Wallaby] SendResult: ONE-SHOT mode. Unsubscribing client 32773
+01-13 06:26:54.424 17749 17819 I ReactNativeJNI: Memory warning (pressure level: TRIM_MEMORY_UI_HIDDEN) received by JS VM, ignoring because it's non-severe
+01-13 06:26:54.439  1239  1239 D AOC     : A3:MSG: tmd3743_device.cc, 977: USF: TMD3743: C/G switch 2 -> 4 d_lux:0.42 w_lux: 0.67 C:0.02 G:0.00
+01-13 06:26:54.501  1239  1239 D AOC     : A3:MSG: tmd3743_device.cc, 977: USF: TMD3743: C/G switch 4 -> 2 d_lux:0.58 w_lux: 0.65 C:0.01 G:0.00
+01-13 06:26:54.512  1239  1239 D AOC     : A3:MSG: usf_sensor.cc, 1871: USF: Received start sampling request for TMD3743 Ambient Light (active:4).
+01-13 06:26:54.513  1239  1239 D AOC     : A3:MSG: usf_sensor.cc, 1886: USF: Received stop sampling request for VD6282 Rear Light Sensor (active:1).
+01-13 06:26:54.514   960   991 I CHRE    : @ 1849986.717: [Wallaby] Handling unsubscribe request: one_shot=1, client_id 32773
+01-13 06:26:54.514   960   991 I CHRE    : @ 1849986.717: [WallabyPD] Removing config, model=1, on_demand=1, #configs=2
+01-13 06:26:54.514   960   991 I CHRE    : @ 1849986.717: [WallabyPD] Config exists=1. decrementing num_clients=1
+01-13 06:26:54.514   960   991 I CHRE    : @ 1849986.717: [WallabyPD] REMOVED inference config refcount, #configs=1
+01-13 06:26:54.514   960   991 I CHRE    : @ 1849986.717: [Wallaby] updated merged flags: 0x430
+01-13 06:26:54.514   960   991 I CHRE    : @ 1849986.717: [Wallaby] Stopping sensors
+01-13 06:26:54.514   960   991 I CHRE    : @ 1849986.718: [Wallaby] <<<<<<<<<<<<<<<< Stopping prox <<<<<<<<<<<<<<<<
+01-13 06:26:54.515  1239  1239 D AOC     : A3:MSG: usf_sensor.cc, 1886: USF: Received stop sampling request for TMD3743 Proximity (active:0).
+01-13 06:26:54.515   988  1022 I usf_sensor_hal: Received REPORT_SENSOR_ACTIVE_STATE_CHANGES event from 'TMD3743 Proximity' with state:kInactive and desired fps:0!
+01-13 06:26:54.515  1239  1239 D AOC     : A3:MSG: tmd3743_sensor.cc, 294: USF: TMD3743: Report new active state:0 min_fps:0
+01-13 06:26:54.515  1239  1239 D AOC     : A3:MSG: tmd3743_device.cc, 476: USF: TMD3743: [0]Stop sampling (Client count L/C/S/P = 1/0/1/0, err = 0)
+01-13 06:26:54.515   548   578 D hwc-pixel-display-Writeback-3: SetRefreshRateThrottle: type=0 value=0
+01-13 06:26:54.516   548   578 D android.hardware.composer.drm-hwc3-service: PixelTe2Manager::UpdateTe2OptionForProximity: proximity state 0, min 0hz, doze mode 0
+01-13 06:26:54.516   548   578 I android.hardware.composer.drm-hwc3-service: PixelTe2Manager::SetTe2Option writes te2_option(1) to the sysfs node
+01-13 06:26:54.516   548   578 I android.hardware.composer.drm-hwc3-service: PixelTe2Manager::SetTe2Frequency writes te2_freq_hz(30) to the sysfs node
+01-13 06:26:54.516   548   578 I hwc-DSI-1: Throttler Vote: request: min RR value =   0(client =  0), peak RR lock time =   1000 ms(client =  0)
+01-13 06:26:54.516   548   578 I hwc-DSI-1: Throttler Vote:  result: min RR value = 120(client =  1), peak RR lock time =   1000 ms(client =  0)
+01-13 06:26:54.516   548   905 I android.hardware.composer.drm-hwc3-service: ProximitySensorStateNotifierWorker: signal received (state=0)
+01-13 06:26:54.516   548   578 D hwc-pixel-display-Writeback-3: SetRefreshRateThrottle: type=1 value=0
+01-13 06:26:54.516   548   578 I hwc-DSI-1: Throttler Vote: request: min RR value =   0(client =  0), peak RR lock time =      0 ms(client =  0)
+01-13 06:26:54.516   548   578 I hwc-DSI-1: Throttler Vote:  result: min RR value = 120(client =  1), peak RR lock time =      0 ms(client =  0)
+01-13 06:26:54.518   960   991 I CHRE    : @ 1849986.721: [Wallaby] Stopping accel
+01-13 06:26:54.518  1584  1691 V GrammaticalInflectionUtils: AttributionSource: android.content.AttributionSource@44447175 does not have READ_SYSTEM_GRAMMATICAL_GENDER permission.
+01-13 06:26:54.518   960   991 I CHRE    : @ 1849986.721: [Wallaby] Stopping HWMotionDetect
+01-13 06:26:54.521   547   580 I libbinder.BpBinder: onLastStrongRef automatically unlinking death recipients:
+01-13 06:26:54.524  9693  9693 D LifecycleMonitor: Lifecycle status change: androidx.activity.ComponentActivity@a637a46 in: PAUSED
+01-13 06:26:54.524  9693  9693 V ActivityScenario: Update currentActivityStage to PAUSED, currentActivity=androidx.activity.ComponentActivity@a637a46
+01-13 06:26:54.528  1239  1239 D AOC     : A3:MSG: tmd3743_device.cc, 977: USF: TMD3743: C/G switch 2 -> 3 d_lux:0.37 w_lux: 0.50 C:0.01 G:0.00
+01-13 06:26:54.531  2656  2727 D WindowOnBackDispatcher: setTopOnBackInvokedCallback (unwrapped): android.view.ViewRootImpl$$ExternalSyntheticLambda12@59dbadb
+01-13 06:26:54.532   656   656 W powerhal-libperfmgr: Sess(23755), cannot resume, already active
+01-13 06:26:54.532  1197  2479 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:54.532  1197  2479 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:54.532  1197  2479 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:54.532  1197  2479 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:54.532  1197  2479 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:54.546  1239  1239 D AOC     : A3:MSG: tmd3743_device.cc, 977: USF: TMD3743: C/G switch 3 -> 4 d_lux:0.10 w_lux: 0.71 C:0.02 G:0.00
+01-13 06:26:54.556  9739  9739 D WindowOnBackDispatcher: setTopOnBackInvokedCallback (unwrapped): android.view.ViewRootImpl$$ExternalSyntheticLambda12@46d4fe2
+01-13 06:26:54.570  1584  1674 I ActivityTaskManager: Displayed com.betterclock.test/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity for user 0: +52ms
+01-13 06:26:54.575   547   580 I libbinder.BpBinder: onLastStrongRef automatically unlinking death recipients:
+01-13 06:26:54.576 17749 17749 D ViewRootImpl: Skipping stats log for color mode
+01-13 06:26:54.578   656   656 W powerhal-libperfmgr: Sess(23756), cannot resume, already active
+01-13 06:26:54.581 17749 17764 I .blueskyweb.app: CollectorTransition concurrent mark compact GC freed 32MB AllocSpace bytes, 219(8052KB) LOS objects, 72% free, 36MB/132MB, paused 742us,2.031ms total 195.224ms
+01-13 06:26:54.584  1239  1239 D AOC     : A3:MSG: tmd3743_device.cc, 977: USF: TMD3743: C/G switch 4 -> 2 d_lux:0.49 w_lux: 0.72 C:0.02 G:0.00
+01-13 06:26:54.594  9739  9744 W etterclock.test: userfaultfd: MOVE ioctl seems unsupported: Connection timed out
+01-13 06:26:54.612  9693  9693 D VRI[ComponentActivity]: visibilityChanged oldVisibility=true newVisibility=false
+01-13 06:26:54.621  1239  1239 D AOC     : A3:MSG: tmd3743_device.cc, 977: USF: TMD3743: C/G switch 2 -> 4 d_lux:0.30 w_lux: 0.57 C:0.02 G:0.00
+01-13 06:26:54.623  9693  9693 D LifecycleMonitor: Lifecycle status change: androidx.activity.ComponentActivity@a637a46 in: STOPPED
+01-13 06:26:54.623  9693  9693 V ActivityScenario: Update currentActivityStage to STOPPED, currentActivity=androidx.activity.ComponentActivity@a637a46
+01-13 06:26:54.626 17749 17749 D ImeBackDispatcher: switch root view (mImeCallbacks.size=0)
+01-13 06:26:54.629  1584  2495 I ImeTracker: xyz.blueskyweb.app:eabe707: onRequestHide at ORIGIN_SERVER reason HIDE_UNSPECIFIED_WINDOW fromUser false
+01-13 06:26:54.629 17749 17749 D InsetsController: hide(ime())
+01-13 06:26:54.629 17749 17749 I ImeTracker: xyz.blueskyweb.app:eabe707: onCancelled at PHASE_CLIENT_ALREADY_HIDDEN
+01-13 06:26:54.633  9693  9693 D LifecycleMonitor: Lifecycle status change: androidx.activity.ComponentActivity@a637a46 in: DESTROYED
+01-13 06:26:54.633  9693  9693 V ActivityScenario: Update currentActivityStage to DESTROYED, currentActivity=null
+01-13 06:26:54.633  9693  9693 D ImeBackDispatcher: Clear (mImeCallbacks.size=0)
+01-13 06:26:54.633  9693  9693 D ImeBackDispatcher: switch root view (mImeCallbacks.size=0)
+01-13 06:26:54.633  9693  9693 D WindowOnBackDispatcher: setTopOnBackInvokedCallback (unwrapped): null
+01-13 06:26:54.635  9693  9693 D ViewRootImpl: Skipping stats log for color mode
+01-13 06:26:54.635  1584  3662 I ImeTracker: system_server:f21518a0: onRequestHide at ORIGIN_SERVER reason IME_REQUESTED_CHANGED_LISTENER fromUser false
+01-13 06:26:54.635  1584  1677 I ImeTracker: system_server:f21518a0: onCancelled at PHASE_SERVER_SHOULD_HIDE
+01-13 06:26:54.637  9693  9693 D ImeBackDispatcher: Clear (mImeCallbacks.size=0)
+01-13 06:26:54.637  9693  9693 D ImeBackDispatcher: switch root view (mImeCallbacks.size=0)
+01-13 06:26:54.640  9693  9709 D IdlingRegistry: Unregistering idling resources: [androidx.compose.ui.test.EspressoLink@6a27f22]
+01-13 06:26:54.640 16650 16650 D RecentsView: onTaskRemoved: 10075, not handling task stack changes
+01-13 06:26:54.640 16650 16650 D RecentsView: onTaskRemoved: 10075, not handling task stack changes
+01-13 06:26:54.641  1239  1239 D AOC     : A3:MSG: tmd3743_device.cc, 977: USF: TMD3743: C/G switch 4 -> 3 d_lux:0.42 w_lux: 0.72 C:0.02 G:0.00
+01-13 06:26:54.641  9693  9709 I TestRunner: finished: emptyState_displaysCorrectMessage(com.betterclock.ui.AlarmListScreenTest)

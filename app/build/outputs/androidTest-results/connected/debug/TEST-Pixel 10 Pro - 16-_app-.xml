@@ -1,0 +1,147 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<testsuite name="com.betterclock.data.AlarmDaoTest" tests="57" failures="8" errors="0" skipped="0" time="70.848" timestamp="2026-01-13T13:27:24" hostname="localhost">
+  <properties>
+    <property name="device" value="Pixel 10 Pro - 16" />
+    <property name="flavor" value="" />
+    <property name="project" value=":app" />
+  </properties>
+  <testcase name="getEnabledAlarms_onlyReturnsEnabled" classname="com.betterclock.data.AlarmDaoTest" time="0.128" />
+  <testcase name="insertAndRetrieveAlarm" classname="com.betterclock.data.AlarmDaoTest" time="0.032" />
+  <testcase name="deleteAlarm" classname="com.betterclock.data.AlarmDaoTest" time="0.002" />
+  <testcase name="alarmWithRepeatDays_persistsCorrectly" classname="com.betterclock.data.AlarmDaoTest" time="0.03" />
+  <testcase name="alarmWithChallengeSettings_persistsCorrectly" classname="com.betterclock.data.AlarmDaoTest" time="0.032" />
+  <testcase name="getAlarmCount_returnsCorrectCount" classname="com.betterclock.data.AlarmDaoTest" time="0.028" />
+  <testcase name="updateAlarm" classname="com.betterclock.data.AlarmDaoTest" time="0.059" />
+  <testcase name="updateSnoozeCount_updatesCorrectly" classname="com.betterclock.data.AlarmDaoTest" time="0.001" />
+  <testcase name="deleteAlarmById" classname="com.betterclock.data.AlarmDaoTest" time="0.032" />
+  <testcase name="getEnabledAlarmCount_returnsCorrectCount" classname="com.betterclock.data.AlarmDaoTest" time="0.027" />
+  <testcase name="updateTriggerTime_updatesCorrectly" classname="com.betterclock.data.AlarmDaoTest" time="0.031" />
+  <testcase name="setAlarmEnabled_updatesStatus" classname="com.betterclock.data.AlarmDaoTest" time="0.027" />
+  <testcase name="getAllAlarms_returnsSortedByTime" classname="com.betterclock.data.AlarmDaoTest" time="0.032" />
+  <testcase name="alarmToggle_triggersCallback" classname="com.betterclock.ui.AlarmListScreenTest" time="4.87">
+    <failure>java.lang.IllegalStateException: No compose hierarchies found in the app. Possible reasons include: (1) the Activity that calls setContent did not launch; (2) setContent was not called; (3) setContent was called before the ComposeTestRule ran. If setContent is called by the Activity, make sure the Activity is launched after the ComposeTestRule runs
+at androidx.compose.ui.test.TestContext.getAllSemanticsNodes$ui_test_release(TestOwner.kt:87)
+at androidx.compose.ui.test.SemanticsNodeInteraction.fetchSemanticsNodes$ui_test_release(SemanticsNodeInteraction.kt:63)
+at androidx.compose.ui.test.SemanticsNodeInteraction.fetchOneOrThrow(SemanticsNodeInteraction.kt:157)
+at androidx.compose.ui.test.SemanticsNodeInteraction.fetchOneOrThrow$default(SemanticsNodeInteraction.kt:150)
+at androidx.compose.ui.test.SemanticsNodeInteraction.fetchSemanticsNode(SemanticsNodeInteraction.kt:84)
+at androidx.compose.ui.test.ActionsKt.performTouchInput(Actions.kt:394)
+at androidx.compose.ui.test.Actions_androidKt.performClickImpl(Actions.android.kt:20)
+at androidx.compose.ui.test.ActionsKt.performClick(Actions.kt:54)
+at com.betterclock.ui.AlarmListScreenTest.alarmToggle_triggersCallback(AlarmListScreenTest.kt:243)
+</failure>
+  </testcase>
+  <testcase name="alarmCard_displaysRepeatInfo" classname="com.betterclock.ui.AlarmListScreenTest" time="4.211">
+    <failure>java.lang.IllegalStateException: No compose hierarchies found in the app. Possible reasons include: (1) the Activity that calls setContent did not launch; (2) setContent was not called; (3) setContent was called before the ComposeTestRule ran. If setContent is called by the Activity, make sure the Activity is launched after the ComposeTestRule runs
+at androidx.compose.ui.test.TestContext.getAllSemanticsNodes$ui_test_release(TestOwner.kt:87)
+at androidx.compose.ui.test.SemanticsNodeInteraction.fetchSemanticsNodes$ui_test_release(SemanticsNodeInteraction.kt:63)
+at androidx.compose.ui.test.SemanticsNodeInteraction.fetchSemanticsNodes$ui_test_release$default(SemanticsNodeInteraction.kt:56)
+at androidx.compose.ui.test.AndroidAssertions_androidKt.checkIsDisplayed(AndroidAssertions.android.kt:29)
+at androidx.compose.ui.test.AssertionsKt.isDisplayed(Assertions.kt:359)
+at androidx.compose.ui.test.AssertionsKt.assertIsDisplayed(Assertions.kt:33)
+at com.betterclock.ui.AlarmListScreenTest.alarmCard_displaysRepeatInfo(AlarmListScreenTest.kt:154)
+</failure>
+  </testcase>
+  <testcase name="alarmAt_noon_displaysCorrectly" classname="com.betterclock.ui.AlarmListScreenTest" time="4.23">
+    <failure>java.lang.IllegalStateException: No compose hierarchies found in the app. Possible reasons include: (1) the Activity that calls setContent did not launch; (2) setContent was not called; (3) setContent was called before the ComposeTestRule ran. If setContent is called by the Activity, make sure the Activity is launched after the ComposeTestRule runs
+at androidx.compose.ui.test.TestContext.getAllSemanticsNodes$ui_test_release(TestOwner.kt:87)
+at androidx.compose.ui.test.SemanticsNodeInteraction.fetchSemanticsNodes$ui_test_release(SemanticsNodeInteraction.kt:63)
+at androidx.compose.ui.test.SemanticsNodeInteraction.fetchSemanticsNodes$ui_test_release$default(SemanticsNodeInteraction.kt:56)
+at androidx.compose.ui.test.AndroidAssertions_androidKt.checkIsDisplayed(AndroidAssertions.android.kt:29)
+at androidx.compose.ui.test.AssertionsKt.isDisplayed(Assertions.kt:359)
+at androidx.compose.ui.test.AssertionsKt.assertIsDisplayed(Assertions.kt:33)
+at com.betterclock.ui.AlarmListScreenTest.alarmAt_noon_displaysCorrectly(AlarmListScreenTest.kt:409)
+</failure>
+  </testcase>
+  <testcase name="alarmSwitch_isAccessible" classname="com.betterclock.ui.AlarmListScreenTest" time="4.237">
+    <failure>java.lang.IllegalStateException: No compose hierarchies found in the app. Possible reasons include: (1) the Activity that calls setContent did not launch; (2) setContent was not called; (3) setContent was called before the ComposeTestRule ran. If setContent is called by the Activity, make sure the Activity is launched after the ComposeTestRule runs
+at androidx.compose.ui.test.TestContext.getAllSemanticsNodes$ui_test_release(TestOwner.kt:87)
+at androidx.compose.ui.test.SemanticsNodeInteraction.fetchSemanticsNodes$ui_test_release(SemanticsNodeInteraction.kt:63)
+at androidx.compose.ui.test.SemanticsNodeInteraction.fetchOneOrThrow(SemanticsNodeInteraction.kt:157)
+at androidx.compose.ui.test.SemanticsNodeInteraction.fetchOneOrThrow$default(SemanticsNodeInteraction.kt:150)
+at androidx.compose.ui.test.SemanticsNodeInteraction.assertExists(SemanticsNodeInteraction.kt:125)
+at androidx.compose.ui.test.SemanticsNodeInteraction.assertExists$default(SemanticsNodeInteraction.kt:124)
+at com.betterclock.ui.AlarmListScreenTest.alarmSwitch_isAccessible(AlarmListScreenTest.kt:177)
+</failure>
+  </testcase>
+  <testcase name="alarmList_displays24HourFormat" classname="com.betterclock.ui.AlarmListScreenTest" time="4.212">
+    <failure>java.lang.IllegalStateException: No compose hierarchies found in the app. Possible reasons include: (1) the Activity that calls setContent did not launch; (2) setContent was not called; (3) setContent was called before the ComposeTestRule ran. If setContent is called by the Activity, make sure the Activity is launched after the ComposeTestRule runs
+at androidx.compose.ui.test.TestContext.getAllSemanticsNodes$ui_test_release(TestOwner.kt:87)
+at androidx.compose.ui.test.SemanticsNodeInteraction.fetchSemanticsNodes$ui_test_release(SemanticsNodeInteraction.kt:63)
+at androidx.compose.ui.test.SemanticsNodeInteraction.fetchSemanticsNodes$ui_test_release$default(SemanticsNodeInteraction.kt:56)
+at androidx.compose.ui.test.AndroidAssertions_androidKt.checkIsDisplayed(AndroidAssertions.android.kt:29)
+at androidx.compose.ui.test.AssertionsKt.isDisplayed(Assertions.kt:359)
+at androidx.compose.ui.test.AssertionsKt.assertIsDisplayed(Assertions.kt:33)
+at com.betterclock.ui.AlarmListScreenTest.alarmList_displays24HourFormat(AlarmListScreenTest.kt:93)
+</failure>
+  </testcase>
+  <testcase name="alarmList_displaysAlarms" classname="com.betterclock.ui.AlarmListScreenTest" time="4.215">
+    <failure>java.lang.IllegalStateException: No compose hierarchies found in the app. Possible reasons include: (1) the Activity that calls setContent did not launch; (2) setContent was not called; (3) setContent was called before the ComposeTestRule ran. If setContent is called by the Activity, make sure the Activity is launched after the ComposeTestRule runs
+at androidx.compose.ui.test.TestContext.getAllSemanticsNodes$ui_test_release(TestOwner.kt:87)
+at androidx.compose.ui.test.SemanticsNodeInteraction.fetchSemanticsNodes$ui_test_release(SemanticsNodeInteraction.kt:63)
+at androidx.compose.ui.test.SemanticsNodeInteraction.fetchSemanticsNodes$ui_test_release$default(SemanticsNodeInteraction.kt:56)
+at androidx.compose.ui.test.AndroidAssertions_androidKt.checkIsDisplayed(AndroidAssertions.android.kt:29)
+at androidx.compose.ui.test.AssertionsKt.isDisplayed(Assertions.kt:359)
+at androidx.compose.ui.test.AssertionsKt.assertIsDisplayed(Assertions.kt:33)
+at com.betterclock.ui.AlarmListScreenTest.alarmList_displaysAlarms(AlarmListScreenTest.kt:67)
+</failure>
+  </testcase>
+  <testcase name="fab_hasCorrectContentDescription" classname="com.betterclock.ui.AlarmListScreenTest" time="4.232">
+    <failure>java.lang.IllegalStateException: No compose hierarchies found in the app. Possible reasons include: (1) the Activity that calls setContent did not launch; (2) setContent was not called; (3) setContent was called before the ComposeTestRule ran. If setContent is called by the Activity, make sure the Activity is launched after the ComposeTestRule runs
+at androidx.compose.ui.test.TestContext.getAllSemanticsNodes$ui_test_release(TestOwner.kt:87)
+at androidx.compose.ui.test.SemanticsNodeInteraction.fetchSemanticsNodes$ui_test_release(SemanticsNodeInteraction.kt:63)
+at androidx.compose.ui.test.SemanticsNodeInteraction.fetchOneOrThrow(SemanticsNodeInteraction.kt:157)
+at androidx.compose.ui.test.SemanticsNodeInteraction.fetchOneOrThrow$default(SemanticsNodeInteraction.kt:150)
+at androidx.compose.ui.test.SemanticsNodeInteraction.assertExists(SemanticsNodeInteraction.kt:125)
+at androidx.compose.ui.test.SemanticsNodeInteraction.assertExists$default(SemanticsNodeInteraction.kt:124)
+at com.betterclock.ui.AlarmListScreenTest.fab_hasCorrectContentDescription(AlarmListScreenTest.kt:112)
+</failure>
+  </testcase>
+  <testcase name="multipleAlarms_allDisplayed" classname="com.betterclock.ui.AlarmListScreenTest" time="4.208">
+    <failure>java.lang.IllegalStateException: No compose hierarchies found in the app. Possible reasons include: (1) the Activity that calls setContent did not launch; (2) setContent was not called; (3) setContent was called before the ComposeTestRule ran. If setContent is called by the Activity, make sure the Activity is launched after the ComposeTestRule runs
+at androidx.compose.ui.test.TestContext.getAllSemanticsNodes$ui_test_release(TestOwner.kt:87)
+at androidx.compose.ui.test.SemanticsNodeInteraction.fetchSemanticsNodes$ui_test_release(SemanticsNodeInteraction.kt:63)
+at androidx.compose.ui.test.SemanticsNodeInteraction.fetchSemanticsNodes$ui_test_release$default(SemanticsNodeInteraction.kt:56)
+at androidx.compose.ui.test.AndroidAssertions_androidKt.checkIsDisplayed(AndroidAssertions.android.kt:29)
+at androidx.compose.ui.test.AssertionsKt.isDisplayed(Assertions.kt:359)
+at androidx.compose.ui.test.AssertionsKt.assertIsDisplayed(Assertions.kt:33)
+at com.betterclock.ui.AlarmListScreenTest.multipleAlarms_allDisplayed(AlarmListScreenTest.kt:315)
+</failure>
+  </testcase>
+  <testcase name="settingsButton_clickAction_triggersCallback" classname="com.betterclock.ui.AlarmListScreenTest" time="4.292" />
+  <testcase name="emptyState_displaysCorrectMessage" classname="com.betterclock.ui.AlarmListScreenTest" time="0.892" />
+  <testcase name="alarmAt_midnight_displaysCorrectly" classname="com.betterclock.ui.AlarmListScreenTest" time="0.832" />
+  <testcase name="disabledAlarm_showsEnableSwitch" classname="com.betterclock.ui.AlarmListScreenTest" time="0.826" />
+  <testcase name="alarmWithEveryDayRepeat_displaysCorrectly" classname="com.betterclock.ui.AlarmListScreenTest" time="0.871" />
+  <testcase name="settingsButton_hasCorrectContentDescription" classname="com.betterclock.ui.AlarmListScreenTest" time="0.86" />
+  <testcase name="alarmWithWeekendRepeat_displaysCorrectly" classname="com.betterclock.ui.AlarmListScreenTest" time="0.849" />
+  <testcase name="fab_clickAction_triggersCallback" classname="com.betterclock.ui.AlarmListScreenTest" time="0.88" />
+  <testcase name="alarmWithChallenge_displaysLabel" classname="com.betterclock.ui.AlarmListScreenTest" time="0.856" />
+  <testcase name="challengeScreen_multipleAttempts_displaysCorrectCount" classname="com.betterclock.ui.ChallengeScreenTest" time="0.853" />
+  <testcase name="challengeScreen_displaysChallengeQuestion" classname="com.betterclock.ui.ChallengeScreenTest" time="0.838" />
+  <testcase name="challengeScreen_displaysErrorMessage" classname="com.betterclock.ui.ChallengeScreenTest" time="0.834" />
+  <testcase name="challengeScreen_displaysMultiplicationChallenge" classname="com.betterclock.ui.ChallengeScreenTest" time="0.836" />
+  <testcase name="challengeScreen_answerInput_hasCorrectDescription" classname="com.betterclock.ui.ChallengeScreenTest" time="0.839" />
+  <testcase name="challengeScreen_displaysSubtractionChallenge" classname="com.betterclock.ui.ChallengeScreenTest" time="0.841" />
+  <testcase name="challengeScreen_displaysDivisionChallenge" classname="com.betterclock.ui.ChallengeScreenTest" time="0.834" />
+  <testcase name="challengeScreen_differentSnoozeDuration_displaysCorrectly" classname="com.betterclock.ui.ChallengeScreenTest" time="0.757" />
+  <testcase name="challengeScreen_displaysAlarmLabel" classname="com.betterclock.ui.ChallengeScreenTest" time="1.308" />
+  <testcase name="challengeScreen_snoozeButton_triggersCallback" classname="com.betterclock.ui.ChallengeScreenTest" time="0.761" />
+  <testcase name="challengeScreen_hidesButtons_whenChallengeNotCompleted" classname="com.betterclock.ui.ChallengeScreenTest" time="0.861" />
+  <testcase name="challengeScreen_displaysSuccessMessage_whenCorrect" classname="com.betterclock.ui.ChallengeScreenTest" time="0.746" />
+  <testcase name="challengeScreen_displaysAlarmTime" classname="com.betterclock.ui.ChallengeScreenTest" time="0.767" />
+  <testcase name="challengeScreen_alarmWithoutLabel_displaysTimeOnly" classname="com.betterclock.ui.ChallengeScreenTest" time="0.779" />
+  <testcase name="challengeScreen_showsSnoozeAndStopButtons_whenChallengeCompleted" classname="com.betterclock.ui.ChallengeScreenTest" time="0.774" />
+  <testcase name="challengeScreen_stopButton_triggersCallback" classname="com.betterclock.ui.ChallengeScreenTest" time="0.796" />
+  <testcase name="settingsScreen_withEasyDifficulty_showsCorrectSelection" classname="com.betterclock.ui.SettingsScreenTest" time="0.896" />
+  <testcase name="settingsScreen_difficultySelection_triggersCallback" classname="com.betterclock.ui.SettingsScreenTest" time="0.903" />
+  <testcase name="settingsScreen_displaysDifficultyButtons" classname="com.betterclock.ui.SettingsScreenTest" time="0.948" />
+  <testcase name="settingsScreen_displaysAllSections" classname="com.betterclock.ui.SettingsScreenTest" time="0.84" />
+  <testcase name="settingsScreen_withDifferentSnoozeDuration_displaysCorrectValue" classname="com.betterclock.ui.SettingsScreenTest" time="0.901" />
+  <testcase name="settingsScreen_displaysVibrationToggle" classname="com.betterclock.ui.SettingsScreenTest" time="0.861" />
+  <testcase name="settingsScreen_displays24HourToggle" classname="com.betterclock.ui.SettingsScreenTest" time="0.864" />
+  <testcase name="settingsScreen_displaysChallengeToggle" classname="com.betterclock.ui.SettingsScreenTest" time="0.869" />
+  <testcase name="settingsScreen_displaysSnoozeSlider" classname="com.betterclock.ui.SettingsScreenTest" time="0.871" />
+  <testcase name="settingsScreen_backButton_triggersCallback" classname="com.betterclock.ui.SettingsScreenTest" time="0.888" />
+  <testcase name="settingsScreen_confirmStopToggle_visible" classname="com.betterclock.ui.SettingsScreenTest" time="0.868" />
+</testsuite>

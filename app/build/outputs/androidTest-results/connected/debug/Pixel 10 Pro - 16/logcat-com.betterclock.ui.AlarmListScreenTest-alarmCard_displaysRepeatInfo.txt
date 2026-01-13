@@ -1,0 +1,155 @@
+01-13 06:26:19.916  9693  9709 I TestRunner: started: alarmCard_displaysRepeatInfo(com.betterclock.ui.AlarmListScreenTest)
+01-13 06:26:19.920  9693  9709 D IdlingRegistry: Registering idling resources: [androidx.compose.ui.test.EspressoLink@db9c754]
+01-13 06:26:19.922  9693  9709 W Settings: Setting always_finish_activities has moved from android.provider.Settings.System to android.provider.Settings.Global, returning read-only value.
+01-13 06:26:19.926  1584  1691 V GrammaticalInflectionUtils: AttributionSource: android.content.AttributionSource@428f98d6 does not have READ_SYSTEM_GRAMMATICAL_GENDER permission.
+01-13 06:26:19.937  9693  9693 D LifecycleMonitor: Lifecycle status change: androidx.activity.ComponentActivity@557abd8 in: PRE_ON_CREATE
+01-13 06:26:19.937  9693  9693 V ActivityScenario: Activity lifecycle changed event received but ignored because the reported transition was not ON_CREATE while the last known transition was PRE_ON_CREATE
+01-13 06:26:19.938  2656  2727 D WindowOnBackDispatcher: setTopOnBackInvokedCallback (unwrapped): android.view.ViewRootImpl$$ExternalSyntheticLambda12@e93c4eb
+01-13 06:26:19.939  9693  9693 D LifecycleMonitor: Lifecycle status change: androidx.activity.ComponentActivity@557abd8 in: CREATED
+01-13 06:26:19.939  9693  9693 V ActivityScenario: Update currentActivityStage to CREATED, currentActivity=androidx.activity.ComponentActivity@557abd8
+01-13 06:26:19.939  9693  9693 D LifecycleMonitor: Lifecycle status change: androidx.activity.ComponentActivity@557abd8 in: STARTED
+01-13 06:26:19.939  9693  9693 V ActivityScenario: Update currentActivityStage to STARTED, currentActivity=androidx.activity.ComponentActivity@557abd8
+01-13 06:26:19.940  9693  9693 D LifecycleMonitor: Lifecycle status change: androidx.activity.ComponentActivity@557abd8 in: RESUMED
+01-13 06:26:19.940  9693  9693 V ActivityScenario: Update currentActivityStage to RESUMED, currentActivity=androidx.activity.ComponentActivity@557abd8
+01-13 06:26:19.942  9739  9739 D WindowOnBackDispatcher: setTopOnBackInvokedCallback (unwrapped): android.view.ViewRootImpl$$ExternalSyntheticLambda12@9a48acb
+01-13 06:26:19.944  9693  9693 D LifecycleMonitor: Lifecycle status change: androidx.activity.ComponentActivity@557abd8 in: PAUSED
+01-13 06:26:19.944  9693  9693 V ActivityScenario: Update currentActivityStage to PAUSED, currentActivity=androidx.activity.ComponentActivity@557abd8
+01-13 06:26:19.943  1197  2479 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:19.945  1197  2479 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:19.945  1197  2479 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:19.945  1197  2479 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:19.945  1197  2479 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:19.945  1197  2479 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:19.945  1197  2479 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:19.945  1197  2479 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:19.946  9693  9693 D WindowOnBackDispatcher: setTopOnBackInvokedCallback (unwrapped): android.view.ViewRootImpl$$ExternalSyntheticLambda12@6513925
+01-13 06:26:19.951   547   580 W libbinder.ServiceManagerCppClient: Permission failure: android.permission.ACCESS_SURFACE_FLINGER from uid=10394 pid=0
+01-13 06:26:19.951   547   580 D libbinder.PermissionCache: checking android.permission.ACCESS_SURFACE_FLINGER for uid=10394 => denied (200 us)
+01-13 06:26:19.951   547   580 W libbinder.ServiceManagerCppClient: Permission failure: android.permission.ROTATE_SURFACE_FLINGER from uid=10394 pid=0
+01-13 06:26:19.951   547   580 D libbinder.PermissionCache: checking android.permission.ROTATE_SURFACE_FLINGER for uid=10394 => denied (169 us)
+01-13 06:26:19.951   547   580 W libbinder.ServiceManagerCppClient: Permission failure: android.permission.INTERNAL_SYSTEM_WINDOW from uid=10394 pid=0
+01-13 06:26:19.951   547   580 D libbinder.PermissionCache: checking android.permission.INTERNAL_SYSTEM_WINDOW for uid=10394 => denied (117 us)
+01-13 06:26:19.954  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:19.954  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:19.954  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:19.954  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:19.956  1584  1674 I ActivityTaskManager: Displayed com.betterclock/androidx.activity.ComponentActivity for user 0: +29ms
+01-13 06:26:19.957  9693  9693 D LifecycleMonitor: Lifecycle status change: androidx.activity.ComponentActivity@557abd8 in: STOPPED
+01-13 06:26:19.957  9693  9693 V ActivityScenario: Update currentActivityStage to STOPPED, currentActivity=androidx.activity.ComponentActivity@557abd8
+01-13 06:26:19.967  2656  2727 D WindowOnBackDispatcher: setTopOnBackInvokedCallback (unwrapped): null
+01-13 06:26:19.975   656  2760 E powerhal-libperfmgr: Error: shouldn't report duration during pause state.
+01-13 06:26:19.976  1584  4788 W libbinder.ServiceManagerCppClient: Permission failure: android.permission.ACCESS_SURFACE_FLINGER from uid=10394 pid=0
+01-13 06:26:19.976  1584  4788 D libbinder.PermissionCache: checking android.permission.ACCESS_SURFACE_FLINGER for uid=10394 => denied (108 us)
+01-13 06:26:19.976  1584  4788 W libbinder.ServiceManagerCppClient: Permission failure: android.permission.ROTATE_SURFACE_FLINGER from uid=10394 pid=0
+01-13 06:26:19.976  1584  4788 D libbinder.PermissionCache: checking android.permission.ROTATE_SURFACE_FLINGER for uid=10394 => denied (27 us)
+01-13 06:26:19.976  1584  4788 W libbinder.ServiceManagerCppClient: Permission failure: android.permission.INTERNAL_SYSTEM_WINDOW from uid=10394 pid=0
+01-13 06:26:19.976  1584  4788 D libbinder.PermissionCache: checking android.permission.INTERNAL_SYSTEM_WINDOW for uid=10394 => denied (17 us)
+01-13 06:26:19.982  2656  2727 D WindowOnBackDispatcher: setTopOnBackInvokedCallback (unwrapped): null
+01-13 06:26:20.025  9739  9739 D WindowOnBackDispatcher: setTopOnBackInvokedCallback (unwrapped): null
+01-13 06:26:20.028  9739  9739 D ViewRootImpl: Skipping stats log for color mode
+01-13 06:26:20.035 16650 16650 D RecentsView: onTaskRemoved: 10058, not handling task stack changes
+01-13 06:26:20.035 16650 16650 D RecentsView: onTaskRemoved: 10058, not handling task stack changes
+01-13 06:26:20.319  9693  9772 D ProfileInstaller: Installing profile for com.betterclock
+01-13 06:26:20.484  9739  9743 I etterclock.test: Compiler allocated 4940KB to compile void android.view.ViewRootImpl.performTraversals()
+01-13 06:26:20.800  1239  1239 D AOC     : A3:MSG: tmd3743_device.cc, 977: USF: TMD3743: C/G switch 2 -> 1 d_lux:0.98 w_lux: 0.64 C:0.02 G:0.00
+01-13 06:26:20.899  1239  1239 D AOC     : A3:MSG: tmd3743_device.cc, 977: USF: TMD3743: C/G switch 1 -> 2 d_lux:0.93 w_lux: 0.63 C:0.02 G:0.00
+01-13 06:26:21.135  1538  1571 I pixel-thermal: soc_therm:34.458 raw data: soc_therm:34458
+01-13 06:26:21.153  1538  1571 I pixel-thermal: rfpa_therm:33.322 raw data: rfpa_therm:33322
+01-13 06:26:21.156  1538  1571 I pixel-thermal: VIRTUAL-SKIN-PREDICTION-MODEL: model_input: [32279.00 28900.00 34458.00 33322.00 34560.00 27985.00 27483.00 32573.00 ]
+01-13 06:26:21.157  1538  1571 I native  : I0000 00:00:1768310781.156745    1571 thermal_tflite_wrapper.cc:261] ThermalTfliteInvoke
+01-13 06:26:21.161  1538  1571 I pixel-thermal: VIRTUAL-SKIN-PREDICTION-MODEL: model_output: [29952.6 29966.6 29962.8 29981.3 29997.9 30008 30028.4 30062.4 30081.6 30124 ]
+01-13 06:26:21.161  1538  1571 I pixel-thermal: VIRTUAL-SKIN-PREDICTION-MODEL: predicted_value: [29952.6 29966.6 29962.8 29981.3 29997.9 30008 30028.4 30062.4 30081.6 30124 ]
+01-13 06:26:21.162  1538  1571 I pixel-thermal: VIRTUAL-SKIN-MODEL: model_input: [34560.00 27985.00 28900.00 32279.00 32573.00 33322.00 34458.00 27483.00 ]
+01-13 06:26:21.162  1538  1571 I native  : I0000 00:00:1768310781.162588    1571 thermal_tflite_wrapper.cc:261] ThermalTfliteInvoke
+01-13 06:26:21.162  1538  1571 I pixel-thermal: VIRTUAL-SKIN-MODEL: model_output: [31286 ]
+01-13 06:26:21.163  1538  1571 I pixel-thermal: VIRTUAL-SKIN-MODEL: predicted_value: [31286 ]
+01-13 06:26:21.164  1538  1571 I pixel-thermal: STATS-UPDATOR:0 raw data: EXTREME-CONDITION-POWER-MONITOR-44C:0 EXTREME-CONDITION-POWER-MONITOR-45C:0 EXTREME-CONDITION-POWER-MONITOR-46C:0 EXTREME_WORKLOAD_ODPM:904.387 STATS-UPDATOR:0 VIRTUAL-SKIN:31532.6 VIRTUAL-SKIN-44C:0 VIRTUAL-SKIN-45C:0 VIRTUAL-SKIN-46C:0 VIRTUAL-SKIN-EQ:31532.6 VIRTUAL-SKIN-LEGACY:30766.8 VIRTUAL-SKIN-LEGACY-MODEL-DIFF:-519.168 VIRTUAL-SKIN-LEGACY-SHUTDOWN:0 VIRTUAL-SKIN-MODEL:31286 VIRTUAL-SKIN-MODEL-CLAMPED:31286 VIRTUAL-SKIN-MODEL-LEGACY-DIFF:519.168 VIRTUAL-SKIN-MODEL-UPDATED:31532.6 VIRTUAL-SKIN-MODEL-UPPER-CLAMPED:31286 VIRTUAL-SKIN-PREDICTION-MODEL:29952.6 VIRTUAL-SKIN-SUB-0:30492.8 VIRTUAL-SKIN-SUB-1:30758.4 VIRTUAL-SKIN-SUB-2:30766.8 VIRTUAL-SKIN-SUB-3:30205.3 VIRTUAL-SKIN-SUB-4:30039.1 VT-FORECAST-30SEC-BACK:31650.7 VT-FORECAST-60SEC-BACK:31810.9 VT-FORECAST-ERROR-30SEC:118.168 VT-FORECAST-ERROR-60SEC:278.391 VT-FORECAST-ERROR-NOW:-1579.92 VT-FORECAST-NOW:29952.6 VT_LEGACY_WEIGHT:0 VT_MODEL_WEIGHT:1 charging_therm:34560 disp0_therm:27985 flash_therm:28900 north_therm:32279 quiet_therm:32573 rfpa_therm:33322 soc_therm:34458 usb_pwr_therm:27483
+01-13 06:26:22.707  1584  2539 D InetDiagMessage: Destroyed 0 sockets, proto=IPPROTO_TCP, family=AF_INET, states=14
+01-13 06:26:22.713  1584  2539 D InetDiagMessage: Destroyed 0 sockets, proto=IPPROTO_TCP, family=AF_INET6, states=14
+01-13 06:26:22.714  1584  2539 D InetDiagMessage: Destroyed live tcp sockets for uids={10101} in 17ms
+01-13 06:26:22.749  1584  2539 D InetDiagMessage: Destroyed 0 sockets, proto=IPPROTO_TCP, family=AF_INET, states=14
+01-13 06:26:22.752  1584  2539 D InetDiagMessage: Destroyed 0 sockets, proto=IPPROTO_TCP, family=AF_INET6, states=14
+01-13 06:26:22.753  1584  2539 D InetDiagMessage: Destroyed live tcp sockets for uids={10149} in 7ms
+01-13 06:26:22.790  1584  2539 D InetDiagMessage: Destroyed 0 sockets, proto=IPPROTO_TCP, family=AF_INET, states=14
+01-13 06:26:22.796  1584  2539 D InetDiagMessage: Destroyed 0 sockets, proto=IPPROTO_TCP, family=AF_INET6, states=14
+01-13 06:26:22.796  1584  2539 D InetDiagMessage: Destroyed live tcp sockets for uids={10171} in 12ms
+01-13 06:26:23.745  1538  1538 I pixel-thermal: VIRTUAL-SKIN:31.4339 raw data: VIRTUAL-SKIN:31433.9 VIRTUAL-SKIN-EQ:31433.9 VIRTUAL-SKIN-LEGACY:30750.5 VIRTUAL-SKIN-LEGACY-MODEL-DIFF:-535.445 VIRTUAL-SKIN-LEGACY-SHUTDOWN:0 VIRTUAL-SKIN-MODEL:31286 VIRTUAL-SKIN-MODEL-CLAMPED:31286 VIRTUAL-SKIN-MODEL-LEGACY-DIFF:535.445 VIRTUAL-SKIN-MODEL-UPDATED:31433.9 VIRTUAL-SKIN-MODEL-UPPER-CLAMPED:31286 VIRTUAL-SKIN-SUB-0:30456.4 VIRTUAL-SKIN-SUB-1:30716.5 VIRTUAL-SKIN-SUB-2:30750.5 VIRTUAL-SKIN-SUB-3:30183 VIRTUAL-SKIN-SUB-4:30019.8 VT_LEGACY_WEIGHT:0 VT_MODEL_WEIGHT:1 charging_therm:34472 disp0_therm:27940 flash_therm:28912 north_therm:32283 quiet_therm:32522 rfpa_therm:33258 soc_therm:34316 usb_pwr_therm:27478
+01-13 06:26:23.746   548   880 D hwc-pixel-skin-temperature: 31.433928 rounded to 31 (deg)
+01-13 06:26:23.746   548   880 I hwc-pixel-skin-temperature: writes skin_temperature(31) to the sysfs node
+01-13 06:26:24.069  1584  4785 V GrammaticalInflectionUtils: AttributionSource: android.content.AttributionSource@44447175 does not have READ_SYSTEM_GRAMMATICAL_GENDER permission.
+01-13 06:26:24.100  2656  2727 D WindowOnBackDispatcher: setTopOnBackInvokedCallback (unwrapped): android.view.ViewRootImpl$$ExternalSyntheticLambda12@8856db7
+01-13 06:26:24.109 17749 17749 D ViewRootImpl: Skipping stats log for color mode
+01-13 06:26:24.109  9739  9739 D WindowOnBackDispatcher: setTopOnBackInvokedCallback (unwrapped): android.view.ViewRootImpl$$ExternalSyntheticLambda12@72db3a2
+01-13 06:26:24.111  9693  9693 D LifecycleMonitor: Lifecycle status change: androidx.activity.ComponentActivity@557abd8 in: DESTROYED
+01-13 06:26:24.111  9693  9693 V ActivityScenario: Update currentActivityStage to DESTROYED, currentActivity=null
+01-13 06:26:24.111  9693  9693 D WindowOnBackDispatcher: setTopOnBackInvokedCallback (unwrapped): null
+01-13 06:26:24.116 16650 16650 D RecentsView: onTaskRemoved: 10059, not handling task stack changes
+01-13 06:26:24.116 16650 16650 D RecentsView: onTaskRemoved: 10059, not handling task stack changes
+01-13 06:26:24.119  9693  9709 D IdlingRegistry: Unregistering idling resources: [androidx.compose.ui.test.EspressoLink@db9c754]
+01-13 06:26:24.120  1584  1674 I ActivityTaskManager: Displayed com.betterclock.test/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity for user 0: +54ms
+01-13 06:26:24.120  9693  9709 E TestRunner: failed: alarmCard_displaysRepeatInfo(com.betterclock.ui.AlarmListScreenTest)
+01-13 06:26:24.121  9693  9709 E TestRunner: ----- begin exception -----
+01-13 06:26:24.121  9693  9709 E TestRunner: java.lang.IllegalStateException: No compose hierarchies found in the app. Possible reasons include: (1) the Activity that calls setContent did not launch; (2) setContent was not called; (3) setContent was called before the ComposeTestRule ran. If setContent is called by the Activity, make sure the Activity is launched after the ComposeTestRule runs
+01-13 06:26:24.121  9693  9709 E TestRunner: 	at androidx.compose.ui.test.TestContext.getAllSemanticsNodes$ui_test_release(TestOwner.kt:87)
+01-13 06:26:24.121  9693  9709 E TestRunner: 	at androidx.compose.ui.test.SemanticsNodeInteraction.fetchSemanticsNodes$ui_test_release(SemanticsNodeInteraction.kt:63)
+01-13 06:26:24.121  9693  9709 E TestRunner: 	at androidx.compose.ui.test.SemanticsNodeInteraction.fetchSemanticsNodes$ui_test_release$default(SemanticsNodeInteraction.kt:56)
+01-13 06:26:24.121  9693  9709 E TestRunner: 	at androidx.compose.ui.test.AndroidAssertions_androidKt.checkIsDisplayed(AndroidAssertions.android.kt:29)
+01-13 06:26:24.121  9693  9709 E TestRunner: 	at androidx.compose.ui.test.AssertionsKt.isDisplayed(Assertions.kt:359)
+01-13 06:26:24.121  9693  9709 E TestRunner: 	at androidx.compose.ui.test.AssertionsKt.assertIsDisplayed(Assertions.kt:33)
+01-13 06:26:24.121  9693  9709 E TestRunner: 	at com.betterclock.ui.AlarmListScreenTest.alarmCard_displaysRepeatInfo(AlarmListScreenTest.kt:154)
+01-13 06:26:24.121  9693  9709 E TestRunner: 	at java.lang.reflect.Method.invoke(Native Method)
+01-13 06:26:24.121  9693  9709 E TestRunner: 	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:59)
+01-13 06:26:24.121  9693  9709 E TestRunner: 	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+01-13 06:26:24.121  9693  9709 E TestRunner: 	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:56)
+01-13 06:26:24.121  9693  9709 E TestRunner: 	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
+01-13 06:26:24.121  9693  9709 E TestRunner: 	at org.junit.rules.ExternalResource$1.evaluate(ExternalResource.java:54)
+01-13 06:26:24.121  9693  9709 E TestRunner: 	at androidx.compose.ui.test.junit4.AndroidComposeTestRule$apply$1$evaluate$1.invoke(AndroidComposeTestRule.android.kt:272)
+01-13 06:26:24.121  9693  9709 E TestRunner: 	at androidx.compose.ui.test.junit4.AndroidComposeTestRule$apply$1$evaluate$1.invoke(AndroidComposeTestRule.android.kt:271)
+01-13 06:26:24.121  9693  9709 E TestRunner: 	at androidx.compose.ui.test.AndroidComposeUiTestEnvironment$AndroidComposeUiTestImpl.withDisposableContent(ComposeUiTest.android.kt:505)
+01-13 06:26:24.121  9693  9709 E TestRunner: 	at androidx.compose.ui.test.AndroidComposeUiTestEnvironment$runTest$1$1$1$1$1$1.invoke(ComposeUiTest.android.kt:333)
+01-13 06:26:24.121  9693  9709 E TestRunner: 	at androidx.compose.ui.test.AndroidComposeUiTestEnvironment.withComposeIdlingResource(ComposeUiTest.android.kt:385)
+01-13 06:26:24.121  9693  9709 E TestRunner: 	at androidx.compose.ui.test.AndroidComposeUiTestEnvironment.access$withComposeIdlingResource(ComposeUiTest.android.kt:219)
+01-13 06:26:24.121  9693  9709 E TestRunner: 	at androidx.compose.ui.test.AndroidComposeUiTestEnvironment$runTest$1$1$1$1$1.invoke(ComposeUiTest.android.kt:332)
+01-13 06:26:24.121  9693  9709 E TestRunner: 	at androidx.compose.ui.test.AndroidComposeUiTestEnvironment.withWindowRecomposer(ComposeUiTest.android.kt:359)
+01-13 06:26:24.121  9693  9709 E TestRunner: 	at androidx.compose.ui.test.AndroidComposeUiTestEnvironment.access$withWindowRecomposer(ComposeUiTest.android.kt:219)
+01-13 06:26:24.121  9693  9709 E TestRunner: 	at androidx.compose.ui.test.AndroidComposeUiTestEnvironment$runTest$1$1$1$1.invoke(ComposeUiTest.android.kt:331)
+01-13 06:26:24.121  9693  9709 E TestRunner: 	at androidx.compose.ui.test.AndroidComposeUiTestEnvironment.withTestCoroutines(ComposeUiTest.android.kt:372)
+01-13 06:26:24.121  9693  9709 E TestRunner: 	at androidx.compose.ui.test.AndroidComposeUiTestEnvironment.access$withTestCoroutines(ComposeUiTest.android.kt:219)
+01-13 06:26:24.121  9693  9709 E TestRunner: 	at androidx.compose.ui.test.AndroidComposeUiTestEnvironment$runTest$1$1$1.invoke(ComposeUiTest.android.kt:330)
+01-13 06:26:24.121  9693  9709 E TestRunner: 	at androidx.compose.ui.test.EspressoLink.withStrategy(EspressoLink.android.kt:66)
+01-13 06:26:24.121  9693  9709 E TestRunner: 	at androidx.compose.ui.test.AndroidComposeUiTestEnvironment$runTest$1$1.invoke(ComposeUiTest.android.kt:329)
+01-13 06:26:24.121  9693  9709 E TestRunner: 	at androidx.compose.ui.test.IdlingResourceRegistry.withRegistry(IdlingResourceRegistry.jvm.kt:155)
+01-13 06:26:24.121  9693  9709 E TestRunner: 	at androidx.compose.ui.test.AndroidComposeUiTestEnvironment$runTest$1.invoke(ComposeUiTest.android.kt:328)
+01-13 06:26:24.121  9693  9709 E TestRunner: 	at androidx.compose.ui.test.ComposeRootRegistry.withRegistry(ComposeRootRegistry.android.kt:146)
+01-13 06:26:24.121  9693  9709 E TestRunner: 	at androidx.compose.ui.test.AndroidComposeUiTestEnvironment.runTest(ComposeUiTest.android.kt:327)
+01-13 06:26:24.121  9693  9709 E TestRunner: 	at androidx.compose.ui.test.junit4.AndroidComposeTestRule$apply$1.evaluate(AndroidComposeTestRule.android.kt:271)
+01-13 06:26:24.121  9693  9709 E TestRunner: 	at org.junit.runners.ParentRunner$3.evaluate(ParentRunner.java:306)
+01-13 06:26:24.121  9693  9709 E TestRunner: 	at org.junit.runners.BlockJUnit4ClassRunner$1.evaluate(BlockJUnit4ClassRunner.java:100)
+01-13 06:26:24.122  9693  9709 E TestRunner: 	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:366)
+01-13 06:26:24.122  9693  9709 E TestRunner: 	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:103)
+01-13 06:26:24.122  9693  9709 E TestRunner: 	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:63)
+01-13 06:26:24.122  9693  9709 E TestRunner: 	at org.junit.runners.ParentRunner$4.run(ParentRunner.java:331)
+01-13 06:26:24.122  9693  9709 E TestRunner: 	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:79)
+01-13 06:26:24.122  9693  9709 E TestRunner: 	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:329)
+01-13 06:26:24.122  9693  9709 E TestRunner: 	at org.junit.runners.ParentRunner.access$100(ParentRunner.java:66)
+01-13 06:26:24.122  9693  9709 E TestRunner: 	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:293)
+01-13 06:26:24.122  9693  9709 E TestRunner: 	at org.junit.runners.ParentRunner$3.evaluate(ParentRunner.java:306)
+01-13 06:26:24.122  9693  9709 E TestRunner: 	at org.junit.runners.ParentRunner.run(ParentRunner.java:413)
+01-13 06:26:24.122  9693  9709 E TestRunner: 	at androidx.test.ext.junit.runners.AndroidJUnit4.run(AndroidJUnit4.java:162)
+01-13 06:26:24.122  9693  9709 E TestRunner: 	at org.junit.runners.Suite.runChild(Suite.java:128)
+01-13 06:26:24.122  9693  9709 E TestRunner: 	at org.junit.runners.Suite.runChild(Suite.java:27)
+01-13 06:26:24.122  9693  9709 E TestRunner: 	at org.junit.runners.ParentRunner$4.run(ParentRunner.java:331)
+01-13 06:26:24.122  9693  9709 E TestRunner: 	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:79)
+01-13 06:26:24.122  9693  9709 E TestRunner: 	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:329)
+01-13 06:26:24.122  9693  9709 E TestRunner: 	at org.junit.runners.ParentRunner.access$100(ParentRunner.java:66)
+01-13 06:26:24.122  9693  9709 E TestRunner: 	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:293)
+01-13 06:26:24.122  9693  9709 E TestRunner: 	at org.junit.runners.ParentRunner$3.evaluate(ParentRunner.java:306)
+01-13 06:26:24.122  9693  9709 E TestRunner: 	at org.junit.runners.ParentRunner.run(ParentRunner.java:413)
+01-13 06:26:24.122  9693  9709 E TestRunner: 	at org.junit.runner.JUnitCore.run(JUnitCore.java:137)
+01-13 06:26:24.122  9693  9709 E TestRunner: 	at org.junit.runner.JUnitCore.run(JUnitCore.java:115)
+01-13 06:26:24.122  9693  9709 E TestRunner: 	at androidx.test.internal.runner.TestExecutor.execute(TestExecutor.java:68)
+01-13 06:26:24.122  9693  9709 E TestRunner: 	at androidx.test.internal.runner.TestExecutor.execute(TestExecutor.java:59)
+01-13 06:26:24.122  9693  9709 E TestRunner: 	at androidx.test.runner.AndroidJUnitRunner.onStart(AndroidJUnitRunner.java:463)
+01-13 06:26:24.122  9693  9709 E TestRunner: 	at android.app.Instrumentation$InstrumentationThread.run(Instrumentation.java:2604)
+01-13 06:26:24.122  9693  9709 E TestRunner: ----- end exception -----
+01-13 06:26:24.123  9693  9709 I TestRunner: finished: alarmCard_displaysRepeatInfo(com.betterclock.ui.AlarmListScreenTest)

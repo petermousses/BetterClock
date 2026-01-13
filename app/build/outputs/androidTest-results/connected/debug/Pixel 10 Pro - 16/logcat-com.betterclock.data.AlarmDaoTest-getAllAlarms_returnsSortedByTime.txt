@@ -1,0 +1,2 @@
+01-13 06:26:15.013  9693  9709 I TestRunner: started: getAllAlarms_returnsSortedByTime(com.betterclock.data.AlarmDaoTest)
+01-13 06:26:15.050  9693  9709 I TestRunner: finished: getAllAlarms_returnsSortedByTime(com.betterclock.data.AlarmDaoTest)

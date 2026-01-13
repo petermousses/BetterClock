@@ -1,0 +1,232 @@
+01-13 06:27:19.412  9693  9709 I TestRunner: started: settingsScreen_displays24HourToggle(com.betterclock.ui.SettingsScreenTest)
+01-13 06:27:19.414  9693  9709 D IdlingRegistry: Registering idling resources: [androidx.compose.ui.test.EspressoLink@b640062]
+01-13 06:27:19.415  9693  9709 W Settings: Setting always_finish_activities has moved from android.provider.Settings.System to android.provider.Settings.Global, returning read-only value.
+01-13 06:27:19.418  1584  4528 V GrammaticalInflectionUtils: AttributionSource: android.content.AttributionSource@428f98d6 does not have READ_SYSTEM_GRAMMATICAL_GENDER permission.
+01-13 06:27:19.427   547   580 I libbinder.BpBinder: onLastStrongRef automatically unlinking death recipients:
+01-13 06:27:19.432  9693  9693 D LifecycleMonitor: Lifecycle status change: androidx.activity.ComponentActivity@b693786 in: PRE_ON_CREATE
+01-13 06:27:19.432  9693  9693 V ActivityScenario: Activity lifecycle changed event received but ignored because the reported transition was not ON_CREATE while the last known transition was PRE_ON_CREATE
+01-13 06:27:19.434  2656  2727 D WindowOnBackDispatcher: setTopOnBackInvokedCallback (unwrapped): android.view.ViewRootImpl$$ExternalSyntheticLambda12@9621977
+01-13 06:27:19.434  9693  9693 D LifecycleMonitor: Lifecycle status change: androidx.activity.ComponentActivity@b693786 in: CREATED
+01-13 06:27:19.434  9693  9693 V ActivityScenario: Update currentActivityStage to CREATED, currentActivity=androidx.activity.ComponentActivity@b693786
+01-13 06:27:19.434  9693  9693 D LifecycleMonitor: Lifecycle status change: androidx.activity.ComponentActivity@b693786 in: STARTED
+01-13 06:27:19.434  9693  9693 V ActivityScenario: Update currentActivityStage to STARTED, currentActivity=androidx.activity.ComponentActivity@b693786
+01-13 06:27:19.435  9693  9693 D LifecycleMonitor: Lifecycle status change: androidx.activity.ComponentActivity@b693786 in: RESUMED
+01-13 06:27:19.435  9693  9693 V ActivityScenario: Update currentActivityStage to RESUMED, currentActivity=androidx.activity.ComponentActivity@b693786
+01-13 06:27:19.442  9693  9693 D WindowOnBackDispatcher: setTopOnBackInvokedCallback (unwrapped): android.view.ViewRootImpl$$ExternalSyntheticLambda12@2eb856a
+01-13 06:27:19.442  1239  1239 D AOC     : A3:MSG: tmd3743_device.cc, 977: USF: TMD3743: C/G switch 4 -> 3 d_lux:0.34 w_lux: 0.58 C:0.01 G:0.00
+01-13 06:27:19.461  1239  1239 D AOC     : A3:MSG: tmd3743_device.cc, 977: USF: TMD3743: C/G switch 3 -> 2 d_lux:0.58 w_lux: 0.68 C:0.01 G:0.00
+01-13 06:27:19.463  9739  9739 D VRI[InstrumentationActivityInvoker$EmptyActivity]: visibilityChanged oldVisibility=true newVisibility=false
+01-13 06:27:19.471  1584  1674 I ActivityTaskManager: Displayed com.betterclock/androidx.activity.ComponentActivity for user 0: +48ms
+01-13 06:27:19.480  1239  1239 D AOC     : A3:MSG: tmd3743_device.cc, 977: USF: TMD3743: C/G switch 2 -> 4 d_lux:0.13 w_lux: 0.45 C:0.01 G:0.00
+01-13 06:27:19.487  9693  9693 D ImeBackDispatcher: switch root view (mImeCallbacks.size=0)
+01-13 06:27:19.489  1584  2495 I ImeTracker: com.betterclock:fafe10bb: onRequestHide at ORIGIN_SERVER reason HIDE_UNSPECIFIED_WINDOW fromUser false
+01-13 06:27:19.489  9693  9693 D InsetsController: hide(ime())
+01-13 06:27:19.489  9693  9693 I ImeTracker: com.betterclock:fafe10bb: onCancelled at PHASE_CLIENT_ALREADY_HIDDEN
+01-13 06:27:19.489 17749 17749 D ImeBackDispatcher: Clear (mImeCallbacks.size=0)
+01-13 06:27:19.489 17749 17749 D ImeBackDispatcher: switch root view (mImeCallbacks.size=0)
+01-13 06:27:19.492  1584  5729 I ImeTracker: system_server:de67991d: onRequestHide at ORIGIN_SERVER reason IME_REQUESTED_CHANGED_LISTENER fromUser false
+01-13 06:27:19.493  1584  1677 I ImeTracker: system_server:de67991d: onCancelled at PHASE_SERVER_SHOULD_HIDE
+01-13 06:27:19.505  9739  9739 D WindowOnBackDispatcher: setTopOnBackInvokedCallback (unwrapped): null
+01-13 06:27:19.506  9739  9739 D ViewRootImpl: Skipping stats log for color mode
+01-13 06:27:19.517  1239  1239 D AOC     : A3:MSG: tmd3743_device.cc, 977: USF: TMD3743: C/G switch 4 -> 2 d_lux:0.18 w_lux: 0.26 C:0.01 G:0.00
+01-13 06:27:19.550  1239  1239 D AOC     : A3:MSG: usf_sensor.cc, 1871: USF: Received start sampling request for ICM45631 Motion Detect (active:3).
+01-13 06:27:19.551  1239  1239 D AOC     : A3:MSG: usf_sensor.cc, 1871: USF: Received start sampling request for ICM45631 Accelerometer (active:7).
+01-13 06:27:19.551  1239  1239 D AOC     : A3:MSG: icm456xy_device.cc, 443: USF: Device: type: 0, p/l: 10000000 ns/ 66666666 ns, O/WM/I: 200/1/200
+01-13 06:27:19.554  1239  1239 D AOC     : A3:MSG: tmd3743_device.cc, 977: USF: TMD3743: C/G switch 2 -> 3 d_lux:0.37 w_lux: 0.58 C:0.01 G:0.00
+01-13 06:27:19.573  1239  1239 D AOC     : A3:MSG: tmd3743_device.cc, 977: USF: TMD3743: C/G switch 3 -> 4 d_lux:0.21 w_lux: 0.67 C:0.02 G:0.00
+01-13 06:27:19.593  1239  1239 D AOC     : A3:MSG: tmd3743_device.cc, 977: USF: TMD3743: C/G switch 4 -> 2 d_lux:0.49 w_lux: 0.61 C:0.01 G:0.00
+01-13 06:27:19.611  1239  1239 D AOC     : A3:MSG: tmd3743_device.cc, 977: USF: TMD3743: C/G switch 2 -> 4 d_lux:0.32 w_lux: 0.63 C:0.01 G:0.00
+01-13 06:27:19.618  1197  2479 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:27:19.618  1197  2479 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:27:19.618  1197  2479 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:27:19.618  1197  2479 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:27:19.618  1197  2479 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:27:19.621  2656  2727 D WindowOnBackDispatcher: setTopOnBackInvokedCallback (unwrapped): null
+01-13 06:27:19.629 16650 16650 D RecentsView: onTaskRemoved: 10134, not handling task stack changes
+01-13 06:27:19.629 16650 16650 D RecentsView: onTaskRemoved: 10134, not handling task stack changes
+01-13 06:27:19.630  1239  1239 D AOC     : A3:MSG: tmd3743_device.cc, 977: USF: TMD3743: C/G switch 4 -> 2 d_lux:0.71 w_lux: 0.69 C:0.02 G:0.00
+01-13 06:27:19.686  1239  1239 D AOC     : A3:MSG: tmd3743_device.cc, 977: USF: TMD3743: C/G switch 2 -> 4 d_lux:0.36 w_lux: 0.72 C:0.02 G:0.00
+01-13 06:27:19.760  1239  1239 D AOC     : A3:MSG: tmd3743_device.cc, 977: USF: TMD3743: C/G switch 4 -> 2 d_lux:0.51 w_lux: 0.66 C:0.02 G:0.00
+01-13 06:27:19.768  2656  2727 D WindowOnBackDispatcher: setTopOnBackInvokedCallback (unwrapped): null
+01-13 06:27:19.770 11654 11679 I ForwardSyncCache: reclaimMemory: Clearing caches
+01-13 06:27:19.771 11654 11679 W Bugle   : TextClassifierLibManagerImpl: Reclaiming memory at level: 40
+01-13 06:27:19.772  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:27:19.773  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:27:19.773  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:27:19.773  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:27:19.773  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:27:19.773  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:27:19.773  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:27:19.773  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:27:19.773  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:27:19.773  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:27:19.773  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:27:19.773  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:27:19.773  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:27:19.773  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:27:19.773  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:27:19.773  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:27:19.773  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:27:19.774  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:27:19.774  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:27:19.774  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:27:19.774  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:27:19.774  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:27:19.774  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:27:19.774  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:27:19.774  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:27:19.774  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:27:19.774  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:27:19.774  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:27:19.774  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:27:19.774  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:27:19.774  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:27:19.774  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:27:19.775  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:27:19.775  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:27:19.775  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:27:19.775  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:27:19.775  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:27:19.775  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:27:19.775  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:27:19.775  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:27:19.775  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:27:19.775  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:27:19.775  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:27:19.775  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:27:19.775  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:27:19.775  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:27:19.775  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:27:19.775  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:27:19.775  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:27:19.776  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:27:19.776  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:27:19.776  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:27:19.776  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:27:19.776  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:27:19.776  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:27:19.776  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:27:19.776  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:27:19.776  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:27:19.776  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:27:19.776  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:27:19.776  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:27:19.776  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:27:19.776  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:27:19.776  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:27:19.776  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:27:19.776  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:27:19.776  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:27:19.776  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:27:19.777  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:27:19.777  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:27:19.777  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:27:19.777  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:27:19.777  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:27:19.777  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:27:19.777  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:27:19.777  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:27:19.777  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:27:19.777  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:27:19.777  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:27:19.777  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:27:19.777  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:27:19.777  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:27:19.777  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:27:19.777  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:27:19.777  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:27:19.778  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:27:19.778  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:27:19.778  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:27:19.778  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:27:19.778  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:27:19.778  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:27:19.778  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:27:19.778  1239  1239 D AOC     : A3:MSG: tmd3743_device.cc, 977: USF: TMD3743: C/G switch 2 -> 3 d_lux:0.44 w_lux: 0.66 C:0.02 G:0.00
+01-13 06:27:19.778  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:27:19.778  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:27:19.778  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:27:19.779  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:27:19.779  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:27:19.779  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:27:19.779  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:27:19.779  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:27:19.779  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:27:19.779  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:27:19.779  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:27:19.779  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:27:19.779  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:27:19.779  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:27:19.779  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:27:19.779  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:27:19.780  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:27:19.780  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:27:19.780  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:27:19.780  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:27:19.780  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:27:19.780  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:27:19.780  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:27:19.780  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:27:19.780  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:27:19.780  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:27:19.780  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:27:19.780  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:27:19.780  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:27:19.797  1239  1239 D AOC     : A3:MSG: tmd3743_device.cc, 977: USF: TMD3743: C/G switch 3 -> 2 d_lux:0.68 w_lux: 0.70 C:0.02 G:0.00
+01-13 06:27:19.816  1239  1239 D AOC     : A3:MSG: tmd3743_device.cc, 977: USF: TMD3743: C/G switch 2 -> 4 d_lux:0.15 w_lux: 0.63 C:0.01 G:0.00
+01-13 06:27:19.892  1239  1239 D AOC     : A3:MSG: tmd3743_device.cc, 977: USF: TMD3743: C/G switch 4 -> 3 d_lux:0.45 w_lux: 0.61 C:0.01 G:0.00
+01-13 06:27:19.911  1239  1239 D AOC     : A3:MSG: tmd3743_device.cc, 977: USF: TMD3743: C/G switch 3 -> 2 d_lux:0.51 w_lux: 0.74 C:0.02 G:0.00
+01-13 06:27:19.928  1239  1239 D AOC     : A3:MSG: tmd3743_device.cc, 977: USF: TMD3743: C/G switch 2 -> 3 d_lux:0.40 w_lux: 0.66 C:0.02 G:0.00
+01-13 06:27:19.947  1239  1239 D AOC     : A3:MSG: tmd3743_device.cc, 977: USF: TMD3743: C/G switch 3 -> 4 d_lux:0.28 w_lux: 0.70 C:0.02 G:0.00
+01-13 06:27:19.984  1239  1239 D AOC     : A3:MSG: tmd3743_device.cc, 977: USF: TMD3743: C/G switch 4 -> 2 d_lux:0.54 w_lux: 0.76 C:0.02 G:0.00
+01-13 06:27:19.994 17749 17749 D VRI[MainActivity]: visibilityChanged oldVisibility=true newVisibility=false
+01-13 06:27:20.026 17749 17819 I ReactNativeJNI: Memory warning (pressure level: TRIM_MEMORY_UI_HIDDEN) received by JS VM, ignoring because it's non-severe
+01-13 06:27:20.028  1239  1239 D AOC     : A3:MSG: tmd3743_device.cc, 977: USF: TMD3743: C/G switch 2 -> 4 d_lux:0.26 w_lux: 0.65 C:0.02 G:0.00
+01-13 06:27:20.028  1239  1239 D AOC     : A3:MSG: tmd3743_device.cc, 977: USF: TMD3743: C/G switch 4 -> 2 d_lux:0.71 w_lux: 0.74 C:0.02 G:0.00
+01-13 06:27:20.041  1239  1239 D AOC     : A3:MSG: tmd3743_device.cc, 977: USF: TMD3743: C/G switch 2 -> 4 d_lux:0.09 w_lux: 0.63 C:0.02 G:0.00
+01-13 06:27:20.058  1239  1239 D AOC     : A3:MSG: tmd3743_device.cc, 977: USF: TMD3743: C/G switch 4 -> 2 d_lux:0.53 w_lux: 0.74 C:0.02 G:0.00
+01-13 06:27:20.096  1239  1239 D AOC     : A3:MSG: tmd3743_device.cc, 977: USF: TMD3743: C/G switch 2 -> 4 d_lux:0.30 w_lux: 0.66 C:0.02 G:0.00
+01-13 06:27:20.115  1239  1239 D AOC     : A3:MSG: tmd3743_device.cc, 977: USF: TMD3743: C/G switch 4 -> 2 d_lux:0.63 w_lux: 0.61 C:0.01 G:0.00
+01-13 06:27:20.152  1239  1239 D AOC     : A3:MSG: tmd3743_device.cc, 977: USF: TMD3743: C/G switch 2 -> 4 d_lux:0.10 w_lux: 0.38 C:0.01 G:0.00
+01-13 06:27:20.154  1584  4429 V GrammaticalInflectionUtils: AttributionSource: android.content.AttributionSource@44447175 does not have READ_SYSTEM_GRAMMATICAL_GENDER permission.
+01-13 06:27:20.160   547   581 I libbinder.BpBinder: onLastStrongRef automatically unlinking death recipients:
+01-13 06:27:20.163  9693  9693 D LifecycleMonitor: Lifecycle status change: androidx.activity.ComponentActivity@b693786 in: PAUSED
+01-13 06:27:20.163  9693  9693 V ActivityScenario: Update currentActivityStage to PAUSED, currentActivity=androidx.activity.ComponentActivity@b693786
+01-13 06:27:20.164  1197 14163 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:27:20.164  1197 14163 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:27:20.164  1197 14163 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:27:20.164  1197 14163 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:27:20.164  1197 14163 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:27:20.169   656   656 W powerhal-libperfmgr: Sess(23950), cannot resume, already active
+01-13 06:27:20.169   656   656 W powerhal-libperfmgr: Sess(23954), cannot resume, already active
+01-13 06:27:20.172  2656  2727 D WindowOnBackDispatcher: setTopOnBackInvokedCallback (unwrapped): android.view.ViewRootImpl$$ExternalSyntheticLambda12@ef06dba
+01-13 06:27:20.180  9739  9739 D WindowOnBackDispatcher: setTopOnBackInvokedCallback (unwrapped): android.view.ViewRootImpl$$ExternalSyntheticLambda12@ebaa732
+01-13 06:27:20.189  1239  1239 D AOC     : A3:MSG: tmd3743_device.cc, 977: USF: TMD3743: C/G switch 4 -> 2 d_lux:0.47 w_lux: 0.33 C:0.01 G:0.00
+01-13 06:27:20.196  1584  1674 I ActivityTaskManager: Displayed com.betterclock.test/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity for user 0: +42ms
+01-13 06:27:20.198   547   951 I libbinder.BpBinder: onLastStrongRef automatically unlinking death recipients:
+01-13 06:27:20.199  1239  1239 D AOC     : A3:MSG: controller.cc, 933: SysMem: ipc: C-F1-Ar, cmd ID: 0x00c8, tag: 0xcc, rc: 0
+01-13 06:27:20.200  1239  1239 D AOC     : A3:MSG: controller.cc, 933: SysMem: ipc: C-F1-Ar, cmd ID: 0x00c8, tag: 0xcd, rc: 0
+01-13 06:27:20.202 17749 17749 D ViewRootImpl: Skipping stats log for color mode
+01-13 06:27:20.203   656   656 W powerhal-libperfmgr: Sess(23756), cannot resume, already active
+01-13 06:27:20.208  1239  1239 D AOC     : A3:MSG: tmd3743_device.cc, 977: USF: TMD3743: C/G switch 2 -> 4 d_lux:0.29 w_lux: 0.71 C:0.02 G:0.00
+01-13 06:27:20.241  9693  9693 D VRI[ComponentActivity]: visibilityChanged oldVisibility=true newVisibility=false
+01-13 06:27:20.254  9693  9693 D LifecycleMonitor: Lifecycle status change: androidx.activity.ComponentActivity@b693786 in: STOPPED
+01-13 06:27:20.254  9693  9693 V ActivityScenario: Update currentActivityStage to STOPPED, currentActivity=androidx.activity.ComponentActivity@b693786
+01-13 06:27:20.257 17749 17749 D ImeBackDispatcher: switch root view (mImeCallbacks.size=0)
+01-13 06:27:20.259  1584  2495 I ImeTracker: xyz.blueskyweb.app:7b212a4b: onRequestHide at ORIGIN_SERVER reason HIDE_UNSPECIFIED_WINDOW fromUser false
+01-13 06:27:20.259 17749 17749 D InsetsController: hide(ime())
+01-13 06:27:20.259 17749 17749 I ImeTracker: xyz.blueskyweb.app:7b212a4b: onCancelled at PHASE_CLIENT_ALREADY_HIDDEN
+01-13 06:27:20.263  1584  5737 I ImeTracker: system_server:98a30e98: onRequestHide at ORIGIN_SERVER reason IME_REQUESTED_CHANGED_LISTENER fromUser false
+01-13 06:27:20.267  1584  1677 I ImeTracker: system_server:98a30e98: onCancelled at PHASE_SERVER_SHOULD_HIDE
+01-13 06:27:20.267  9693  9693 D LifecycleMonitor: Lifecycle status change: androidx.activity.ComponentActivity@b693786 in: DESTROYED
+01-13 06:27:20.267  9693  9693 V ActivityScenario: Update currentActivityStage to DESTROYED, currentActivity=null
+01-13 06:27:20.267  9693  9693 D ImeBackDispatcher: Clear (mImeCallbacks.size=0)
+01-13 06:27:20.267  9693  9693 D ImeBackDispatcher: switch root view (mImeCallbacks.size=0)
+01-13 06:27:20.267  9693  9693 D WindowOnBackDispatcher: setTopOnBackInvokedCallback (unwrapped): null
+01-13 06:27:20.269  9693  9693 D ViewRootImpl: Skipping stats log for color mode
+01-13 06:27:20.271  9693  9693 D ImeBackDispatcher: Clear (mImeCallbacks.size=0)
+01-13 06:27:20.271  9693  9693 D ImeBackDispatcher: switch root view (mImeCallbacks.size=0)
+01-13 06:27:20.274 16650 16650 D RecentsView: onTaskRemoved: 10135, not handling task stack changes
+01-13 06:27:20.274 16650 16650 D RecentsView: onTaskRemoved: 10135, not handling task stack changes
+01-13 06:27:20.278  9693  9709 D IdlingRegistry: Unregistering idling resources: [androidx.compose.ui.test.EspressoLink@b640062]
+01-13 06:27:20.279  9693  9709 I TestRunner: finished: settingsScreen_displays24HourToggle(com.betterclock.ui.SettingsScreenTest)

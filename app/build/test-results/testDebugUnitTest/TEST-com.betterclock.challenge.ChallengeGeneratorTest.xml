@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.betterclock.challenge.ChallengeGeneratorTest" tests="13" skipped="0" failures="0" errors="0" timestamp="2026-01-13T13:26:01" hostname="MacBookAir.mousses.xyz" time="0.06">
+  <properties/>
+  <testcase name="generateMathChallenge with HARD difficulty produces valid challenge" classname="com.betterclock.challenge.ChallengeGeneratorTest" time="0.011"/>
+  <testcase name="generateChallenge throws exception for NONE type" classname="com.betterclock.challenge.ChallengeGeneratorTest" time="0.001"/>
+  <testcase name="generateMathChallenge with MEDIUM difficulty produces valid challenge" classname="com.betterclock.challenge.ChallengeGeneratorTest" time="0.0"/>
+  <testcase name="math challenge checkAnswer validates correctly" classname="com.betterclock.challenge.ChallengeGeneratorTest" time="0.019"/>
+  <testcase name="generateChallenge creates correct challenge type" classname="com.betterclock.challenge.ChallengeGeneratorTest" time="0.005"/>
+  <testcase name="memory challenge checkAnswer is case insensitive" classname="com.betterclock.challenge.ChallengeGeneratorTest" time="0.0"/>
+  <testcase name="generatePatternChallenge produces valid patterns" classname="com.betterclock.challenge.ChallengeGeneratorTest" time="0.012"/>
+  <testcase name="generateMemoryChallenge produces sequences of correct length" classname="com.betterclock.challenge.ChallengeGeneratorTest" time="0.0"/>
+  <testcase name="pattern challenge checkAnswer validates correctly" classname="com.betterclock.challenge.ChallengeGeneratorTest" time="0.0"/>
+  <testcase name="challenge generation completes within 100ms" classname="com.betterclock.challenge.ChallengeGeneratorTest" time="0.008"/>
+  <testcase name="single challenge generation is very fast" classname="com.betterclock.challenge.ChallengeGeneratorTest" time="0.0"/>
+  <testcase name="math challenge getDisplayQuestion formats correctly" classname="com.betterclock.challenge.ChallengeGeneratorTest" time="0.003"/>
+  <testcase name="generateMathChallenge with EASY difficulty produces valid challenge" classname="com.betterclock.challenge.ChallengeGeneratorTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.betterclock.alarm.AlarmSchedulerTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2026-01-13T13:26:01" hostname="MacBookAir.mousses.xyz" time="0.082">
+  <properties/>
+  <testcase name="day of week bit calculation is correct" classname="com.betterclock.alarm.AlarmSchedulerTest" time="0.002"/>
+  <testcase name="snooze duration calculations are correct" classname="com.betterclock.alarm.AlarmSchedulerTest" time="0.073"/>
+  <testcase name="alarm trigger time calculation for future time today" classname="com.betterclock.alarm.AlarmSchedulerTest" time="0.0"/>
+  <testcase name="one-time alarm schedules for today if time not passed" classname="com.betterclock.alarm.AlarmSchedulerTest" time="0.002"/>
+  <testcase name="repeating alarm identifies correct days" classname="com.betterclock.alarm.AlarmSchedulerTest" time="0.003"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

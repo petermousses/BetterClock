@@ -1,0 +1,2 @@
+01-13 06:26:14.979  9693  9709 I TestRunner: started: setAlarmEnabled_updatesStatus(com.betterclock.data.AlarmDaoTest)
+01-13 06:26:15.008  9693  9709 I TestRunner: finished: setAlarmEnabled_updatesStatus(com.betterclock.data.AlarmDaoTest)

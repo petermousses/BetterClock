@@ -1,0 +1,160 @@
+01-13 06:27:22.922  9693  9709 I TestRunner: started: settingsScreen_confirmStopToggle_visible(com.betterclock.ui.SettingsScreenTest)
+01-13 06:27:22.924  9693  9709 D IdlingRegistry: Registering idling resources: [androidx.compose.ui.test.EspressoLink@84c88eb]
+01-13 06:27:22.928  9693  9709 W Settings: Setting always_finish_activities has moved from android.provider.Settings.System to android.provider.Settings.Global, returning read-only value.
+01-13 06:27:22.932  1584  4173 V GrammaticalInflectionUtils: AttributionSource: android.content.AttributionSource@428f98d6 does not have READ_SYSTEM_GRAMMATICAL_GENDER permission.
+01-13 06:27:22.935   547   951 I libbinder.BpBinder: onLastStrongRef automatically unlinking death recipients:
+01-13 06:27:22.944  9693  9693 D LifecycleMonitor: Lifecycle status change: androidx.activity.ComponentActivity@c46888c in: PRE_ON_CREATE
+01-13 06:27:22.944  9693  9693 V ActivityScenario: Activity lifecycle changed event received but ignored because the reported transition was not ON_CREATE while the last known transition was PRE_ON_CREATE
+01-13 06:27:22.946  9693  9693 D LifecycleMonitor: Lifecycle status change: androidx.activity.ComponentActivity@c46888c in: CREATED
+01-13 06:27:22.946  9693  9693 V ActivityScenario: Update currentActivityStage to CREATED, currentActivity=androidx.activity.ComponentActivity@c46888c
+01-13 06:27:22.946  9693  9693 D LifecycleMonitor: Lifecycle status change: androidx.activity.ComponentActivity@c46888c in: STARTED
+01-13 06:27:22.946  9693  9693 V ActivityScenario: Update currentActivityStage to STARTED, currentActivity=androidx.activity.ComponentActivity@c46888c
+01-13 06:27:22.947  9693  9693 D LifecycleMonitor: Lifecycle status change: androidx.activity.ComponentActivity@c46888c in: RESUMED
+01-13 06:27:22.947  9693  9693 V ActivityScenario: Update currentActivityStage to RESUMED, currentActivity=androidx.activity.ComponentActivity@c46888c
+01-13 06:27:22.950  2656  2727 D WindowOnBackDispatcher: setTopOnBackInvokedCallback (unwrapped): android.view.ViewRootImpl$$ExternalSyntheticLambda12@37414e7
+01-13 06:27:22.951  9693  9693 D WindowOnBackDispatcher: setTopOnBackInvokedCallback (unwrapped): android.view.ViewRootImpl$$ExternalSyntheticLambda12@ab2790
+01-13 06:27:22.969  1239  1239 D AOC     : A3:MSG: tmd3743_device.cc, 977: USF: TMD3743: C/G switch 2 -> 3 d_lux:0.45 w_lux: 0.73 C:0.02 G:0.00
+01-13 06:27:22.970  1584  1674 I ActivityTaskManager: Displayed com.betterclock/androidx.activity.ComponentActivity for user 0: +31ms
+01-13 06:27:22.975  9739  9739 D VRI[InstrumentationActivityInvoker$EmptyActivity]: visibilityChanged oldVisibility=true newVisibility=false
+01-13 06:27:23.004  9693  9693 D ImeBackDispatcher: switch root view (mImeCallbacks.size=0)
+01-13 06:27:23.005  1584  2495 I ImeTracker: com.betterclock:3a7ad8c4: onRequestHide at ORIGIN_SERVER reason HIDE_UNSPECIFIED_WINDOW fromUser false
+01-13 06:27:23.006  9693  9693 D InsetsController: hide(ime())
+01-13 06:27:23.006  9693  9693 I ImeTracker: com.betterclock:3a7ad8c4: onCancelled at PHASE_CLIENT_ALREADY_HIDDEN
+01-13 06:27:23.006 17749 17749 D ImeBackDispatcher: Clear (mImeCallbacks.size=0)
+01-13 06:27:23.006 17749 17749 D ImeBackDispatcher: switch root view (mImeCallbacks.size=0)
+01-13 06:27:23.006  1239  1239 D AOC     : A3:MSG: tmd3743_device.cc, 977: USF: TMD3743: C/G switch 3 -> 2 d_lux:0.45 w_lux: 0.36 C:0.01 G:0.00
+01-13 06:27:23.011  1584  4429 I ImeTracker: system_server:7526b6fa: onRequestHide at ORIGIN_SERVER reason IME_REQUESTED_CHANGED_LISTENER fromUser false
+01-13 06:27:23.011  1584  1677 I ImeTracker: system_server:7526b6fa: onCancelled at PHASE_SERVER_SHOULD_HIDE
+01-13 06:27:23.024  9739  9739 D WindowOnBackDispatcher: setTopOnBackInvokedCallback (unwrapped): null
+01-13 06:27:23.025  1239  1239 D AOC     : A3:MSG: tmd3743_device.cc, 977: USF: TMD3743: C/G switch 2 -> 4 d_lux:0.14 w_lux: 0.30 C:0.01 G:0.00
+01-13 06:27:23.028  9739  9739 D ViewRootImpl: Skipping stats log for color mode
+01-13 06:27:23.036 16650 16650 D RecentsView: onTaskRemoved: 10142, not handling task stack changes
+01-13 06:27:23.036 16650 16650 D RecentsView: onTaskRemoved: 10142, not handling task stack changes
+01-13 06:27:23.062  1239  1239 D AOC     : A3:MSG: tmd3743_device.cc, 977: USF: TMD3743: C/G switch 4 -> 2 d_lux:0.55 w_lux: 0.58 C:0.01 G:0.00
+01-13 06:27:23.082  1239  1239 D AOC     : A3:MSG: tmd3743_device.cc, 977: USF: TMD3743: C/G switch 2 -> 4 d_lux:0.25 w_lux: 0.61 C:0.02 G:0.00
+01-13 06:27:23.111  1197 14163 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:27:23.111  1197 14163 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:27:23.111  1197 14163 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:27:23.111  1197 14163 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:27:23.111  1197 14163 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:27:23.119  2656  2727 D WindowOnBackDispatcher: setTopOnBackInvokedCallback (unwrapped): null
+01-13 06:27:23.137  1239  1239 D AOC     : A3:MSG: tmd3743_device.cc, 977: USF: TMD3743: C/G switch 4 -> 3 d_lux:0.46 w_lux: 0.76 C:0.02 G:0.00
+01-13 06:27:23.155  1239  1239 D AOC     : A3:MSG: tmd3743_device.cc, 977: USF: TMD3743: C/G switch 3 -> 2 d_lux:0.40 w_lux: 0.53 C:0.01 G:0.00
+01-13 06:27:23.175  1239  1239 D AOC     : A3:MSG: tmd3743_device.cc, 977: USF: TMD3743: C/G switch 2 -> 4 d_lux:0.21 w_lux: 0.48 C:0.01 G:0.00
+01-13 06:27:23.193  1239  1239 D AOC     : A3:MSG: tmd3743_device.cc, 977: USF: TMD3743: C/G switch 4 -> 2 d_lux:0.55 w_lux: 0.67 C:0.02 G:0.00
+01-13 06:27:23.211  1239  1239 D AOC     : A3:MSG: tmd3743_device.cc, 977: USF: TMD3743: C/G switch 2 -> 4 d_lux:0.24 w_lux: 0.61 C:0.01 G:0.00
+01-13 06:27:23.230  1239  1239 D AOC     : A3:MSG: tmd3743_device.cc, 977: USF: TMD3743: C/G switch 4 -> 2 d_lux:0.47 w_lux: 0.67 C:0.02 G:0.00
+01-13 06:27:23.249  1239  1239 D AOC     : A3:MSG: tmd3743_device.cc, 977: USF: TMD3743: C/G switch 2 -> 4 d_lux:0.21 w_lux: 0.63 C:0.02 G:0.00
+01-13 06:27:23.267  1239  1239 D AOC     : A3:MSG: tmd3743_device.cc, 977: USF: TMD3743: C/G switch 4 -> 2 d_lux:0.79 w_lux: 0.67 C:0.02 G:0.00
+01-13 06:27:23.279  2656  2727 D WindowOnBackDispatcher: setTopOnBackInvokedCallback (unwrapped): null
+01-13 06:27:23.286  1239  1239 D AOC     : A3:MSG: tmd3743_device.cc, 977: USF: TMD3743: C/G switch 2 -> 3 d_lux:0.40 w_lux: 0.67 C:0.02 G:0.00
+01-13 06:27:23.305  1239  1239 D AOC     : A3:MSG: tmd3743_device.cc, 977: USF: TMD3743: C/G switch 3 -> 4 d_lux:0.44 w_lux: 0.67 C:0.02 G:0.00
+01-13 06:27:23.316  1538  1571 I pixel-thermal: VIRTUAL-SKIN-MODEL: model_input: [38690.00 28022.00 29109.00 32375.00 34225.00 35806.00 39736.00 27658.00 ]
+01-13 06:27:23.316  1538  1571 I native  : I0000 00:00:1768310843.316642    1571 thermal_tflite_wrapper.cc:261] ThermalTfliteInvoke
+01-13 06:27:23.316  1538  1571 I pixel-thermal: VIRTUAL-SKIN-MODEL: model_output: [31818.8 ]
+01-13 06:27:23.316  1538  1571 I pixel-thermal: VIRTUAL-SKIN-MODEL: predicted_value: [31818.8 ]
+01-13 06:27:23.316  1538  1571 I pixel-thermal: VIRTUAL-SKIN-CPU-HIGH:31.3528 raw data: VIRTUAL-SKIN:31352.8 VIRTUAL-SKIN-CPU-HIGH:31352.8 VIRTUAL-SKIN-EQ:31352.8 VIRTUAL-SKIN-LEGACY:32143.7 VIRTUAL-SKIN-LEGACY-MODEL-DIFF:324.906 VIRTUAL-SKIN-LEGACY-SHUTDOWN:0 VIRTUAL-SKIN-MODEL:31818.8 VIRTUAL-SKIN-MODEL-CLAMPED:31818.8 VIRTUAL-SKIN-MODEL-LEGACY-DIFF:-324.906 VIRTUAL-SKIN-MODEL-UPDATED:31352.8 VIRTUAL-SKIN-MODEL-UPPER-CLAMPED:31818.8 VIRTUAL-SKIN-SUB-0:31442.4 VIRTUAL-SKIN-SUB-1:32143.7 VIRTUAL-SKIN-SUB-2:31523.5 VIRTUAL-SKIN-SUB-3:31103.4 VIRTUAL-SKIN-SUB-4:31098.3 VT_LEGACY_WEIGHT:0 VT_MODEL_WEIGHT:1 charging_therm:38690 disp0_therm:28022 flash_therm:29109 north_therm:32375 quiet_therm:34225 rfpa_therm:35806 soc_therm:39736 usb_pwr_therm:27658
+01-13 06:27:23.319  1538  1538 I pixel-thermal: VIRTUAL-SKIN:31.3528 raw data: VIRTUAL-SKIN:31352.8
+01-13 06:27:23.320   548   880 D hwc-pixel-skin-temperature: 31.352795 rounded to 31 (deg)
+01-13 06:27:23.324  1239  1239 D AOC     : A3:MSG: tmd3743_device.cc, 977: USF: TMD3743: C/G switch 4 -> 2 d_lux:0.46 w_lux: 0.67 C:0.02 G:0.00
+01-13 06:27:23.340  1538  1571 I pixel-thermal: VIRTUAL-SKIN-SPEAKER-MODEL: model_input: [38690.00 28022.00 29109.00 32375.00 34225.00 35806.00 39736.00 27658.00 ]
+01-13 06:27:23.340  1538  1571 I native  : I0000 00:00:1768310843.340904    1571 thermal_tflite_wrapper.cc:261] ThermalTfliteInvoke
+01-13 06:27:23.341  1538  1571 I pixel-thermal: VIRTUAL-SKIN-SPEAKER-MODEL: model_output: [27022.6 ]
+01-13 06:27:23.341  1538  1571 I pixel-thermal: VIRTUAL-SKIN-SPEAKER-MODEL: predicted_value: [27022.6 ]
+01-13 06:27:23.341  1538  1571 I pixel-thermal: VIRTUAL-SKIN-SPEAKER:27.0948 raw data: VIRTUAL-SKIN-SPEAKER:27094.8 VIRTUAL-SKIN-SPEAKER-LEGACY:31827.4 VIRTUAL-SKIN-SPEAKER-LEGACY-MODEL-DIFF:4804.77 VIRTUAL-SKIN-SPEAKER-MODEL:27022.6 VIRTUAL-SKIN-SPEAKER-MODEL-CLAMPED:27022.6 VIRTUAL-SKIN-SPEAKER-MODEL-LEGACY-DIFF:-4804.77 VIRTUAL-SKIN-SPEAKER-MODEL-UPPER-CLAMPED:27022.6 VIRTUAL-SKIN-SPEAKER-SUB-0:31827.4 VT_SPEAKER_LEGACY_WEIGHT:4.87765e-14 VT_SPEAKER_MODEL_WEIGHT:1 charging_therm:38690 disp0_therm:28022 flash_therm:29109 north_therm:32375 quiet_therm:34225 rfpa_therm:35806 soc_therm:39736 usb_pwr_therm:27658
+01-13 06:27:23.341  1538  1571 I pixel-thermal: VIRTUAL-SKIN-CPU-LIGHT-ODPM:31.3528 raw data: VIRTUAL-SKIN:31352.8 VIRTUAL-SKIN-CPU-LIGHT-ODPM:31352.8
+01-13 06:27:23.341  1538  1571 I pixel-thermal: cellular-emergency:31.3528 raw data: VIRTUAL-SKIN:31352.8 cellular-emergency:31352.8
+01-13 06:27:23.341  1538  1571 I pixel-thermal: north_therm:32.375 raw data: north_therm:32375
+01-13 06:27:23.341  1538  1571 I pixel-thermal: VIRTUAL-SKIN-CPU-MID:31.3528 raw data: VIRTUAL-SKIN:31352.8 VIRTUAL-SKIN-CPU-MID:31352.8
+01-13 06:27:23.341  1538  1571 I pixel-thermal: VIRTUAL-SKIN:31.3528 raw data: VIRTUAL-SKIN:31352.8
+01-13 06:27:23.341  1538  1571 I pixel-thermal: VIRTUAL-SKIN-HINT:31.3528 raw data: VIRTUAL-SKIN:31352.8 VIRTUAL-SKIN-HINT:31352.8
+01-13 06:27:23.341  1538  1571 I pixel-thermal: VIRTUAL-SKIN-CPU-ODPM:31.3528 raw data: VIRTUAL-SKIN:31352.8 VIRTUAL-SKIN-CPU-ODPM:31352.8
+01-13 06:27:23.341  1538  1571 I pixel-thermal: VIRTUAL-SKIN-PREDICTION-MODEL: model_input: [32375.00 29109.00 39736.00 35806.00 38690.00 28022.00 27658.00 34225.00 ]
+01-13 06:27:23.341  1538  1571 I native  : I0000 00:00:1768310843.341200    1571 thermal_tflite_wrapper.cc:261] ThermalTfliteInvoke
+01-13 06:27:23.341  1538  1571 I pixel-thermal: VIRTUAL-SKIN-PREDICTION-MODEL: model_output: [32819.1 33054.7 33274.1 33503.7 33713.4 33901.9 34091.8 34291.4 34440.3 34646.1 ]
+01-13 06:27:23.341  1538  1571 I pixel-thermal: VIRTUAL-SKIN-PREDICTION-MODEL: predicted_value: [32819.1 33054.7 33274.1 33503.7 33713.4 33901.9 34091.8 34291.4 34440.3 34646.1 ]
+01-13 06:27:23.341  1538  1571 I pixel-thermal: STATS-UPDATOR:0 raw data: EXTREME-CONDITION-POWER-MONITOR-44C:0 EXTREME-CONDITION-POWER-MONITOR-45C:0 EXTREME-CONDITION-POWER-MONITOR-46C:0 EXTREME_WORKLOAD_ODPM:2500.84 STATS-UPDATOR:0 VIRTUAL-SKIN:31352.8 VIRTUAL-SKIN-44C:0 VIRTUAL-SKIN-45C:0 VIRTUAL-SKIN-46C:0 VIRTUAL-SKIN-PREDICTION-MODEL:32819.1 VT-FORECAST-30SEC-BACK:30165.5 VT-FORECAST-60SEC-BACK:30081.6 VT-FORECAST-ERROR-30SEC:-1187.26 VT-FORECAST-ERROR-60SEC:-1271.22 VT-FORECAST-ERROR-NOW:1466.26 VT-FORECAST-NOW:32819.1 charging_therm:38690 disp0_therm:28022 flash_therm:29109 north_therm:32375 quiet_therm:34225 rfpa_therm:35806 soc_therm:39736 usb_pwr_therm:27658
+01-13 06:27:23.341  1538  1571 I pixel-thermal: VIRTUAL-SKIN-CHARGE-WIRED:31.3528 raw data: NO_WLC:1 VIRTUAL-SKIN-CHARGE:31352.8 VIRTUAL-SKIN-CHARGE-WIRED:31352.8 VIRTUAL-SKIN-EQ:31352.8 WLC_CHECK:1 thb_hda:54
+01-13 06:27:23.341  1538  1571 I pixel-thermal: VIRTUAL-SKIN-SOC:31.3528 raw data: VIRTUAL-SKIN:31352.8 VIRTUAL-SKIN-SOC:31352.8
+01-13 06:27:23.341  1538  1571 I pixel-thermal: VIRTUAL-SKIN-CHARGE-PERSIST:31.3528 raw data: VIRTUAL-SKIN-CHARGE:31352.8 VIRTUAL-SKIN-CHARGE-PERSIST:31352.8
+01-13 06:27:23.342  1239  1239 D AOC     : A3:MSG: tmd3743_device.cc, 977: USF: TMD3743: C/G switch 2 -> 4 d_lux:0.44 w_lux: 0.70 C:0.02 G:0.00
+01-13 06:27:23.363  2656  2673 W System  : A resource failed to call release.
+01-13 06:27:23.364  2656  2673 W System  : A resource failed to call release.
+01-13 06:27:23.364  2656  2673 W System  : A resource failed to call release.
+01-13 06:27:23.364  2656  2673 W System  : A resource failed to call release.
+01-13 06:27:23.364  2656  2673 W System  : A resource failed to call release.
+01-13 06:27:23.364  2656  2673 W System  : A resource failed to call release.
+01-13 06:27:23.364  2656  2673 W System  : A resource failed to call release.
+01-13 06:27:23.364  2656  2673 W System  : A resource failed to call release.
+01-13 06:27:23.364  2656  2673 W System  : A resource failed to call release.
+01-13 06:27:23.364  2656  2673 W System  : A resource failed to call release.
+01-13 06:27:23.364  2656  2673 W System  : A resource failed to call release.
+01-13 06:27:23.364  2656  2673 W System  : A resource failed to call release.
+01-13 06:27:23.364  2656  2673 W System  : A resource failed to call release.
+01-13 06:27:23.364  2656  2673 W System  : A resource failed to call release.
+01-13 06:27:23.364  2656  2673 W System  : A resource failed to call release.
+01-13 06:27:23.364  2656  2673 W System  : A resource failed to call release.
+01-13 06:27:23.364  2656  2673 W System  : A resource failed to call release.
+01-13 06:27:23.364  2656  2673 W System  : A resource failed to call release.
+01-13 06:27:23.417  1239  1239 D AOC     : A3:MSG: tmd3743_device.cc, 977: USF: TMD3743: C/G switch 4 -> 2 d_lux:0.57 w_lux: 0.72 C:0.02 G:0.00
+01-13 06:27:23.474  1239  1239 D AOC     : A3:MSG: tmd3743_device.cc, 977: USF: TMD3743: C/G switch 2 -> 4 d_lux:0.37 w_lux: 0.63 C:0.01 G:0.00
+01-13 06:27:23.488  6468  6798 I [AuthEngine][fa3d]: IMU movement detected! -0.008232117, 0.024419785, -0.30591345
+01-13 06:27:23.492  1239  1239 D AOC     : A3:MSG: tmd3743_device.cc, 977: USF: TMD3743: C/G switch 4 -> 2 d_lux:0.58 w_lux: 0.67 C:0.02 G:0.00
+01-13 06:27:23.504 17749 17749 D VRI[MainActivity]: visibilityChanged oldVisibility=true newVisibility=false
+01-13 06:27:23.520  1239  1239 D AOC     : A3:MSG: tmd3743_device.cc, 977: USF: TMD3743: C/G switch 2 -> 4 d_lux:0.34 w_lux: 0.63 C:0.02 G:0.00
+01-13 06:27:23.529  1239  1239 D AOC     : A3:MSG: tmd3743_device.cc, 977: USF: TMD3743: C/G switch 4 -> 3 d_lux:0.42 w_lux: 0.63 C:0.02 G:0.00
+01-13 06:27:23.543 17749 17819 I ReactNativeJNI: Memory warning (pressure level: TRIM_MEMORY_UI_HIDDEN) received by JS VM, ignoring because it's non-severe
+01-13 06:27:23.547  1239  1239 D AOC     : A3:MSG: tmd3743_device.cc, 977: USF: TMD3743: C/G switch 3 -> 4 d_lux:0.30 w_lux: 0.61 C:0.02 G:0.00
+01-13 06:27:23.585  1239  1239 D AOC     : A3:MSG: tmd3743_device.cc, 977: USF: TMD3743: C/G switch 4 -> 2 d_lux:0.58 w_lux: 0.67 C:0.02 G:0.00
+01-13 06:27:23.622  1239  1239 D AOC     : A3:MSG: tmd3743_device.cc, 977: USF: TMD3743: C/G switch 2 -> 4 d_lux:0.20 w_lux: 0.61 C:0.02 G:0.00
+01-13 06:27:23.654  1584  4429 V GrammaticalInflectionUtils: AttributionSource: android.content.AttributionSource@44447175 does not have READ_SYSTEM_GRAMMATICAL_GENDER permission.
+01-13 06:27:23.658   547   581 I libbinder.BpBinder: onLastStrongRef automatically unlinking death recipients:
+01-13 06:27:23.661  9693  9693 D LifecycleMonitor: Lifecycle status change: androidx.activity.ComponentActivity@c46888c in: PAUSED
+01-13 06:27:23.661  9693  9693 V ActivityScenario: Update currentActivityStage to PAUSED, currentActivity=androidx.activity.ComponentActivity@c46888c
+01-13 06:27:23.661  1197  2479 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:27:23.661  1197  2479 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:27:23.661  1197  2479 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:27:23.661  1197  2479 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:27:23.662  1197  2479 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:27:23.664  1239  1239 D AOC     : A3:MSG: controller.cc, 933: SysMem: ipc: C-F1-Ar, cmd ID: 0x00c8, tag: 0xd4, rc: 0
+01-13 06:27:23.664  1239  1239 D AOC     : A3:MSG: controller.cc, 933: SysMem: ipc: C-F1-Ar, cmd ID: 0x00c8, tag: 0xd5, rc: 0
+01-13 06:27:23.666   656   656 W powerhal-libperfmgr: Sess(23973), cannot resume, already active
+01-13 06:27:23.668  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:27:23.668  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:27:23.671  2656  2727 D WindowOnBackDispatcher: setTopOnBackInvokedCallback (unwrapped): android.view.ViewRootImpl$$ExternalSyntheticLambda12@7963f84
+01-13 06:27:23.686  9739  9739 D WindowOnBackDispatcher: setTopOnBackInvokedCallback (unwrapped): android.view.ViewRootImpl$$ExternalSyntheticLambda12@d37f79
+01-13 06:27:23.698  1584  1674 I ActivityTaskManager: Displayed com.betterclock.test/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity for user 0: +42ms
+01-13 06:27:23.698   547  3128 I libbinder.BpBinder: onLastStrongRef automatically unlinking death recipients:
+01-13 06:27:23.703 17749 17749 D ViewRootImpl: Skipping stats log for color mode
+01-13 06:27:23.703   656   656 W powerhal-libperfmgr: Sess(23756), cannot resume, already active
+01-13 06:27:23.716  1239  1239 D AOC     : A3:MSG: tmd3743_device.cc, 977: USF: TMD3743: C/G switch 4 -> 2 d_lux:0.47 w_lux: 0.71 C:0.02 G:0.00
+01-13 06:27:23.728 10111  9976 I NearbyMediums: No BLE Fast/GATT advertisements found in the latest cycle.
+01-13 06:27:23.728 10111  9976 I NearbyMediums: Current Tracked Scanning Clients are : {NearbyConnections.EnvironmentMonitor, NearbySharing, NearbyConnections.TxAdvertisement}
+01-13 06:27:23.728 10111  9362 I NearbyConnections: Processing lost BlePeripheral BlePeripheral{advertisement=BleAdvertisement { version=2, socketVersion=2, isFast=true, serviceIdHash=null, data=[ 0x23 0x57 0x38 0x41 0x48 0x11 0x32 0x3c 0x01 0x19 0x1b 0x93 0xb6 0x60 0xed 0xe4 0x1f 0x4e 0x7e 0xd6 0x1e 0xd0 0x99 ], deviceToken=[ 0x5b 0x51 ], rxAdvertisement=null }, dctAdvertisement=null, address=null, psm=0, deviceToken=<ByteString@98fad89 size=2 contents="[Q">, isSecondProfile=false, rxInstantConnectionAdv=null}.
+01-13 06:27:23.728 10111  9362 I NearbyConnections: Lost BleEndpoint for BlePeripheral BlePeripheral{advertisement=BleAdvertisement { version=2, socketVersion=2, isFast=true, serviceIdHash=null, data=[ 0x23 0x57 0x38 0x41 0x48 0x11 0x32 0x3c 0x01 0x19 0x1b 0x93 0xb6 0x60 0xed 0xe4 0x1f 0x4e 0x7e 0xd6 0x1e 0xd0 0x99 ], deviceToken=[ 0x5b 0x51 ], rxAdvertisement=null }, dctAdvertisement=null, address=null, psm=0, deviceToken=<ByteString@98fad89 size=2 contents="[Q">, isSecondProfile=false, rxInstantConnectionAdv=null} (with EndpointId W8AH and EndpointInfo [ 0x32 0x3c 0x01 0x19 0x1b 0x93 0xb6 0x60 0xed 0xe4 0x1f 0x4e 0x7e 0xd6 0x1e 0xd0 0x99 ]).
+01-13 06:27:23.731 10111  9362 I NearbyConnections: ClientProxy(252322271) reporting onEndpointLost(W8AH)
+01-13 06:27:23.735 10111 11127 I NearbySharing: NearbySharing Internal event EndpointLost(endpointId=W8AH)
+01-13 06:27:23.735  1239  1239 D AOC     : A3:MSG: tmd3743_device.cc, 977: USF: TMD3743: C/G switch 2 -> 3 d_lux:0.35 w_lux: 0.57 C:0.01 G:0.00
+01-13 06:27:23.745  9693  9693 D VRI[ComponentActivity]: visibilityChanged oldVisibility=true newVisibility=false
+01-13 06:27:23.753  1239  1239 D AOC     : A3:MSG: tmd3743_device.cc, 977: USF: TMD3743: C/G switch 3 -> 4 d_lux:0.37 w_lux: 0.67 C:0.02 G:0.00
+01-13 06:27:23.758 17749 17764 I .blueskyweb.app: CollectorTransition concurrent mark compact GC freed 27MB AllocSpace bytes, 150(6080KB) LOS objects, 70% free, 40MB/136MB, paused 1.334ms,1.452ms total 248.319ms
+01-13 06:27:23.761  9693  9693 D LifecycleMonitor: Lifecycle status change: androidx.activity.ComponentActivity@c46888c in: STOPPED
+01-13 06:27:23.761  9693  9693 V ActivityScenario: Update currentActivityStage to STOPPED, currentActivity=androidx.activity.ComponentActivity@c46888c
+01-13 06:27:23.771 17749 17749 D ImeBackDispatcher: switch root view (mImeCallbacks.size=0)
+01-13 06:27:23.772  9693  9693 D LifecycleMonitor: Lifecycle status change: androidx.activity.ComponentActivity@c46888c in: DESTROYED
+01-13 06:27:23.772  1239  1239 D AOC     : A3:MSG: tmd3743_device.cc, 977: USF: TMD3743: C/G switch 4 -> 3 d_lux:0.47 w_lux: 0.69 C:0.02 G:0.00
+01-13 06:27:23.772  9693  9693 V ActivityScenario: Update currentActivityStage to DESTROYED, currentActivity=null
+01-13 06:27:23.772  9693  9693 D ImeBackDispatcher: Clear (mImeCallbacks.size=0)
+01-13 06:27:23.772  9693  9693 D ImeBackDispatcher: switch root view (mImeCallbacks.size=0)
+01-13 06:27:23.772  9693  9693 D WindowOnBackDispatcher: setTopOnBackInvokedCallback (unwrapped): null
+01-13 06:27:23.773  1584  2495 I ImeTracker: xyz.blueskyweb.app:bf3b2267: onRequestHide at ORIGIN_SERVER reason HIDE_UNSPECIFIED_WINDOW fromUser false
+01-13 06:27:23.774 17749 17749 D InsetsController: hide(ime())
+01-13 06:27:23.774  9693  9693 D ViewRootImpl: Skipping stats log for color mode
+01-13 06:27:23.774 17749 17749 I ImeTracker: xyz.blueskyweb.app:bf3b2267: onCancelled at PHASE_CLIENT_ALREADY_HIDDEN
+01-13 06:27:23.775  1584  1691 I ImeTracker: system_server:eef6cbcd: onRequestHide at ORIGIN_SERVER reason IME_REQUESTED_CHANGED_LISTENER fromUser false
+01-13 06:27:23.777  9693  9693 D ImeBackDispatcher: Clear (mImeCallbacks.size=0)
+01-13 06:27:23.777  9693  9693 D ImeBackDispatcher: switch root view (mImeCallbacks.size=0)
+01-13 06:27:23.778  1584  4429 I ImeTracker: system_server:1843a341: onRequestHide at ORIGIN_SERVER reason IME_REQUESTED_CHANGED_LISTENER fromUser false
+01-13 06:27:23.779  9693  9709 D IdlingRegistry: Unregistering idling resources: [androidx.compose.ui.test.EspressoLink@84c88eb]
+01-13 06:27:23.779  1584  1677 I ImeTracker: system_server:eef6cbcd: onCancelled at PHASE_SERVER_SHOULD_HIDE
+01-13 06:27:23.780  9693  9709 I TestRunner: finished: settingsScreen_confirmStopToggle_visible(com.betterclock.ui.SettingsScreenTest)

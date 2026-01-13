@@ -1,0 +1,2 @@
+01-13 06:26:14.751  9693  9709 I TestRunner: started: alarmWithChallengeSettings_persistsCorrectly(com.betterclock.data.AlarmDaoTest)
+01-13 06:26:14.769  9693  9709 I TestRunner: finished: alarmWithChallengeSettings_persistsCorrectly(com.betterclock.data.AlarmDaoTest)

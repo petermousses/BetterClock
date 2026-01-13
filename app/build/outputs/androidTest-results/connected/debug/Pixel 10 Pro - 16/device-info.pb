@@ -1,0 +1,2 @@
+
+57060DLCH000PK36 ×ƒ¦;*	arm64-v8a2Google:57060DLCH000PKRPixel 10 Pro

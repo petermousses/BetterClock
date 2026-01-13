@@ -1,0 +1,220 @@
+01-13 06:26:28.356  9693  9709 I TestRunner: started: alarmSwitch_isAccessible(com.betterclock.ui.AlarmListScreenTest)
+01-13 06:26:28.358  2656  2727 D WindowOnBackDispatcher: setTopOnBackInvokedCallback (unwrapped): null
+01-13 06:26:28.359  9693  9709 D IdlingRegistry: Registering idling resources: [androidx.compose.ui.test.EspressoLink@636fd69]
+01-13 06:26:28.361  9693  9709 W Settings: Setting always_finish_activities has moved from android.provider.Settings.System to android.provider.Settings.Global, returning read-only value.
+01-13 06:26:28.363  1584  3054 V GrammaticalInflectionUtils: AttributionSource: android.content.AttributionSource@428f98d6 does not have READ_SYSTEM_GRAMMATICAL_GENDER permission.
+01-13 06:26:28.372  9693  9693 D LifecycleMonitor: Lifecycle status change: androidx.activity.ComponentActivity@ace1caa in: PRE_ON_CREATE
+01-13 06:26:28.372  9693  9693 V ActivityScenario: Activity lifecycle changed event received but ignored because the reported transition was not ON_CREATE while the last known transition was PRE_ON_CREATE
+01-13 06:26:28.372  2656  2727 D WindowOnBackDispatcher: setTopOnBackInvokedCallback (unwrapped): android.view.ViewRootImpl$$ExternalSyntheticLambda12@9606d4c
+01-13 06:26:28.374  9693  9693 D LifecycleMonitor: Lifecycle status change: androidx.activity.ComponentActivity@ace1caa in: CREATED
+01-13 06:26:28.374  9693  9693 V ActivityScenario: Update currentActivityStage to CREATED, currentActivity=androidx.activity.ComponentActivity@ace1caa
+01-13 06:26:28.374  9693  9693 D LifecycleMonitor: Lifecycle status change: androidx.activity.ComponentActivity@ace1caa in: STARTED
+01-13 06:26:28.374  9693  9693 V ActivityScenario: Update currentActivityStage to STARTED, currentActivity=androidx.activity.ComponentActivity@ace1caa
+01-13 06:26:28.375  9693  9693 D LifecycleMonitor: Lifecycle status change: androidx.activity.ComponentActivity@ace1caa in: RESUMED
+01-13 06:26:28.375  9693  9693 V ActivityScenario: Update currentActivityStage to RESUMED, currentActivity=androidx.activity.ComponentActivity@ace1caa
+01-13 06:26:28.378   656  2760 E powerhal-libperfmgr: Error: shouldn't report duration during pause state.
+01-13 06:26:28.378  1197  2479 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:28.378  1197  2479 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:28.378  1197  2479 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:28.378  1197  2479 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:28.378  1197  2479 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:28.378  1197  2479 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:28.378  1197  2479 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:28.378  1197  2479 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:28.378  1197  2479 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:28.378  1197  2479 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:28.379  9693  9693 D LifecycleMonitor: Lifecycle status change: androidx.activity.ComponentActivity@ace1caa in: PAUSED
+01-13 06:26:28.379  9693  9693 V ActivityScenario: Update currentActivityStage to PAUSED, currentActivity=androidx.activity.ComponentActivity@ace1caa
+01-13 06:26:28.380 17749 17819 I ReactNativeJNI: Memory warning (pressure level: TRIM_MEMORY_UI_HIDDEN) received by JS VM, ignoring because it's non-severe
+01-13 06:26:28.381  9693  9693 D WindowOnBackDispatcher: setTopOnBackInvokedCallback (unwrapped): android.view.ViewRootImpl$$ExternalSyntheticLambda12@2765381
+01-13 06:26:28.386  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:28.391  9739  9739 D WindowOnBackDispatcher: setTopOnBackInvokedCallback (unwrapped): null
+01-13 06:26:28.391  9693  9693 D LifecycleMonitor: Lifecycle status change: androidx.activity.ComponentActivity@ace1caa in: STOPPED
+01-13 06:26:28.391  9693  9693 V ActivityScenario: Update currentActivityStage to STOPPED, currentActivity=androidx.activity.ComponentActivity@ace1caa
+01-13 06:26:28.397  1584  1674 I ActivityTaskManager: Displayed com.betterclock/androidx.activity.ComponentActivity for user 0: +31ms
+01-13 06:26:28.401  9739  9739 D ViewRootImpl: Skipping stats log for color mode
+01-13 06:26:28.402  2656  2727 D WindowOnBackDispatcher: setTopOnBackInvokedCallback (unwrapped): null
+01-13 06:26:28.414   656  2760 E powerhal-libperfmgr: Error: shouldn't report duration during pause state.
+01-13 06:26:28.415 16650 16650 D RecentsView: onTaskRemoved: 10062, not handling task stack changes
+01-13 06:26:28.415 16650 16650 D RecentsView: onTaskRemoved: 10062, not handling task stack changes
+01-13 06:26:28.441 31312 31316 W android.vending: Suspending all threads took: 10.674ms
+01-13 06:26:28.531 17749 17819 I ReactNativeJNI: Memory warning (pressure level: TRIM_MEMORY_BACKGROUND) received by JS VM, running a GC
+01-13 06:26:28.768 31312 31312 W Finsky  : [2] STU: Failed to get storage stats for package 'com.google.android.hardware.threadnetwork' (1601: Error getting stats: android.content.pm.PackageManager.NameNotFoundException)
+01-13 06:26:28.778 31312 31312 W Finsky  : [2] STU: Failed to get storage stats for package 'com.google.android.uprobestats' (1601: Error getting stats: android.content.pm.PackageManager.NameNotFoundException)
+01-13 06:26:28.841 31312 31312 W Finsky  : [2] STU: Failed to get storage stats for package 'com.google.android.uwb' (1601: Error getting stats: android.content.pm.PackageManager.NameNotFoundException)
+01-13 06:26:28.842 31312 31312 W Finsky  : [2] STU: Failed to get storage stats for package 'com.google.android.bt' (1601: Error getting stats: android.content.pm.PackageManager.NameNotFoundException)
+01-13 06:26:28.842 31312 31312 W Finsky  : [2] STU: Failed to get storage stats for package 'com.google.android.widevine.nonupdatable' (1601: Error getting stats: android.content.pm.PackageManager.NameNotFoundException)
+01-13 06:26:28.907 31312 31312 W Finsky  : [2] STU: Failed to get storage stats for package 'com.google.android.devicelock' (1601: Error getting stats: android.content.pm.PackageManager.NameNotFoundException)
+01-13 06:26:28.952 31312 31312 W Finsky  : [2] STU: Failed to get storage stats for package 'com.android.apex.cts.shim' (1601: Error getting stats: android.content.pm.PackageManager.NameNotFoundException)
+01-13 06:26:28.974 31312 31312 W Finsky  : [2] STU: Failed to get storage stats for package 'com.google.android.appsearch' (1601: Error getting stats: android.content.pm.PackageManager.NameNotFoundException)
+01-13 06:26:28.983 31312 31312 W Finsky  : [2] STU: Failed to get storage stats for package 'com.google.android.art' (1601: Error getting stats: android.content.pm.PackageManager.NameNotFoundException)
+01-13 06:26:28.989 31312 31312 W Finsky  : [2] STU: Failed to get storage stats for package 'com.google.android.hardware.biometrics.face' (1601: Error getting stats: android.content.pm.PackageManager.NameNotFoundException)
+01-13 06:26:28.999 31312 31312 W Finsky  : [2] STU: Failed to get storage stats for package 'com.google.android.profiling' (1601: Error getting stats: android.content.pm.PackageManager.NameNotFoundException)
+01-13 06:26:29.014 31312 31312 W Finsky  : [2] STU: Failed to get storage stats for package 'com.google.android.mediaprovider' (1601: Error getting stats: android.content.pm.PackageManager.NameNotFoundException)
+01-13 06:26:29.036 31312 31312 W Finsky  : [2] STU: Failed to get storage stats for package 'com.google.pixel.camera.hal' (1601: Error getting stats: android.content.pm.PackageManager.NameNotFoundException)
+01-13 06:26:29.036 31312 31312 W Finsky  : [2] STU: Failed to get storage stats for package 'com.google.android.crashrecovery' (1601: Error getting stats: android.content.pm.PackageManager.NameNotFoundException)
+01-13 06:26:29.037 31312 31312 W Finsky  : [2] STU: Failed to get storage stats for package 'com.google.android.resolv' (1601: Error getting stats: android.content.pm.PackageManager.NameNotFoundException)
+01-13 06:26:29.044 31312 31312 W Finsky  : [2] STU: Failed to get storage stats for package 'com.google.android.configinfrastructure' (1601: Error getting stats: android.content.pm.PackageManager.NameNotFoundException)
+01-13 06:26:29.046 31312 31312 W Finsky  : [2] STU: Failed to get storage stats for package 'com.google.android.media' (1601: Error getting stats: android.content.pm.PackageManager.NameNotFoundException)
+01-13 06:26:29.115 31312 31312 W Finsky  : [2] STU: Failed to get storage stats for package 'com.google.android.sdkext' (1601: Error getting stats: android.content.pm.PackageManager.NameNotFoundException)
+01-13 06:26:29.140 31312 31312 W Finsky  : [2] STU: Failed to get storage stats for package 'com.android.hardware.biometrics.fingerprint.virtual' (1601: Error getting stats: android.content.pm.PackageManager.NameNotFoundException)
+01-13 06:26:29.149 31312 31312 W Finsky  : [2] STU: Failed to get storage stats for package 'com.google.android.adservices' (1601: Error getting stats: android.content.pm.PackageManager.NameNotFoundException)
+01-13 06:26:29.150 31312 31312 W Finsky  : [2] STU: Failed to get storage stats for package 'com.google.android.tethering' (1601: Error getting stats: android.content.pm.PackageManager.NameNotFoundException)
+01-13 06:26:29.201 31312 31312 W Finsky  : [2] STU: Failed to get storage stats for package 'com.google.android.cellbroadcast' (1601: Error getting stats: android.content.pm.PackageManager.NameNotFoundException)
+01-13 06:26:29.204 31312 31312 W Finsky  : [2] STU: Failed to get storage stats for package 'com.google.pixel.wifi.ext' (1601: Error getting stats: android.content.pm.PackageManager.NameNotFoundException)
+01-13 06:26:29.214 31312 31312 W Finsky  : [2] STU: Failed to get storage stats for package 'com.google.android.rkpd' (1601: Error getting stats: android.content.pm.PackageManager.NameNotFoundException)
+01-13 06:26:29.277 31312 31312 W Finsky  : [2] STU: Failed to get storage stats for package 'com.google.pixel.euicc.update' (1601: Error getting stats: android.content.pm.PackageManager.NameNotFoundException)
+01-13 06:26:29.287 31312 31312 W Finsky  : [2] STU: Failed to get storage stats for package 'com.google.android.compos' (1601: Error getting stats: android.content.pm.PackageManager.NameNotFoundException)
+01-13 06:26:29.287 31312 31312 W Finsky  : [2] STU: Failed to get storage stats for package 'com.google.android.tzdata6' (1601: Error getting stats: android.content.pm.PackageManager.NameNotFoundException)
+01-13 06:26:29.300 31312 31312 W Finsky  : [2] STU: Failed to get storage stats for package 'com.google.android.permission' (1601: Error getting stats: android.content.pm.PackageManager.NameNotFoundException)
+01-13 06:26:29.321 31312 31312 W Finsky  : [2] STU: Failed to get storage stats for package 'com.google.android.wifi' (1601: Error getting stats: android.content.pm.PackageManager.NameNotFoundException)
+01-13 06:26:29.352 31312 31312 W Finsky  : [2] STU: Failed to get storage stats for package 'com.google.android.media.swcodec' (1601: Error getting stats: android.content.pm.PackageManager.NameNotFoundException)
+01-13 06:26:29.389 31312 31312 W Finsky  : [2] STU: Failed to get storage stats for package 'com.google.android.adbd' (1601: Error getting stats: android.content.pm.PackageManager.NameNotFoundException)
+01-13 06:26:29.399 31312 31312 W Finsky  : [2] STU: Failed to get storage stats for package 'com.android.i18n' (1601: Error getting stats: android.content.pm.PackageManager.NameNotFoundException)
+01-13 06:26:29.405 31312 31312 W Finsky  : [2] STU: Failed to get storage stats for package 'com.google.android.conscrypt' (1601: Error getting stats: android.content.pm.PackageManager.NameNotFoundException)
+01-13 06:26:29.413 31312 31312 W Finsky  : [2] STU: Failed to get storage stats for package 'com.android.hardware.cas' (1601: Error getting stats: android.content.pm.PackageManager.NameNotFoundException)
+01-13 06:26:29.421 31312 31312 W Finsky  : [2] STU: Failed to get storage stats for package 'com.google.android.neuralnetworks' (1601: Error getting stats: android.content.pm.PackageManager.NameNotFoundException)
+01-13 06:26:29.423 31312 31312 W Finsky  : [2] STU: Failed to get storage stats for package 'com.google.android.runtime' (1601: Error getting stats: android.content.pm.PackageManager.NameNotFoundException)
+01-13 06:26:29.424 31312 31312 W Finsky  : [2] STU: Failed to get storage stats for package 'com.google.android.ipsec' (1601: Error getting stats: android.content.pm.PackageManager.NameNotFoundException)
+01-13 06:26:29.432 31312 31312 W Finsky  : [2] STU: Failed to get storage stats for package 'com.google.android.ondevicepersonalization' (1601: Error getting stats: android.content.pm.PackageManager.NameNotFoundException)
+01-13 06:26:29.439 31312 31312 W Finsky  : [2] STU: Failed to get storage stats for package 'com.google.android.healthfitness' (1601: Error getting stats: android.content.pm.PackageManager.NameNotFoundException)
+01-13 06:26:29.453 31312 31312 W Finsky  : [2] STU: Failed to get storage stats for package 'com.google.android.extservices' (1601: Error getting stats: android.content.pm.PackageManager.NameNotFoundException)
+01-13 06:26:29.454 31312 31312 W Finsky  : [2] STU: Failed to get storage stats for package 'com.google.android.virt' (1601: Error getting stats: android.content.pm.PackageManager.NameNotFoundException)
+01-13 06:26:29.458 31312 31312 W Finsky  : [2] STU: Failed to get storage stats for package 'com.google.android.nfcservices' (1601: Error getting stats: android.content.pm.PackageManager.NameNotFoundException)
+01-13 06:26:29.470 31312 31312 W Finsky  : [2] STU: Failed to get storage stats for package 'com.google.android.os.statsd' (1601: Error getting stats: android.content.pm.PackageManager.NameNotFoundException)
+01-13 06:26:29.481 31312 31312 W Finsky  : [2] STU: Failed to get storage stats for package 'com.google.android.scheduling' (1601: Error getting stats: android.content.pm.PackageManager.NameNotFoundException)
+01-13 06:26:29.483 31312 31312 W Finsky  : [2] STU: Failed to get storage stats for package 'com.android.hardware.biometrics.face.virtual' (1601: Error getting stats: android.content.pm.PackageManager.NameNotFoundException)
+01-13 06:26:29.500 31312 31312 I Finsky  : [2] App states replicator found 52 unowned apps
+01-13 06:26:29.543 31312 31351 I Finsky  : [1275] Completed 0 account content syncs with 0 successful.
+01-13 06:26:29.547 31312 31312 I Finsky  : [2] [ContentSync] Installation state replication succeeded.
+01-13 06:26:29.547 31312 31312 I Finsky  : [2] SCH: jobFinished: 12-1. TimeElapsed: 1205ms.
+01-13 06:26:29.548 31312 31312 I Finsky  : [2] WM::SCH: Logging work end for 12-1
+01-13 06:26:29.573 31312 31339 I Finsky  : [1263] SCH: Scheduling phonesky job Id: 1-1337, CT: 1768281896658, Constraints: [{ L: 43174902, D: 86374902, C: CHARGING_NONE, I: IDLE_NONE, N: NET_ANY, B: BATTERY_ANY }]
+01-13 06:26:29.573 31312 31339 I Finsky  : [1263] SCH: Scheduling phonesky job Id: 34-737, CT: 1768285296567, Constraints: [{ L: 79199941, D: 1375199941, C: CHARGING_NONE, I: IDLE_NONE, N: NET_ANY, B: BATTERY_ANY }]
+01-13 06:26:29.573 31312 31339 I Finsky  : [1263] SCH: Scheduling phonesky job Id: 34-738, CT: 1768308364893, Constraints: [{ L: 604800000, D: 2568931895, C: CHARGING_NONE, I: IDLE_NONE, N: NET_ANY, B: BATTERY_ANY }]
+01-13 06:26:29.577 31312 31355 I Finsky  : [1279] SCH: Scheduling 1 system job(s)
+01-13 06:26:29.578 31312 31355 I Finsky  : [1279] SCH: Scheduling system job Id: 9742, L: 14281982, D: 57481982, C: false, I: false, N: 1
+01-13 06:26:29.589   959   959 W TracingMuxer: type=1400 audit(0.0:302459): avc:  denied  { write } for  name="traced_producer" dev="tmpfs" ino=1334 scontext=u:r:hal_camera_default:s0 tcontext=u:object_r:traced_producer_socket:s0 tclass=sock_file permissive=0
+01-13 06:26:29.591 31312  9417 I Finsky  : [1659] SCH: job service finished with id 9732.
+01-13 06:26:29.617 31312 31312 I Finsky  : [2] Memory trim requested to level 40
+01-13 06:26:29.617 31312 31312 I Finsky  : [2] Flushing in-memory image cache
+01-13 06:26:30.209  1538  1571 I pixel-thermal: charging_therm:34.132 raw data: charging_therm:34132
+01-13 06:26:30.245  1538  1571 I pixel-thermal: VIRTUAL-SKIN-MODEL: model_input: [34132.00 27838.00 28930.00 32195.00 32376.00 33069.00 33979.00 27455.00 ]
+01-13 06:26:30.245  1538  1571 I native  : I0000 00:00:1768310790.245640    1571 thermal_tflite_wrapper.cc:261] ThermalTfliteInvoke
+01-13 06:26:30.246  1538  1571 I pixel-thermal: VIRTUAL-SKIN-MODEL: model_output: [31018.7 ]
+01-13 06:26:30.246  1538  1571 I pixel-thermal: VIRTUAL-SKIN-MODEL: predicted_value: [31018.7 ]
+01-13 06:26:30.247  1538  1571 I pixel-thermal: STATS-UPDATOR:0 raw data: EXTREME-CONDITION-POWER-MONITOR-44C:0 EXTREME-CONDITION-POWER-MONITOR-45C:0 EXTREME-CONDITION-POWER-MONITOR-46C:0 EXTREME_WORKLOAD_ODPM:868.28 STATS-UPDATOR:0 VIRTUAL-SKIN:31267.8 VIRTUAL-SKIN-44C:0 VIRTUAL-SKIN-45C:0 VIRTUAL-SKIN-46C:0 VIRTUAL-SKIN-EQ:31267.8 VIRTUAL-SKIN-LEGACY:30665.9 VIRTUAL-SKIN-LEGACY-MODEL-DIFF:-352.832 VIRTUAL-SKIN-LEGACY-SHUTDOWN:0 VIRTUAL-SKIN-MODEL:31018.7 VIRTUAL-SKIN-MODEL-CLAMPED:31018.7 VIRTUAL-SKIN-MODEL-LEGACY-DIFF:352.832 VIRTUAL-SKIN-MODEL-UPDATED:31267.8 VIRTUAL-SKIN-MODEL-UPPER-CLAMPED:31018.7 VIRTUAL-SKIN-PREDICTION-MODEL:29954.2 VIRTUAL-SKIN-SUB-0:30349.2 VIRTUAL-SKIN-SUB-1:30573.7 VIRTUAL-SKIN-SUB-2:30665.9 VIRTUAL-SKIN-SUB-3:30110.7 VIRTUAL-SKIN-SUB-4:29939.8 VT-FORECAST-30SEC-BACK:31084.4 VT-FORECAST-60SEC-BACK:32366 VT-FORECAST-ERROR-30SEC:-183.402 VT-FORECAST-ERROR-60SEC:1098.19 VT-FORECAST-ERROR-NOW:-1313.65 VT-FORECAST-NOW:29954.2 VT_LEGACY_WEIGHT:0 VT_MODEL_WEIGHT:1 charging_therm:34132 disp0_therm:27838 flash_therm:28930 north_therm:32195 quiet_therm:32376 rfpa_therm:33069 soc_therm:33979 usb_pwr_therm:27455
+01-13 06:26:30.248  1538  1571 I pixel-thermal: Power rails total power: 1508.68 mW for 61577 ms
+01-13 06:26:30.248  1538  1571 I pixel-thermal: Power rails [VSYS_PWR_DISP_G1: 135.54 mW] [VSYS_PWR_MODEM: 19.14 mW] [S11S_UFS_VCC: 9.01 mW] [S10S_VDD_INFRA_MM_GPU_M: 16.05 mW] [S9S_VDD_INFRA: 17.27 mW] [S5S_VDDQ_MEM: 3.60 mW]
+01-13 06:26:30.248  1538  1571 I pixel-thermal: Power rails [S8M_LLDO2: 103.79 mW] [S6S_LLDO2: 53.00 mW] [S11M_VDD_CPU_M: 39.44 mW] [S4S_VDD2H_MEM: 49.87 mW] [VSYS_PWR_DISP_G2: 55.37 mW] [VSYS_PWR_CAM_G1: 2.50 mW]
+01-13 06:26:30.248  1538  1571 I pixel-thermal: Power rails [VSYS_PWR_RFFE: 3.87 mW] [VSYS_PWR_WLAN_BT: 160.88 mW] [S9M_VDD_TPU_M: 0.00 mW] [S7M_VDD_TPU: 0.00 mW] [S3S_LLDO1: 29.14 mW] [S2M_VDD_CPU2: 131.06 mW]
+01-13 06:26:30.248  1538  1571 I pixel-thermal: Power rails [S6M_LLDO1: 15.26 mW] [S1S_VDD_MM: 10.30 mW] [S10M_VDD_AOC: 5.41 mW] [S7S_MLDO: 38.43 mW] [S8S_VDD_GMC: 81.06 mW] [VSYS_PWR_CAM_G2: 2.45 mW]
+01-13 06:26:30.248  1538  1571 I pixel-thermal: Power rails [S12S: 180.41 mW] [S5M_VDD_AUR: 0.00 mW] [S3M_VDD_CPU1: 127.48 mW] [S4M_VDD_CPU: 131.36 mW] [S2S_VDD_GPU: 24.08 mW] [VSYS_PWR_VBATT: 36.80 mW] [S12M_VDD_CPU1_M: 8.60 mW]
+01-13 06:26:30.248  1538  1571 I pixel-thermal: Power rails [S1M_VDD_AMB: 54.33 mW]
+01-13 06:26:30.248  1538  1571 I pixel-thermal: CDEV log chg_mdis state:0 aurora state:0,budget:299000 usbc-port state:0 tpu state:0,budget:7964000 thermal-uclamp-7 state:0 cpufreq-cpu0 state:0,budget:999000 thermal-uclamp-5 state:0 thermal-uclamp-2 state:0 gpu state:0,budget:4798000 thermal-uclamp-0 state:0 cpufreq-cpu5 state:0,budget:1853000 cpufreq-cpu2 state:0,budget:1853000 cpufreq-cpu7 state:0,budget:3618000
+01-13 06:26:30.551  1239  1239 D AOC     : A3:MSG: tmd3743_device.cc, 977: USF: TMD3743: C/G switch 2 -> 1 d_lux:0.99 w_lux: 0.64 C:0.02 G:0.00
+01-13 06:26:30.650  1239  1239 D AOC     : A3:MSG: tmd3743_device.cc, 977: USF: TMD3743: C/G switch 1 -> 2 d_lux:0.96 w_lux: 0.63 C:0.02 G:0.00
+01-13 06:26:31.069  1237  1237 W TracingMuxer: type=1400 audit(0.0:302460): avc:  denied  { write } for  name="traced_producer" dev="tmpfs" ino=1334 scontext=u:r:gxp_logging:s0 tcontext=u:object_r:traced_producer_socket:s0 tclass=sock_file permissive=0
+01-13 06:26:31.825  1000  1000 W TracingMuxer: type=1400 audit(0.0:302461): avc:  denied  { write } for  name="traced_producer" dev="tmpfs" ino=1334 scontext=u:r:mediacodec_google:s0 tcontext=u:object_r:traced_producer_socket:s0 tclass=sock_file permissive=0
+01-13 06:26:31.924  1538  1571 I pixel-thermal: VIRTUAL-SKIN-CPU-HIGH:31.2678 raw data: VIRTUAL-SKIN:31267.8 VIRTUAL-SKIN-CPU-HIGH:31267.8
+01-13 06:26:31.953  1538  1571 I pixel-thermal: VIRTUAL-SKIN-SPEAKER-MODEL: model_input: [34132.00 27838.00 28930.00 32195.00 32376.00 33069.00 33979.00 27455.00 ]
+01-13 06:26:31.954  1538  1571 I native  : I0000 00:00:1768310791.954169    1571 thermal_tflite_wrapper.cc:261] ThermalTfliteInvoke
+01-13 06:26:31.955  1538  1571 I pixel-thermal: VIRTUAL-SKIN-SPEAKER-MODEL: model_output: [26786.2 ]
+01-13 06:26:31.955  1538  1571 I pixel-thermal: VIRTUAL-SKIN-SPEAKER-MODEL: predicted_value: [26786.2 ]
+01-13 06:26:31.955  1538  1571 I pixel-thermal: VIRTUAL-SKIN-SPEAKER:26.5153 raw data: VIRTUAL-SKIN-SPEAKER:26515.3 VIRTUAL-SKIN-SPEAKER-LEGACY:30163.7 VIRTUAL-SKIN-SPEAKER-LEGACY-MODEL-DIFF:3377.43 VIRTUAL-SKIN-SPEAKER-MODEL:26786.2 VIRTUAL-SKIN-SPEAKER-MODEL-CLAMPED:26786.2 VIRTUAL-SKIN-SPEAKER-MODEL-LEGACY-DIFF:-3377.43 VIRTUAL-SKIN-SPEAKER-MODEL-UPPER-CLAMPED:26786.2 VIRTUAL-SKIN-SPEAKER-SUB-0:30163.7 VT_SPEAKER_LEGACY_WEIGHT:2.90731e-13 VT_SPEAKER_MODEL_WEIGHT:1 charging_therm:34132 disp0_therm:27838 flash_therm:28930 north_therm:32195 quiet_therm:32376 rfpa_therm:33069 soc_therm:33979 usb_pwr_therm:27455
+01-13 06:26:31.956  1538  1571 I pixel-thermal: VIRTUAL-SKIN-CPU-LIGHT-ODPM:31.2678 raw data: VIRTUAL-SKIN:31267.8 VIRTUAL-SKIN-CPU-LIGHT-ODPM:31267.8
+01-13 06:26:31.956  1538  1571 I pixel-thermal: cellular-emergency:31.2678 raw data: VIRTUAL-SKIN:31267.8 cellular-emergency:31267.8
+01-13 06:26:31.956  1538  1571 I pixel-thermal: north_therm:32.195 raw data: north_therm:32195
+01-13 06:26:31.956  1538  1571 I pixel-thermal: VIRTUAL-SKIN-CPU-MID:31.2678 raw data: VIRTUAL-SKIN:31267.8 VIRTUAL-SKIN-CPU-MID:31267.8
+01-13 06:26:31.956  1538  1571 I pixel-thermal: VIRTUAL-SKIN:31.2678 raw data: VIRTUAL-SKIN:31267.8
+01-13 06:26:31.956  1538  1571 I pixel-thermal: VIRTUAL-SKIN-HINT:31.2678 raw data: VIRTUAL-SKIN:31267.8 VIRTUAL-SKIN-HINT:31267.8
+01-13 06:26:31.957  1538  1571 I pixel-thermal: VIRTUAL-SKIN-CPU-ODPM:31.2678 raw data: VIRTUAL-SKIN:31267.8 VIRTUAL-SKIN-CPU-ODPM:31267.8
+01-13 06:26:31.958  1538  1571 I pixel-thermal: VIRTUAL-SKIN-CHARGE-WIRED:31.2678 raw data: NO_WLC:1 VIRTUAL-SKIN-CHARGE:31267.8 VIRTUAL-SKIN-CHARGE-WIRED:31267.8 VIRTUAL-SKIN-EQ:31267.8 WLC_CHECK:1 thb_hda:54
+01-13 06:26:31.958  1538  1571 I pixel-thermal: VIRTUAL-SKIN-SOC:31.2678 raw data: VIRTUAL-SKIN:31267.8 VIRTUAL-SKIN-SOC:31267.8
+01-13 06:26:31.958  1538  1571 I pixel-thermal: VIRTUAL-SKIN-CHARGE-PERSIST:31.2678 raw data: VIRTUAL-SKIN-CHARGE:31267.8 VIRTUAL-SKIN-CHARGE-PERSIST:31267.8
+01-13 06:26:32.069  3300  3377 I PhenotypeProcessReaper: Memory state is: 200
+01-13 06:26:32.539  1584  1691 V GrammaticalInflectionUtils: AttributionSource: android.content.AttributionSource@44447175 does not have READ_SYSTEM_GRAMMATICAL_GENDER permission.
+01-13 06:26:32.566  2656  2727 D WindowOnBackDispatcher: setTopOnBackInvokedCallback (unwrapped): android.view.ViewRootImpl$$ExternalSyntheticLambda12@4fb048b
+01-13 06:26:32.568  1197 24555 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:32.569  1197 24555 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:32.569  1197 24555 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:32.569  1197 24555 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:32.569  1197 24555 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:32.570  1197 24555 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:32.570  1197 24555 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:32.570  1197 24555 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:32.570  1197 24555 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:32.571  1197 24555 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:32.581  9739  9739 D WindowOnBackDispatcher: setTopOnBackInvokedCallback (unwrapped): android.view.ViewRootImpl$$ExternalSyntheticLambda12@c14d8b2
+01-13 06:26:32.584  9693  9693 D LifecycleMonitor: Lifecycle status change: androidx.activity.ComponentActivity@ace1caa in: DESTROYED
+01-13 06:26:32.584  9693  9693 V ActivityScenario: Update currentActivityStage to DESTROYED, currentActivity=null
+01-13 06:26:32.584  9693  9693 D WindowOnBackDispatcher: setTopOnBackInvokedCallback (unwrapped): null
+01-13 06:26:32.588 16650 16650 D RecentsView: onTaskRemoved: 10063, not handling task stack changes
+01-13 06:26:32.588 16650 16650 D RecentsView: onTaskRemoved: 10063, not handling task stack changes
+01-13 06:26:32.589  9693  9709 D IdlingRegistry: Unregistering idling resources: [androidx.compose.ui.test.EspressoLink@636fd69]
+01-13 06:26:32.589  9693  9709 E TestRunner: failed: alarmSwitch_isAccessible(com.betterclock.ui.AlarmListScreenTest)
+01-13 06:26:32.590  9693  9709 E TestRunner: ----- begin exception -----
+01-13 06:26:32.590  9693  9709 E TestRunner: java.lang.IllegalStateException: No compose hierarchies found in the app. Possible reasons include: (1) the Activity that calls setContent did not launch; (2) setContent was not called; (3) setContent was called before the ComposeTestRule ran. If setContent is called by the Activity, make sure the Activity is launched after the ComposeTestRule runs
+01-13 06:26:32.590  9693  9709 E TestRunner: 	at androidx.compose.ui.test.TestContext.getAllSemanticsNodes$ui_test_release(TestOwner.kt:87)
+01-13 06:26:32.590  9693  9709 E TestRunner: 	at androidx.compose.ui.test.SemanticsNodeInteraction.fetchSemanticsNodes$ui_test_release(SemanticsNodeInteraction.kt:63)
+01-13 06:26:32.590  9693  9709 E TestRunner: 	at androidx.compose.ui.test.SemanticsNodeInteraction.fetchOneOrThrow(SemanticsNodeInteraction.kt:157)
+01-13 06:26:32.590  9693  9709 E TestRunner: 	at androidx.compose.ui.test.SemanticsNodeInteraction.fetchOneOrThrow$default(SemanticsNodeInteraction.kt:150)
+01-13 06:26:32.590  9693  9709 E TestRunner: 	at androidx.compose.ui.test.SemanticsNodeInteraction.assertExists(SemanticsNodeInteraction.kt:125)
+01-13 06:26:32.590  9693  9709 E TestRunner: 	at androidx.compose.ui.test.SemanticsNodeInteraction.assertExists$default(SemanticsNodeInteraction.kt:124)
+01-13 06:26:32.590  9693  9709 E TestRunner: 	at com.betterclock.ui.AlarmListScreenTest.alarmSwitch_isAccessible(AlarmListScreenTest.kt:177)
+01-13 06:26:32.590  9693  9709 E TestRunner: 	at java.lang.reflect.Method.invoke(Native Method)
+01-13 06:26:32.590  9693  9709 E TestRunner: 	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:59)
+01-13 06:26:32.590  9693  9709 E TestRunner: 	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+01-13 06:26:32.590  9693  9709 E TestRunner: 	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:56)
+01-13 06:26:32.590  9693  9709 E TestRunner: 	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
+01-13 06:26:32.590  9693  9709 E TestRunner: 	at org.junit.rules.ExternalResource$1.evaluate(ExternalResource.java:54)
+01-13 06:26:32.590  9693  9709 E TestRunner: 	at androidx.compose.ui.test.junit4.AndroidComposeTestRule$apply$1$evaluate$1.invoke(AndroidComposeTestRule.android.kt:272)
+01-13 06:26:32.590  9693  9709 E TestRunner: 	at androidx.compose.ui.test.junit4.AndroidComposeTestRule$apply$1$evaluate$1.invoke(AndroidComposeTestRule.android.kt:271)
+01-13 06:26:32.590  9693  9709 E TestRunner: 	at androidx.compose.ui.test.AndroidComposeUiTestEnvironment$AndroidComposeUiTestImpl.withDisposableContent(ComposeUiTest.android.kt:505)
+01-13 06:26:32.590  9693  9709 E TestRunner: 	at androidx.compose.ui.test.AndroidComposeUiTestEnvironment$runTest$1$1$1$1$1$1.invoke(ComposeUiTest.android.kt:333)
+01-13 06:26:32.590  9693  9709 E TestRunner: 	at androidx.compose.ui.test.AndroidComposeUiTestEnvironment.withComposeIdlingResource(ComposeUiTest.android.kt:385)
+01-13 06:26:32.590  9693  9709 E TestRunner: 	at androidx.compose.ui.test.AndroidComposeUiTestEnvironment.access$withComposeIdlingResource(ComposeUiTest.android.kt:219)
+01-13 06:26:32.590  9693  9709 E TestRunner: 	at androidx.compose.ui.test.AndroidComposeUiTestEnvironment$runTest$1$1$1$1$1.invoke(ComposeUiTest.android.kt:332)
+01-13 06:26:32.590  9693  9709 E TestRunner: 	at androidx.compose.ui.test.AndroidComposeUiTestEnvironment.withWindowRecomposer(ComposeUiTest.android.kt:359)
+01-13 06:26:32.590  9693  9709 E TestRunner: 	at androidx.compose.ui.test.AndroidComposeUiTestEnvironment.access$withWindowRecomposer(ComposeUiTest.android.kt:219)
+01-13 06:26:32.590  9693  9709 E TestRunner: 	at androidx.compose.ui.test.AndroidComposeUiTestEnvironment$runTest$1$1$1$1.invoke(ComposeUiTest.android.kt:331)
+01-13 06:26:32.590  9693  9709 E TestRunner: 	at androidx.compose.ui.test.AndroidComposeUiTestEnvironment.withTestCoroutines(ComposeUiTest.android.kt:372)
+01-13 06:26:32.590  9693  9709 E TestRunner: 	at androidx.compose.ui.test.AndroidComposeUiTestEnvironment.access$withTestCoroutines(ComposeUiTest.android.kt:219)
+01-13 06:26:32.590  9693  9709 E TestRunner: 	at androidx.compose.ui.test.AndroidComposeUiTestEnvironment$runTest$1$1$1.invoke(ComposeUiTest.android.kt:330)
+01-13 06:26:32.590  9693  9709 E TestRunner: 	at androidx.compose.ui.test.EspressoLink.withStrategy(EspressoLink.android.kt:66)
+01-13 06:26:32.590  9693  9709 E TestRunner: 	at androidx.compose.ui.test.AndroidComposeUiTestEnvironment$runTest$1$1.invoke(ComposeUiTest.android.kt:329)
+01-13 06:26:32.590  9693  9709 E TestRunner: 	at androidx.compose.ui.test.IdlingResourceRegistry.withRegistry(IdlingResourceRegistry.jvm.kt:155)
+01-13 06:26:32.590  9693  9709 E TestRunner: 	at androidx.compose.ui.test.AndroidComposeUiTestEnvironment$runTest$1.invoke(ComposeUiTest.android.kt:328)
+01-13 06:26:32.590  9693  9709 E TestRunner: 	at androidx.compose.ui.test.ComposeRootRegistry.withRegistry(ComposeRootRegistry.android.kt:146)
+01-13 06:26:32.590  9693  9709 E TestRunner: 	at androidx.compose.ui.test.AndroidComposeUiTestEnvironment.runTest(ComposeUiTest.android.kt:327)
+01-13 06:26:32.590  9693  9709 E TestRunner: 	at androidx.compose.ui.test.junit4.AndroidComposeTestRule$apply$1.evaluate(AndroidComposeTestRule.android.kt:271)
+01-13 06:26:32.590  9693  9709 E TestRunner: 	at org.junit.runners.ParentRunner$3.evaluate(ParentRunner.java:306)
+01-13 06:26:32.590  9693  9709 E TestRunner: 	at org.junit.runners.BlockJUnit4ClassRunner$1.evaluate(BlockJUnit4ClassRunner.java:100)
+01-13 06:26:32.590  9693  9709 E TestRunner: 	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:366)
+01-13 06:26:32.590  9693  9709 E TestRunner: 	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:103)
+01-13 06:26:32.590  9693  9709 E TestRunner: 	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:63)
+01-13 06:26:32.590  9693  9709 E TestRunner: 	at org.junit.runners.ParentRunner$4.run(ParentRunner.java:331)
+01-13 06:26:32.590  9693  9709 E TestRunner: 	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:79)
+01-13 06:26:32.590  9693  9709 E TestRunner: 	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:329)
+01-13 06:26:32.590  9693  9709 E TestRunner: 	at org.junit.runners.ParentRunner.access$100(ParentRunner.java:66)
+01-13 06:26:32.590  9693  9709 E TestRunner: 	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:293)
+01-13 06:26:32.590  9693  9709 E TestRunner: 	at org.junit.runners.ParentRunner$3.evaluate(ParentRunner.java:306)
+01-13 06:26:32.590  9693  9709 E TestRunner: 	at org.junit.runners.ParentRunner.run(ParentRunner.java:413)
+01-13 06:26:32.590  9693  9709 E TestRunner: 	at androidx.test.ext.junit.runners.AndroidJUnit4.run(AndroidJUnit4.java:162)
+01-13 06:26:32.590  9693  9709 E TestRunner: 	at org.junit.runners.Suite.runChild(Suite.java:128)
+01-13 06:26:32.590  9693  9709 E TestRunner: 	at org.junit.runners.Suite.runChild(Suite.java:27)
+01-13 06:26:32.590  9693  9709 E TestRunner: 	at org.junit.runners.ParentRunner$4.run(ParentRunner.java:331)
+01-13 06:26:32.590  9693  9709 E TestRunner: 	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:79)
+01-13 06:26:32.590  9693  9709 E TestRunner: 	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:329)
+01-13 06:26:32.590  9693  9709 E TestRunner: 	at org.junit.runners.ParentRunner.access$100(ParentRunner.java:66)
+01-13 06:26:32.590  9693  9709 E TestRunner: 	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:293)
+01-13 06:26:32.590  9693  9709 E TestRunner: 	at org.junit.runners.ParentRunner$3.evaluate(ParentRunner.java:306)
+01-13 06:26:32.590  9693  9709 E TestRunner: 	at org.junit.runners.ParentRunner.run(ParentRunner.java:413)
+01-13 06:26:32.590  9693  9709 E TestRunner: 	at org.junit.runner.JUnitCore.run(JUnitCore.java:137)
+01-13 06:26:32.590  9693  9709 E TestRunner: 	at org.junit.runner.JUnitCore.run(JUnitCore.java:115)
+01-13 06:26:32.590  9693  9709 E TestRunner: 	at androidx.test.internal.runner.TestExecutor.execute(TestExecutor.java:68)
+01-13 06:26:32.590  9693  9709 E TestRunner: 	at androidx.test.internal.runner.TestExecutor.execute(TestExecutor.java:59)
+01-13 06:26:32.590  9693  9709 E TestRunner: 	at androidx.test.runner.AndroidJUnitRunner.onStart(AndroidJUnitRunner.java:463)
+01-13 06:26:32.590  9693  9709 E TestRunner: 	at android.app.Instrumentation$InstrumentationThread.run(Instrumentation.java:2604)
+01-13 06:26:32.590  9693  9709 E TestRunner: ----- end exception -----
+01-13 06:26:32.590  9693  9709 I TestRunner: finished: alarmSwitch_isAccessible(com.betterclock.ui.AlarmListScreenTest)

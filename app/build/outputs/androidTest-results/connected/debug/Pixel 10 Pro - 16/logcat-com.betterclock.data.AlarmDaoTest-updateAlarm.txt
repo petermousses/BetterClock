@@ -1,0 +1,3 @@
+01-13 06:26:14.823  9693  9709 I TestRunner: started: updateAlarm(com.betterclock.data.AlarmDaoTest)
+01-13 06:26:14.828  1239  1239 D AOC     : A3:MSG: tmd3743_device.cc, 977: USF: TMD3743: C/G switch 1 -> 2 d_lux:0.93 w_lux: 0.64 C:0.02 G:0.00
+01-13 06:26:14.853  9693  9709 I TestRunner: finished: updateAlarm(com.betterclock.data.AlarmDaoTest)

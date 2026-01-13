@@ -1,0 +1,1282 @@
+01-13 06:26:49.469  9693  9709 I TestRunner: started: settingsButton_clickAction_triggersCallback(com.betterclock.ui.AlarmListScreenTest)
+01-13 06:26:49.471  9693  9709 D IdlingRegistry: Registering idling resources: [androidx.compose.ui.test.EspressoLink@ceca988]
+01-13 06:26:49.472  9693  9709 W Settings: Setting always_finish_activities has moved from android.provider.Settings.System to android.provider.Settings.Global, returning read-only value.
+01-13 06:26:49.475  1584  3662 V GrammaticalInflectionUtils: AttributionSource: android.content.AttributionSource@428f98d6 does not have READ_SYSTEM_GRAMMATICAL_GENDER permission.
+01-13 06:26:49.483  9693  9693 D LifecycleMonitor: Lifecycle status change: androidx.activity.ComponentActivity@8dab7cc in: PRE_ON_CREATE
+01-13 06:26:49.483  9693  9693 V ActivityScenario: Activity lifecycle changed event received but ignored because the reported transition was not ON_CREATE while the last known transition was PRE_ON_CREATE
+01-13 06:26:49.485  9693  9693 D LifecycleMonitor: Lifecycle status change: androidx.activity.ComponentActivity@8dab7cc in: CREATED
+01-13 06:26:49.485  9693  9693 V ActivityScenario: Update currentActivityStage to CREATED, currentActivity=androidx.activity.ComponentActivity@8dab7cc
+01-13 06:26:49.485  9693  9693 D LifecycleMonitor: Lifecycle status change: androidx.activity.ComponentActivity@8dab7cc in: STARTED
+01-13 06:26:49.486  9693  9693 V ActivityScenario: Update currentActivityStage to STARTED, currentActivity=androidx.activity.ComponentActivity@8dab7cc
+01-13 06:26:49.486  9693  9693 D LifecycleMonitor: Lifecycle status change: androidx.activity.ComponentActivity@8dab7cc in: RESUMED
+01-13 06:26:49.486  9693  9693 V ActivityScenario: Update currentActivityStage to RESUMED, currentActivity=androidx.activity.ComponentActivity@8dab7cc
+01-13 06:26:49.489  2656  2727 D WindowOnBackDispatcher: setTopOnBackInvokedCallback (unwrapped): android.view.ViewRootImpl$$ExternalSyntheticLambda12@cba590a
+01-13 06:26:49.491  1197  2479 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:49.491  1197  2479 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:49.491  1197  2479 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:49.491  1197  2479 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:49.491  1197  2479 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:49.493  9693  9693 D LifecycleMonitor: Lifecycle status change: androidx.activity.ComponentActivity@8dab7cc in: PAUSED
+01-13 06:26:49.493  9693  9693 V ActivityScenario: Update currentActivityStage to PAUSED, currentActivity=androidx.activity.ComponentActivity@8dab7cc
+01-13 06:26:49.494  9693  9693 D WindowOnBackDispatcher: setTopOnBackInvokedCallback (unwrapped): android.view.ViewRootImpl$$ExternalSyntheticLambda12@94532c9
+01-13 06:26:49.495  1197  2479 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:49.495  1197  2479 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:49.495  1197  2479 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:49.495  1197  2479 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:49.495  1197  2479 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:49.503  1584  1674 I ActivityTaskManager: Displayed com.betterclock/androidx.activity.ComponentActivity for user 0: +27ms
+01-13 06:26:49.505  9693  9693 D LifecycleMonitor: Lifecycle status change: androidx.activity.ComponentActivity@8dab7cc in: STOPPED
+01-13 06:26:49.505  9693  9693 V ActivityScenario: Update currentActivityStage to STOPPED, currentActivity=androidx.activity.ComponentActivity@8dab7cc
+01-13 06:26:49.506  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:49.506  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:49.506  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:49.506  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:49.506  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:49.506  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:49.506  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:49.507  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:49.507  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:49.507  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:49.507  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:49.507  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:49.507  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:49.507  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:49.507  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:49.507  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:49.507  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:49.507  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:49.507  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:49.507  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:49.507  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:49.507  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:49.507  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:49.507  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:49.507  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:49.507  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:49.507  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:49.507  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:49.507  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:49.507  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:49.507  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:49.507  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:49.507  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:49.507  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:49.507  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:49.507  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:49.508  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:49.508  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:49.508  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:49.508  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:49.508  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:49.508  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:49.508  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:49.508  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:49.508  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:49.508  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:49.508  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:49.508  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:49.508  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:49.508  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:49.508  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:49.508  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:49.508  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:49.508  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:49.508  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:49.508  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:49.508  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:49.508  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:49.508  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:49.508  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:49.508  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:49.508  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:49.510  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:49.510  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:49.510  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:49.510  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:49.510  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:49.510  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:49.510  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:49.510  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:49.510  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:49.510  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:49.510  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:49.510  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:49.510  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:49.510  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:49.511  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:49.511  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:49.511  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:49.511  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:49.511  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:49.511  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:49.511  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:49.511  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:49.511  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:49.511  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:49.511  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:49.511  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:49.511  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:49.511  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:49.511  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:49.511  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:49.511  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:49.511  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:49.511  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:49.511  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:49.511  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:49.512  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:49.512  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:49.512  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:49.512  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:49.512  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:49.512  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:49.512  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:49.512  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:49.512  2656  2727 D WindowOnBackDispatcher: setTopOnBackInvokedCallback (unwrapped): null
+01-13 06:26:49.512  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:49.512  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:49.513  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:49.513  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:49.513  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:49.513  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:49.513  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:49.513  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:49.513  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:49.513  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:49.513  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:49.513  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:49.513  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:49.513  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:49.514  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:49.514  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:49.514  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:49.516  9739  9739 D WindowOnBackDispatcher: setTopOnBackInvokedCallback (unwrapped): null
+01-13 06:26:49.523  9739  9739 D ViewRootImpl: Skipping stats log for color mode
+01-13 06:26:49.532 16650 16650 D RecentsView: onTaskRemoved: 10072, not handling task stack changes
+01-13 06:26:49.532 16650 16650 D RecentsView: onTaskRemoved: 10072, not handling task stack changes
+01-13 06:26:49.613   656  2760 E powerhal-libperfmgr: Error: shouldn't report duration during pause state.
+01-13 06:26:49.615 17749 17819 I ReactNativeJNI: Memory warning (pressure level: TRIM_MEMORY_UI_HIDDEN) received by JS VM, ignoring because it's non-severe
+01-13 06:26:49.627   656  2760 E powerhal-libperfmgr: Error: shouldn't report duration during pause state.
+01-13 06:26:49.661 17749 17819 I ReactNativeJNI: Memory warning (pressure level: TRIM_MEMORY_BACKGROUND) received by JS VM, running a GC
+01-13 06:26:50.528  1584  2539 D InetDiagMessage: Destroyed 0 sockets, proto=IPPROTO_TCP, family=AF_INET, states=14
+01-13 06:26:50.531  1239  1239 D AOC     : A3:MSG: icm456xy_device.cc, 443: USF: Device: type: 3, p/l: 0 ns/ 9223372036854775807 ns, O/WM/I: 200/1/200
+01-13 06:26:50.531  1239  1239 D AOC     : A3:MSG: usf_sensor.cc, 1871: USF: Received start sampling request for ICM45631 Stationary Detect (active:1).
+01-13 06:26:50.531  1239  1239 D AOC     : A3:MSG: icm456xy_device.cc, 443: USF: Device: type: 4, p/l: 640000000 ns/ 0 ns, O/WM/I: 200/1/200
+01-13 06:26:50.531  1239  1239 D AOC     : A3:MSG: motion_state_sensor.cc, 328: USF: MoSt: StationaryDetect sampling started with sampling ID 240935.
+01-13 06:26:50.532  1239  1239 D AOC     : A3:MSG: usf_sensor.cc, 1871: USF: Received start sampling request for ICM45631 Accelerometer (active:5).
+01-13 06:26:50.533  1239  1239 D AOC     : A3:MSG: usf_sensor.cc, 1871: USF: Received start sampling request for ICM45631 Accelerometer (active:5).
+01-13 06:26:50.535  1239  1239 D AOC     : A3:MSG: usf_sensor.cc, 1871: USF: Received start sampling request for ICM45631 Accelerometer (active:6).
+01-13 06:26:50.536  1239  1239 D AOC     : A3:MSG: usf_sensor.cc, 1871: USF: Received start sampling request for ICM45631 FreeFall Detect (active:1).
+01-13 06:26:50.537  1584  2539 D InetDiagMessage: Destroyed 0 sockets, proto=IPPROTO_TCP, family=AF_INET6, states=14
+01-13 06:26:50.537  1584  2539 D InetDiagMessage: Destroyed live tcp sockets for uids={10187} in 16ms
+01-13 06:26:50.539  1239  1239 D AOC     : A3:MSG: icm456xy_device.cc, 443: USF: Device: type: 5, p/l: 640000000 ns/ 0 ns, O/WM/I: 200/1/200
+01-13 06:26:50.540  1239  1239 D AOC     : A3:MSG: usf_sensor.cc, 1871: USF: Received start sampling request for ICM45631 Stationary Detect (active:2).
+01-13 06:26:50.542   960   991 I CHRE    : @ 1849982.740: [AR] IDLE => ON
+01-13 06:26:50.543   960   991 D CHRE.HAL: Received a nanoapp message from 0x476f6f676c001016 endpoint 0x4: Type 0x8003 size 1
+01-13 06:26:50.590  1039  2619 E WifiHAL : wifi_select_tx_power_scenario
+01-13 06:26:50.643  2828  2828 D GRIL-S  : [81764]> UPDATE_DEVICE_STATE DeviceState: Usb:1, Wifi: 1, Wifi AP: 0, Earpiece: 0, Bluetooth: 1, Wireless charging: 0, Screen: 0, Camera: 0, 0, -, -, Motion: 1, Bluetooth tethering: 0, Voice: 0, Wifi 2.4G: 0, Radio: 1, Bluetooth connected: 0, Bluetooth media: 0, Wifi Band: 2, Wifi AP Band: 0, Wifi call: 0, mmWave: 0, mCellBackhaul: 0, mHallSensor: 0, mDozeStatus: 1, mAppClassInfo: 0, mWifiCapSensorStatus: 0, mCellCapSensorStatus: 0, mBesideHeadHandStatus: 0, mSpeakerStatus: 0, mProtectiveCaseStatus: 0, mWifiSettingStatus: 0, mGpsStatus: 0
+01-13 06:26:50.714  3743  3770 W pixelstats-vendor: Thread Pool max thread count is 0. Cannot cache binder as linkToDeath cannot be implemented. serviceName: android.frameworks.stats.IStats/default
+01-13 06:26:50.730  2828  2857 D GRIL-S  : [81764]< UPDATE_DEVICE_STATE
+01-13 06:26:50.736  2828  2828 D GRIL-BluetoothSar: setBluetoothModeBasedTxPowerCap invoked with parameters: chain0Cap:[66, 65, 66, 66] chain1Cap:[75, 69, 74, 74] beamformingCap:[66, 65, 66, 66, 66, 65, 66, 66]
+01-13 06:26:50.737   958   989 I bthal.aidl.sar: setBluetoothModeBasedTxPowerCapPlusHR: 0 Chain 0 Power Cap:<br=66, edr=65, ble=66, hr=66>, Chain 1 Power Cap:<br=75, edr=69, ble=74, hr=74>, Beamforming Power Cap Chain 0: <br=66, edr=65, ble=66, hr=66>, Chain 1:<br=66, edr=65, ble=66, hr=66>
+01-13 06:26:50.737  3300  3707 D ThreadSarController: onDeviceStateChanged
+01-13 06:26:50.738  3300  3707 D ThreadSarController: Found matched config: ThreadSarConfigParams {
+01-13 06:26:50.738  3300  3707 D ThreadSarController:   Channel Power Limits (dBm):
+01-13 06:26:50.738  3300  3707 D ThreadSarController:     Thread_Power_Ch_11: 1500 dBm
+01-13 06:26:50.738  3300  3707 D ThreadSarController:     Thread_Power_Ch_12: 1500 dBm
+01-13 06:26:50.738  3300  3707 D ThreadSarController:     Thread_Power_Ch_13: 1500 dBm
+01-13 06:26:50.738  3300  3707 D ThreadSarController:     Thread_Power_Ch_14: 1500 dBm
+01-13 06:26:50.738  3300  3707 D ThreadSarController:     Thread_Power_Ch_15: 1500 dBm
+01-13 06:26:50.738  3300  3707 D ThreadSarController:     Thread_Power_Ch_16: 1500 dBm
+01-13 06:26:50.738  3300  3707 D ThreadSarController:     Thread_Power_Ch_17: 1500 dBm
+01-13 06:26:50.738  3300  3707 D ThreadSarController:     Thread_Power_Ch_18: 1500 dBm
+01-13 06:26:50.738  3300  3707 D ThreadSarController:     Thread_Power_Ch_19: 1500 dBm
+01-13 06:26:50.738  3300  3707 D ThreadSarController:     Thread_Power_Ch_20: 1500 dBm
+01-13 06:26:50.738  3300  3707 D ThreadSarController:     Thread_Power_Ch_21: 1500 dBm
+01-13 06:26:50.738  3300  3707 D ThreadSarController:     Thread_Power_Ch_22: 1500 dBm
+01-13 06:26:50.738  3300  3707 D ThreadSarController:     Thread_Power_Ch_23: 1500 dBm
+01-13 06:26:50.738  3300  3707 D ThreadSarController:     Thread_Power_Ch_24: 1500 dBm
+01-13 06:26:50.738  3300  3707 D ThreadSarController:     Thread_Power_Ch_25: 1500 dBm
+01-13 06:26:50.738  3300  3707 D ThreadSarController:     Thread_Power_Ch_26: 1500 dBm
+01-13 06:26:50.738  3300  3707 D ThreadSarController: }
+01-13 06:26:50.740  3300  3707 W ThreadSarController: Thread network permission is not granted.
+01-13 06:26:50.752   958  2291 I bthal.aidl.sar: OnEventReceive: (1) Recv Success VSE <[8]{14, 6, 1, 105, 254, 0, 15, 1}>
+01-13 06:26:50.753   958  2291 I bthal.flowcontrol: HciEventPreProcess: HCI Event 0xe Opcode 0xfe69 Length 8 handled by bthal.aidl.sar
+01-13 06:26:50.938  3743  3770 W pixelstats-vendor: Thread Pool max thread count is 0. Cannot cache binder as linkToDeath cannot be implemented. serviceName: android.frameworks.stats.IStats/default
+01-13 06:26:53.012  1538  1571 I pixel-thermal: VIRTUAL-SKIN-MODEL: model_input: [33298.00 27572.00 28960.00 31956.00 31872.00 32502.00 33243.00 27398.00 ]
+01-13 06:26:53.013  1538  1571 I native  : I0000 00:00:1768310813.012860    1571 thermal_tflite_wrapper.cc:261] ThermalTfliteInvoke
+01-13 06:26:53.013  1538  1571 I pixel-thermal: VIRTUAL-SKIN-MODEL: model_output: [30741.6 ]
+01-13 06:26:53.013  1538  1571 I pixel-thermal: VIRTUAL-SKIN-MODEL: predicted_value: [30741.6 ]
+01-13 06:26:53.016  1538  1571 I pixel-thermal: VIRTUAL-SKIN-CPU-HIGH:30.8883 raw data: VIRTUAL-SKIN:30888.3 VIRTUAL-SKIN-CPU-HIGH:30888.3 VIRTUAL-SKIN-EQ:30888.3 VIRTUAL-SKIN-LEGACY:30432.3 VIRTUAL-SKIN-LEGACY-MODEL-DIFF:-309.256 VIRTUAL-SKIN-LEGACY-SHUTDOWN:0 VIRTUAL-SKIN-MODEL:30741.6 VIRTUAL-SKIN-MODEL-CLAMPED:30741.6 VIRTUAL-SKIN-MODEL-LEGACY-DIFF:309.256 VIRTUAL-SKIN-MODEL-UPDATED:30888.3 VIRTUAL-SKIN-MODEL-UPPER-CLAMPED:30741.6 VIRTUAL-SKIN-SUB-0:30065.5 VIRTUAL-SKIN-SUB-1:30202.7 VIRTUAL-SKIN-SUB-2:30432.3 VIRTUAL-SKIN-SUB-3:29872.4 VIRTUAL-SKIN-SUB-4:29730.8 VT_LEGACY_WEIGHT:0 VT_MODEL_WEIGHT:1 charging_therm:33298 disp0_therm:27572 flash_therm:28960 north_therm:31956 quiet_therm:31872 rfpa_therm:32502 soc_therm:33243 usb_pwr_therm:27398
+01-13 06:26:53.045  1538  1571 I pixel-thermal: VIRTUAL-SKIN-SPEAKER-MODEL: model_input: [33298.00 27572.00 28960.00 31956.00 31872.00 32502.00 33243.00 27398.00 ]
+01-13 06:26:53.045  1538  1571 I native  : I0000 00:00:1768310813.045816    1571 thermal_tflite_wrapper.cc:261] ThermalTfliteInvoke
+01-13 06:26:53.046  1538  1571 I pixel-thermal: VIRTUAL-SKIN-SPEAKER-MODEL: model_output: [27429.8 ]
+01-13 06:26:53.046  1538  1571 I pixel-thermal: VIRTUAL-SKIN-SPEAKER-MODEL: predicted_value: [27429.8 ]
+01-13 06:26:53.046  1538  1571 I pixel-thermal: VIRTUAL-SKIN-SPEAKER:27.1348 raw data: VIRTUAL-SKIN-SPEAKER:27134.8 VIRTUAL-SKIN-SPEAKER-LEGACY:29831.9 VIRTUAL-SKIN-SPEAKER-LEGACY-MODEL-DIFF:2402.13 VIRTUAL-SKIN-SPEAKER-MODEL:27429.8 VIRTUAL-SKIN-SPEAKER-MODEL-CLAMPED:27429.8 VIRTUAL-SKIN-SPEAKER-MODEL-LEGACY-DIFF:-2402.13 VIRTUAL-SKIN-SPEAKER-MODEL-UPPER-CLAMPED:27429.8 VIRTUAL-SKIN-SPEAKER-SUB-0:29831.9 VT_SPEAKER_LEGACY_WEIGHT:1.48854e-13 VT_SPEAKER_MODEL_WEIGHT:1 charging_therm:33298 disp0_therm:27572 flash_therm:28960 north_therm:31956 quiet_therm:31872 rfpa_therm:32502 soc_therm:33243 usb_pwr_therm:27398
+01-13 06:26:53.047  1538  1571 I pixel-thermal: VIRTUAL-SKIN-CPU-LIGHT-ODPM:30.8883 raw data: VIRTUAL-SKIN:30888.3 VIRTUAL-SKIN-CPU-LIGHT-ODPM:30888.3
+01-13 06:26:53.048  1538  1571 I pixel-thermal: cellular-emergency:30.8883 raw data: VIRTUAL-SKIN:30888.3 cellular-emergency:30888.3
+01-13 06:26:53.048  1538  1571 I pixel-thermal: north_therm:31.956 raw data: north_therm:31956
+01-13 06:26:53.048  1538  1571 I pixel-thermal: VIRTUAL-SKIN-CPU-MID:30.8883 raw data: VIRTUAL-SKIN:30888.3 VIRTUAL-SKIN-CPU-MID:30888.3
+01-13 06:26:53.049  1538  1571 I pixel-thermal: VIRTUAL-SKIN:30.8883 raw data: VIRTUAL-SKIN:30888.3
+01-13 06:26:53.049  1538  1571 I pixel-thermal: VIRTUAL-SKIN-HINT:30.8883 raw data: VIRTUAL-SKIN:30888.3 VIRTUAL-SKIN-HINT:30888.3
+01-13 06:26:53.049  1538  1571 I pixel-thermal: VIRTUAL-SKIN-CPU-ODPM:30.8883 raw data: VIRTUAL-SKIN:30888.3 VIRTUAL-SKIN-CPU-ODPM:30888.3
+01-13 06:26:53.049  1538  1571 I pixel-thermal: VIRTUAL-SKIN-PREDICTION-MODEL: model_input: [31956.00 28960.00 33243.00 32502.00 33298.00 27572.00 27398.00 31872.00 ]
+01-13 06:26:53.049  1538  1571 I native  : I0000 00:00:1768310813.049863    1571 thermal_tflite_wrapper.cc:261] ThermalTfliteInvoke
+01-13 06:26:53.054  1538  1571 I pixel-thermal: VIRTUAL-SKIN-PREDICTION-MODEL: model_output: [30072.5 30098.9 30107.4 30137.9 30165.5 30185.7 30216.1 30259.4 30285.9 30337.9 ]
+01-13 06:26:53.054  1538  1571 I pixel-thermal: VIRTUAL-SKIN-PREDICTION-MODEL: predicted_value: [30072.5 30098.9 30107.4 30137.9 30165.5 30185.7 30216.1 30259.4 30285.9 30337.9 ]
+01-13 06:26:53.055  1538  1571 I pixel-thermal: STATS-UPDATOR:0 raw data: EXTREME-CONDITION-POWER-MONITOR-44C:0 EXTREME-CONDITION-POWER-MONITOR-45C:0 EXTREME-CONDITION-POWER-MONITOR-46C:0 EXTREME_WORKLOAD_ODPM:693.706 STATS-UPDATOR:0 VIRTUAL-SKIN:30888.3 VIRTUAL-SKIN-44C:0 VIRTUAL-SKIN-45C:0 VIRTUAL-SKIN-46C:0 VIRTUAL-SKIN-PREDICTION-MODEL:30072.5 VT-FORECAST-30SEC-BACK:29997.9 VT-FORECAST-60SEC-BACK:31329.2 VT-FORECAST-ERROR-30SEC:-890.375 VT-FORECAST-ERROR-60SEC:440.967 VT-FORECAST-ERROR-NOW:-815.793 VT-FORECAST-NOW:30072.5 charging_therm:33298 disp0_therm:27572 flash_therm:28960 north_therm:31956 quiet_therm:31872 rfpa_therm:32502 soc_therm:33243 usb_pwr_therm:27398
+01-13 06:26:53.056  1538  1571 I pixel-thermal: VIRTUAL-SKIN-CHARGE-WIRED:30.8883 raw data: NO_WLC:1 VIRTUAL-SKIN-CHARGE:30888.3 VIRTUAL-SKIN-CHARGE-WIRED:30888.3 VIRTUAL-SKIN-EQ:30888.3 WLC_CHECK:1 thb_hda:54
+01-13 06:26:53.056  1538  1571 I pixel-thermal: VIRTUAL-SKIN-SOC:30.8883 raw data: VIRTUAL-SKIN:30888.3 VIRTUAL-SKIN-SOC:30888.3
+01-13 06:26:53.056  1538  1571 I pixel-thermal: VIRTUAL-SKIN-CHARGE-PERSIST:30.8883 raw data: VIRTUAL-SKIN-CHARGE:30888.3 VIRTUAL-SKIN-CHARGE-PERSIST:30888.3
+01-13 06:26:53.137  1239  1239 D AOC     : A3:MSG: usf_touch_device.cc, 656: gtd: OnProcessLongPressEvent: receive a long press event
+01-13 06:26:53.141  2589  2608 E qfp-daemon: SetPointerDownTime: Unexpected qbt pointer down at idx 4
+01-13 06:26:53.142  2589  2608 E qfp-daemon: UpdateTouchWriteIdx: All touch slots full, couldn't update write idx
+01-13 06:26:53.142  1239  1239 D AOC     : A3:MSG: usf_tbn_server.cc, 347: gti: Send LPTW event to AP.
+01-13 06:26:53.143  1239  1239 D AOC     : A3:MSG: usf_touch_device.cc, 219: gtd: Host disables sensor, type: 2.
+01-13 06:26:53.143  1239  1239 D AOC     : A3:MSG: usf_touch_device.cc, 586: gtd: Bus: 1, Host: 0; Enabled: 1.
+01-13 06:26:53.143  1239  1239 D AOC     : A3:MSG: vsc_sensor.cc, 68: VSC: [Proximity Gated Long Press Gesture] disable.
+01-13 06:26:53.143  1239  1239 D AOC     : A3:MSG: usf_touch_device.cc, 417: gtd: Device is disabled.
+01-13 06:26:53.145   988  1798 I sensor-suez: Vendor atom [id = 100245] reported.
+01-13 06:26:53.145  2589  2609 W qfp-daemon: FindTouchInfoForResult: couldn't find touch.
+01-13 06:26:53.148  1239  1239 D AOC     : A3:MSG: usf_sensor.cc, 1886: USF: Received stop sampling request for TMD3743 Proximity (active:2).
+01-13 06:26:53.149  1239  1239 D AOC     : A3:MSG: usf_vsc_log.cc, 45: USF: gti: [LPTW] sensor disabled
+01-13 06:26:53.154  2656  2682 D BiometricStatusRepositoryImpl: authenticationState updated: Acquired(biometricSourceType=FINGERPRINT, requestReason=DeviceEntryAuthentication, acquiredInfo=7)
+01-13 06:26:53.171  2589  2608 E qfp-daemon: SetPointerDownTime: Unexpected fwk pointer down at idx 4
+01-13 06:26:53.180  1538  1538 I pixel-thermal: VIRTUAL-USB-THROTTLING:0 raw data: USB-MINUS-CHARGING:-5900 VIRTUAL-USB-THROTTLING:0 charging_therm:33298 usb_pwr_therm:27398
+01-13 06:26:53.181  1538  1538 I pixel-thermal: VIRTUAL-SKIN-CHARGE-PERSIST:30.8883 raw data: VIRTUAL-SKIN-CHARGE-PERSIST:30888.3
+01-13 06:26:53.181  1538  1538 I pixel-thermal: VIRTUAL-SKIN-CHARGE-WIRED:30.8883 raw data: VIRTUAL-SKIN-CHARGE-WIRED:30888.3
+01-13 06:26:53.185  1538  1538 I pixel-thermal: rfpa_therm:32.502 raw data: rfpa_therm:32502
+01-13 06:26:53.185  1538  1538 I pixel-thermal: flash_therm:28.96 raw data: flash_therm:28960
+01-13 06:26:53.185  1538  1538 I pixel-thermal: usb_pwr_therm:27.398 raw data: usb_pwr_therm:27398
+01-13 06:26:53.185  1538  1538 I pixel-thermal: charging_therm:33.298 raw data: charging_therm:33298
+01-13 06:26:53.185  1538  1538 I pixel-thermal: VIRTUAL-SKIN:30.8883 raw data: VIRTUAL-SKIN:30888.3
+01-13 06:26:53.186   988   988 D usf_sensor_hal: proximity: Enter Batch. Period = 20000000, latency = 0.
+01-13 06:26:53.192   988   988 D usf_sensor_hal: proximity: Enter Batch. Period = 20000000, latency = 0.
+01-13 06:26:53.196   988  1798 I sensor-suez: Vendor atom [id = 100243] reported.
+01-13 06:26:53.196   988  1798 I sensor-suez: Vendor atom [id = 100243] reported.
+01-13 06:26:53.196  1239  1239 D AOC     : A3:MSG: controller.cc, 933: SysMem: ipc: C-F1-Ar, cmd ID: 0x00c8, tag: 0x94, rc: 0
+01-13 06:26:53.197  1239  1239 D AOC     : A3:MSG: controller.cc, 933: SysMem: ipc: C-F1-Ar, cmd ID: 0x00c8, tag: 0x95, rc: 0
+01-13 06:26:53.197  1239  1239 D AOC     : A3:MSG: usf_sensor.cc, 2517: USF: Received reconfig sampling request for TMD3743 Proximity.
+01-13 06:26:53.197  1584  1677 I InputManager-JNI: Viewport [0] to add: local:4619827452008645888, isActive: true
+01-13 06:26:53.198  1584  2490 I InputReader: Reconfiguring input devices, changes=DISPLAY_INFO
+01-13 06:26:53.198  1584  2490 I InputReader: Device reconfigured: id=3, name='synaptics_tcm_touch', size 1280x2856, orientation Rotation0, mode DIRECT, display id 0
+01-13 06:26:53.198  1041  2556 D DeviceHalAidl: [default] setParameters: parameters: "screen_state=on"
+01-13 06:26:53.199   956  1029 D ASvc::Module: updateScreenState: 1
+01-13 06:26:53.199   956  1029 I AHal::Cs35l43Codec: EnableHibernate on
+01-13 06:26:53.199  1041  2556 D DeviceHalAidl: [r_submix] setParameters: parameters: "screen_state=on"
+01-13 06:26:53.199   956  1029 D AHAL_Module: updateScreenState: r_submix: 1
+01-13 06:26:53.199  1041  2556 D DeviceHalAidl: [bluetooth] setParameters: parameters: "screen_state=on"
+01-13 06:26:53.199   956  1029 D AHAL_Module: updateScreenState: bluetooth: 1
+01-13 06:26:53.199  1538  1538 I pixel-thermal: north_therm:31.956 raw data: north_therm:31956
+01-13 06:26:53.201   988   988 D usf_sensor_hal: auto brightness: Enter Batch. Period = 250000000, latency = 0.
+01-13 06:26:53.204   988   988 D usf_sensor_hal: auto brightness: Enter Activate. Enable = 1.
+01-13 06:26:53.212 10111 10111 I NearbyDiscovery: (REDACTED) FastPairDisplayObserver: %s -> %s
+01-13 06:26:53.213   547   547 D SurfaceFlinger: Setting power mode 2 on physical display 4619827452008645888
+01-13 06:26:53.213   547   547 D SurfaceFlinger: setPhysicalDisplayPowerMode: Optimizing thread scheduling: optimizeForPerformance
+01-13 06:26:53.213   548   873 I hwc-display-DSI-1: SetPowerMode: DOZE -> ON
+01-13 06:26:53.214   988  1798 I sensor-suez: Vendor atom [id = 100243] reported.
+01-13 06:26:53.214   988  1798 I sensor-suez: Vendor atom [id = 100242] reported.
+01-13 06:26:53.214   988  1798 I sensor-suez: Vendor atom [id = 100243] reported.
+01-13 06:26:53.214  1538  1538 I pixel-thermal: cellular-emergency:30.8883 raw data: cellular-emergency:30888.3
+01-13 06:26:53.214  2947  3645 I PixelDisplayManager: onDisplayChanged(Built-in Screen, 0, local:4619827452008645888): screenOn=false, hbmMode=0, br=0.0, product=DeviceProductInfo{name=BMEA-A0D-00, manufacturerPnpId=GGL, productId=0, modelYear=null, manufactureDate=ManufactureDate{week=1, year=1990}, connectionToSinkType=1}
+01-13 06:26:53.215  1538  1538 I pixel-thermal: disp0_therm:27.572 raw data: disp0_therm:27572
+01-13 06:26:53.215  1239  1239 D AOC     : A3:MSG: vsc_sensor.cc, 37: VSC: [Auto Brightness] enable: period 1000000000, latency = 0
+01-13 06:26:53.215  1538  1538 I pixel-thermal: VIRTUAL-USB-UI:0 raw data: USB-MINUS-CHARGING:-5900 VIRTUAL-USB-UI:0 usb_pwr_therm:27398
+01-13 06:26:53.215  1239  1239 D AOC     : A3:MSG: usf_sensor.cc, 1871: USF: Received start sampling request for TMD3743 Ambient Light (active:2).
+01-13 06:26:53.215  1239  1239 D AOC     : A3:MSG: usf_sensor.cc, 1871: USF: Received start sampling request for VD6282 Rear Light Sensor (active:1).
+01-13 06:26:53.215  1239  1239 D AOC     : A3:MSG: vd6282_device.cc, 1335: USF: VD6282: Enabled Spectral!
+01-13 06:26:53.215  1239  1239 D AOC     : A3:MSG: usf_vsc_log.cc, 45: USF: [Auto Brightness] Configured instance at 0x782083b8, front-als:1 rear-als:0 rls:1
+01-13 06:26:53.216  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:53.216  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:53.216  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:53.216  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:53.216  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:53.217  1197  2479 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:53.217  1197  2479 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:53.217  1197  2479 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:53.217  1197  2479 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:53.217  1197  2479 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:53.222 10111 10472 I NearbyDiscovery: (REDACTED) ApFastPairScanner: isScreenOn=%s, isLocationEnabled=%s, disableLocationRequirement=%s, isDiscoveryScanningEnabled=%s, during24GhzWifiWarmingUpPeriod=%s
+01-13 06:26:53.222 10111 10472 D BluetoothAdapter: isLeEnabled(): ON
+01-13 06:26:53.223 10111 10472 I NearbyDiscovery: (REDACTED) ApFastPairScanner: eventType=%s, intReq=%s, scanning=%s, scanAllowed=%s, bleEnabled=%s, lockScanRate=%s, startScanningByLowPowerMode=%s
+01-13 06:26:53.224  2972  3248 D SatelliteSessionController: isInEnablingState: getCurrentState=com.android.internal.telephony.satellite.SatelliteSessionController$PowerOffState@7113ab0
+01-13 06:26:53.224  2972  3248 D SatelliteController: handleCmdUpdateNtnSignalStrengthReporting: ignore request, satellite is disabled
+01-13 06:26:53.227  1538  1538 I pixel-thermal: VIRTUAL-SKIN-SPEAKER:27.1348 raw data: VIRTUAL-SKIN-SPEAKER:27134.8
+01-13 06:26:53.227  1538  1538 I pixel-thermal: soc_therm:33.243 raw data: soc_therm:33243
+01-13 06:26:53.235  2589  2609 W qfp-daemon: AuthEventSetResult: No touch associated for result!
+01-13 06:26:53.238   988   988 D usf_sensor_hal: ambient light: Enter Batch. Period = 200000000, latency = 0.
+01-13 06:26:53.238   988  1744 D usf_sensor_hal: ambient light: Enter Activate. Enable = 1.
+01-13 06:26:53.239   988  1798 I sensor-suez: Vendor atom [id = 100243] reported.
+01-13 06:26:53.243   988  1798 I sensor-suez: Vendor atom [id = 100245] reported.
+01-13 06:26:53.244  1246  1246 I android.hardware.biometrics.face-service.pixel: [ThreadPool]resetLockout(): Operation scheduled.
+01-13 06:26:53.244  1246  9937 I android.hardware.biometrics.face-service.pixel: Task started: resetLockout{1309}
+01-13 06:26:53.244  1246  2591 I android.hardware.biometrics.face-service.pixel: [ThreadPool]resetLockout(): Operation started.
+01-13 06:26:53.245   988  1798 I sensor-suez: Vendor atom [id = 100242] reported.
+01-13 06:26:53.245  1246  2591 I android.hardware.biometrics.face-service.pixel: Task finished: resetLockout{1309}
+01-13 06:26:53.248   988  1798 I sensor-suez: Vendor atom [id = 100243] reported.
+01-13 06:26:53.248   988  1798 I sensor-suez: Vendor atom [id = 100245] reported.
+01-13 06:26:53.249  1246  2591 I android.hardware.biometrics.face-service.pixel: [ThreadPool]resetLockout(): Operation finished.
+01-13 06:26:53.252  1239  1239 D AOC     : A3:MSG: usf_tbn_server.cc, 263: gti: Receive TBN event id: 4475, op: 2
+01-13 06:26:53.252  1239  1239 D AOC     : A3:MSG: usf_tbn_server.cc, 55: gti: Change bus owner to AP.
+01-13 06:26:53.252  1239  1239 D AOC     : A3:MSG: usf_touch_device.cc, 794: gtd: On tbn event, state: 1.
+01-13 06:26:53.253  1239  1239 D AOC     : A3:MSG: usf_touch_device.cc, 586: gtd: Bus: 0, Host: 0; Enabled: 0.
+01-13 06:26:53.253  1239  1239 D AOC     : A3:MSG: usf_tbn_server.cc, 236: gti: Send TBN event response id: 4475, op: 2
+01-13 06:26:53.258  2656  3348 D BiometricStatusRepositoryImpl: authenticationState updated: Succeeded(biometricSourceType=FINGERPRINT, isStrongBiometric=true, requestReason=DeviceEntryAuthentication, userId=0)
+01-13 06:26:53.258  2656  3348 D BiometricStatusRepositoryImpl: authenticationState updated: Stopped(biometricSourceType=FINGERPRINT, requestReason=NotRunning)
+01-13 06:26:53.258   988  1744 D usf_sensor_hal: ambient light: Enter Activate. Enable = 0.
+01-13 06:26:53.266   988  1798 I sensor-suez: Vendor atom [id = 100242] reported.
+01-13 06:26:53.267   988  1798 I sensor-suez: Vendor atom [id = 100243] reported.
+01-13 06:26:53.286   988  2648 I suez-nanoapp-clients: Enabling ip_health nanoapp.
+01-13 06:26:53.292  1239  1239 D AOC     : A3:MSG: tmd3743_device.cc, 2594: USF: TMD3743: dbv:492 rr:1 pwm:1 te2:30 status:1[1]C/R/G/B/W=0.0/0.0/0.0/0.0/0.0
+01-13 06:26:53.292  1239  1239 D AOC     : A3:MSG: usf_vsc_log.cc, 45: USF: [BINNED_BRIGHTNESS] Display[0] state changed to 1 (lux:0.624053)
+01-13 06:26:53.292  1239  1239 D AOC     : A3:MSG: tmd3743_device.cc, 3234: USF: TMD3743: VSYNC delay < 0 after adjustment, fallback to 706 ms.
+01-13 06:26:53.294  1239  1239 D AOC     : A3:MSG: tmd3743_device.cc, 2975: USF: TMD3743: [ALS] SyncDelay_adjustment (us): 1300
+01-13 06:26:53.299  1239  1239 D AOC     : A3:MSG: tmd3743_device.cc, 308: USF: TMD3743: [0]ALS is active, skip initialization. (L/C/S) = 1/0/0
+01-13 06:26:53.299  1239  1239 D AOC     : A3:MSG: tmd3743_device.cc, 367: USF: TMD3743: [0]Start sampling (Client count L/C/S/P = 1/0/1/1, err = 0)
+01-13 06:26:53.300  1239  1239 D AOC     : A3:MSG: usf_sensor.cc, 1871: USF: Received start sampling request for SPL07003 Barometer (active:1).
+01-13 06:26:53.300  1239  1239 D AOC     : A3:MSG: spxyz00n_sensor.cc, 102: USF: Spxyz00nSensor: Start 1, period: 1000000000, latency: 9223372036854775807.
+01-13 06:26:53.300  1239  1239 D AOC     : A3:MSG: spxyz00n_sensor.cc, 114: USF: Spxyz00nSensor: Supported sampling period: 640000000 ns.
+01-13 06:26:53.300  1239  1239 D AOC     : A3:MSG: spxyz00n_sensor.cc, 102: USF: Spxyz00nSensor: Start 0, period: 40000000, latency: 10000000000.
+01-13 06:26:53.300  1239  1239 D AOC     : A3:MSG: spxyz00n_sensor.cc, 114: USF: Spxyz00nSensor: Supported sampling period: 40000000 ns.
+01-13 06:26:53.302   988  2648 I suez-nanoapp-clients: Vendor atom [id = 100046] reported.
+01-13 06:26:53.307   960   991 D CHRE    : @ 1849985.499: Parsed nanoapp message from host: app ID 0x476f6f676c001022 endpoint 0x8042 msgType 1 payload size 0
+01-13 06:26:53.308   960   991 I CHRE    : @ 1849985.500: [ip] Received message from host endpoint 0x8042 of type 1 and size 0.
+01-13 06:26:53.308   960   991 I CHRE    : @ 1849985.500: [ip] App enabled by host.
+01-13 06:26:53.312   548   873 I hwc-pixel-display-DSI-1: SetPowerMode PixelPowerMode LP_DOZE -> ON
+01-13 06:26:53.318   548   873 I android.hardware.composer.drm-hwc3-service: PixelTe2Manager::SetTe2Option writes te2_option(0) to the sysfs node
+01-13 06:26:53.318   548   873 I hwc-DSI-1: Throttler Vote: request: min RR value =  30(client =  0), peak RR lock time =   1000 ms(client =  0)
+01-13 06:26:53.318   548   873 I hwc-DSI-1: Throttler Vote:  result: min RR value =  30(client =  0), peak RR lock time =   1000 ms(client =  0)
+01-13 06:26:53.318   548   873 V android.hardware.composer.drm-hwc3-service: OnRefreshRateChange Setting Refresh Rate: 30, calculator type: kMinimumRefreshRate
+01-13 06:26:53.318   548   873 I android.hardware.composer.drm-hwc3-service: PixelTe2Manager::SetTe2Frequency writes te2_freq_hz(30) to the sysfs node
+01-13 06:26:53.318   548   873 E android.hardware.composer.drm-hwc3-service: OnPowerModeChange: Missing pending active display configuration id when switching power mode ON to a non-off mode.
+01-13 06:26:53.318   548   873 I hwc-DSI-1: Throttler Vote: request: min RR value = 120(client =  1), peak RR lock time =      0 ms(client =  1)
+01-13 06:26:53.318   548   873 I hwc-DSI-1: Throttler Vote:  result: min RR value = 120(client =  1), peak RR lock time =   1000 ms(client =  0)
+01-13 06:26:53.319   547   547 D SurfaceFlinger: Finished setting power mode 2 on physical display 4619827452008645888
+01-13 06:26:53.319  1538  1538 I pixel-thermal: VIRTUAL-SKIN:30.8883 raw data: VIRTUAL-SKIN:30888.3
+01-13 06:26:53.319   548   880 D hwc-pixel-skin-temperature: 30.888256 rounded to 31 (deg)
+01-13 06:26:53.319  1584  2614 D SurfaceControl: Excessive delay in setPowerMode()
+01-13 06:26:53.319   548   903 V android.hardware.composer.drm-hwc3-service: OnRefreshRateChange Setting Refresh Rate: 120, calculator type: kMinimumRefreshRate
+01-13 06:26:53.319   548   903 I android.hardware.composer.drm-hwc3-service: PixelTe2Manager::SetTe2Frequency writes te2_freq_hz(120) to the sysfs node
+01-13 06:26:53.333 10111 10111 I ActiveUnlock: onDeviceUnlocked [CONTEXT service_id=327 ]
+01-13 06:26:53.335   988  1744 D usf_sensor_hal: binned brightness: Enter Batch. Period = 200000000, latency = 0.
+01-13 06:26:53.337  2656  2656 W UdfpsDisplayMode: disable | already disabled
+01-13 06:26:53.342   988  1798 I sensor-suez: Vendor atom [id = 100243] reported.
+01-13 06:26:53.347  2656  2656 D KeyguardViewMediator: keyguardDone: 0
+01-13 06:26:53.347  2656  2656 D KeyguardViewMediator: tryKeyguardDone: pendingForUser - NO_KEYGUARD_DONE_PENDING, animRan - false animRunning - false
+01-13 06:26:53.347  2656  2656 D KeyguardViewMediator: OnHideAnimationFinished.run(0)
+01-13 06:26:53.347  2656  2656 D KeyguardViewMediator: tryKeyguardDone: pendingForUser - NO_KEYGUARD_DONE_PENDING, animRan - true animRunning - false
+01-13 06:26:53.349  2656  2656 D KeyguardViewMediator: keyguardGoingAway requested for userId: 0
+01-13 06:26:53.356  1239  1239 D AOC     : A3:MSG: tmd3743_device.cc, 977: USF: TMD3743: C/G switch 2 -> 4 d_lux:0.18 w_lux: 0.50 C:0.01 G:0.00
+01-13 06:26:53.358  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:53.358  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:53.358  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:53.358  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:53.359  9693  9693 D LifecycleMonitor: Lifecycle status change: androidx.activity.ComponentActivity@8dab7cc in: RESTARTED
+01-13 06:26:53.361   988  1744 D usf_sensor_hal: auto brightness: Enter Batch. Period = 250000000, latency = 0.
+01-13 06:26:53.361   988  1798 I sensor-suez: Vendor atom [id = 100243] reported.
+01-13 06:26:53.362  9693  9693 V ActivityScenario: Update currentActivityStage to RESTARTED, currentActivity=androidx.activity.ComponentActivity@8dab7cc
+01-13 06:26:53.362  9693  9693 D LifecycleMonitor: Lifecycle status change: androidx.activity.ComponentActivity@8dab7cc in: STARTED
+01-13 06:26:53.362  9693  9693 V ActivityScenario: Update currentActivityStage to STARTED, currentActivity=androidx.activity.ComponentActivity@8dab7cc
+01-13 06:26:53.363  9693  9693 D LifecycleMonitor: Lifecycle status change: androidx.activity.ComponentActivity@8dab7cc in: RESUMED
+01-13 06:26:53.364  9693  9693 V ActivityScenario: Update currentActivityStage to RESUMED, currentActivity=androidx.activity.ComponentActivity@8dab7cc
+01-13 06:26:53.366  2947  3645 I PixelDisplayManager: onDisplayChanged(Built-in Screen, 0, local:4619827452008645888): screenOn=true, hbmMode=0, br=0.0, product=DeviceProductInfo{name=BMEA-A0D-00, manufacturerPnpId=GGL, productId=0, modelYear=null, manufactureDate=ManufactureDate{week=1, year=1990}, connectionToSinkType=1}
+01-13 06:26:53.367   988  1744 D usf_sensor_hal: device orientation: Enter Batch. Period = 66667000, latency = 0.
+01-13 06:26:53.368   988  1798 I sensor-suez: Vendor atom [id = 100243] reported.
+01-13 06:26:53.368   988   988 D usf_sensor_hal: device orientation: Enter Activate. Enable = 1.
+01-13 06:26:53.369  1239  1239 D AOC     : A3:MSG: vsc_sensor.cc, 37: VSC: [Device Orientation] enable: period 66667000, latency = 0
+01-13 06:26:53.369  1239  1239 D AOC     : A3:MSG: usf_vsc_log.cc, 54: USF: [WO] No second IMU detected
+01-13 06:26:53.369  1239  1239 D AOC     : A3:MSG: usf_vsc_log.cc, 54: USF: [WO] Set sensor rate and start algorithm version 13_2, imu 0
+01-13 06:26:53.370  1239  1239 D AOC     : A3:MSG: usf_vsc_log.cc, 54: USF: [WO] Reset mTask, clear history
+01-13 06:26:53.370  1239  1239 D AOC     : A3:MSG: usf_sensor.cc, 1871: USF: Received start sampling request for ICM45631 Accelerometer (active:7).
+01-13 06:26:53.371   548   873 I hwc-pixel-bc: path=drm, id=0, level=494, nits=1.013944, brightness=0.000003, DimmingOn=0, Hbm=0, LhbmOn=0, OpRate=0
+01-13 06:26:53.372  1239  1239 D AOC     : A3:MSG: icm456xy_device.cc, 443: USF: Device: type: 0, p/l: 20000000 ns/ 86666666 ns, O/WM/I: 200/1/200
+01-13 06:26:53.372  1239  1239 D AOC     : A3:MSG: usf_sensor.cc, 1871: USF: Received start sampling request for ICM45631 Gyroscope (active:2).
+01-13 06:26:53.373   988  1798 I sensor-suez: Vendor atom [id = 100242] reported.
+01-13 06:26:53.373   988  1798 I sensor-suez: Vendor atom [id = 100243] reported.
+01-13 06:26:53.374   988   988 D usf_sensor_hal: ambient light: Enter Batch. Period = 250000000, latency = 0.
+01-13 06:26:53.374   988  1798 I sensor-suez: Vendor atom [id = 100243] reported.
+01-13 06:26:53.374   988   988 D usf_sensor_hal: ambient light: Enter Activate. Enable = 1.
+01-13 06:26:53.375  2656  2727 D WindowOnBackDispatcher: setTopOnBackInvokedCallback (unwrapped): android.view.ViewRootImpl$$ExternalSyntheticLambda12@ac982b6
+01-13 06:26:53.376   988  1798 I sensor-suez: Vendor atom [id = 100242] reported.
+01-13 06:26:53.376   988  1798 I sensor-suez: Vendor atom [id = 100243] reported.
+01-13 06:26:53.377  2656  2656 D UdfpsTouchOverlayBinder: [com.android.systemui.biometrics.ui.view.UdfpsTouchOverlay{26725c8 V.E...... ........ 0,0-1280,2856 #7f0a099a app:id/udfps_touch_overlay}-detached]: update shouldHandleTouches=false
+01-13 06:26:53.377  2947  3645 I PixelDisplayManager:  Request Lbe state 0 req 1, display unique id: local:4619827452008645888
+01-13 06:26:53.377  2656  2656 D KeyguardViewMediator: KeyguardViewMediator queue processing message: NOTIFY_STARTED_WAKING_UP
+01-13 06:26:53.377  2656  2656 D WindowOnBackDispatcher: setTopOnBackInvokedCallback (unwrapped): com.android.systemui.back.domain.interactor.BackActionInteractor$callback$2@c51f953
+01-13 06:26:53.378  2656  2656 D CentralSurfaces: !shouldBeKeyguard mStatusBarStateController.isKeyguardRequested() true keyguardForDozing false wakeAndUnlocking true isWakingAndOccluded false
+01-13 06:26:53.378  2656  2656 D CentralSurfaces: hideKeyguardImpl false
+01-13 06:26:53.378  2656  2656 D SbStateController: setState: requested state SHADE!= upcomingState: KEYGUARD. This usually means the status bar state transition was interrupted before the upcoming state could be applied.
+01-13 06:26:53.378   547   950 I libbinder.BpBinder: onLastStrongRef automatically unlinking death recipients:
+01-13 06:26:53.378  2656  2986 D KeyguardViewMediator: updateActivityLockScreenState(true, false, setDozing)
+01-13 06:26:53.379  2656  2656 E NotifRow: Magnetic state changed from IDLE to IDLE on a null swiped listener, or the logging key of the listener is null
+01-13 06:26:53.379  2656  2656 W SsPagerDots: Total number of pages invalid: 0. Assuming 1 page.
+01-13 06:26:53.379  2656  2656 D CentralSurfaces: !shouldBeKeyguard mStatusBarStateController.isKeyguardRequested() true keyguardForDozing false wakeAndUnlocking true isWakingAndOccluded false
+01-13 06:26:53.379  2656  2656 D CentralSurfaces: hideKeyguardImpl false
+01-13 06:26:53.379  2656  2656 E NotifRow: Magnetic state changed from IDLE to IDLE on a null swiped listener, or the logging key of the listener is null
+01-13 06:26:53.380   548   873 I hwc-pixel-bc: path=drm, id=0, level=492, nits=1.006561, brightness=0.000000, DimmingOn=0, Hbm=0, LhbmOn=0, OpRate=0
+01-13 06:26:53.380   988  1798 I sensor-suez: Vendor atom [id = 100245] reported.
+01-13 06:26:53.380  2656  2656 D DLObserver: remove listener: com.android.systemui.doze.DozeTriggers$DockEventListener@f0ed3b5
+01-13 06:26:53.381  2656  2656 D DLObserver: remove listener: com.android.systemui.doze.DozeDockHandler$DockEventListener@cf7a4a
+01-13 06:26:53.382  2656  2656 D DLIndicator: onDozingChanged(false)
+01-13 06:26:53.382  2656  2656 D DLIndicator: updateVisibility(), mDozing=false, mDocking=false, mTopIconShowing=false, mViewAttached=true
+01-13 06:26:53.383  2656  2656 D DLIndicator: onStateChanged(0)
+01-13 06:26:53.383  2656  2656 D DLIndicator: updateVisibility(), mDozing=false, mDocking=false, mTopIconShowing=false, mViewAttached=true
+01-13 06:26:53.384   988   988 D usf_sensor_hal: binned brightness: Enter Activate. Enable = 0.
+01-13 06:26:53.384  2908  2908 D NfcService: applyScreenState: screenState = ON_UNLOCKED
+01-13 06:26:53.385  2908  2908 D NfcService: applyScreenState: screenState != mScreenState=1
+01-13 06:26:53.385  2908  2908 D NfcService: handleMessage: MSG_APPLY_SCREEN_STATE ON_UNLOCKED
+01-13 06:26:53.385  2908  2908 D NfcService: Don't start polling when KeyguardLocked
+01-13 06:26:53.385  2908  2908 D NfcService: applyRouting
+01-13 06:26:53.385  1239  1239 D AOC     : A3:MSG: vsc_sensor.cc, 68: VSC: [Binned Brightness] disable.
+01-13 06:26:53.385  2928  4057 I SHANNON_IMS: 6183 [PROX] onReceive: intent= [Intent { act=android.intent.action.SCREEN_ON flg=0x50200010 }] (ConnectivityBroadcastReceiver%onReceive:91)
+01-13 06:26:53.385  2908  2908 D NfcService: applyRouting: Discovery configuration equal, not updating
+01-13 06:26:53.385  2908  2908 D libnfc_nci: nfcManager_doSetScreenState: state = 8 sPrevScreenStateMask= 1, screen_state_mask= 8
+01-13 06:26:53.386  2804  2804 I AppSlicerService: Received Screen On intent
+01-13 06:26:53.388  1239  1239 D AOC     : A3:MSG: usf_sensor.cc, 1886: USF: Received stop sampling request for TMD3743 Ambient Light (active:2).
+01-13 06:26:53.389  2947  3645 I PixelDisplayManager: onDisplayChanged(Built-in Screen, 0, local:4619827452008645888): screenOn=true, hbmMode=0, br=0.0, product=DeviceProductInfo{name=BMEA-A0D-00, manufacturerPnpId=GGL, productId=0, modelYear=null, manufactureDate=ManufactureDate{week=1, year=1990}, connectionToSinkType=1}
+01-13 06:26:53.390   988   988 D usf_sensor_hal: proximity: Enter Activate. Enable = 0.
+01-13 06:26:53.393  2908 22584 E power   : Failed to get SystemSuspend service
+01-13 06:26:53.394   988  1798 I sensor-suez: Vendor atom [id = 100242] reported.
+01-13 06:26:53.394   988  1798 I sensor-suez: Vendor atom [id = 100243] reported.
+01-13 06:26:53.394   988  1798 I sensor-suez: Vendor atom [id = 100242] reported.
+01-13 06:26:53.394   988  1798 I sensor-suez: Vendor atom [id = 100243] reported.
+01-13 06:26:53.396  2656  2656 D DeviceEntryIconViewBinder: Updating device entry icon image state ForegroundIconViewModel(type=LOCK, useAodVariant=true, tint=-1, padding=59)
+01-13 06:26:53.396   988  1022 I usf_sensor_hal: Received REPORT_SENSOR_ACTIVE_STATE_CHANGES event from 'TMD3743 Proximity' with state:kInactive and desired fps:0!
+01-13 06:26:53.397  1239  1239 D AOC     : A3:MSG: usf_sensor.cc, 1886: USF: Received stop sampling request for TMD3743 Proximity (active:0).
+01-13 06:26:53.397  1239  1239 D AOC     : A3:MSG: tmd3743_sensor.cc, 294: USF: TMD3743: Report new active state:0 min_fps:0
+01-13 06:26:53.397  1239  1239 D AOC     : A3:MSG: tmd3743_device.cc, 476: USF: TMD3743: [0]Stop sampling (Client count L/C/S/P = 1/0/1/0, err = 0)
+01-13 06:26:53.397  2656  2656 D SystemEventDataSource: onReceive: intentAction
+01-13 06:26:53.398  4337  9064 I AiAiEcho: (REDACTED) Settings changed for uri: %s
+01-13 06:26:53.398  2656  2735 D SystemEventDataSource: updatedEventData: SystemEventData(intentAction=android.intent.action.SCREEN_ON, plugged=EventData(value=1), batteryScale=EventData(value=100), batteryLevel=EventData(value=100), chargingStatus=EventData(value=1), maxChargingCurrent=EventData(value=3000000), maxChargingVoltage=EventData(value=5000000), batteryStatus=EventData(value=5), halEventData=HalEventData(dockDefendStatus=EventData(value=-3), tempDefendEventData=EventData(value=false), dwellDefendEventData=EventData(value=false)), settingsEventData=SettingsEventData(dockDefenderBypass=EventData(value=0), chargingLimitSettings=EventData(value=0), dndState=EventData(value=false), airplaneState=EventData(value=false)), frameworkApiEventData=FrameworkApiEventData(batterySaverState=EventData(value=false), extremeBatterySaverState=EventData(value=false)))
+01-13 06:26:53.399  2656  2735 D ChargingLimitEventModule: validate()=false, chargingStatus=1
+01-13 06:26:53.399  2656  2735 D DwellDefendBatteryModule: validate: false -> false
+01-13 06:26:53.399  2656  2735 D TempDefendBatteryModule: validate: false -> false
+01-13 06:26:53.399   548   873 D hwc-pixel-display-Writeback-3: SetRefreshRateThrottle: type=0 value=0
+01-13 06:26:53.399   548   873 D android.hardware.composer.drm-hwc3-service: PixelTe2Manager::UpdateTe2OptionForProximity: proximity state 0, min 0hz, doze mode 0
+01-13 06:26:53.399  2656  2735 D BatteryEventService: collect BatteryEvents: BatteryEvents(eventTypes=[FULL_CHARGED, SCREEN_ON, REGULAR_CHARGING], batteryLevel=100, pluggedType=1)
+01-13 06:26:53.399  2656  2656 D CentralSurfaces: !shouldBeKeyguard mStatusBarStateController.isKeyguardRequested() true keyguardForDozing false wakeAndUnlocking true isWakingAndOccluded false
+01-13 06:26:53.399  2656  2656 D CentralSurfaces: hideKeyguardImpl true
+01-13 06:26:53.399  2804  2804 D ScreenOnOffBR: Screen on
+01-13 06:26:53.399  2656  2735 D BatteryEventService: notifyForBatteryEventsUpdate: BatteryEvents(eventTypes=[FULL_CHARGED, SCREEN_ON, REGULAR_CHARGING], batteryLevel=100, pluggedType=1)
+01-13 06:26:53.399  2656  2735 D BatteryEventService: AIDL callback listeners count: 1
+01-13 06:26:53.399  2656  2735 D BatteryEventService: notify AIDL callback to null, cost: 0 ms
+01-13 06:26:53.399  2656  2735 I BatteryEventService: notify all AIDL callbacks, cost: 0 ms
+01-13 06:26:53.399  2656  2735 D BatteryEventService: BatteryEventsListener (broadcast) count: 1
+01-13 06:26:53.399  2656  2735 D BatteryEventService: broadcastIntent(uid:0): Intent { act=com.google.android.battery_event.BATTERY_EVENTS_UPDATE cmp=com.google.android.apps.turbo/.batteryevent.BatteryEventUpdateReceiver (has extras) }, events:[SCREEN_ON]
+01-13 06:26:53.399  2656  2656 D DLIndicator: onStateChanged(0)
+01-13 06:26:53.399  2656  2656 D DLIndicator: updateVisibility(), mDozing=false, mDocking=false, mTopIconShowing=false, mViewAttached=true
+01-13 06:26:53.399  2656  2735 I BatteryEventService: notify all broadcast intent, cost: 0 ms
+01-13 06:26:53.399   960   991 D CHRE    : @ 1849985.600: Parsed nanoapp message from host: app ID 0x476f6f676c001011 endpoint 0x107 msgType 8 payload size 1
+01-13 06:26:53.399   960   991 D CHRE.HAL: Received a nanoapp message from 0x476f6f676c001011 endpoint 0x107: Type 0x3 size 0
+01-13 06:26:53.400  2656  2656 W SsPagerDots: Total number of pages invalid: 0. Assuming 1 page.
+01-13 06:26:53.400  4337  4721 I AiAiEcho: (REDACTED) Predicting[%d]: %s
+01-13 06:26:53.401  4337  4721 I AiAiEcho: (REDACTED) EchoTargets: %s
+01-13 06:26:53.401  4337  4721 I AiAiEcho: Filtered by AiAi flag check: %s
+01-13 06:26:53.401  4337  4721 I AiAiEcho: #remoteViewsTwiddler: feature disabled.
+01-13 06:26:53.401  4337  4721 I AiAiEcho: (REDACTED) Predicting[%d]: %s
+01-13 06:26:53.401  4337  4721 I AiAiEcho: (REDACTED) EchoTargets: %s
+01-13 06:26:53.401  4337  4721 I AiAiEcho: Filtered by AiAi flag check: %s
+01-13 06:26:53.401  4337  4721 I AiAiEcho: #remoteViewsTwiddler: feature disabled.
+01-13 06:26:53.401  4337  4721 I AiAiEcho: (REDACTED) Predicting[%d]: %s
+01-13 06:26:53.401  4337  4721 I AiAiEcho: (REDACTED) EchoTargets: %s
+01-13 06:26:53.401  4337  4721 I AiAiEcho: Filtered by AiAi flag check: %s
+01-13 06:26:53.401  4337  4721 I AiAiSmartspace: #weatherSecondaryCardTwiddler: don't change weather for the dream surface
+01-13 06:26:53.401  4337  4721 I AiAiEcho: #remoteViewsTwiddler: feature disabled.
+01-13 06:26:53.401  4337  4721 I AiAiEcho: (REDACTED) Predicting[%d]: %s
+01-13 06:26:53.401  4337  4721 I AiAiEcho: (REDACTED) EchoTargets: %s
+01-13 06:26:53.401  4337  4721 I AiAiEcho: Filtered by AiAi flag check: %s
+01-13 06:26:53.401  4337  4721 I AiAiEcho: #remoteViewsTwiddler: feature disabled.
+01-13 06:26:53.401  4337  4721 I AiAiEcho: (REDACTED) #postPredictionTargets: Sending updates to UISurface %s with targets# %s (types=[%s])
+01-13 06:26:53.401  4337  4721 I AiAiEcho: (REDACTED) #postPredictionTargets: Sending updates to UISurface %s with targets# %s (types=[%s])
+01-13 06:26:53.401  4337  4721 I AiAiEcho: (REDACTED) #postPredictionTargets: Sending updates to UISurface %s with targets# %s (types=[%s])
+01-13 06:26:53.401  4337  4721 I AiAiEcho: (REDACTED) #postPredictionTargets: Sending updates to UISurface %s with targets# %s (types=[%s])
+01-13 06:26:53.402  2908 22584 D libnfc_nci: nfaDeviceManagementCallback: enter; event=0xB
+01-13 06:26:53.402  2908 22584 D libnfc_nci: nfaDeviceManagementCallback: NFA_DM_SET_POWER_SUB_STATE_EVT; status=0x0
+01-13 06:26:53.402  3628  3945 I twoshay.sensorfusion: Req : 0x00000430, Rep : 0x0000000D, Model : 0x00000001
+01-13 06:26:53.402  3197  3197 D IwlanBroadcastReceiver: onReceive: android.intent.action.SCREEN_ON
+01-13 06:26:53.402  3197  3197 D IwlanEventListener[0]: Updating handlers for the event: 14
+01-13 06:26:53.402  3197  3197 D IwlanEventListener[1]: Updating handlers for the event: 14
+01-13 06:26:53.402  3197  3229 D IwlanDataService$IwlanDataServiceHandler: msg.what = SCREEN_ON_EVENT
+01-13 06:26:53.403  2908  2908 D libnfc_nci: nfcManager_doSetScreenState: discovry_param = 0x00
+01-13 06:26:53.403  2656  2731 I AmbientCueRepository: Receiving SmartSpace targets # 0
+01-13 06:26:53.404  2908 22584 E power   : Failed to get SystemSuspend service
+01-13 06:26:53.405  3313  3313 D QnsTimer: onReceive action=android.intent.action.SCREEN_ON
+01-13 06:26:53.405   548   873 I android.hardware.composer.drm-hwc3-service: PixelTe2Manager::SetTe2Option writes te2_option(1) to the sysfs node
+01-13 06:26:53.405   548   873 I android.hardware.composer.drm-hwc3-service: PixelTe2Manager::SetTe2Frequency writes te2_freq_hz(30) to the sysfs node
+01-13 06:26:53.405   548   873 I hwc-DSI-1: Throttler Vote: request: min RR value =   0(client =  0), peak RR lock time =   1000 ms(client =  0)
+01-13 06:26:53.405   548   873 I hwc-DSI-1: Throttler Vote:  result: min RR value = 120(client =  1), peak RR lock time =   1000 ms(client =  0)
+01-13 06:26:53.405   548   905 I android.hardware.composer.drm-hwc3-service: ProximitySensorStateNotifierWorker: signal received (state=0)
+01-13 06:26:53.405   548   905 D android.hardware.composer.drm-hwc3-service: single_te_mode_votes_: [
+01-13 06:26:53.405   548   905 D android.hardware.composer.drm-hwc3-service: Voter name : SENSOR single TE mode ? false
+01-13 06:26:53.405   548   905 D android.hardware.composer.drm-hwc3-service: Voter name : BLOCKING_ZONE single TE mode ? true
+01-13 06:26:53.405   548   905 D android.hardware.composer.drm-hwc3-service: Voter name : LITE_VRR_MANAGER single TE mode ? false
+01-13 06:26:53.405   548   905 D android.hardware.composer.drm-hwc3-service: Voter name : TEST single TE mode ? false
+01-13 06:26:53.405   548   905 D android.hardware.composer.drm-hwc3-service: Voter name : DEBUG single TE mode ? false
+01-13 06:26:53.405   548   905 D android.hardware.composer.drm-hwc3-service: ]
+01-13 06:26:53.405  3313  3488 D QnsTimer: No timers are pending to run
+01-13 06:26:53.406  2656  2656 D KeyguardViewMediator: handleStartKeyguardExitAnimation startTime=0 fadeoutDuration=0
+01-13 06:26:53.406  2656  2656 D KeyguardUnlock: playCannedUnlockAnimation
+01-13 06:26:53.406  2656  2656 D KeyguardUnlock: playCannedUnlockAnimation, isWakeAndUnlock
+01-13 06:26:53.406  2656  2656 D KeyguardViewMediator: exitKeyguardAndFinishSurfaceBehindRemoteAnimation
+01-13 06:26:53.406   960   991 D CHRE    : @ 1849985.608: Parsed nanoapp message from host: app ID 0x476f6f676c00103b endpoint 0x8005 msgType 2 payload size 7
+01-13 06:26:53.406  2656  2656 D KeyguardViewMediator: KeyguardViewMediator queue processing message: START_KEYGUARD_EXIT_ANIM
+01-13 06:26:53.406   960   991 I CHRE    : @ 1849985.609: [Wallaby] Subscribe protobuf request from host: 0x8005
+01-13 06:26:53.406   548   578 D hwc-pixel-display-Writeback-3: SetRefreshRateThrottle: type=1 value=0
+01-13 06:26:53.406   960   991 I CHRE    : @ 1849985.609: [Wallaby] Adding new client=32773, is_local=0, flag=0x430, reporting_flag=0xd, model=1, is_one_shot=0
+01-13 06:26:53.406   960   991 I CHRE    : @ 1849985.609: [WallabyPD] Adding inference config, current size 0
+01-13 06:26:53.406   548   578 I hwc-DSI-1: Throttler Vote: request: min RR value =   0(client =  0), peak RR lock time =      0 ms(client =  0)
+01-13 06:26:53.406   548   578 I hwc-DSI-1: Throttler Vote:  result: min RR value = 120(client =  1), peak RR lock time =      0 ms(client =  0)
+01-13 06:26:53.406   960   991 I CHRE    : @ 1849985.609: [WallabyPD] Adding NEW inference config: model=1, on_demand=0
+01-13 06:26:53.406   960   991 I CHRE    : @ 1849985.609: [Wallaby] updated merged flags: 0x430
+01-13 06:26:53.406   960   991 I CHRE    : @ 1849985.609: [Wallaby] Enabling nanoapp
+01-13 06:26:53.406  3628  3943 I CHRE    : Got message from nanoapp 0x476f6f676c00103b to endpoint 0x8005 with type 0x4 and length 2
+01-13 06:26:53.406  3628  3943 I twoshay.sensorfusion: Active Query Req Model : 0x00000001
+01-13 06:26:53.406  3628  3943 I CHRE    : Wallaby Ack : 0x00000001 : Subscription : 2
+01-13 06:26:53.406  2656  2656 D WindowOnBackDispatcher: setTopOnBackInvokedCallback (unwrapped): null
+01-13 06:26:53.407   988   988 D usf_sensor_hal: accelerometer: Enter Flush
+01-13 06:26:53.408   960   991 D CHRE    : @ 1849985.611: Parsed nanoapp message from host: app ID 0x476f6f676c00103b endpoint 0x8005 msgType 1 payload size 6
+01-13 06:26:53.408  2908 22584 D libnfc_nci: nfaDeviceManagementCallback: enter; event=0x2
+01-13 06:26:53.408  2908 22584 D libnfc_nci: nfaDeviceManagementCallback: NFA_DM_SET_CONFIG_EVT
+01-13 06:26:53.409  2656  2656 W SsPagerDots: Total number of pages invalid: 0. Assuming 1 page.
+01-13 06:26:53.410  2656  2656 W SsPagerDots: Total number of pages invalid: 0. Assuming 1 page.
+01-13 06:26:53.410   960   991 D CHRE    : @ 1849985.613: Parsed nanoapp message from host: app ID 0x476f6f676c00103b endpoint 0x8005 msgType 6 payload size 4
+01-13 06:26:53.410   960   991 I CHRE    : @ 1849985.614: [Wallaby] Received ACTIVE Query request from client 32773
+01-13 06:26:53.410   960   991 I CHRE    : @ 1849985.614: [Wallaby] Adding new client=32773, is_local=0, flag=0x1, reporting_flag=0x1, model=1, is_one_shot=1
+01-13 06:26:53.410   960   991 I CHRE    : @ 1849985.614: [WallabyPD] Adding inference config, current size 1
+01-13 06:26:53.410   960   991 I CHRE    : @ 1849985.614: [WallabyPD] Adding NEW inference config: model=1, on_demand=1
+01-13 06:26:53.410   960   991 I CHRE    : @ 1849985.614: [Wallaby] updated merged flags: 0x1
+01-13 06:26:53.410  1239  1239 D AOC     : A3:MSG: usf_sensor.cc, 1871: USF: Received start sampling request for TMD3743 Ambient Light (active:3).
+01-13 06:26:53.410   960   991 I CHRE    : @ 1849985.614: [Wallaby] Starting sensors
+01-13 06:26:53.410  1239  1239 D AOC     : A3:MSG: usf_sensor.cc, 1871: USF: Received start sampling request for VD6282 Rear Light Sensor (active:2).
+01-13 06:26:53.410  3628  3943 I CHRE    : Got message from nanoapp 0x476f6f676c00103b to endpoint 0x8005 with type 0x4 and length 2
+01-13 06:26:53.410  3628  3943 I CHRE    : Wallaby Ack : 0x00000001 : Subscription : 2
+01-13 06:26:53.411  1239  1239 D AOC     : A3:MSG: usf_sensor.cc, 1871: USF: Received start sampling request for TMD3743 Proximity (active:1).
+01-13 06:26:53.411   988  1798 I sensor-suez: Vendor atom [id = 100243] reported.
+01-13 06:26:53.411   960   991 I CHRE    : @ 1849985.615: [WallabySM] ProxManager:Update: Disabled --> Ready, event=Enable, event_val=1
+01-13 06:26:53.411   960   991 I CHRE    : @ 1849985.615: [Wallaby] Starting accel
+01-13 06:26:53.411   960   991 I CHRE    : @ 1849985.615: [WallabySM] MotionManager:Update: Disabled --> Running, event=Enable, event_val=1
+01-13 06:26:53.411   960   991 I CHRE    : @ 1849985.615: [Wallaby] Already enabled
+01-13 06:26:53.411   960   991 I CHRE    : @ 1849985.615: [WallabyPD] GetStartIndex: not enough samples for inference, 0
+01-13 06:26:53.411   960   991 I CHRE    : @ 1849985.615: [Wallaby] >>>>>>>>>>>>>>>> Starting prox >>>>>>>>>>>>>>>>
+01-13 06:26:53.412  3197  3229 D EpdgTunnelManager[0]: On triggering underlying network validation. Event: SCREEN_ON
+01-13 06:26:53.412  3197  3229 D IwlanDataService$IwlanDataServiceHandler: msg.what = SCREEN_ON_EVENT
+01-13 06:26:53.413  1239  1239 D AOC     : A3:MSG: tmd3743_sensor.cc, 294: USF: TMD3743: Report new active state:1 min_fps:30
+01-13 06:26:53.414  1239  1239 D AOC     : A3:MSG: tmd3743_device.cc, 367: USF: TMD3743: [0]Start sampling (Client count L/C/S/P = 1/0/1/1, err = 0)
+01-13 06:26:53.414  3197  3342 D EpdgTunnelManager[0]: Trigger underlying network validation on network: 377
+01-13 06:26:53.414  1584  2539 D ConnectivityService: reportNetworkConnectivity(377, false) by 1000
+01-13 06:26:53.414  2656  2656 D DismissCallbackRegistry: notifyDismissSucceeded(0)
+01-13 06:26:53.414  2656  2656 D KeyguardViewMediator: onKeyguardExitRemoteAnimationFinished#hideKeyguardViewAfterRemoteAnimation
+01-13 06:26:53.414   988  1022 I usf_sensor_hal: Received REPORT_SENSOR_ACTIVE_STATE_CHANGES event from 'TMD3743 Proximity' with state:kActive and desired fps:30!
+01-13 06:26:53.414  2656  2986 D KeyguardViewMediator: updateActivityLockScreenState(false, false, onKeyguardExitFinished: exitKeyguardAndFinishSurfaceBehindRemoteAnimation)
+01-13 06:26:53.414   548   873 D hwc-pixel-display-Writeback-3: SetRefreshRateThrottle: type=0 value=30
+01-13 06:26:53.415  2656  2656 W BlurUtils: resetEarlyWakeup invoked when lastAppliedBlur 1 is non-zero, this means that the early wakeup signal was reset while blur was still active
+01-13 06:26:53.415   548   873 D android.hardware.composer.drm-hwc3-service: PixelTe2Manager::UpdateTe2OptionForProximity: proximity state 1, min 30hz, doze mode 0
+01-13 06:26:53.415  2802 23110 D NetworkMonitor/377: Forcing reevaluation for UID 1000. Dns signal count: 0
+01-13 06:26:53.416  2656  2656 D CentralSurfaces: !shouldBeKeyguard mStatusBarStateController.isKeyguardRequested() false keyguardForDozing false wakeAndUnlocking true isWakingAndOccluded false
+01-13 06:26:53.416  2656  2656 D CentralSurfaces: hideKeyguardImpl false
+01-13 06:26:53.416   960   991 I CHRE    : @ 1849985.619: [WallabySM] ProxManager:Update: Ready --> Running, event=LightData, event_val=1
+01-13 06:26:53.417 16650 16650 D CannedAnimCoordinator: Wrong controller access from Y2.u@fa737cb, actual provider null
+01-13 06:26:53.417 16650 16650 D CannedAnimCoordinator: Wrong controller access from Y2.u@fa737cb, actual provider null
+01-13 06:26:53.417  2656  2656 W SsPagerDots: Total number of pages invalid: 0. Assuming 1 page.
+01-13 06:26:53.418   548   873 I android.hardware.composer.drm-hwc3-service: PixelTe2Manager::SetTe2Option writes te2_option(0) to the sysfs node
+01-13 06:26:53.418   548   873 I android.hardware.composer.drm-hwc3-service: PixelTe2Manager::SetTe2Frequency writes te2_freq_hz(120) to the sysfs node
+01-13 06:26:53.418   548   873 I hwc-DSI-1: Throttler Vote: request: min RR value =  30(client =  0), peak RR lock time =      0 ms(client =  0)
+01-13 06:26:53.418   548   873 I hwc-DSI-1: Throttler Vote:  result: min RR value = 120(client =  1), peak RR lock time =      0 ms(client =  0)
+01-13 06:26:53.418   548   905 I android.hardware.composer.drm-hwc3-service: ProximitySensorStateNotifierWorker: signal received (state=1)
+01-13 06:26:53.418   548   905 D android.hardware.composer.drm-hwc3-service: single_te_mode_votes_: [
+01-13 06:26:53.418   548   905 D android.hardware.composer.drm-hwc3-service: Voter name : SENSOR single TE mode ? true
+01-13 06:26:53.418   548   905 D android.hardware.composer.drm-hwc3-service: Voter name : BLOCKING_ZONE single TE mode ? true
+01-13 06:26:53.418   548   905 D android.hardware.composer.drm-hwc3-service: Voter name : LITE_VRR_MANAGER single TE mode ? false
+01-13 06:26:53.418   548   905 D android.hardware.composer.drm-hwc3-service: Voter name : TEST single TE mode ? false
+01-13 06:26:53.418   548   905 D android.hardware.composer.drm-hwc3-service: Voter name : DEBUG single TE mode ? false
+01-13 06:26:53.418   548   905 D android.hardware.composer.drm-hwc3-service: ]
+01-13 06:26:53.419  3300  4712 W ConnectivityEventWriter: Failed to add tag: ConnectivityMonitorEventMetadata{eventTimestampMs=1768310813419, subscriptionId=Optional.empty, slotId=Optional.empty}
+01-13 06:26:53.419  2908  2908 D NfcService: onKeyguardLockedStateChanged: isKeyguardLocked =false
+01-13 06:26:53.420  2656 24457 D KeyguardService: setOccluded(false)
+01-13 06:26:53.420  2656 24457 D KeyguardViewMediator: setOccluded(false)
+01-13 06:26:53.421  2656  3153 D WallpaperService: onVisibilityChanged(true): com.android.systemui.wallpapers.ImageWallpaper$CanvasEngine@736f759
+01-13 06:26:53.421   548   578 D hwc-pixel-display-Writeback-3: SetRefreshRateThrottle: type=1 value=1000
+01-13 06:26:53.421   548   578 I hwc-DSI-1: Throttler Vote: request: min RR value =  30(client =  0), peak RR lock time =   1000 ms(client =  0)
+01-13 06:26:53.421   548   578 I hwc-DSI-1: Throttler Vote:  result: min RR value = 120(client =  1), peak RR lock time =   1000 ms(client =  0)
+01-13 06:26:53.422  2656  2656 D DeviceEntryIconViewBinder: Updating device entry icon image state ForegroundIconViewModel(type=LOCK, useAodVariant=true, tint=-1, padding=59)
+01-13 06:26:53.423   547   951 W VsyncModulator: setTransactionSchedule: Unexpected EarlyEnd EarlyWakeupInfo{token: binder:0xb400007e072d25e0, trace: com.android.systemui.statusbar.BlurUtils, isStartRequest: false}
+01-13 06:26:53.423  2908  2908 D NfcService: handleMessage: MSG_APPLY_SCREEN_STATE ON_UNLOCKED
+01-13 06:26:53.423  2656  2656 D KeyguardViewMediator: handleSetOccluded(false)
+01-13 06:26:53.423  2656  2656 D KeyguardViewMediator: KeyguardViewMediator queue processing message: SET_OCCLUDED
+01-13 06:26:53.424  4337  5241 I GetModelStateManager: (REDACTED) Received %s, fetching model state.
+01-13 06:26:53.424  2656  2656 W SsPagerDots: Total number of pages invalid: 0. Assuming 1 page.
+01-13 06:26:53.425  2908  2908 D NfcService: applyRouting
+01-13 06:26:53.425  2908  2908 D NfcService: applyRouting: Discovery configuration equal, not updating
+01-13 06:26:53.425  2908  2908 D libnfc_nci: nfcManager_doSetScreenState: state = 8 sPrevScreenStateMask= 8, screen_state_mask= 24
+01-13 06:26:53.425  2908  2908 D libnfc_nci: nfcManager_doSetScreenState: discovry_param = 0x01
+01-13 06:26:53.426  4337  5241 I GetModelStateManager: (REDACTED) %s request for model state.  Last dsp event: %dms ago. Last gms event: %dms ago.  Cooldown: %dms recentDsp: %b recentGms: %b forced: %b, recognition active: %b.
+01-13 06:26:53.428  2828  2828 D GRIL-S  : [81765]> UPDATE_DEVICE_STATE DeviceState: Usb:1, Wifi: 1, Wifi AP: 0, Earpiece: 0, Bluetooth: 1, Wireless charging: 0, Screen: 1, Camera: 0, 0, -, -, Motion: 1, Bluetooth tethering: 0, Voice: 0, Wifi 2.4G: 0, Radio: 1, Bluetooth connected: 0, Bluetooth media: 0, Wifi Band: 2, Wifi AP Band: 0, Wifi call: 0, mmWave: 0, mCellBackhaul: 0, mHallSensor: 0, mDozeStatus: 1, mAppClassInfo: 0, mWifiCapSensorStatus: 0, mCellCapSensorStatus: 0, mBesideHeadHandStatus: 0, mSpeakerStatus: 0, mProtectiveCaseStatus: 0, mWifiSettingStatus: 0, mGpsStatus: 0
+01-13 06:26:53.429  2656  2656 W SsPagerDots: Total number of pages invalid: 0. Assuming 1 page.
+01-13 06:26:53.429  2908 22584 E power   : Failed to get SystemSuspend service
+01-13 06:26:53.434   956  1029 I StHal::SoundTriggerHal: ForceRecognitionEvent: request force trigger for client: 1
+01-13 06:26:53.434  2947  3645 I PixelDisplayManager: onDisplayChanged(Built-in Screen, 0, local:4619827452008645888): screenOn=true, hbmMode=0, br=0.0010469577, product=DeviceProductInfo{name=BMEA-A0D-00, manufacturerPnpId=GGL, productId=0, modelYear=null, manufactureDate=ManufactureDate{week=1, year=1990}, connectionToSinkType=1}
+01-13 06:26:53.435  6468  6468 I [BLEService]: Received action: android.intent.action.SCREEN_ON
+01-13 06:26:53.435   988   988 D usf_sensor_hal: accelerometer: Enter Batch. Period = 10000000, latency = 200000000.
+01-13 06:26:53.435  1239  1239 D AOC     : F1:MSG: controller.cc, 275: AudioInCtrl: cmd ID: 0x010d, tag: 0x0f [cntr = 40641]
+01-13 06:26:53.436  1239  1239 D AOC     : F1:TRC: hotword_input_processor.cc, 1014: Receive cmd: 0x6d (109)
+01-13 06:26:53.436  2908 22584 D libnfc_nci: nfaDeviceManagementCallback: enter; event=0x2
+01-13 06:26:53.436  2908 22584 D libnfc_nci: nfaDeviceManagementCallback: NFA_DM_SET_CONFIG_EVT
+01-13 06:26:53.436  2908 22584 E power   : Failed to get SystemSuspend service
+01-13 06:26:53.436  2656  2740 D KeyguardTransitionRepository: (Internal) Setting current transition info: TransitionInfo(ownerName=FromAodTransitionInteractor(canWakeDirectlyToGone = true), from=AOD, to=GONE, animated)
+01-13 06:26:53.436  1239  1239 D AOC     : A3:MSG: tmd3743_device.cc, 3131: USF: TMD3743: Prox State: Unknown -> FAR
+01-13 06:26:53.438   548 12527 I hwc-pixel-bc: path=drm, id=0, level=495, nits=1.019825, brightness=0.000006, DimmingOn=0, Hbm=0, LhbmOn=0, OpRate=0
+01-13 06:26:53.439   988   988 D usf_sensor_hal: IMU temperature: Enter Batch. Period = 666667000, latency = 200000000.
+01-13 06:26:53.439  1239  1239 D AOC     : A3:MSG: usf_sensor.cc, 2517: USF: Received reconfig sampling request for ICM45631 Accelerometer.
+01-13 06:26:53.439  1239  1239 D AOC     : A3:MSG: icm456xy_device.cc, 443: USF: Device: type: 0, p/l: 10000000 ns/ 86666666 ns, O/WM/I: 200/1/200
+01-13 06:26:53.441   988   988 D usf_sensor_hal: accelerometer: Enter Flush
+01-13 06:26:53.442  1584  5738 I WifiService: too many scan results, may break binder transaction
+01-13 06:26:53.443  1239  1239 D AOC     : A3:MSG: usf_sensor.cc, 2517: USF: Received reconfig sampling request for ICM45631 Temperature.
+01-13 06:26:53.443   960   991 I CHRE    : @ 1849985.642: [WallabyPD] GetStartIndex: not enough samples for inference, 0
+01-13 06:26:53.443   988  1798 I sensor-suez: Vendor atom [id = 100243] reported.
+01-13 06:26:53.443   988  1798 I sensor-suez: Vendor atom [id = 100243] reported.
+01-13 06:26:53.444  2656  2656 I KeyguardTransitionRepository: STARTED transition: TransitionStep(from=AOD, to=GONE, value=0.0, transitionState=STARTED, ownerName=FromAodTransitionInteractor(canWakeDirectlyToGone = true))
+01-13 06:26:53.445  2656  2656 W SsPagerDots: Total number of pages invalid: 0. Assuming 1 page.
+01-13 06:26:53.446  2802  9953 D NetworkMonitor/377: PROBE_DNS connectivitycheck.gstatic.com 27ms OK 142.250.68.3
+01-13 06:26:53.446   548 12527 I hwc-pixel-bc: path=drm, id=0, level=507, nits=1.081638, brightness=0.000034, DimmingOn=0, Hbm=0, LhbmOn=0, OpRate=0
+01-13 06:26:53.447  2908 22584 D libnfc_nci: nfaDeviceManagementCallback: enter; event=0xB
+01-13 06:26:53.447  2908 22584 D libnfc_nci: nfaDeviceManagementCallback: NFA_DM_SET_POWER_SUB_STATE_EVT; status=0x0
+01-13 06:26:53.448  2947  3645 I PixelDisplayManager: onDisplayChanged(Built-in Screen, 0, local:4619827452008645888): screenOn=true, hbmMode=0, br=0.0010469577, product=DeviceProductInfo{name=BMEA-A0D-00, manufacturerPnpId=GGL, productId=0, modelYear=null, manufactureDate=ManufactureDate{week=1, year=1990}, connectionToSinkType=1}
+01-13 06:26:53.450  2908  2908 D NfcService: applyScreenState: screenState = ON_UNLOCKED
+01-13 06:26:53.450  2656  2656 D DeviceEntryIconViewBinder: Updating device entry icon image state ForegroundIconViewModel(type=LOCK, useAodVariant=false, tint=-1, padding=59)
+01-13 06:26:53.450  2656  2656 D DeviceEntryIconViewBinder: Updating device entry icon image state ForegroundIconViewModel(type=LOCK, useAodVariant=false, tint=-597294, padding=59)
+01-13 06:26:53.450  1239  1239 D AOC     : A3:MSG: controller.cc, 933: CPM_IPC_HOST: ipc: C-F1-AC, cmd ID: 0x00cb, tag: 0x14, rc: 0
+01-13 06:26:53.450  1239  1239 D AOC     : F1:TRC: hotword_input_processor.cc, 1510: Finished cmd: 0x6d (109)
+01-13 06:26:53.451  1239  1239 D AOC     : A3:MSG: controller.cc, 933: CPM_IPC_HOST: ipc: C-F1-AC, cmd ID: 0x00cb, tag: 0x15, rc: 0
+01-13 06:26:53.451  1239  1239 D AOC     : F1:MSG: controller.cc, 933: AudioInCtrl: ipc: sound_trigger, cmd ID: 0x010d, tag: 0x0f, rc: 0
+01-13 06:26:53.451   956  1883 I StHal::SoundTriggerHal: ControlThreadLoop: read trigger event with model type: 2
+01-13 06:26:53.451   956  1883 I StHal::SoundTriggerHal: ControlThreadLoop: received AmbientMusic recognition with payload: pos_music,val:20468
+01-13 06:26:53.451   956  1883 I StHal::Client: ChangeStateTo: client 1 transits from StartDetecting to CallbackProcessing
+01-13 06:26:53.454   988   988 D usf_sensor_hal: auto brightness: Enter Batch. Period = 200000000, latency = 0.
+01-13 06:26:53.454  4337  5241 I AmbientMusicServiceMana: (REDACTED) Requested model state. Model started: %s Immediate return code: %d
+01-13 06:26:53.454   988  1798 I sensor-suez: Vendor atom [id = 100243] reported.
+01-13 06:26:53.455  9693  9693 D ImeBackDispatcher: switch root view (mImeCallbacks.size=0)
+01-13 06:26:53.455   960   991 D CHRE    : @ 1849985.659: Parsed nanoapp message from host: app ID 0x476f6f676c00103b endpoint 0x8005 msgType 1 payload size 8
+01-13 06:26:53.456  1607  9939 D Vibrator: waitForComplete: Vibrator is already off
+01-13 06:26:53.456  4337  4721 I AiAiEcho: (REDACTED) Predicting[%d]: %s
+01-13 06:26:53.456  4337  4721 I AiAiEcho: (REDACTED) EchoTargets: %s
+01-13 06:26:53.456  4337  4721 I AiAiEcho: Filtered by AiAi flag check: %s
+01-13 06:26:53.457  4337  4721 I AiAiEcho: #remoteViewsTwiddler: feature disabled.
+01-13 06:26:53.457  1584  2495 I ImeTracker: com.betterclock:adb8e9c2: onRequestHide at ORIGIN_SERVER reason HIDE_UNSPECIFIED_WINDOW fromUser false
+01-13 06:26:53.458  4337  4721 I AiAiEcho: (REDACTED) Predicting[%d]: %s
+01-13 06:26:53.458  4337  4721 I AiAiEcho: (REDACTED) EchoTargets: %s
+01-13 06:26:53.458  4337  4721 I AiAiEcho: Filtered by AiAi flag check: %s
+01-13 06:26:53.458  4337  4721 I AiAiEcho: #remoteViewsTwiddler: feature disabled.
+01-13 06:26:53.458  4337  4721 I AiAiEcho: (REDACTED) #postPredictionTargets: Sending updates to UISurface %s with targets# %s (types=[%s])
+01-13 06:26:53.458  4337  4721 I AiAiEcho: (REDACTED) #postPredictionTargets: Sending updates to UISurface %s with targets# %s (types=[%s])
+01-13 06:26:53.458 10111 10111 I BatchScanningManager: Batch scanner stopped/cancelled (if it was running/scheduled). [CONTEXT service_id=284 ]
+01-13 06:26:53.459 17749 17749 D ImeBackDispatcher: Clear (mImeCallbacks.size=0)
+01-13 06:26:53.459 17749 17749 D ImeBackDispatcher: switch root view (mImeCallbacks.size=0)
+01-13 06:26:53.459  1584  4785 I ImeTracker: system_server:9a714d4f: onRequestHide at ORIGIN_SERVER reason IME_REQUESTED_CHANGED_LISTENER fromUser false
+01-13 06:26:53.460  1239  1239 D AOC     : A3:MSG: usf_vsc_log.cc, 54: USF: [WO] Reset mTask, clear history
+01-13 06:26:53.460  1239  1239 D AOC     : A3:MSG: usf_vsc_log.cc, 54: USF: [WO] Rejected by settle_time -1
+01-13 06:26:53.460  2656  2656 W SsPagerDots: Total number of pages invalid: 0. Assuming 1 page.
+01-13 06:26:53.460   548 12527 I hwc-pixel-bc: path=drm, id=0, level=529, nits=1.193945, brightness=0.000084, DimmingOn=0, Hbm=0, LhbmOn=0, OpRate=0
+01-13 06:26:53.461  1584  1677 I ImeTracker: system_server:9a714d4f: onCancelled at PHASE_SERVER_SHOULD_HIDE
+01-13 06:26:53.461 10111 10193 I ActivityScheduler: nextTriggerTime: 1849993486, in 10872ms, detectorType: 0,  alarmWindowMillis: 7500
+01-13 06:26:53.461  1239  1239 D AOC     : A3:MSG: usf_vsc_log.cc, 54: USF: [WO] Change detected: previous_rotation: -1, proposed_rotation: 0
+01-13 06:26:53.461   988  1798 I sensor-suez: Vendor atom [id = 100245] reported.
+01-13 06:26:53.461  1239  1239 D AOC     : A3:MSG: usf_vsc_log.cc, 54: USF: [WO] Last accel 1806626199 ms ago > threshold, z-axis rotation: 0
+01-13 06:26:53.461  1239  1239 D AOC     : A3:MSG: usf_vsc_log.cc, 54: USF: [WO] Last flat 1054 ms ago > thd. Last swinging 1806626199 ms ago > thd.
+01-13 06:26:53.462  1239  1239 D AOC     : A3:MSG: usf_vsc_log.cc, 54: USF: [WO] Tilt angle 24 Orientation angle 3
+01-13 06:26:53.462  1239  1239 D AOC     : A3:MSG: usf_vsc_log.cc, 54: USF: [WO] Changed rotation to 0 at ts 1849982748 ms, IMU 0
+01-13 06:26:53.464  2656  2656 W SsPagerDots: Total number of pages invalid: 0. Assuming 1 page.
+01-13 06:26:53.466  1041  2264 D DeviceHalAidl: [default] createAudioPatch: sources: 1 sinks 1
+01-13 06:26:53.466  1041  2264 D Hal2AidlMapper: [default] createOrUpdatePatch: patch ID: 7852, [disregard IDs] sources: [AudioPortConfig{id: 1, portId: 0, sampleRate: Int{value: 48000}, channelMask: AudioChannelLayout{layoutMask: 3}, format: AudioFormatDescription{type: PCM, pcm: FLOAT_32_BIT, encoding: }, gain: (null), flags: AudioIoFlags{output: 6}, ext: AudioPortExt{mix: AudioPortMixExt{handle: 13, usecase: AudioPortMixExtUseCase{stream: SYS_RESERVED_DEFAULT}, maxOpenStreamCount: 0, maxActiveStreamCount: 0, recommendedMuteDurationMs: 0}}}], sinks: [AudioPortConfig{id: 3, portId: 0, sampleRate: (null), channelMask: (null), format: (null), gain: (null), flags: (null), ext: AudioPortExt{device: AudioPortDeviceExt{device: AudioDevice{type: AudioDeviceDescription{type: OUT_SPEAKER, connection: }, address: AudioDeviceAddress{id: }}, flags: 0, encodedFormats: [], encapsulationModes: 0, encapsulationMetadataTypes: 0, speakerLayout: (null)}}}]
+01-13 06:26:53.466  1041  2264 D Hal2AidlMapper: [default] findOrCreatePortConfig: device port config does not have audio or gain config specified
+01-13 06:26:53.466   956  1029 I AHal::PortRouteManager: UpdateOrAddPatch: update patch 7852, AudioPatch{id: 7852, source: [400001/1: primary-playback], sink: [100001/100001: speaker], min frames: 480, latencies: [50]}
+01-13 06:26:53.466   956  1029 I AHal::Router: InvalidateLocked: nothing change between graph #67817 and #67818
+01-13 06:26:53.467   956 16085 I ASvc::StreamOut: getRecommendedLatencyModes: modes = [FREE]
+01-13 06:26:53.467  1012  1012 D Aam     : startGnssData passive=1 gpsMs=1000 gloMs=0 bdsMs=0 galMs=0 L5Ms=0
+01-13 06:26:53.467  1012  1012 D AamAdapter: startGnssData
+01-13 06:26:53.467  1012  1012 D AamBetpCapturer: startCommand
+01-13 06:26:53.467  1012  9962 D AamBetpCapturer: gnssDataReader
+01-13 06:26:53.467  1012  9962 D AamBetpCapturer: connectSocket
+01-13 06:26:53.467  1012  9962 D AamBetpCapturer: sendStartStream
+01-13 06:26:53.467 10111  9470 D BluetoothAdapter: isLeEnabled(): ON
+01-13 06:26:53.467  1041  2264 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:53.468  1041  2264 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:53.468  2656  2656 W SsPagerDots: Total number of pages invalid: 0. Assuming 1 page.
+01-13 06:26:53.468  1041  2264 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:53.468  1041  2264 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:53.468   956 16085 I StHal::SoundTriggerHal: ProcessStreamMetadata: active usage tracks: 0
+01-13 06:26:53.469   956 16085 D BTAudioSessionAidl: UpdateSourceMetadata - SessionType=LE_AUDIO_HARDWARE_OFFLOAD_ENCODING_DATAPATH has NO session
+01-13 06:26:53.469   548 12527 I hwc-pixel-bc: path=drm, id=0, level=591, nits=1.508493, brightness=0.000225, DimmingOn=0, Hbm=0, LhbmOn=0, OpRate=0
+01-13 06:26:53.469   956 16085 D BTAudioSessionAidl: GetSupportedLatencyModes - SessionType=LE_AUDIO_HARDWARE_OFFLOAD_ENCODING_DATAPATH has NO session
+01-13 06:26:53.469   956 16085 D BTAudioSessionAidl: SetLatencyMode - SessionType=LE_AUDIO_HARDWARE_OFFLOAD_ENCODING_DATAPATH has NO session
+01-13 06:26:53.469   956 16085 D BTAudioSessionAidl: GetSupportedLatencyModes - SessionType=A2DP_HARDWARE_OFFLOAD_ENCODING_DATAPATH has NO session
+01-13 06:26:53.469   956 16085 D BTAudioSessionAidl: SetLatencyMode - SessionType=A2DP_HARDWARE_OFFLOAD_ENCODING_DATAPATH has NO session
+01-13 06:26:53.470  1041  2075 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:53.470  1041  2075 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:53.470  1041  2075 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:53.470   956 16085 D AHal::UseCase: SetActiveTracks: update primary-playback active tracks(1)
+01-13 06:26:53.470   956 16085 I StHal::SoundTriggerHal: ProcessStreamMetadata: active usage tracks: 0
+01-13 06:26:53.470   956 16085 D BTAudioSessionAidl: UpdateSourceMetadata - SessionType=LE_AUDIO_HARDWARE_OFFLOAD_ENCODING_DATAPATH has NO session
+01-13 06:26:53.470   956 16085 D BTAudioSessionAidl: GetSupportedLatencyModes - SessionType=LE_AUDIO_HARDWARE_OFFLOAD_ENCODING_DATAPATH has NO session
+01-13 06:26:53.470   956 16085 D BTAudioSessionAidl: SetLatencyMode - SessionType=LE_AUDIO_HARDWARE_OFFLOAD_ENCODING_DATAPATH has NO session
+01-13 06:26:53.470   956 16085 D BTAudioSessionAidl: GetSupportedLatencyModes - SessionType=A2DP_HARDWARE_OFFLOAD_ENCODING_DATAPATH has NO session
+01-13 06:26:53.470   956 16085 D BTAudioSessionAidl: SetLatencyMode - SessionType=A2DP_HARDWARE_OFFLOAD_ENCODING_DATAPATH has NO session
+01-13 06:26:53.471   956  2261 I ASvc::CommandWorker: cw-primary-playback: Command{start: Void{}} in StreamOutStandbyState
+01-13 06:26:53.471   956  2261 I ASvc::CommandWorker: cw-primary-playback: Command{burst: 0} in StreamOutIdleState
+01-13 06:26:53.471   956  2261 I ASvc::CommandWorker: StartStreamAndActivateRoute: try to start primary-playback, counter 5
+01-13 06:26:53.471   956  2261 I AHal::Router: Activate: activate 400001 without a scoped lock
+01-13 06:26:53.471   956  2261 I AHal::Router: InvalidateLocked: new graph #67819 Edges(1):
+01-13 06:26:53.471   956  2261 I AHal::Router:   [direction: 0, use case: primary-playback, id: 0, use case extras: [aec: false, ns: false], use case attributes: [active track: true][sample_rate: 48000][channel layout: AudioChannelLayout{layoutMask: 3}][format: AudioFormatDescription{type: PCM, pcm: FLOAT_32_BIT, encoding: }], device: speaker, sibling device: , handle: 0xb4000079a95aad10, device extras: [source: SYS_RESERVED_INVALID, voice call: false, st aec: false, hac: false, sr: 48000, ch: AudioChannelLayout{layoutMask: 3}, f: AudioFormatDescription{type: PCM, pcm: FLOAT_32_BIT, encoding: }, hifi: 0], config id: [u: 400001, d:100001], priority: 0000]
+01-13 06:26:53.471   956  2261 I AHal::Router: InvalidateLocked: ============ apply graph #67819 [Tue Jan 13 06:26:53 2026] start ============
+01-13 06:26:53.471   956  2261 I AHal::Router: LogTransferring: Transferring (1):
+01-13 06:26:53.471   956  2261 I AHal::Router: LogTransferring:   (null) => primary-playback-0 -> speaker
+01-13 06:26:53.471   956  2261 I AHal::Router: Configure: config device primary-playback-0 -> speaker
+01-13 06:26:53.471   956  2261 I AHal::Router: UpdateDeviceInterfaceSettings: commit device-speaker
+01-13 06:26:53.471   956  2261 I AHal::PlaybackThermalThrottleByTemperature: Update Temperature: kIdle to kOnce
+01-13 06:26:53.471   956  2261 I AHal::PlaybackThermalThrottleBySpeakerPower: Update Speaker Power: kIdle to kPolling
+01-13 06:26:53.471   956  2261 I AHal::VoiceCall: Update: set echo reference on speaker for primary-playback
+01-13 06:26:53.471   956  2261 I AHal::Speaker: Enable: speaker
+01-13 06:26:53.471   956  2261 D audio_route: Apply path: hostless-ulC spk-vi
+01-13 06:26:53.471   956  2261 I AHal::AudioRoutePathController: ApplyPath: hostless-ulC spk-vi: true
+01-13 06:26:53.471   956  2261 D AHal::TinyalsaDriverOperations: OpenAndPrepareLocked: open pcmC0D15c with [channel: 2, rate: 48000, period_size: 480, period_count: 2, format: 0, start_threshold: 0, stop_threshold: 24000, silence_threshold: 0, silence_size: 0, avail_min: 0]
+01-13 06:26:53.471  1538  1538 I pixel-thermal: VIRTUAL-USB-THROTTLING:0 raw data: VIRTUAL-USB-THROTTLING:0
+01-13 06:26:53.471  1538  1538 I pixel-thermal: VIRTUAL-SKIN-CHARGE-PERSIST:30.8883 raw data: VIRTUAL-SKIN-CHARGE-PERSIST:30888.3
+01-13 06:26:53.471  1538  1538 I pixel-thermal: VIRTUAL-SKIN-CHARGE-WIRED:30.8883 raw data: VIRTUAL-SKIN-CHARGE-WIRED:30888.3
+01-13 06:26:53.471  1538  1538 I pixel-thermal: rfpa_therm:32.502 raw data: rfpa_therm:32502
+01-13 06:26:53.471  1538  1538 I pixel-thermal: flash_therm:28.96 raw data: flash_therm:28960
+01-13 06:26:53.472  1538  1538 I pixel-thermal: usb_pwr_therm:27.398 raw data: usb_pwr_therm:27398
+01-13 06:26:53.472  1538  1538 I pixel-thermal: charging_therm:33.298 raw data: charging_therm:33298
+01-13 06:26:53.472  1538  1538 I pixel-thermal: VIRTUAL-SKIN:30.8883 raw data: VIRTUAL-SKIN:30888.3
+01-13 06:26:53.472  1538  1538 I pixel-thermal: north_therm:31.956 raw data: north_therm:31956
+01-13 06:26:53.472  1538  1538 I pixel-thermal: cellular-emergency:30.8883 raw data: cellular-emergency:30888.3
+01-13 06:26:53.472  1538  1538 I pixel-thermal: disp0_therm:27.572 raw data: disp0_therm:27572
+01-13 06:26:53.472  1538  1538 I pixel-thermal: VIRTUAL-USB-UI:0 raw data: VIRTUAL-USB-UI:0
+01-13 06:26:53.472  1538  1538 I pixel-thermal: VIRTUAL-SKIN-SPEAKER:27.1348 raw data: VIRTUAL-SKIN-SPEAKER:27134.8
+01-13 06:26:53.472  1538  1538 I pixel-thermal: soc_therm:33.243 raw data: soc_therm:33243
+01-13 06:26:53.472  3743  3770 W pixelstats-vendor: Thread Pool max thread count is 0. Cannot cache binder as linkToDeath cannot be implemented. serviceName: android.frameworks.stats.IStats/default
+01-13 06:26:53.472   956  1862 I AHal::Waves::CustomAction: operator(): update link law source: 1 value: 27.1348, 27.1348
+01-13 06:26:53.473  2656  2656 D DeviceEntryIconViewBinder: Updating device entry icon image state ForegroundIconViewModel(type=UNLOCK, useAodVariant=false, tint=-597294, padding=59)
+01-13 06:26:53.473  1584  2865 W AS.PlaybackActivityMon: No piid assigned for invalid/internal port id 26803
+01-13 06:26:53.474   956  2261 I AHal::AdaptedRouteControl: Update: update route from null to adapted-speaker
+01-13 06:26:53.474   956  2261 D audio_route: Apply path: adapted-speaker
+01-13 06:26:53.474  1538  1538 I pixel-thermal: VIRTUAL-SKIN:30.8883 raw data: VIRTUAL-SKIN:30888.3
+01-13 06:26:53.474   956  1881 I AHal::BatteryAdaptiveAudio: ProcessPlaybackTunerControl: update playback tuner with Disabled
+01-13 06:26:53.475  9693  9693 D InsetsController: hide(ime())
+01-13 06:26:53.475  9693  9693 I ImeTracker: com.betterclock:adb8e9c2: onCancelled at PHASE_CLIENT_ALREADY_HIDDEN
+01-13 06:26:53.476   956  2261 I AHal::AudioRoutePathController: ApplyPath: adapted-speaker: true
+01-13 06:26:53.476   956  2261 I AHal::BatteryMitigation: UpdateState: Idle -> Standby
+01-13 06:26:53.476   956  2261 D audio_route: Apply path: speaker
+01-13 06:26:53.477   548 12527 I hwc-pixel-bc: path=drm, id=0, level=632, nits=1.759699, brightness=0.000338, DimmingOn=0, Hbm=0, LhbmOn=0, OpRate=0
+01-13 06:26:53.477  2656  2656 W SsPagerDots: Total number of pages invalid: 0. Assuming 1 page.
+01-13 06:26:53.478  2656  3153 D WallpaperService: onVisibilityChanged(false): com.android.systemui.wallpapers.ImageWallpaper$CanvasEngine@736f759
+01-13 06:26:53.479   956  2261 I AHal::AudioRoutePathController: ApplyPath: speaker: true
+01-13 06:26:53.479   956  2261 D audio_route: Apply path: primary-playback-0 -> speaker
+01-13 06:26:53.480  4337  4337 I AmbientMusicDetector: (REDACTED) Received music trigger: '%s'
+01-13 06:26:53.480   956  2261 I AHal::AudioRoutePathController: ApplyPath: primary-playback-0 -> speaker: true
+01-13 06:26:53.480   956  2261 I AHal::DeviceInterface: Connect: connect primary-playback-0 -> speaker
+01-13 06:26:53.480   956  2261 I AHal::Waves: UpdateActiveDevices: adding speaker
+01-13 06:26:53.480   956  2261 I AHal::Waves: UpdateTuning: Wake up Waves DSP for speaker
+01-13 06:26:53.480   956  2261 I AHal::Waves::CustomAction: GetData: Custom Data: {2,0,1,0,}
+01-13 06:26:53.480  1239  1239 D AOC     : F1:MSG: controller.cc, 275: AudioOutCtrl: cmd ID: 0x010f, tag: 0x62 [cntr = 81702]
+01-13 06:26:53.480  1239  1239 D AOC     : F1:Source 1 [Primary] mastered by sink 0 [Speaker]
+01-13 06:26:53.480  1239  1239 D AOC     : F1:AT Map:2 (LL:0), 1 EPs active, Power: Yes, Config: No
+01-13 06:26:53.480  1239  1239 D AOC     : F1:Mixer 0 configuration changed: (2)
+01-13 06:26:53.481  1239  1239 D AOC     : F1:Sink 0 Configuration changed: ULL (enabled)
+01-13 06:26:53.481   956  2261 I AHal::Waves: UpdateTuning: successfully set link law data 1 27.1348 27.1348
+01-13 06:26:53.481  1239  1239 D AOC     : F1:AHWSinkSPKR started: 48 samples (32-bit,2 ch,48 kHz) block 384 ts_en 0
+01-13 06:26:53.481  1239  1239 D AOC     : F1:MSG: lpcm.cc, 90: Int PLL initialized (took 169 t)
+01-13 06:26:53.481  1239  1239 D AOC     : F1:MSG: lpcm.cc, 143: Usage PLL audio = 0x1
+01-13 06:26:53.481  1239  1239 D AOC     : F1:[AHWSinkSPKR] DL resync B: 2628, A:2628. wo: 3972, target offset: 1344 (align 132) -> ro:1344
+01-13 06:26:53.481  1239  1239 D AOC     : F1:MSG: mix_creator.cc, 145: Source SDT is not registered with AHWSinkSPKR
+01-13 06:26:53.481  1239  1239 D AOC     : F1:MSG: mix_creator.cc, 145: Source CHP is not registered with AHWSinkSPKR
+01-13 06:26:53.481  1239  1239 D AOC     : F1:Speaker TDM Started with Clk: 6144 KHz, FS: 48 KHz, Slots: 4 (4 ch used) DMA:1+2
+01-13 06:26:53.481  1239  1239 D AOC     : F1:[Idle Tracker] long no idle:[0] average between idle:[1.268949ms] max no idle:[92.906588ms]
+01-13 06:26:53.482  1239  1239 D AOC     : F1:MSG: controller.cc, 933: AudioOutCtrl: ipc: audio_output_co, cmd ID: 0x010f, tag: 0x62, rc: 0
+01-13 06:26:53.482  1239  1239 D AOC     : F1:MSG: mix_creator.cc, 179: [AHWSinkSPKR] HF overrun. RP(0x8021c100) not 3840 bytes behind WP(0x8021bf80)
+01-13 06:26:53.482  1239  1239 D AOC     : H0:Mixer AMixSPKR: 480 samples (0002/0002) (ON SC) multi out OFF
+01-13 06:26:53.482  1239  1239 D AOC     : H0:	 1: 0x405b8dc0
+01-13 06:26:53.482  1239  1239 D AOC     : H0:AMixSPKR PostProcessing Config: WAVES
+01-13 06:26:53.482  4337  4337 I AmbientMusicDetector: Running on-device song recognition.
+01-13 06:26:53.482  4337  4337 I AudioBufferManager: Creating AudioRecord accessing DSP audio.
+01-13 06:26:53.482  1239  1239 D AOC     : H0:Mixer configuration updated
+01-13 06:26:53.482  1239  1239 D AOC     : H0:[Idle Tracker] long no idle:[0] average between idle:[1.340420ms] max no idle:[77.746009ms]
+01-13 06:26:53.482  1239  1239 D AOC     : H0:Mixer state changed
+01-13 06:26:53.483  1239  1239 D AOC     : A3:MSG: controller.cc, 933: CPM_IPC_HOST: ipc: C-F1-AC, cmd ID: 0x00cb, tag: 0x16, rc: 0
+01-13 06:26:53.483  1239  1239 D AOC     : F1:MSG: controller.cc, 275: AudioOutCtrl: cmd ID: 0x00d5, tag: 0xd5 [cntr = 81703]
+01-13 06:26:53.483 10111 10472 I NearbyDiscovery: (REDACTED) FastPairHandler: Received action %s
+01-13 06:26:53.484   956  2261 I AHal::AocPlaybackTuningAdapter: WriteReadTuningBuffer: updated tuning with size 13680
+01-13 06:26:53.484   956  1865 D AHal::Cs35l43Codec: GetSpeakerPower: get ctl [DSP1 Protection 5f227 SPL_PWR_SCALE] = 211599
+01-13 06:26:53.484   956  2261 D AHal::Waves: UpdateTuning: update Device: speaker, InstanceId: 1, IsInitialize: false, NeedToUpdate: true, Parameters{is_bypass:false, MaxVolume: 0.0867845, ScreenOrientation: 0}, is_any_active_track_on_sink: true
+01-13 06:26:53.484   956  2261 I AHal::Router: InvalidateLocked: ============ apply graph #67819 end ============
+01-13 06:26:53.484   956  2261 I ASvc::PeriodicWorker: SetLinkedConfigIds: update linked configs [100001]
+01-13 06:26:53.484   956  2261 D BTAudioSessionAidl: UpdateSourceMetadata - SessionType=LE_AUDIO_HARDWARE_OFFLOAD_ENCODING_DATAPATH has NO session
+01-13 06:26:53.484   956  2261 D BTAudioSessionAidl: UpdateSinkMetadata - SessionType=LE_AUDIO_HARDWARE_OFFLOAD_DECODING_DATAPATH has NO session
+01-13 06:26:53.484   956  2261 I AHal::Stream: Start: start stream primary-playback
+01-13 06:26:53.484   956  2261 D AHal::TinyalsaDriverOperations: OpenAndPrepareLocked: open pcmC0D1p with [channel: 2, rate: 48000, period_size: 480, period_count: 4, format: 9, start_threshold: 0, stop_threshold: 18446744073709551615, silence_threshold: 0, silence_size: 0, avail_min: 0]
+01-13 06:26:53.485  1239  1239 D AOC     : H0:MSG: controller.cc, 933: AudOutCtrlH0: ipc: C-AO-H0, cmd ID: 0x00d5, tag: 0x56, rc: 0
+01-13 06:26:53.485  1239  1239 D AOC     : A3:MSG: controller.cc, 933: CPM_IPC_HOST: ipc: C-F1-AC, cmd ID: 0x00cb, tag: 0x17, rc: 0
+01-13 06:26:53.485  1239  1239 D AOC     : F1:MSG: controller.cc, 933: AudioOutCtrl: ipc: audio_output_tu, cmd ID: 0x00d5, tag: 0x56, rc: 0
+01-13 06:26:53.485   548   578 I hwc-pixel-bc: path=drm, id=0, level=681, nits=2.061308, brightness=0.000473, DimmingOn=0, Hbm=0, LhbmOn=0, OpRate=0
+01-13 06:26:53.486 10111 10472 I NearbyDiscovery: (REDACTED) ApFastPairScanner: isScreenOn=%s, isLocationEnabled=%s, disableLocationRequirement=%s, isDiscoveryScanningEnabled=%s, during24GhzWifiWarmingUpPeriod=%s
+01-13 06:26:53.487  1584  2426 V GrammaticalInflectionUtils: AttributionSource: android.content.AttributionSource@44447175 does not have READ_SYSTEM_GRAMMATICAL_GENDER permission.
+01-13 06:26:53.487 10111 10472 D BluetoothAdapter: isLeEnabled(): ON
+01-13 06:26:53.487 10111 10472 I NearbyDiscovery: (REDACTED) ApFastPairScanner: eventType=%s, intReq=%s, scanning=%s, scanAllowed=%s, bleEnabled=%s, lockScanRate=%s, startScanningByLowPowerMode=%s
+01-13 06:26:53.487  2656  2656 W SsPagerDots: Total number of pages invalid: 0. Assuming 1 page.
+01-13 06:26:53.487   956  1865 D AHal::Cs35l43Codec: GetSpeakerPower: get ctl [DSP1 Protection 5f227 SPL_SM_PWR_EST] = 0 convert to -inf
+01-13 06:26:53.487   956  1865 D AHal::Cs35l43Codec: GetSpeakerPower: get ctl [R DSP1 Protection 5f227 SPL_PWR_SCALE] = 211599
+01-13 06:26:53.488   956  1865 D AHal::Cs35l43Codec: GetSpeakerPower: get ctl [R DSP1 Protection 5f227 SPL_SM_PWR_EST] = 0 convert to -inf
+01-13 06:26:53.488   956  1865 I AHal::Waves::CustomAction: UpdateSpeakerPower: update link law source: 3 value: -inf, -inf
+01-13 06:26:53.488   956  1865 I AHal::Waves::CustomAction: GetData: Custom Data: {2,0,1,0,}
+01-13 06:26:53.488   956  1865 I AHal::Waves: UpdateTuning: successfully set link law data 3 -inf -inf
+01-13 06:26:53.488  2828  2857 D GRIL-S  : [81765]< UPDATE_DEVICE_STATE
+01-13 06:26:53.488   956  1865 D AHal::Waves: UpdateTuning: update Device: speaker, UpdateCustomParameter: SpeakerPowerThermistor, InstanceId: 1, IsInitialize: true, NeedToUpdate: true, Parameters{is_bypass:false, MaxVolume: 0.0867845, ScreenOrientation: 0}, is_any_active_track_on_sink: true
+01-13 06:26:53.489  3300  3707 D ThreadSarController: onDeviceStateChanged
+01-13 06:26:53.489  3300  3707 D ThreadSarController: Found matched config: ThreadSarConfigParams {
+01-13 06:26:53.489  3300  3707 D ThreadSarController:   Channel Power Limits (dBm):
+01-13 06:26:53.489  3300  3707 D ThreadSarController:     Thread_Power_Ch_11: 1500 dBm
+01-13 06:26:53.489  3300  3707 D ThreadSarController:     Thread_Power_Ch_12: 1500 dBm
+01-13 06:26:53.489  3300  3707 D ThreadSarController:     Thread_Power_Ch_13: 1500 dBm
+01-13 06:26:53.489  3300  3707 D ThreadSarController:     Thread_Power_Ch_14: 1500 dBm
+01-13 06:26:53.489  3300  3707 D ThreadSarController:     Thread_Power_Ch_15: 1500 dBm
+01-13 06:26:53.489  3300  3707 D ThreadSarController:     Thread_Power_Ch_16: 1500 dBm
+01-13 06:26:53.489  3300  3707 D ThreadSarController:     Thread_Power_Ch_17: 1500 dBm
+01-13 06:26:53.489  3300  3707 D ThreadSarController:     Thread_Power_Ch_18: 1500 dBm
+01-13 06:26:53.489  3300  3707 D ThreadSarController:     Thread_Power_Ch_19: 1500 dBm
+01-13 06:26:53.489  3300  3707 D ThreadSarController:     Thread_Power_Ch_20: 1500 dBm
+01-13 06:26:53.489  3300  3707 D ThreadSarController:     Thread_Power_Ch_21: 1500 dBm
+01-13 06:26:53.489  3300  3707 D ThreadSarController:     Thread_Power_Ch_22: 1500 dBm
+01-13 06:26:53.489  3300  3707 D ThreadSarController:     Thread_Power_Ch_23: 1500 dBm
+01-13 06:26:53.489  3300  3707 D ThreadSarController:     Thread_Power_Ch_24: 1500 dBm
+01-13 06:26:53.489  3300  3707 D ThreadSarController:     Thread_Power_Ch_25: 1500 dBm
+01-13 06:26:53.489  3300  3707 D ThreadSarController:     Thread_Power_Ch_26: 1500 dBm
+01-13 06:26:53.489  3300  3707 D ThreadSarController: }
+01-13 06:26:53.492  3300  3707 W ThreadSarController: Thread network permission is not granted.
+01-13 06:26:53.493  6468  6798 I [AuthEngine][fa3d]: IMU movement detected! -0.0066112876, 0.04328412, -0.04583454
+01-13 06:26:53.493  2656  2656 W SsPagerDots: Total number of pages invalid: 0. Assuming 1 page.
+01-13 06:26:53.493   548   578 I hwc-pixel-bc: path=drm, id=0, level=731, nits=2.414437, brightness=0.000631, DimmingOn=0, Hbm=0, LhbmOn=0, OpRate=0
+01-13 06:26:53.493  2828  2828 D GRIL-S  : [81766]> SET_DISPLAY_SSC
+01-13 06:26:53.494  1018 22010 E vendor.google.radioext@1.0-service: RadioExt setDisplaySsc
+01-13 06:26:53.496   547  3128 I libbinder.BpBinder: onLastStrongRef automatically unlinking death recipients:
+01-13 06:26:53.499  2656  2727 D WindowOnBackDispatcher: setTopOnBackInvokedCallback (unwrapped): android.view.ViewRootImpl$$ExternalSyntheticLambda12@ba9dc31
+01-13 06:26:53.499  2656  2656 W SsPagerDots: Total number of pages invalid: 0. Assuming 1 page.
+01-13 06:26:53.500   548   578 I hwc-pixel-bc: path=drm, id=0, level=827, nits=3.156163, brightness=0.000964, DimmingOn=0, Hbm=0, LhbmOn=0, OpRate=0
+01-13 06:26:53.503  9693  9693 D LifecycleMonitor: Lifecycle status change: androidx.activity.ComponentActivity@8dab7cc in: PAUSED
+01-13 06:26:53.503  9693  9693 V ActivityScenario: Update currentActivityStage to PAUSED, currentActivity=androidx.activity.ComponentActivity@8dab7cc
+01-13 06:26:53.506  2656  2656 W SsPagerDots: Total number of pages invalid: 0. Assuming 1 page.
+01-13 06:26:53.506  1239  1239 D AOC     : F1:MSG: controller.cc, 275: AudioOutCtrl: cmd ID: 0x00ce, tag: 0x63 [cntr = 81704]
+01-13 06:26:53.506  1039  2619 I WifiHAL : Successfully set firmware roam state - 1
+01-13 06:26:53.507 10111 10111 D BoundBrokerSvc: onRebind: Intent { act=com.google.android.gms.findmydevice.spot.service.locationreport.START dat=chimera-action:/... xflg=0x4 cmp=com.google.android.gms/.chimera.PersistentApiService }
+01-13 06:26:53.507  1239  1239 D AOC     : F1:MSG: controller_audio_output.cc, 2003: audio_playback1 set default threshold 11520
+01-13 06:26:53.507  1239  1239 D AOC     : F1:RAW Endpoint Data Format: 32-bit floating point (XTensa Optimized)
+01-13 06:26:53.507  1239  1239 D AOC     : F1:MSG: controller.cc, 933: AudioOutCtrl: ipc: audio_output_co, cmd ID: 0x0132, tag: 0xf4, rc: 0
+01-13 06:26:53.507  1239  1239 D AOC     : F1:MSG: controller.cc, 275: AudioOutCtrl: cmd ID: 0x012a, tag: 0x64 [cntr = 81705]
+01-13 06:26:53.508  1239  1239 D AOC     : F1:MSG: controller_audio_output.cc, 2142: audio_playback1 set threshold 11520 of 15360
+01-13 06:26:53.508  1239  1239 D AOC     : F1:MSG: controller.cc, 933: AudioOutCtrl: ipc: audio_output_co, cmd ID: 0x012a, tag: 0x64, rc: 0
+01-13 06:26:53.508  1239  1239 D AOC     : F1:MSG: controller.cc, 275: AudioOutCtrl: cmd ID: 0x00c9, tag: 0x65 [cntr = 81706]
+01-13 06:26:53.508  1239  1239 D AOC     : F1:MSG: controller.cc, 933: AudioOutCtrl: ipc: audio_output_co, cmd ID: 0x00c9, tag: 0x65, rc: 0
+01-13 06:26:53.508  1239  1239 D AOC     : A3:MSG: controller.cc, 933: CPM_IPC_HOST: ipc: C-F1-AC, cmd ID: 0x00cb, tag: 0x18, rc: 0
+01-13 06:26:53.508  1239  1239 D AOC     : A3:MSG: controller.cc, 933: CPM_IPC_HOST: ipc: C-F1-AC, cmd ID: 0x00cb, tag: 0x19, rc: 0
+01-13 06:26:53.508  1239  1239 D AOC     : A3:MSG: controller.cc, 933: CPM_IPC_HOST: ipc: C-F1-AC, cmd ID: 0x00cb, tag: 0x1a, rc: 0
+01-13 06:26:53.510  2589  2608 E qfp-daemon: UpdateTouchWriteIdx: All touch slots full, couldn't update write idx
+01-13 06:26:53.511  2656  2656 W SsPagerDots: Total number of pages invalid: 0. Assuming 1 page.
+01-13 06:26:53.513   548   578 I hwc-pixel-bc: path=drm, id=0, level=849, nits=3.340795, brightness=0.001047, DimmingOn=0, Hbm=0, LhbmOn=0, OpRate=0
+01-13 06:26:53.513  1039  2619 I WifiHAL : Creating message to get link statistics; iface = 47
+01-13 06:26:53.514   960   991 D CHRE    : @ 1849985.717: Parsed nanoapp message from host: app ID 0x476f6f676c00103b endpoint 0x8005 msgType 1 payload size 6
+01-13 06:26:53.516 10111  9476 I NearbySharing: Screen is unlocked
+01-13 06:26:53.516 10111  9476 I NearbySharing: Uwb feature is off.
+01-13 06:26:53.516 10111  9476 I NearbySharing: Uwb feature is off.
+01-13 06:26:53.517 12682 10371 I Mosey-ExternalProvider: Mosey invoking StartDiscovery
+01-13 06:26:53.517 12682 10371 I Mosey.SendProvider: API: start() called with options: DiscoveryOptions(mode=0)
+01-13 06:26:53.519 10111  9476 I NearbySharing: External sharing provider has received status 0 for startDiscovery
+01-13 06:26:53.519 10111  9476 I NearbySharing: External sharing provider has started discovery
+01-13 06:26:53.519 10111  9476 I NearbySharing: [NS_PROVIDER_API]: startDiscovery called with SendManagerOptions(mode=BACKGROUND, flowId=3717167081034168637, uwbSenderInfo=null, deviceType=1, dataUsage=2, vendorId=0).
+01-13 06:26:53.520  2656  2656 W SsPagerDots: Total number of pages invalid: 0. Assuming 1 page.
+01-13 06:26:53.524 10111  9476 I NearbySharing: NearbySharing Internal event SendManagerStart(mode=BACKGROUND, useCase=0, sendSurfaceState=0, sendSurfaceStartTimeMillis=-1, useQrCode=false, success=true)
+01-13 06:26:53.525 10111  9476 I NearbySharing: Scanning has started in the BACKGROUND
+01-13 06:26:53.525 10111  9476 I NearbySharing: Uwb feature is off.
+01-13 06:26:53.526 10111  9476 I NearbySharing: Stopping Fast Init advertisement because we're not scanning in the foreground.
+01-13 06:26:53.527 10111  9476 I NearbySharing: Start advertising with mode BACKGROUND certificate visibility SELF_SHARE data usage preference ONLINE, and bt advertising false with vendorId 0
+01-13 06:26:53.527 10111  9476 I NearbySharing: Uwb feature is off.
+01-13 06:26:53.527 10111  9476 I NearbySharing: Updating advertising options for [dlie@3d31a5f, dllp@bcd3f01] providers
+01-13 06:26:53.527 10111  9476 I NearbySharing: Updating advertising options: dlhj@79b5c94
+01-13 06:26:53.528  2656  2656 W SsPagerDots: Total number of pages invalid: 0. Assuming 1 page.
+01-13 06:26:53.529  3300  3300 D SconeAwareness: Awareness received [com.google.android.apps.scone.action.FenceAction] action and try to relay info
+01-13 06:26:53.529  3300  3300 W JobInfo : Job 'com.google.android.apps.scone/.awareness.AwarenessJobIntentService#188052156' has a deadline with no functional constraints. The deadline won't improve job execution latency. Consider removing the deadline.
+01-13 06:26:53.531  1584  3662 W JobInfo : Job 'com.google.android.apps.scone/.awareness.AwarenessJobIntentService#188052156' has a deadline with no functional constraints. The deadline won't improve job execution latency. Consider removing the deadline.
+01-13 06:26:53.531 12682 10371 I Mosey-ExternalProvider: Mosey invoking UpdateAdvertising
+01-13 06:26:53.531 12682 10371 I Mosey.ReceiveProvider: update called.
+01-13 06:26:53.532 12682 12682 I Mosey.ReceiveProvider: execUpdate() called with options: AdvertisingOptions(mode=0, localDeviceName=)
+01-13 06:26:53.532 12682 12682 I Mosey.ReceiveProvider: stopNsdAdvertising() called.
+01-13 06:26:53.532 12682 12682 I MoseyController: Event received: STOP_RECEIVE(immediate=false, completer=cvj{Active}@54aee03)
+01-13 06:26:53.532 12682 12682 I MoseyController: Next state: bkp@c14d8b2
+01-13 06:26:53.532 12682 12682 I MoseyController: State updated to: bkp@c14d8b2
+01-13 06:26:53.533  1041 29048 D DeviceHalAidl: [default] openInputStream: handle: 40838 devices 80000004 flags 2 mixPortHalId 1004
+01-13 06:26:53.533  1041 29048 D Hal2AidlMapper: [default] prepareToOpenStream: handle 40838, mixPortHalId 1004, device AudioDevice{type: AudioDeviceDescription{type: IN_MICROPHONE, connection: }, address: AudioDeviceAddress{id: bottom}}, flags AudioIoFlags{input: 2}, source HOTWORD, config AudioConfig{base: AudioConfigBase{sampleRate: 16000, channelMask: AudioChannelLayout{layoutMask: 1}, format: AudioFormatDescription{type: PCM, pcm: INT_16_BIT, encoding: }}, offloadInfo: AudioOffloadInfo{base: AudioConfigBase{sampleRate: 0, channelMask: AudioChannelLayout{none: 0}, format: AudioFormatDescription{type: DEFAULT, pcm: DEFAULT, encoding: }}, streamType: VOICE_CALL, bitRatePerSecond: 0, durationUs: 0, hasVideo: false, isStreaming: false, bitWidth: 16, offloadBufferSize: 0, usage: UNKNOWN, encapsulationMode: NONE, contentId: 0, syncId: 0}, frameCount: 0}, mixport config AudioPortConfig{id: 0, portId: 0, sampleRate: (null), channelMask: (null), format: (null), gain: (null), flags: (null), ext: AudioPortExt{unspecified: false}}
+01-13 06:26:53.533  1041 29048 D Hal2AidlMapper: [default] resetPortConfig: AudioPortConfig{id: 409106, portId: 1004, sampleRate: Int{value: 16000}, channelMask: AudioChannelLayout{layoutMask: 1}, format: AudioFormatDescription{type: PCM, pcm: INT_16_BIT, encoding: }, gain: (null), flags: AudioIoFlags{input: 2}, ext: AudioPortExt{mix: AudioPortMixExt{handle: 40830, usecase: AudioPortMixExtUseCase{source: HOTWORD}, maxOpenStreamCount: 0, maxActiveStreamCount: 0, recommendedMuteDurationMs: 0}}}
+01-13 06:26:53.534   956 16085 I ASvc::Module: resetAudioPortConfig: port config id = 409106
+01-13 06:26:53.534   956 16085 I ASvc::Module: setAudioPortConfig: requested = AudioPortConfig{id: 101001, portId: 101001, sampleRate: Int{value: 16000}, channelMask: AudioChannelLayout{layoutMask: 1}, format: AudioFormatDescription{type: PCM, pcm: INT_16_BIT, encoding: }, gain: (null), flags: AudioIoFlags{input: 0}, ext: AudioPortExt{device: AudioPortDeviceExt{device: AudioDevice{type: AudioDeviceDescription{type: IN_MICROPHONE, connection: }, address: AudioDeviceAddress{id: bottom}}, flags: 1, encodedFormats: [], encapsulationModes: 0, encapsulationMetadataTypes: 0, speakerLayout: (null)}}}
+01-13 06:26:53.534   956 16085 I ASvc::Module: setAudioPortConfig: requested = AudioPortConfig{id: 101001, portId: 101001, sampleRate: Int{value: 48000}, channelMask: AudioChannelLayout{layoutMask: 1}, format: AudioFormatDescription{type: PCM, pcm: INT_16_BIT, encoding: }, gain: (null), flags: AudioIoFlags{input: 0}, ext: AudioPortExt{device: AudioPortDeviceExt{device: AudioDevice{type: AudioDeviceDescription{type: IN_MICROPHONE, connection: }, address: AudioDeviceAddress{id: bottom}}, flags: 1, encodedFormats: [], encapsulationModes: 0, encapsulationMetadataTypes: 0, speakerLayout: (null)}}}
+01-13 06:26:53.534   956 16085 I AHal::PortRouteManager: UpdatePortConfiguration: update config 101001 on microphones/101001
+01-13 06:26:53.534   956 16085 I ASvc::Module: setAudioPortConfig: requested = AudioPortConfig{id: 0, portId: 1004, sampleRate: Int{value: 16000}, channelMask: AudioChannelLayout{layoutMask: 1}, format: AudioFormatDescription{type: PCM, pcm: INT_16_BIT, encoding: }, gain: (null), flags: AudioIoFlags{input: 2}, ext: AudioPortExt{mix: AudioPortMixExt{handle: 40838, usecase: AudioPortMixExtUseCase{source: HOTWORD}, maxOpenStreamCount: 0, maxActiveStreamCount: 0, recommendedMuteDurationMs: 0}}}
+01-13 06:26:53.534   956 16085 I AHal::PortRouteManager: AddPortConfiguration: add config 409107 on sound-trigger-capture/1004
+01-13 06:26:53.534   956 16085 I AHal::PortRouteManager: UpdateOrAddPatch: add patch 7945, AudioPatch{id: 7945, source: [101001/101001: microphones], sink: [409107/1004: sound-trigger-capture], min frames: 1024, latencies: [64]}
+01-13 06:26:53.534   956 16085 D AHal::Router: UpdateOrAddPatch: updated activated config [400001]
+01-13 06:26:53.534   956 16085 I AHal::Router: InvalidateLocked: nothing change between graph #67819 and #67820
+01-13 06:26:53.534   956 16085 I ASvc::Module: openInputStream: open input stream on the port config 409107, bufferSizeFrames = 1024, sinkMetadata = SinkMetadata{tracks: [RecordTrackMetadata{source: HOTWORD, gain: 1.000000, destinationDevice: (null), channelMask: AudioChannelLayout{layoutMask: 1}, tags: []}]}
+01-13 06:26:53.534 10111  9476 I NearbySharing: External sharing provider has received status 0 for updateAdvertisingOptions
+01-13 06:26:53.534 10111  9476 I NearbySharing: External sharing provider has updated advertising options
+01-13 06:26:53.534 10111  9476 I NearbySharing: Updating advertising options: dlhj@79b5c94
+01-13 06:26:53.534 10111  9476 I NearbySharing: [RECEIVE_PROVIDER] update called.
+01-13 06:26:53.535   956 16085 I ASvc::Queues: InitializeMessageQueues: data queue size 2048 bytes
+01-13 06:26:53.535   956 16085 D ASvc::Queues: FillStreamDescriptor: StreamDescriptor{command: MQDescriptor{grantors: [GrantorDescriptor{fdIndex: 0, offset: 0, extent: 8}, GrantorDescriptor{fdIndex: 0, offset: 8, extent: 8}, GrantorDescriptor{fdIndex: 0, offset: 16, extent: 8}, GrantorDescriptor{fdIndex: 0, offset: 24, extent: 4}], handle: NativeHandle{fds: [fd:49], ints: []}, quantum: 8, flags: 1}, reply: MQDescriptor{grantors: [GrantorDescriptor{fdIndex: 0, offset: 0, extent: 8}, GrantorDescriptor{fdIndex: 0, offset: 8, extent: 8}, GrantorDescriptor{fdIndex: 0, offset: 16, extent: 56}, GrantorDescriptor{fdIndex: 0, offset: 72, extent: 4}], handle: NativeHandle{fds: [fd:50], ints: []}, quantum: 56, flags: 1}, frameSizeBytes: 2, bufferSizeFrames: 1024, audio: AudioBuffer{fmq: MQDescriptor{grantors: [GrantorDescriptor{fdIndex: 0, offset: 0, extent: 8}, GrantorDescriptor{fdIndex: 0, offset: 8, extent: 8}, GrantorDescriptor{fdIndex: 0, offset: 16, extent: 2048}, GrantorDescriptor{fdIndex: 0, offset: 2064, extent: 4}], handle: NativeHandle{fds: [fd:51], ints: []}, quantum: 1, flags: 1}}}
+01-13 06:26:53.535 10111  9476 I NearbySharing: Advertising has started with mode BACKGROUND, Bt enabled : false
+01-13 06:26:53.535   956  9982 I AUtl::Worker: Loop: pw-sound-trigger-capture started
+01-13 06:26:53.536  2656  2656 W SsPagerDots: Total number of pages invalid: 0. Assuming 1 page.
+01-13 06:26:53.537   956  9983 I AUtl::Worker: Loop: cw-sound-trigger-capture started
+01-13 06:26:53.537   956 16085 I AHal::GainPcmProcessor: SetVolume: target gain: 1, current gain: 1
+01-13 06:26:53.537   956 16085 I ASvc::Module: openInputStream: create sound-trigger-capture(0xb4000078595be350)
+01-13 06:26:53.539  1041 29048 D StreamHalAidl: [in|ioHandle:40838] StreamHalAidl
+01-13 06:26:53.539  1041 29048 D StreamHalAidl: [in|ioHandle:40838] getAudioProperties
+01-13 06:26:53.540   956  1029 I ASvc::StreamCommonImpl: setVendorParameters: parameter = [VendorParameter{id: aosp.createMmapBuffer, ext: AParcelableHolder}]
+01-13 06:26:53.540  1041 29048 D StreamHalAidl: [in|ioHandle:40838] getFrameSize
+01-13 06:26:53.540  1041 29048 D StreamHalAidl: [in|ioHandle:40838] getAudioProperties
+01-13 06:26:53.540  1041 29048 D StreamHalAidl: [in|ioHandle:40838] getAudioProperties
+01-13 06:26:53.540  1041 29048 D StreamHalAidl: [in|ioHandle:40838] getBufferSize
+01-13 06:26:53.540  1041 29048 I StreamHalAidl: [in|ioHandle:40838] getBufferSize: size: 2048
+01-13 06:26:53.540  1041 29048 D StreamHalAidl: [in|ioHandle:40838] getBufferSize
+01-13 06:26:53.540  1041 29048 I StreamHalAidl: [in|ioHandle:40838] getBufferSize: size: 2048
+01-13 06:26:53.540  1041 29048 D StreamHalAidl: [in|ioHandle:40838] getAudioProperties
+01-13 06:26:53.540  1041 29048 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:53.541  1041 29048 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:53.541  1041 29048 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:53.541  1041 29048 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:53.542  1041  2075 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:53.542  1041  2075 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:53.542  1041  2075 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:53.543  2802  9953 D NetworkMonitor/377: PROBE_HTTP http://connectivitycheck.gstatic.com/generate_204 time=96ms ret=204 request={Connection=[close], User-Agent=[Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.32 Safari/537.36]} headers={null=[HTTP/1.1 204 No Content], Connection=[close], Content-Length=[0], Cross-Origin-Resource-Policy=[cross-origin], Date=[Tue, 13 Jan 2026 13:26:52 GMT], X-Android-Received-Millis=[1768310813542], X-Android-Response-Source=[NETWORK 204], X-Android-Selected-Protocol=[http/1.1], X-Android-Sent-Millis=[1768310813509]}
+01-13 06:26:53.544  1039  2619 I WifiHAL : index: 0 per_rate_size 32, data_rem_len 1152
+01-13 06:26:53.544  1039  2619 I WifiHAL : index: 1 per_rate_size 32, data_rem_len 1120
+01-13 06:26:53.544  1039  2619 I WifiHAL : index: 2 per_rate_size 32, data_rem_len 1088
+01-13 06:26:53.544  1039  2619 I WifiHAL : index: 3 per_rate_size 32, data_rem_len 1056
+01-13 06:26:53.544  1039  2619 I WifiHAL : index: 4 per_rate_size 32, data_rem_len 1024
+01-13 06:26:53.544  1039  2619 I WifiHAL : index: 5 per_rate_size 32, data_rem_len 992
+01-13 06:26:53.544  1039  2619 I WifiHAL : index: 6 per_rate_size 32, data_rem_len 960
+01-13 06:26:53.544  1039  2619 I WifiHAL : index: 7 per_rate_size 32, data_rem_len 928
+01-13 06:26:53.544  1039  2619 I WifiHAL : index: 8 per_rate_size 32, data_rem_len 896
+01-13 06:26:53.544  1039  2619 I WifiHAL : index: 9 per_rate_size 32, data_rem_len 864
+01-13 06:26:53.544  1039  2619 I WifiHAL : index: 10 per_rate_size 32, data_rem_len 832
+01-13 06:26:53.544  1039  2619 I WifiHAL : index: 11 per_rate_size 32, data_rem_len 800
+01-13 06:26:53.544  1039  2619 I WifiHAL : index: 12 per_rate_size 32, data_rem_len 768
+01-13 06:26:53.544  1039  2619 I WifiHAL : index: 13 per_rate_size 32, data_rem_len 736
+01-13 06:26:53.544  1039  2619 I WifiHAL : index: 14 per_rate_size 32, data_rem_len 704
+01-13 06:26:53.544  1039  2619 I WifiHAL : index: 15 per_rate_size 32, data_rem_len 672
+01-13 06:26:53.544  1039  2619 I WifiHAL : index: 16 per_rate_size 32, data_rem_len 640
+01-13 06:26:53.544  1039  2619 I WifiHAL : index: 17 per_rate_size 32, data_rem_len 608
+01-13 06:26:53.544  1039  2619 I WifiHAL : index: 18 per_rate_size 32, data_rem_len 576
+01-13 06:26:53.544  1039  2619 I WifiHAL : index: 19 per_rate_size 32, data_rem_len 544
+01-13 06:26:53.544  1039  2619 I WifiHAL : index: 20 per_rate_size 32, data_rem_len 512
+01-13 06:26:53.544  1039  2619 I WifiHAL : index: 21 per_rate_size 32, data_rem_len 480
+01-13 06:26:53.544  1039  2619 I WifiHAL : index: 22 per_rate_size 32, data_rem_len 448
+01-13 06:26:53.544  1039  2619 I WifiHAL : index: 23 per_rate_size 32, data_rem_len 416
+01-13 06:26:53.544  1039  2619 I WifiHAL : index: 24 per_rate_size 32, data_rem_len 384
+01-13 06:26:53.544  1039  2619 I WifiHAL : index: 25 per_rate_size 32, data_rem_len 352
+01-13 06:26:53.544  1039  2619 I WifiHAL : index: 26 per_rate_size 32, data_rem_len 320
+01-13 06:26:53.544  1039  2619 I WifiHAL : index: 27 per_rate_size 32, data_rem_len 288
+01-13 06:26:53.544  1039  2619 I WifiHAL : index: 28 per_rate_size 32, data_rem_len 256
+01-13 06:26:53.544  1039  2619 I WifiHAL : index: 29 per_rate_size 32, data_rem_len 224
+01-13 06:26:53.544  1039  2619 I WifiHAL : index: 30 per_rate_size 32, data_rem_len 192
+01-13 06:26:53.544  1039  2619 I WifiHAL : index: 31 per_rate_size 32, data_rem_len 160
+01-13 06:26:53.544  1039  2619 I WifiHAL : index: 32 per_rate_size 32, data_rem_len 128
+01-13 06:26:53.544  1039  2619 I WifiHAL : index: 33 per_rate_size 32, data_rem_len 96
+01-13 06:26:53.544  1039  2619 I WifiHAL : index: 34 per_rate_size 32, data_rem_len 64
+01-13 06:26:53.544  1039  2619 I WifiHAL : index: 35 per_rate_size 32, data_rem_len 32
+01-13 06:26:53.544 10111 10128 I NearbyConnections: Client 252322271 requested discovery to start.
+01-13 06:26:53.544 10111 10472 I NearbyDiscovery: (REDACTED) ApFastPairScanner: isScreenOn=%s, isLocationEnabled=%s, disableLocationRequirement=%s, isDiscoveryScanningEnabled=%s, during24GhzWifiWarmingUpPeriod=%s
+01-13 06:26:53.544 10111 10472 I NearbyDiscovery: (REDACTED) ApFastPairScanner: Start scanning internally, %s
+01-13 06:26:53.545 10111 10472 D BluetoothAdapter: isLeEnabled(): ON
+01-13 06:26:53.545  2656  2656 W SsPagerDots: Total number of pages invalid: 0. Assuming 1 page.
+01-13 06:26:53.546  1039  2619 I WifiHAL : Getting cached scan results, iface handle = 0xb4000076d792e490
+01-13 06:26:53.546  1039  2619 E WifiHAL : Creating message to get cached scan results
+01-13 06:26:53.548  1041  9984 I AudioFlinger: AudioFlinger's thread 0xb4000079fe1d4a68 tid=9984 ready to run
+01-13 06:26:53.548  1041  9984 D StreamHalAidl: [in|ioHandle:40838] standby
+01-13 06:26:53.548  1041  9984 D StreamHalAidl: [in|ioHandle:40838] standby
+01-13 06:26:53.550  1041  9984 D DeviceHalAidl: [default] createAudioPatch: sources: 1 sinks 1
+01-13 06:26:53.550  1041  9984 D Hal2AidlMapper: [default] createOrUpdatePatch: patch ID: 0, [disregard IDs] sources: [AudioPortConfig{id: 21, portId: 0, sampleRate: Int{value: 48000}, channelMask: AudioChannelLayout{indexMask: 15}, format: AudioFormatDescription{type: PCM, pcm: INT_16_BIT, encoding: }, gain: (null), flags: (null), ext: AudioPortExt{device: AudioPortDeviceExt{device: AudioDevice{type: AudioDeviceDescription{type: IN_MICROPHONE, connection: }, address: AudioDeviceAddress{id: bottom}}, flags: 0, encodedFormats: [], encapsulationModes: 0, encapsulationMetadataTypes: 0, speakerLayout: (null)}}}], sinks: [AudioPortConfig{id: 26805, portId: 0, sampleRate: Int{value: 16000}, channelMask: AudioChannelLayout{layoutMask: 1}, format: AudioFormatDescription{type: PCM, pcm: INT_16_BIT, encoding: }, gain: (null), flags: AudioIoFlags{input: 2}, ext: AudioPortExt{mix: AudioPortMixExt{handle: 40838, usecase: AudioPortMixExtUseCase{source: HOTWORD}, maxOpenStreamCount: 0, maxActiveStreamCount: 0, recommendedMuteDurationMs: 0}}}]
+01-13 06:26:53.550   956 16085 I ASvc::Module: setAudioPortConfig: requested = AudioPortConfig{id: 101001, portId: 101001, sampleRate: Int{value: 48000}, channelMask: AudioChannelLayout{indexMask: 15}, format: AudioFormatDescription{type: PCM, pcm: INT_16_BIT, encoding: }, gain: (null), flags: AudioIoFlags{input: 0}, ext: AudioPortExt{device: AudioPortDeviceExt{device: AudioDevice{type: AudioDeviceDescription{type: IN_MICROPHONE, connection: }, address: AudioDeviceAddress{id: bottom}}, flags: 1, encodedFormats: [], encapsulationModes: 0, encapsulationMetadataTypes: 0, speakerLayout: (null)}}}
+01-13 06:26:53.550   956  1029 I ASvc::Module: setAudioPortConfig: requested = AudioPortConfig{id: 101001, portId: 101001, sampleRate: Int{value: 48000}, channelMask: AudioChannelLayout{layoutMask: 1}, format: AudioFormatDescription{type: PCM, pcm: INT_16_BIT, encoding: }, gain: (null), flags: AudioIoFlags{input: 0}, ext: AudioPortExt{device: AudioPortDeviceExt{device: AudioDevice{type: AudioDeviceDescription{type: IN_MICROPHONE, connection: }, address: AudioDeviceAddress{id: bottom}}, flags: 1, encodedFormats: [], encapsulationModes: 0, encapsulationMetadataTypes: 0, speakerLayout: (null)}}}
+01-13 06:26:53.550   956  1029 I AHal::PortRouteManager: UpdatePortConfiguration: update config 101001 on microphones/101001
+01-13 06:26:53.550  1041  9984 I Hal2AidlMapper: [default] createOrUpdatePatch: Updating transient patch. Current: AudioPatch{id: 7945, sourcePortConfigIds: [101001], sinkPortConfigIds: [409107], minimumStreamBufferSizeFrames: 1024, latenciesMs: [64]}, new: AudioPatch{id: 7945, sourcePortConfigIds: [101001], sinkPortConfigIds: [409107], minimumStreamBufferSizeFrames: 0, latenciesMs: []}
+01-13 06:26:53.551 10111  9362 I NearbyConnections: 252322271 0p:com.google.android.gms.nearby.sharing startDiscovery in nc mode.
+01-13 06:26:53.551   956  1029 I AHal::PortRouteManager: UpdateOrAddPatch: update patch 7945, AudioPatch{id: 7945, source: [101001/101001: microphones], sink: [409107/1004: sound-trigger-capture], min frames: 1024, latencies: [64]}
+01-13 06:26:53.551   956  1029 D AHal::Router: UpdateOrAddPatch: updated activated config [400001]
+01-13 06:26:53.551   956  1029 I AHal::Router: InvalidateLocked: nothing change between graph #67820 and #67821
+01-13 06:26:53.551  1039  2619 I WifiHAL : In GetCachedScanResultsCommand::handleResponse
+01-13 06:26:53.551  1041  9984 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:53.552  1041  9984 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:53.552  1041  9984 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:53.552  1041  9984 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:53.552   956  1029 D AHal::UseCase: SetActiveTracks: update sound-trigger-capture active tracks(1)
+01-13 06:26:53.553  2656  2656 W SsPagerDots: Total number of pages invalid: 0. Assuming 1 page.
+01-13 06:26:53.555 10111  9476 I NearbySharing: Starting scanning for Fast Initiation.
+01-13 06:26:53.555 10111  9476 D BluetoothAdapter: isLeEnabled(): ON
+01-13 06:26:53.557  1039  2619 I WifiHAL : Creating message to get link statistics; iface = 47
+01-13 06:26:53.559  9739  9739 D WindowOnBackDispatcher: setTopOnBackInvokedCallback (unwrapped): android.view.ViewRootImpl$$ExternalSyntheticLambda12@59e9385
+01-13 06:26:53.561  2656  2656 W SsPagerDots: Total number of pages invalid: 0. Assuming 1 page.
+01-13 06:26:53.562 10111  9978 I Nearby  : (REDACTED) Note nearby client %s for operation %s
+01-13 06:26:53.565 31312 31312 I Finsky  : [2] Memory trim requested to level 40
+01-13 06:26:53.566 31312 31312 I Finsky  : [2] Flushing in-memory image cache
+01-13 06:26:53.571  2656  2656 W SsPagerDots: Total number of pages invalid: 0. Assuming 1 page.
+01-13 06:26:53.576 10111  9978 I NearbyConnections: Get local endpoint id from the existing localEndpointId:5AF6 (last:OK0O) for client 252322271(0p:com.google.android.gms.nearby.sharing)
+01-13 06:26:53.577  1584  1674 I ActivityTaskManager: Displayed com.betterclock.test/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity for user 0: +91ms
+01-13 06:26:53.578  2656  2656 W SsPagerDots: Total number of pages invalid: 0. Assuming 1 page.
+01-13 06:26:53.582  1041  2075 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:53.582  1041  2075 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:53.582  1041  2075 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:53.583   956  1029 I ASvc::StreamIn: setMicrophoneDirection (sound-trigger-capture) : direction = UNSPECIFIED
+01-13 06:26:53.583   956  9983 I ASvc::StreamInSyncStates: cw-sound-trigger-capture: Command{start: Void{}} in StreamInStandbyState
+01-13 06:26:53.583   956  9983 I ASvc::CommandWorker: StartStreamAndActivateRoute: try to start sound-trigger-capture, counter 5
+01-13 06:26:53.583   956  9983 I AHal::Router: Activate: activate 409107 without a scoped lock
+01-13 06:26:53.583   956  9983 I AHal::RoutingGraphBuilder: ApplyDeviceRoutingWorkaround: WA4 - replace with sound-trigger microphones for sound-trigger use cases
+01-13 06:26:53.583   956  9983 I AHal::Router: InvalidateLocked: new graph #67822 Edges(2):
+01-13 06:26:53.583   956  9983 I AHal::Router:   [direction: 0, use case: primary-playback, id: 0, use case extras: [aec: false, ns: false], use case attributes: [active track: true][sample_rate: 48000][channel layout: AudioChannelLayout{layoutMask: 3}][format: AudioFormatDescription{type: PCM, pcm: FLOAT_32_BIT, encoding: }], device: speaker, sibling device: , handle: 0xb4000079a95aad10, device extras: [source: SYS_RESERVED_INVALID, voice call: false, st aec: false, hac: false, sr: 48000, ch: AudioChannelLayout{layoutMask: 3}, f: AudioFormatDescription{type: PCM, pcm: FLOAT_32_BIT, encoding: }, hifi: 0], config id: [u: 400001, d:100001], priority: 0000]
+01-13 06:26:53.583   956  9983 I AHal::Router:   [direction: 1, use case: sound-trigger-capture, id: 0, use case extras: [aec: false, ns: false], use case attributes: [active track: true][sample_rate: 16000][channel layout: AudioChannelLayout{layoutMask: 1}][format: AudioFormatDescription{type: PCM, pcm: INT_16_BIT, encoding: }], device: sound-trigger-microphones, sibling device: , handle: 0xb4000079a95a99d0, device extras: [source: HOTWORD, voice call: false, st aec: false, hac: false, sr: 16000, ch: AudioChannelLayout{layoutMask: 3}, f: AudioFormatDescription{type: PCM, pcm: INT_16_BIT, encoding: }, hifi: 0], config id: [u: 409107, d:101011], priority: 0002]
+01-13 06:26:53.583   956  9983 I AHal::Router: InvalidateLocked: ============ apply graph #67822 [Tue Jan 13 06:26:53 2026] start ============
+01-13 06:26:53.583   956  9983 I AHal::Router: LogTransferring: Transferring (1):
+01-13 06:26:53.583   956  9983 I AHal::Router: LogTransferring:   (null) => sound-trigger-microphones -> sound-trigger-capture-0
+01-13 06:26:53.583   956  9983 I AHal::Router: Configure: config device sound-trigger-microphones -> sound-trigger-capture-0
+01-13 06:26:53.583   956  9983 I AHal::BatteryMitigation: UpdateState: Standby -> Idle
+01-13 06:26:53.583   956  9983 I AHal::PlaybackThermalThrottleByTemperature: Update Temperature: kOnce to kIdle
+01-13 06:26:53.583   956  9983 I AHal::VoiceCall: Update: set echo reference on speaker for primary-playback
+01-13 06:26:53.583   956  9983 D audio_route: Apply path: sound-trigger-microphones -> sound-trigger-capture-0
+01-13 06:26:53.583   956  9983 I AHal::AudioRoutePathController: ApplyPath: sound-trigger-microphones -> sound-trigger-capture-0: true
+01-13 06:26:53.583   956  9983 I AHal::DeviceInterface: Connect: connect sound-trigger-microphones -> sound-trigger-capture-0
+01-13 06:26:53.583   956  9983 I AHal::Router: InvalidateLocked: ============ apply graph #67822 end ============
+01-13 06:26:53.583   956  9983 I ASvc::PeriodicWorker: SetLinkedConfigIds: update linked configs [101011]
+01-13 06:26:53.583   547   580 I libbinder.BpBinder: onLastStrongRef automatically unlinking death recipients:
+01-13 06:26:53.583   956  9983 D BTAudioSessionAidl: UpdateSourceMetadata - SessionType=LE_AUDIO_HARDWARE_OFFLOAD_ENCODING_DATAPATH has NO session
+01-13 06:26:53.583   956  9983 D BTAudioSessionAidl: UpdateSinkMetadata - SessionType=LE_AUDIO_HARDWARE_OFFLOAD_DECODING_DATAPATH has NO session
+01-13 06:26:53.583   956  9983 I AHal::Stream: Start: start stream sound-trigger-capture
+01-13 06:26:53.583   956  9983 I StHal::Client: ChangeStateTo: client 1 transits from CallbackProcessing to Buffering
+01-13 06:26:53.583   956  9983 I StHal::SoundTriggerDriverOperations: Start: io_handle 40838, with engine type: 2
+01-13 06:26:53.584   956  9983 I ASvc::StreamInSyncStates: cw-sound-trigger-capture: Command{burst: 2048} in StreamInIdleState
+01-13 06:26:53.584   956  1029 I ASvc::StreamIn: setMicrophoneFieldDimension (sound-trigger-capture) : zoom = 0
+01-13 06:26:53.586  2656  2656 W SsPagerDots: Total number of pages invalid: 0. Assuming 1 page.
+01-13 06:26:53.592  1584  4528 I AudioService.RecordingActivityMonitor: rec update riid:79895 uid:10135 session:98897 src:HOTWORD not silenced pack:com.google.android.as
+01-13 06:26:53.594  2828  2828 D GRIL-S  : [81767]> UPDATE_SCONE_INFO Mobility:3 Battery:2 Thermal:0 Screen:1
+01-13 06:26:53.594 10111  9980 I NearbyMediums: ModuleInitializer handles incoming intent android.intent.action.USER_PRESENT
+01-13 06:26:53.595  2656  2656 W SsPagerDots: Total number of pages invalid: 0. Assuming 1 page.
+01-13 06:26:53.598 10111  9978 I NearbyMediums: NFC discovery successfully started.
+01-13 06:26:53.604  2656  2656 W SsPagerDots: Total number of pages invalid: 0. Assuming 1 page.
+01-13 06:26:53.605 10111  9978 I NearbyMediums: In ScanningCancellationFlag, service-id=NearbySharing has become the first scanner. The flag has been reset.
+01-13 06:26:53.608  1039  2619 I WifiHAL : index: 0 per_rate_size 32, data_rem_len 1152
+01-13 06:26:53.608  1039  2619 I WifiHAL : index: 1 per_rate_size 32, data_rem_len 1120
+01-13 06:26:53.608  1039  2619 I WifiHAL : index: 2 per_rate_size 32, data_rem_len 1088
+01-13 06:26:53.608  1039  2619 I WifiHAL : index: 3 per_rate_size 32, data_rem_len 1056
+01-13 06:26:53.608  1039  2619 I WifiHAL : index: 4 per_rate_size 32, data_rem_len 1024
+01-13 06:26:53.608  1039  2619 I WifiHAL : index: 5 per_rate_size 32, data_rem_len 992
+01-13 06:26:53.608  1039  2619 I WifiHAL : index: 6 per_rate_size 32, data_rem_len 960
+01-13 06:26:53.608  1039  2619 I WifiHAL : index: 7 per_rate_size 32, data_rem_len 928
+01-13 06:26:53.608  1039  2619 I WifiHAL : index: 8 per_rate_size 32, data_rem_len 896
+01-13 06:26:53.608  1039  2619 I WifiHAL : index: 9 per_rate_size 32, data_rem_len 864
+01-13 06:26:53.608  1039  2619 I WifiHAL : index: 10 per_rate_size 32, data_rem_len 832
+01-13 06:26:53.608  1039  2619 I WifiHAL : index: 11 per_rate_size 32, data_rem_len 800
+01-13 06:26:53.608  1039  2619 I WifiHAL : index: 12 per_rate_size 32, data_rem_len 768
+01-13 06:26:53.608  1039  2619 I WifiHAL : index: 13 per_rate_size 32, data_rem_len 736
+01-13 06:26:53.608  1039  2619 I WifiHAL : index: 14 per_rate_size 32, data_rem_len 704
+01-13 06:26:53.608  1039  2619 I WifiHAL : index: 15 per_rate_size 32, data_rem_len 672
+01-13 06:26:53.608  1039  2619 I WifiHAL : index: 16 per_rate_size 32, data_rem_len 640
+01-13 06:26:53.608  1039  2619 I WifiHAL : index: 17 per_rate_size 32, data_rem_len 608
+01-13 06:26:53.608  1039  2619 I WifiHAL : index: 18 per_rate_size 32, data_rem_len 576
+01-13 06:26:53.608  1039  2619 I WifiHAL : index: 19 per_rate_size 32, data_rem_len 544
+01-13 06:26:53.608  1039  2619 I WifiHAL : index: 20 per_rate_size 32, data_rem_len 512
+01-13 06:26:53.608  1039  2619 I WifiHAL : index: 21 per_rate_size 32, data_rem_len 480
+01-13 06:26:53.608  1039  2619 I WifiHAL : index: 22 per_rate_size 32, data_rem_len 448
+01-13 06:26:53.608  1039  2619 I WifiHAL : index: 23 per_rate_size 32, data_rem_len 416
+01-13 06:26:53.609 10111  9470 D BluetoothAdapter: isLeEnabled(): ON
+01-13 06:26:53.609  1039  2619 I WifiHAL : index: 24 per_rate_size 32, data_rem_len 384
+01-13 06:26:53.609  1039  2619 I WifiHAL : index: 25 per_rate_size 32, data_rem_len 352
+01-13 06:26:53.609  1039  2619 I WifiHAL : index: 26 per_rate_size 32, data_rem_len 320
+01-13 06:26:53.609  1039  2619 I WifiHAL : index: 27 per_rate_size 32, data_rem_len 288
+01-13 06:26:53.609  1039  2619 I WifiHAL : index: 28 per_rate_size 32, data_rem_len 256
+01-13 06:26:53.609  1039  2619 I WifiHAL : index: 29 per_rate_size 32, data_rem_len 224
+01-13 06:26:53.609  1039  2619 I WifiHAL : index: 30 per_rate_size 32, data_rem_len 192
+01-13 06:26:53.609  1039  2619 I WifiHAL : index: 31 per_rate_size 32, data_rem_len 160
+01-13 06:26:53.609  1039  2619 I WifiHAL : index: 32 per_rate_size 32, data_rem_len 128
+01-13 06:26:53.609  1039  2619 I WifiHAL : index: 33 per_rate_size 32, data_rem_len 96
+01-13 06:26:53.609  1039  2619 I WifiHAL : index: 34 per_rate_size 32, data_rem_len 64
+01-13 06:26:53.609  1039  2619 I WifiHAL : index: 35 per_rate_size 32, data_rem_len 32
+01-13 06:26:53.609  1039  2619 I WifiHAL : Getting cached scan results, iface handle = 0xb4000076d792e490
+01-13 06:26:53.609  1039  2619 E WifiHAL : Creating message to get cached scan results
+01-13 06:26:53.610 17205 32619 I bt_shim_scanner: system/main/shim/le_scanning_manager.cc:138 RegisterScanner: in shim layer, UUID=604a5461-ae14-4904-9b3d-5fe95b7a4592
+01-13 06:26:53.610 10111 10298 D BluetoothLeScanner: onScannerRegistered() - status=0 scannerId=1 mScannerId=0
+01-13 06:26:53.611  2656  2656 W SsPagerDots: Total number of pages invalid: 0. Assuming 1 page.
+01-13 06:26:53.613  1039  2619 I WifiHAL : In GetCachedScanResultsCommand::handleResponse
+01-13 06:26:53.618  2802  9952 D NetworkMonitor/377: PROBE_DNS www.google.com 200ms OK 142.250.176.4
+01-13 06:26:53.619 17205 17297 I bt_shim_scanner: system/main/shim/le_scanning_manager.cc:138 RegisterScanner: in shim layer, UUID=0c461e4d-02b3-422f-8cf8-78e0c79a879f
+01-13 06:26:53.620  2656  2656 W SsPagerDots: Total number of pages invalid: 0. Assuming 1 page.
+01-13 06:26:53.620 31312 31312 I Finsky  : [2] Memory trim requested to level 40
+01-13 06:26:53.620 31312 31312 I Finsky  : [2] Flushing in-memory image cache
+01-13 06:26:53.622 17205  4179 I bt_shim_scanner: system/main/shim/le_scanning_manager.cc:138 RegisterScanner: in shim layer, UUID=32278996-603d-4ee3-98d9-07dfdff8d7b7
+01-13 06:26:53.622 10111 10139 D BluetoothLeScanner: onScannerRegistered() - status=0 scannerId=2 mScannerId=0
+01-13 06:26:53.628  2656  2656 W SsPagerDots: Total number of pages invalid: 0. Assuming 1 page.
+01-13 06:26:53.632  4337  5242 I AudioBufferManager: (REDACTED) %s: Audio recording finished, got %s samples.
+01-13 06:26:53.636  2656  2656 W SsPagerDots: Total number of pages invalid: 0. Assuming 1 page.
+01-13 06:26:53.639  4337  5241 I AmbientMusicDetector: (REDACTED) Received music trigger with last-matched track ID '%d'  (%s) from shard '%s'
+01-13 06:26:53.639  4337  5241 I NnfpMusicRecognizer: (REDACTED) SoundSearch FP fallback configuration: AutoOnDemand: %b SoSe Fps: %b
+01-13 06:26:53.641 10111 10297 D BluetoothLeScanner: onScannerRegistered() - status=0 scannerId=3 mScannerId=0
+01-13 06:26:53.642 10111  9476 I NearbySharing: Started scanning for FastInitiation with mode: SCAN_MODE_BALANCED
+01-13 06:26:53.644 17205 17249 I bt_shim_scanner: system/main/shim/le_scanning_manager.cc:243 ScanFilterEnable: in shim layer
+01-13 06:26:53.644  2656  2656 W SsPagerDots: Total number of pages invalid: 0. Assuming 1 page.
+01-13 06:26:53.646  1584  2426 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:53.646  1584  2426 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:53.646  1584  2426 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:53.648 17205 17249 I bt_shim_scanner: system/main/shim/le_scanning_manager.cc:220 ScanFilterAdd: in shim layer
+01-13 06:26:53.649 17205 17249 I bt_shim_scanner: system/main/shim/le_scanning_manager.cc:187 ScanFilterParamSetup: in shim layer, clientIf=1
+01-13 06:26:53.653  2656  2656 W SsPagerDots: Total number of pages invalid: 0. Assuming 1 page.
+01-13 06:26:53.655 17205 17249 I bt_shim_scanner: system/main/shim/le_scanning_manager.cc:220 ScanFilterAdd: in shim layer
+01-13 06:26:53.655 17205 17249 I bt_shim_scanner: system/main/shim/le_scanning_manager.cc:187 ScanFilterParamSetup: in shim layer, clientIf=1
+01-13 06:26:53.655 17205 17249 I bt_shim_scanner: system/main/shim/le_scanning_manager.cc:150 Scan: in shim layer started
+01-13 06:26:53.655 17205 17249 I bt_shim_scanner: system/main/shim/le_scanning_manager.cc:150 Scan: in shim layer stopped
+01-13 06:26:53.655 17205 17249 W ScanManager: There is no scan radio to stop
+01-13 06:26:53.655 17205 17249 I bt_shim_scanner: system/main/shim/le_scanning_manager.cc:319 SetScanParameters: in shim layer, scannerId1m=1, scannerIdCoded=0
+01-13 06:26:53.655 17205 17249 I bt_shim_scanner: system/main/shim/le_scanning_manager.cc:150 Scan: in shim layer started
+01-13 06:26:53.655  5211  5211 D BoundBrokerSvc: onRebind: Intent { act=com.google.android.gms.dck.service.START dat=chimera-action:/... xflg=0x4 cmp=com.google.android.gms/.chimera.GmsApiService }
+01-13 06:26:53.657 17205 17249 I bt_shim_scanner: system/main/shim/le_scanning_manager.cc:243 ScanFilterEnable: in shim layer
+01-13 06:26:53.659  3313  3504 D IwlanNetworkStatusTracker: onCapabilitiesChanged: 377
+01-13 06:26:53.659  3313  3504 D IwlanNetworkStatusTracker: OnCapability : Wifi Available already true and validation status unchanged
+01-13 06:26:53.659  3313  3504 E IwlanNetworkStatusTracker: Could not get Wifi SSID
+01-13 06:26:53.659  1584  2539 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:53.659  1584  2539 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:53.660  1584  2539 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:53.661  2656  2656 W SsPagerDots: Total number of pages invalid: 0. Assuming 1 page.
+01-13 06:26:53.663 17205 17232 I bluetooth: system/gd/hci/le_scanning_manager_impl.cc:623 stop_scan: Scanning already stopped, return!
+01-13 06:26:53.663 17205 17232 I bluetooth: system/gd/hci/le_scanning_manager_impl.cc:474 configure_scan: Support RPA offload, set own address type RESOLVABLE_OR_RANDOM_ADDRESS
+01-13 06:26:53.663 17205 17232 I bluetooth: system/gd/hci/le_scanning_manager_impl.cc:623 stop_scan: Scanning already stopped, return!
+01-13 06:26:53.663 17205 17232 I bluetooth: system/gd/hci/le_scanning_manager_impl.cc:474 configure_scan: Support RPA offload, set own address type RESOLVABLE_OR_RANDOM_ADDRESS
+01-13 06:26:53.663 17205 17232 I bluetooth: system/gd/hci/le_address_manager.cc:262 register_client: Client registered
+01-13 06:26:53.663 17205 17232 I bluetooth: system/gd/hci/le_address_manager.cc:277 unregister_client: Client unregistered
+01-13 06:26:53.663 17205 17232 I bluetooth: system/gd/hci/le_address_manager.cc:262 register_client: Client registered
+01-13 06:26:53.666  3300  3707 D DeviceStateHelper: Wifi freq: 5180
+01-13 06:26:53.666  2928  4115 W SHANNON_IMS: 6192 [CONN] NetworkSpecifier and TransportInfo are not valid (DefaultNetworkCallback%updateSubscriptionId:121)
+01-13 06:26:53.666  2928  4115 I SHANNON_IMS: 6193 [CONN] network:377 WIFI connected, subId: -1 [SLID:0] (DefaultNetworkCallback%onCapabilitiesChanged:76)
+01-13 06:26:53.667  3197  3484 D IwlanNetworkService: onCapabilitiesChanged: 377
+01-13 06:26:53.667 10111  9476 I NearbySharing: Fast Initiation Scanning has started
+01-13 06:26:53.667 17205 17249 I bt_shim_scanner: system/main/shim/le_scanning_manager.cc:220 ScanFilterAdd: in shim layer
+01-13 06:26:53.668 17205 17249 I bt_shim_scanner: system/main/shim/le_scanning_manager.cc:187 ScanFilterParamSetup: in shim layer, clientIf=3
+01-13 06:26:53.669  2656  2656 W SsPagerDots: Total number of pages invalid: 0. Assuming 1 page.
+01-13 06:26:53.674  4357  4813 I BugleRcsEngine: Connected state: [1], networkType: [WIFI] [CONTEXT thread_id=56 ]
+01-13 06:26:53.675  5211 10018 I Dck     : (REDACTED) disableDckSupport: %s
+01-13 06:26:53.675  5211 10018 I Dck     : [WirelessCapabilitiesFeatures] wccSysProp: 3 [CONTEXT service_id=289 ]
+01-13 06:26:53.675  5211 10018 I Dck     : [WirelessCapabilitiesFeatures] wccMendel: 3 [CONTEXT service_id=289 ]
+01-13 06:26:53.675  5211 10018 I Dck     : [WirelessCapabilitiesFeatures] deviceWccOverride: false [CONTEXT service_id=289 ]
+01-13 06:26:53.675  5211 10018 I Dck     : [WirelessCapabilitiesFeatures] replaceSupportedWccWithWccOverride: true [CONTEXT service_id=289 ]
+01-13 06:26:53.675  5211 10018 I Dck     : [WirelessCapabilitiesFeatures] wccOverride: not set [CONTEXT service_id=289 ]
+01-13 06:26:53.675  4357  5478 I BugleRcsEngine: handleMessage processing message:[NOTIFY_UPTIME_IGNORE_STATE_CHANGED] with [non-null]:RcsEngineImpl reference [CONTEXT log_prefix="RcsEngineImpl[DUAL_REG]:[c1ef3482-0989]>Handler" thread_id=65 ]
+01-13 06:26:53.675  5211 10018 I Dck     : (REDACTED) [WirelessCapabilitiesFeatures] returned wcc: %s
+01-13 06:26:53.675  3300  3686 I WifiSignalInfo: onCapabilitiesChanged: rssi:-55
+01-13 06:26:53.675  5211 10018 I Dck     : Dck module condition - isDckModuleEligible: true [CONTEXT service_id=289 ]
+01-13 06:26:53.675  5211 10018 I Dck     : (REDACTED) [GatedIntentOperation] Intent propagated: %s
+01-13 06:26:53.675  3300  4712 D ImsPreconditionCheck: {subId=3} handleMessage: { when=0 what=16 target=dgv }
+01-13 06:26:53.675  3300  4712 D ImsPreconditionCheck: {subId=3} onWifiCapabilitiesChanged: wifiNetworkValidated: true
+01-13 06:26:53.676 17205 17249 I bt_shim_scanner: system/main/shim/le_scanning_manager.cc:220 ScanFilterAdd: in shim layer
+01-13 06:26:53.676 17205 17249 I bt_shim_scanner: system/main/shim/le_scanning_manager.cc:187 ScanFilterParamSetup: in shim layer, clientIf=3
+01-13 06:26:53.676 17205 17249 I bt_shim_scanner: system/main/shim/le_scanning_manager.cc:220 ScanFilterAdd: in shim layer
+01-13 06:26:53.676  3197  3229 D IwlanDataService: onCapabilitiesChanged: 377 [ Transports: WIFI Capabilities: NOT_METERED&INTERNET&NOT_RESTRICTED&TRUSTED&NOT_VPN&VALIDATED&NOT_ROAMING&FOREGROUND&NOT_CONGESTED&NOT_SUSPENDED&NOT_VCN_MANAGED&NOT_BANDWIDTH_CONSTRAINED LinkUpBandwidth>=35126Kbps LinkDnBandwidth>=46705Kbps TransportInfo: <SSID: "Tell_my_WiFi_love_her", BSSID: ec:74:d7:29:32:b2, MAC: 12:99:99:7c:6f:96, IP: /10.9.20.100, Security type: 4, Supplicant state: COMPLETED, Wi-Fi standard: 11ax, RSSI: -55, Link speed: 272Mbps, Tx Link speed: 272Mbps, Max Supported Tx Link speed: 1200Mbps, Rx Link speed: 576Mbps, Max Supported Rx Link speed: 1200Mbps, Frequency: 5180MHz, Net ID: 6, Metered hint: false, score: 60, isUsable: true, CarrierMerged: false, SubscriptionId: -1, IsPrimary: 1, Trusted: true, Restricted: false, Ephemeral: false, OEM paid: false, OEM private: false, OSU AP: false, FQDN: <none>, Provider friendly name: <none>, Requesting package name: <none>"Tell_my_WiFi_love_her"wpa3-saeMLO Information: , Is TID-To-Link negotiation supported by the AP: false, AP MLD Address: <none>, AP MLO Link Id: <none>, AP MLO Affiliated links: <none>, Vendor Data: <none>> SignalStrength: -55 OwnerUid: 1000 AdminUids: [1000] SSID: "Tell_my_WiFi_love_her" UnderlyingNetworks: Null]
+01-13 06:26:53.676  3197  3229 D IwlanDataService: Network 377 connected using transport WIFI
+01-13 06:26:53.676 17205 17249 I bt_shim_scanner: system/main/shim/le_scanning_manager.cc:187 ScanFilterParamSetup: in shim layer, clientIf=3
+01-13 06:26:53.676  2881  4169 D SHANNON_RCS: 7065 [0][PROX][TELE] onCapabilitiesChanged, Network: 377, NetworkCapabilities: [ Transports: WIFI Capabilities: NOT_METERED&INTERNET&NOT_RESTRICTED&TRUSTED&NOT_VPN&VALIDATED&NOT_ROAMING&FOREGROUND&NOT_CONGESTED&NOT_SUSPENDED&NOT_VCN_MANAGED&NOT_BANDWIDTH_CONSTRAINED LinkUpBandwidth>=35126Kbps LinkDnBandwidth>=46705Kbps TransportInfo: <SSID: <unknown ssid>, BSSID: 02:00:00:00:00:00, MAC: 02:00:00:00:00:00, IP: /10.9.20.100, Security type: 4, Supplicant state: COMPLETED, Wi-Fi standard: 11ax, RSSI: -55, Link speed: 272Mbps, Tx Link speed: 272Mbps, Max Supported Tx Link speed: 1200Mbps, Rx Link speed: 576Mbps, Max Supported Rx Link speed: 1200Mbps, Frequency: 5180MHz, Net ID: -1, Metered hint: false, score: 60, isUsable: true, CarrierMerged: false, SubscriptionId: -1, IsPrimary: -1, Trusted: true, Restricted: false, Ephemeral: false, OEM paid: false, OEM private: false, OSU AP: false, FQDN: <none>, Provider friendly name: <none>, Requesting package name: <none><none>MLO Information: , Is TID-To-Link negotiation supported by the AP: false, AP MLD Address: <none>, AP MLO Link Id: <none>, AP MLO Affiliated links: <none>, Vendor Data: <none>> SignalStrength: -55 UnderlyingNetworks: Null] (DefaultNetworkCallback%onCapabilitiesChanged:76)
+01-13 06:26:53.677  2656  2656 W SsPagerDots: Total number of pages invalid: 0. Assuming 1 page.
+01-13 06:26:53.677 17205 17249 I bt_shim_scanner: system/main/shim/le_scanning_manager.cc:243 ScanFilterEnable: in shim layer
+01-13 06:26:53.682  5211  6498 I Dck     : (REDACTED) disableDckSupport: %s
+01-13 06:26:53.682  5211  6498 I Dck     : [WirelessCapabilitiesFeatures] wccSysProp: 3 [CONTEXT service_id=289 ]
+01-13 06:26:53.682  9693  9693 D VRI[ComponentActivity]: visibilityChanged oldVisibility=true newVisibility=false
+01-13 06:26:53.682  5211  6498 I Dck     : [WirelessCapabilitiesFeatures] wccMendel: 3 [CONTEXT service_id=289 ]
+01-13 06:26:53.683  5211  6498 I Dck     : [WirelessCapabilitiesFeatures] deviceWccOverride: false [CONTEXT service_id=289 ]
+01-13 06:26:53.683  5211  6498 I Dck     : [WirelessCapabilitiesFeatures] replaceSupportedWccWithWccOverride: true [CONTEXT service_id=289 ]
+01-13 06:26:53.683  5211  6498 I Dck     : [WirelessCapabilitiesFeatures] wccOverride: not set [CONTEXT service_id=289 ]
+01-13 06:26:53.683  5211  6498 I Dck     : (REDACTED) [WirelessCapabilitiesFeatures] returned wcc: %s
+01-13 06:26:53.683  5211  6498 I Dck     : Dck module condition - isDckModuleEligible: true [CONTEXT service_id=289 ]
+01-13 06:26:53.683   956  1029 D AHal::UseCase: SetActiveTracks: update primary-playback active tracks(0)
+01-13 06:26:53.683   956  1029 I AHal::Waves::CustomAction: GetData: Custom Data: {2,0,1,0,}
+01-13 06:26:53.683   956  1029 D AHal::ThirdPartyEffectAmcs: UpdateAMCSData: update volume index[0] duration 202 ms.
+01-13 06:26:53.683   956  1029 I AHal::Waves: UpdateTuning: update amcs instance id = Speaker, active_ms_in_vol_range = {202,0,0,0,0,0,0,0,0,0}
+01-13 06:26:53.684 17205 17249 I bt_shim_scanner: system/main/shim/le_scanning_manager.cc:220 ScanFilterAdd: in shim layer
+01-13 06:26:53.684   956  1029 D AHal::Waves: UpdateTuning: update Device: speaker, InstanceId: 1, IsInitialize: true, NeedToUpdate: true, Parameters{is_bypass:false, MaxVolume: 0.0867845, ScreenOrientation: 0}, is_any_active_track_on_sink: false
+01-13 06:26:53.684   956  1029 I StHal::SoundTriggerHal: ProcessStreamMetadata: active usage tracks: 0
+01-13 06:26:53.684   956  1029 D BTAudioSessionAidl: UpdateSourceMetadata - SessionType=LE_AUDIO_HARDWARE_OFFLOAD_ENCODING_DATAPATH has NO session
+01-13 06:26:53.684   956  1029 D BTAudioSessionAidl: GetSupportedLatencyModes - SessionType=LE_AUDIO_HARDWARE_OFFLOAD_ENCODING_DATAPATH has NO session
+01-13 06:26:53.684   956  1029 D BTAudioSessionAidl: SetLatencyMode - SessionType=LE_AUDIO_HARDWARE_OFFLOAD_ENCODING_DATAPATH has NO session
+01-13 06:26:53.684   956  1029 D BTAudioSessionAidl: GetSupportedLatencyModes - SessionType=A2DP_HARDWARE_OFFLOAD_ENCODING_DATAPATH has NO session
+01-13 06:26:53.684   956  1029 D BTAudioSessionAidl: SetLatencyMode - SessionType=A2DP_HARDWARE_OFFLOAD_ENCODING_DATAPATH has NO session
+01-13 06:26:53.684  1584  2539 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:53.684  1584  2539 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:53.684  1584  2539 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:53.684  1584  2539 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:53.685  1584  2539 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:53.685  1584  2539 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:53.687  2656  2656 W SsPagerDots: Total number of pages invalid: 0. Assuming 1 page.
+01-13 06:26:53.687 17205 17249 I bt_shim_scanner: system/main/shim/le_scanning_manager.cc:187 ScanFilterParamSetup: in shim layer, clientIf=2
+01-13 06:26:53.687 17205 17249 I bt_shim_scanner: system/main/shim/le_scanning_manager.cc:220 ScanFilterAdd: in shim layer
+01-13 06:26:53.687 17205 17249 I bt_shim_scanner: system/main/shim/le_scanning_manager.cc:187 ScanFilterParamSetup: in shim layer, clientIf=2
+01-13 06:26:53.688 17205 17249 I bt_shim_scanner: system/main/shim/le_scanning_manager.cc:220 ScanFilterAdd: in shim layer
+01-13 06:26:53.688 17205 17249 I bt_shim_scanner: system/main/shim/le_scanning_manager.cc:187 ScanFilterParamSetup: in shim layer, clientIf=2
+01-13 06:26:53.689  9693  9715 D HWUI    : endAllActiveAnimators on 0xb4000076be57d660 (UnprojectedRipple) with handle 0xb4000077ce536400
+01-13 06:26:53.693 16920 16920 W JobService: onNetworkChanged() not implemented in androidx.work.impl.background.systemjob.SystemJobService. Must override in a subclass.
+01-13 06:26:53.693  1239  1239 D AOC     : A3:MSG: tmd3743_device.cc, 977: USF: TMD3743: C/G switch 4 -> 2 d_lux:0.42 w_lux: 0.56 C:0.01 G:0.00
+01-13 06:26:53.694  2656  2656 W SsPagerDots: Total number of pages invalid: 0. Assuming 1 page.
+01-13 06:26:53.696  5211  6658 I Dck     : Check and resume all keys that were suspended due to device lost if any [CONTEXT service_id=289 ]
+01-13 06:26:53.696  5211  6658 I Dck     : [DckEvents] Handling resume all keys that were suspended due to device lost [CONTEXT service_id=289 ]
+01-13 06:26:53.697 19252 19252 W JobService: onNetworkChanged() not implemented in androidx.work.impl.background.systemjob.SystemJobService. Must override in a subclass.
+01-13 06:26:53.700  9693  9693 D LifecycleMonitor: Lifecycle status change: androidx.activity.ComponentActivity@8dab7cc in: STOPPED
+01-13 06:26:53.700  9693  9693 V ActivityScenario: Update currentActivityStage to STOPPED, currentActivity=androidx.activity.ComponentActivity@8dab7cc
+01-13 06:26:53.702  2656  2656 W SsPagerDots: Total number of pages invalid: 0. Assuming 1 page.
+01-13 06:26:53.708  5211 10018 I PersonalSafety: ConnectivityProtectionLockingIntentOperation: cancelled task [CONTEXT service_id=310 ]
+01-13 06:26:53.709 10111 10297 I NullBinder: NullBinder for android.net.action.RECOMMEND_NETWORKS triggering remote TransactionTooLargeException due to Service without Chimera impl, calling uid: 1000, calling pid: 0
+01-13 06:26:53.709 10111 10297 W .gms.persistent: Large reply transaction of 1056768 bytes, interface descriptor , code 1
+01-13 06:26:53.710 10111 10472 I NearbyDiscovery: (REDACTED) ApFastPairScanner: Starting %s scan for %s seconds
+01-13 06:26:53.710 10111 10472 I NearbyDiscovery: FastPairController: onSystemStateChanged: skip due to flag disabled [CONTEXT service_id=265 ]
+01-13 06:26:53.710 17749 17749 D ImeBackDispatcher: switch root view (mImeCallbacks.size=0)
+01-13 06:26:53.712  2656  2656 W SsPagerDots: Total number of pages invalid: 0. Assuming 1 page.
+01-13 06:26:53.715 10111  9978 I NearbyMediums: Started BLE scanning, service-id=NearbySharing, is-extended-advert=true, power-level=2, scan-mode=3
+01-13 06:26:53.715   958   989 I bthal.activity: LogActivities: BALANCED ScanMode
+01-13 06:26:53.715  9693  9693 D LifecycleMonitor: Lifecycle status change: androidx.activity.ComponentActivity@8dab7cc in: DESTROYED
+01-13 06:26:53.715  9693  9693 V ActivityScenario: Update currentActivityStage to DESTROYED, currentActivity=null
+01-13 06:26:53.715  9693  9693 D ImeBackDispatcher: Clear (mImeCallbacks.size=0)
+01-13 06:26:53.715  9693  9693 D ImeBackDispatcher: switch root view (mImeCallbacks.size=0)
+01-13 06:26:53.715  9693  9693 D WindowOnBackDispatcher: setTopOnBackInvokedCallback (unwrapped): null
+01-13 06:26:53.716 10111  9978 I NearbyConnections: Listening to visibility changes for client 252322271
+01-13 06:26:53.717   958   989 I bthal.activity: LogActivities: Enable LE Scanning, 0x2042
+01-13 06:26:53.718   958  2291 I bthal.debug_central: Command Complete Event of LE_SET_EXTENDED_SCAN_ENABLE, opcode:2042
+01-13 06:26:53.718   958  2291 I bthal.flowcontrol: HciEventPreProcess: HCI Event 0xe Opcode 0x2042 Length 6 unhandled by LeSetExtentedScanEnableEvent
+01-13 06:26:53.718  1239  1239 D AOC     : A3:MSG: tmd3743_device.cc, 977: USF: TMD3743: C/G switch 2 -> 4 d_lux:0.16 w_lux: 0.54 C:0.01 G:0.00
+01-13 06:26:53.713  1584  2539 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:53.719   958   989 I bthal.activity: LogActivities: Disable LE Scanning, 0x2042
+01-13 06:26:53.719  1584  2539 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:53.719  2656  2656 W SsPagerDots: Total number of pages invalid: 0. Assuming 1 page.
+01-13 06:26:53.721  1584  2495 I ImeTracker: xyz.blueskyweb.app:1f3d456: onRequestHide at ORIGIN_SERVER reason HIDE_UNSPECIFIED_WINDOW fromUser false
+01-13 06:26:53.722  9693  9693 D ViewRootImpl: Skipping stats log for color mode
+01-13 06:26:53.725 17749 17749 D InsetsController: hide(ime())
+01-13 06:26:53.725 17749 17749 I ImeTracker: xyz.blueskyweb.app:1f3d456: onCancelled at PHASE_CLIENT_ALREADY_HIDDEN
+01-13 06:26:53.729   958  2291 I bthal.debug_central: Command Complete Event of LE_SET_EXTENDED_SCAN_ENABLE, opcode:2042
+01-13 06:26:53.729   958  2291 I bthal.flowcontrol: HciEventPreProcess: HCI Event 0xe Opcode 0x2042 Length 6 unhandled by LeSetExtentedScanEnableEvent
+01-13 06:26:53.730  2656  2656 W SsPagerDots: Total number of pages invalid: 0. Assuming 1 page.
+01-13 06:26:53.733 10111  9969 I NearbySharing: Failed to log test code 11, due to clearcutLogger is null.
+01-13 06:26:53.733  1584  2410 I ImeTracker: system_server:f27ac352: onRequestHide at ORIGIN_SERVER reason IME_REQUESTED_CHANGED_LISTENER fromUser false
+01-13 06:26:53.734   958   989 I bthal.activity: LogActivities: LOW_LATENCY ScanMode
+01-13 06:26:53.735   958   989 I bthal.activity: LogActivities: Enable LE Scanning, 0x2042
+01-13 06:26:53.736  2656  2656 W SsPagerDots: Total number of pages invalid: 0. Assuming 1 page.
+01-13 06:26:53.736  5211 10017 I Fido    : [FidoV2EnrollmentController] Execute registerFor API [CONTEXT service_id=287 ]
+01-13 06:26:53.738  9693  9693 D ImeBackDispatcher: Clear (mImeCallbacks.size=0)
+01-13 06:26:53.738  9693  9693 D ImeBackDispatcher: switch root view (mImeCallbacks.size=0)
+01-13 06:26:53.738 10111  9476 I NearbySharing: Dismissing HUN as there's no device nearby.
+01-13 06:26:53.739  1584  2869 I ImeTracker: system_server:71fe3cf6: onRequestHide at ORIGIN_SERVER reason IME_REQUESTED_CHANGED_LISTENER fromUser false
+01-13 06:26:53.739  1197  2479 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:53.739  1197  2479 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:53.739  1197  2479 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:53.739  1197  2479 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:53.739  1197  2479 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:53.739   958  2291 I bthal.debug_central: Command Complete Event of LE_SET_EXTENDED_SCAN_ENABLE, opcode:2042
+01-13 06:26:53.739   958  2291 I bthal.flowcontrol: HciEventPreProcess: HCI Event 0xe Opcode 0x2042 Length 6 unhandled by LeSetExtentedScanEnableEvent
+01-13 06:26:53.743  9693  9709 D IdlingRegistry: Unregistering idling resources: [androidx.compose.ui.test.EspressoLink@ceca988]
+01-13 06:26:53.747  1584  1677 I ImeTracker: system_server:f27ac352: onCancelled at PHASE_SERVER_SHOULD_HIDE
+01-13 06:26:53.748  1584  1677 I ImeTracker: system_server:71fe3cf6: onCancelled at PHASE_SERVER_SHOULD_HIDE
+01-13 06:26:53.748  9693  9709 I TestRunner: finished: settingsButton_clickAction_triggersCallback(com.betterclock.ui.AlarmListScreenTest)

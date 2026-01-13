@@ -1,0 +1,2 @@
+01-13 06:26:14.683  9693  9709 I TestRunner: started: insertAndRetrieveAlarm(com.betterclock.data.AlarmDaoTest)
+01-13 06:26:14.702  9693  9709 I TestRunner: finished: insertAndRetrieveAlarm(com.betterclock.data.AlarmDaoTest)

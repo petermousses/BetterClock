@@ -1,0 +1,147 @@
+01-13 06:27:21.155  9693  9709 I TestRunner: started: settingsScreen_displaysSnoozeSlider(com.betterclock.ui.SettingsScreenTest)
+01-13 06:27:21.157  9693  9709 D IdlingRegistry: Registering idling resources: [androidx.compose.ui.test.EspressoLink@24efd8]
+01-13 06:27:21.158  9693  9709 W Settings: Setting always_finish_activities has moved from android.provider.Settings.System to android.provider.Settings.Global, returning read-only value.
+01-13 06:27:21.162  1039  2619 I WifiHAL : Creating message to get link statistics; iface = 47
+01-13 06:27:21.163  1584  4788 V GrammaticalInflectionUtils: AttributionSource: android.content.AttributionSource@428f98d6 does not have READ_SYSTEM_GRAMMATICAL_GENDER permission.
+01-13 06:27:21.169   547   950 I libbinder.BpBinder: onLastStrongRef automatically unlinking death recipients:
+01-13 06:27:21.175  9693  9693 D LifecycleMonitor: Lifecycle status change: androidx.activity.ComponentActivity@9c9e352 in: PRE_ON_CREATE
+01-13 06:27:21.175  9693  9693 V ActivityScenario: Activity lifecycle changed event received but ignored because the reported transition was not ON_CREATE while the last known transition was PRE_ON_CREATE
+01-13 06:27:21.175  2656  2727 D WindowOnBackDispatcher: setTopOnBackInvokedCallback (unwrapped): android.view.ViewRootImpl$$ExternalSyntheticLambda12@8787d53
+01-13 06:27:21.179  9693  9693 D LifecycleMonitor: Lifecycle status change: androidx.activity.ComponentActivity@9c9e352 in: CREATED
+01-13 06:27:21.179  9693  9693 V ActivityScenario: Update currentActivityStage to CREATED, currentActivity=androidx.activity.ComponentActivity@9c9e352
+01-13 06:27:21.180  9693  9693 D LifecycleMonitor: Lifecycle status change: androidx.activity.ComponentActivity@9c9e352 in: STARTED
+01-13 06:27:21.180  9693  9693 V ActivityScenario: Update currentActivityStage to STARTED, currentActivity=androidx.activity.ComponentActivity@9c9e352
+01-13 06:27:21.180  9693  9693 D LifecycleMonitor: Lifecycle status change: androidx.activity.ComponentActivity@9c9e352 in: RESUMED
+01-13 06:27:21.180  9693  9693 V ActivityScenario: Update currentActivityStage to RESUMED, currentActivity=androidx.activity.ComponentActivity@9c9e352
+01-13 06:27:21.186  9693  9693 D WindowOnBackDispatcher: setTopOnBackInvokedCallback (unwrapped): android.view.ViewRootImpl$$ExternalSyntheticLambda12@a291850
+01-13 06:27:21.196  1239  1239 D AOC     : A3:MSG: tmd3743_device.cc, 977: USF: TMD3743: C/G switch 2 -> 4 d_lux:0.36 w_lux: 0.58 C:0.01 G:0.00
+01-13 06:27:21.204  9739  9739 D VRI[InstrumentationActivityInvoker$EmptyActivity]: visibilityChanged oldVisibility=true newVisibility=false
+01-13 06:27:21.213  1584  1674 I ActivityTaskManager: Displayed com.betterclock/androidx.activity.ComponentActivity for user 0: +51ms
+01-13 06:27:21.243  9693  9693 D ImeBackDispatcher: switch root view (mImeCallbacks.size=0)
+01-13 06:27:21.244  1584  2495 I ImeTracker: com.betterclock:866c1c8: onRequestHide at ORIGIN_SERVER reason HIDE_UNSPECIFIED_WINDOW fromUser false
+01-13 06:27:21.245  9693  9693 D InsetsController: hide(ime())
+01-13 06:27:21.245  9693  9693 I ImeTracker: com.betterclock:866c1c8: onCancelled at PHASE_CLIENT_ALREADY_HIDDEN
+01-13 06:27:21.245 17749 17749 D ImeBackDispatcher: Clear (mImeCallbacks.size=0)
+01-13 06:27:21.246 17749 17749 D ImeBackDispatcher: switch root view (mImeCallbacks.size=0)
+01-13 06:27:21.247  1584  4788 I ImeTracker: system_server:947d624d: onRequestHide at ORIGIN_SERVER reason IME_REQUESTED_CHANGED_LISTENER fromUser false
+01-13 06:27:21.247  1584  1677 I ImeTracker: system_server:947d624d: onCancelled at PHASE_SERVER_SHOULD_HIDE
+01-13 06:27:21.247  1039  2619 I WifiHAL : index: 0 per_rate_size 32, data_rem_len 1152
+01-13 06:27:21.247  1039  2619 I WifiHAL : index: 1 per_rate_size 32, data_rem_len 1120
+01-13 06:27:21.247  1039  2619 I WifiHAL : index: 2 per_rate_size 32, data_rem_len 1088
+01-13 06:27:21.247  1039  2619 I WifiHAL : index: 3 per_rate_size 32, data_rem_len 1056
+01-13 06:27:21.247  1039  2619 I WifiHAL : index: 4 per_rate_size 32, data_rem_len 1024
+01-13 06:27:21.247  1039  2619 I WifiHAL : index: 5 per_rate_size 32, data_rem_len 992
+01-13 06:27:21.248  1039  2619 I WifiHAL : index: 6 per_rate_size 32, data_rem_len 960
+01-13 06:27:21.248  1039  2619 I WifiHAL : index: 7 per_rate_size 32, data_rem_len 928
+01-13 06:27:21.248  1039  2619 I WifiHAL : index: 8 per_rate_size 32, data_rem_len 896
+01-13 06:27:21.248  1039  2619 I WifiHAL : index: 9 per_rate_size 32, data_rem_len 864
+01-13 06:27:21.248  1039  2619 I WifiHAL : index: 10 per_rate_size 32, data_rem_len 832
+01-13 06:27:21.248  1039  2619 I WifiHAL : index: 11 per_rate_size 32, data_rem_len 800
+01-13 06:27:21.248  1039  2619 I WifiHAL : index: 12 per_rate_size 32, data_rem_len 768
+01-13 06:27:21.248  1039  2619 I WifiHAL : index: 13 per_rate_size 32, data_rem_len 736
+01-13 06:27:21.248  1039  2619 I WifiHAL : index: 14 per_rate_size 32, data_rem_len 704
+01-13 06:27:21.248  1039  2619 I WifiHAL : index: 15 per_rate_size 32, data_rem_len 672
+01-13 06:27:21.248  1039  2619 I WifiHAL : index: 16 per_rate_size 32, data_rem_len 640
+01-13 06:27:21.248  1039  2619 I WifiHAL : index: 17 per_rate_size 32, data_rem_len 608
+01-13 06:27:21.248  1039  2619 I WifiHAL : index: 18 per_rate_size 32, data_rem_len 576
+01-13 06:27:21.248  1039  2619 I WifiHAL : index: 19 per_rate_size 32, data_rem_len 544
+01-13 06:27:21.248  1039  2619 I WifiHAL : index: 20 per_rate_size 32, data_rem_len 512
+01-13 06:27:21.248  1039  2619 I WifiHAL : index: 21 per_rate_size 32, data_rem_len 480
+01-13 06:27:21.248  1039  2619 I WifiHAL : index: 22 per_rate_size 32, data_rem_len 448
+01-13 06:27:21.248  1039  2619 I WifiHAL : index: 23 per_rate_size 32, data_rem_len 416
+01-13 06:27:21.248  1039  2619 I WifiHAL : index: 24 per_rate_size 32, data_rem_len 384
+01-13 06:27:21.248  1039  2619 I WifiHAL : index: 25 per_rate_size 32, data_rem_len 352
+01-13 06:27:21.248  1039  2619 I WifiHAL : index: 26 per_rate_size 32, data_rem_len 320
+01-13 06:27:21.248  1039  2619 I WifiHAL : index: 27 per_rate_size 32, data_rem_len 288
+01-13 06:27:21.248  1039  2619 I WifiHAL : index: 28 per_rate_size 32, data_rem_len 256
+01-13 06:27:21.248  1039  2619 I WifiHAL : index: 29 per_rate_size 32, data_rem_len 224
+01-13 06:27:21.248  1039  2619 I WifiHAL : index: 30 per_rate_size 32, data_rem_len 192
+01-13 06:27:21.248  1039  2619 I WifiHAL : index: 31 per_rate_size 32, data_rem_len 160
+01-13 06:27:21.248  1039  2619 I WifiHAL : index: 32 per_rate_size 32, data_rem_len 128
+01-13 06:27:21.248  1039  2619 I WifiHAL : index: 33 per_rate_size 32, data_rem_len 96
+01-13 06:27:21.248  1039  2619 I WifiHAL : index: 34 per_rate_size 32, data_rem_len 64
+01-13 06:27:21.248  1039  2619 I WifiHAL : index: 35 per_rate_size 32, data_rem_len 32
+01-13 06:27:21.248  9739  9739 D WindowOnBackDispatcher: setTopOnBackInvokedCallback (unwrapped): null
+01-13 06:27:21.248  1039  2619 I WifiHAL : Getting cached scan results, iface handle = 0xb4000076d792e490
+01-13 06:27:21.248  1039  2619 E WifiHAL : Creating message to get cached scan results
+01-13 06:27:21.249  9739  9739 D ViewRootImpl: Skipping stats log for color mode
+01-13 06:27:21.252  1039  2619 I WifiHAL : In GetCachedScanResultsCommand::handleResponse
+01-13 06:27:21.252  1239  1239 D AOC     : A3:MSG: tmd3743_device.cc, 977: USF: TMD3743: C/G switch 4 -> 2 d_lux:0.53 w_lux: 0.61 C:0.01 G:0.00
+01-13 06:27:21.262 16650 16650 D RecentsView: onTaskRemoved: 10138, not handling task stack changes
+01-13 06:27:21.262 16650 16650 D RecentsView: onTaskRemoved: 10138, not handling task stack changes
+01-13 06:27:21.276  1584  2539 D ConnectivityService: NetReassign [no changes] [c 1] [a 1] [i 4]
+01-13 06:27:21.290  1239  1239 D AOC     : A3:MSG: tmd3743_device.cc, 977: USF: TMD3743: C/G switch 2 -> 3 d_lux:0.35 w_lux: 0.59 C:0.01 G:0.00
+01-13 06:27:21.308  1239  1239 D AOC     : A3:MSG: tmd3743_device.cc, 977: USF: TMD3743: C/G switch 3 -> 2 d_lux:0.47 w_lux: 0.61 C:0.01 G:0.00
+01-13 06:27:21.327  1239  1239 D AOC     : A3:MSG: tmd3743_device.cc, 977: USF: TMD3743: C/G switch 2 -> 3 d_lux:0.37 w_lux: 0.58 C:0.01 G:0.00
+01-13 06:27:21.346  1239  1239 D AOC     : A3:MSG: tmd3743_device.cc, 977: USF: TMD3743: C/G switch 3 -> 4 d_lux:0.38 w_lux: 0.65 C:0.01 G:0.00
+01-13 06:27:21.365  1239  1239 D AOC     : A3:MSG: tmd3743_device.cc, 977: USF: TMD3743: C/G switch 4 -> 2 d_lux:0.57 w_lux: 0.82 C:0.02 G:0.00
+01-13 06:27:21.383  1239  1239 D AOC     : A3:MSG: tmd3743_device.cc, 977: USF: TMD3743: C/G switch 2 -> 3 d_lux:0.47 w_lux: 0.75 C:0.02 G:0.00
+01-13 06:27:21.402  1239  1239 D AOC     : A3:MSG: tmd3743_device.cc, 977: USF: TMD3743: C/G switch 3 -> 2 d_lux:0.53 w_lux: 0.61 C:0.01 G:0.00
+01-13 06:27:21.406  1197  2479 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:27:21.406  1197  2479 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:27:21.406  1197  2479 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:27:21.407  1197  2479 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:27:21.407  1197  2479 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:27:21.408  2656  2727 D WindowOnBackDispatcher: setTopOnBackInvokedCallback (unwrapped): null
+01-13 06:27:21.420  1239  1239 D AOC     : A3:MSG: tmd3743_device.cc, 977: USF: TMD3743: C/G switch 2 -> 4 d_lux:0.13 w_lux: 0.61 C:0.01 G:0.00
+01-13 06:27:21.476  1239  1239 D AOC     : A3:MSG: tmd3743_device.cc, 977: USF: TMD3743: C/G switch 4 -> 3 d_lux:0.42 w_lux: 0.67 C:0.02 G:0.00
+01-13 06:27:21.495  1239  1239 D AOC     : A3:MSG: tmd3743_device.cc, 977: USF: TMD3743: C/G switch 3 -> 4 d_lux:0.36 w_lux: 0.67 C:0.01 G:0.00
+01-13 06:27:21.514  1239  1239 D AOC     : A3:MSG: tmd3743_device.cc, 977: USF: TMD3743: C/G switch 4 -> 2 d_lux:0.43 w_lux: 0.67 C:0.02 G:0.00
+01-13 06:27:21.518  2656  2727 D WindowOnBackDispatcher: setTopOnBackInvokedCallback (unwrapped): null
+01-13 06:27:21.523  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:27:21.533  1239  1239 D AOC     : A3:MSG: tmd3743_device.cc, 977: USF: TMD3743: C/G switch 2 -> 4 d_lux:0.26 w_lux: 0.59 C:0.02 G:0.00
+01-13 06:27:21.588  1239  1239 D AOC     : A3:MSG: tmd3743_device.cc, 977: USF: TMD3743: C/G switch 4 -> 2 d_lux:0.56 w_lux: 0.67 C:0.02 G:0.00
+01-13 06:27:21.645  1239  1239 D AOC     : A3:MSG: tmd3743_device.cc, 977: USF: TMD3743: C/G switch 2 -> 4 d_lux:0.38 w_lux: 0.63 C:0.02 G:0.00
+01-13 06:27:21.663  1239  1239 D AOC     : A3:MSG: tmd3743_device.cc, 977: USF: TMD3743: C/G switch 4 -> 2 d_lux:0.53 w_lux: 0.68 C:0.02 G:0.00
+01-13 06:27:21.682  1239  1239 D AOC     : A3:MSG: tmd3743_device.cc, 977: USF: TMD3743: C/G switch 2 -> 4 d_lux:0.24 w_lux: 0.67 C:0.02 G:0.00
+01-13 06:27:21.700  1239  1239 D AOC     : A3:MSG: tmd3743_device.cc, 977: USF: TMD3743: C/G switch 4 -> 2 d_lux:0.59 w_lux: 0.65 C:0.02 G:0.00
+01-13 06:27:21.729 17749 17749 D VRI[MainActivity]: visibilityChanged oldVisibility=true newVisibility=false
+01-13 06:27:21.749 17749 17819 I ReactNativeJNI: Memory warning (pressure level: TRIM_MEMORY_UI_HIDDEN) received by JS VM, ignoring because it's non-severe
+01-13 06:27:21.779  1239  1239 D AOC     : A3:MSG: tmd3743_device.cc, 977: USF: TMD3743: C/G switch 2 -> 4 d_lux:0.40 w_lux: 0.76 C:0.02 G:0.00
+01-13 06:27:21.780  1239  1239 D AOC     : A3:MSG: tmd3743_device.cc, 977: USF: TMD3743: C/G switch 4 -> 2 d_lux:0.57 w_lux: 0.67 C:0.02 G:0.00
+01-13 06:27:21.795  1239  1239 D AOC     : A3:MSG: tmd3743_device.cc, 977: USF: TMD3743: C/G switch 2 -> 4 d_lux:0.22 w_lux: 0.67 C:0.02 G:0.00
+01-13 06:27:21.812  1239  1239 D AOC     : A3:MSG: tmd3743_device.cc, 977: USF: TMD3743: C/G switch 4 -> 2 d_lux:0.54 w_lux: 0.72 C:0.02 G:0.00
+01-13 06:27:21.831  1239  1239 D AOC     : A3:MSG: tmd3743_device.cc, 977: USF: TMD3743: C/G switch 2 -> 4 d_lux:0.34 w_lux: 0.67 C:0.02 G:0.00
+01-13 06:27:21.850  1239  1239 D AOC     : A3:MSG: tmd3743_device.cc, 977: USF: TMD3743: C/G switch 4 -> 2 d_lux:0.58 w_lux: 0.70 C:0.02 G:0.00
+01-13 06:27:21.868  1239  1239 D AOC     : A3:MSG: tmd3743_device.cc, 977: USF: TMD3743: C/G switch 2 -> 4 d_lux:0.47 w_lux: 0.65 C:0.02 G:0.00
+01-13 06:27:21.908  1584  5737 V GrammaticalInflectionUtils: AttributionSource: android.content.AttributionSource@44447175 does not have READ_SYSTEM_GRAMMATICAL_GENDER permission.
+01-13 06:27:21.912   547  3128 I libbinder.BpBinder: onLastStrongRef automatically unlinking death recipients:
+01-13 06:27:21.915  1197  2479 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:27:21.915  1197  2479 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:27:21.915  1197  2479 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:27:21.915  1197  2479 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:27:21.915  1197  2479 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:27:21.916  9693  9693 D LifecycleMonitor: Lifecycle status change: androidx.activity.ComponentActivity@9c9e352 in: PAUSED
+01-13 06:27:21.916  9693  9693 V ActivityScenario: Update currentActivityStage to PAUSED, currentActivity=androidx.activity.ComponentActivity@9c9e352
+01-13 06:27:21.920   656   656 W powerhal-libperfmgr: Sess(23958), cannot resume, already active
+01-13 06:27:21.920   656   656 W powerhal-libperfmgr: Sess(23962), cannot resume, already active
+01-13 06:27:21.923  2656  2727 D WindowOnBackDispatcher: setTopOnBackInvokedCallback (unwrapped): android.view.ViewRootImpl$$ExternalSyntheticLambda12@9fcaf87
+01-13 06:27:21.932  9739  9739 D WindowOnBackDispatcher: setTopOnBackInvokedCallback (unwrapped): android.view.ViewRootImpl$$ExternalSyntheticLambda12@380d842
+01-13 06:27:21.950  1584  1674 I ActivityTaskManager: Displayed com.betterclock.test/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity for user 0: +42ms
+01-13 06:27:21.953 17749 17749 D ViewRootImpl: Skipping stats log for color mode
+01-13 06:27:21.956   547   950 I libbinder.BpBinder: onLastStrongRef automatically unlinking death recipients:
+01-13 06:27:21.959  1239  1239 D AOC     : A3:MSG: controller.cc, 933: SysMem: ipc: C-F1-Ar, cmd ID: 0x00c8, tag: 0xd0, rc: 0
+01-13 06:27:21.959  1239  1239 D AOC     : A3:MSG: controller.cc, 933: SysMem: ipc: C-F1-Ar, cmd ID: 0x00c8, tag: 0xd1, rc: 0
+01-13 06:27:21.961   656   656 W powerhal-libperfmgr: Sess(23756), cannot resume, already active
+01-13 06:27:21.998  9693  9693 D VRI[ComponentActivity]: visibilityChanged oldVisibility=true newVisibility=false
+01-13 06:27:21.999  1239  1239 D AOC     : A3:MSG: tmd3743_device.cc, 977: USF: TMD3743: C/G switch 4 -> 3 d_lux:0.42 w_lux: 0.74 C:0.02 G:0.00
+01-13 06:27:22.011  9693  9693 D LifecycleMonitor: Lifecycle status change: androidx.activity.ComponentActivity@9c9e352 in: STOPPED
+01-13 06:27:22.011  9693  9693 V ActivityScenario: Update currentActivityStage to STOPPED, currentActivity=androidx.activity.ComponentActivity@9c9e352
+01-13 06:27:22.016 17749 17749 D ImeBackDispatcher: switch root view (mImeCallbacks.size=0)
+01-13 06:27:22.018  1584  2495 I ImeTracker: xyz.blueskyweb.app:c14b7221: onRequestHide at ORIGIN_SERVER reason HIDE_UNSPECIFIED_WINDOW fromUser false
+01-13 06:27:22.018 17749 17749 D InsetsController: hide(ime())
+01-13 06:27:22.018 17749 17749 I ImeTracker: xyz.blueskyweb.app:c14b7221: onCancelled at PHASE_CLIENT_ALREADY_HIDDEN
+01-13 06:27:22.021  1584  4173 I ImeTracker: system_server:ad1c2f8e: onRequestHide at ORIGIN_SERVER reason IME_REQUESTED_CHANGED_LISTENER fromUser false
+01-13 06:27:22.022  1584  1677 I ImeTracker: system_server:ad1c2f8e: onCancelled at PHASE_SERVER_SHOULD_HIDE
+01-13 06:27:22.023  9693  9693 D LifecycleMonitor: Lifecycle status change: androidx.activity.ComponentActivity@9c9e352 in: DESTROYED
+01-13 06:27:22.023  9693  9693 V ActivityScenario: Update currentActivityStage to DESTROYED, currentActivity=null
+01-13 06:27:22.023  9693  9693 D ImeBackDispatcher: Clear (mImeCallbacks.size=0)
+01-13 06:27:22.023  9693  9693 D ImeBackDispatcher: switch root view (mImeCallbacks.size=0)
+01-13 06:27:22.023  9693  9693 D WindowOnBackDispatcher: setTopOnBackInvokedCallback (unwrapped): null
+01-13 06:27:22.025  9693  9693 D ViewRootImpl: Skipping stats log for color mode
+01-13 06:27:22.027  9693  9693 D ImeBackDispatcher: Clear (mImeCallbacks.size=0)
+01-13 06:27:22.027  9693  9693 D ImeBackDispatcher: switch root view (mImeCallbacks.size=0)
+01-13 06:27:22.032  9693  9709 D IdlingRegistry: Unregistering idling resources: [androidx.compose.ui.test.EspressoLink@24efd8]
+01-13 06:27:22.032 16650 16650 D RecentsView: onTaskRemoved: 10139, not handling task stack changes
+01-13 06:27:22.032 16650 16650 D RecentsView: onTaskRemoved: 10139, not handling task stack changes
+01-13 06:27:22.033  9693  9709 I TestRunner: finished: settingsScreen_displaysSnoozeSlider(com.betterclock.ui.SettingsScreenTest)

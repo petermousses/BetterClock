@@ -1,0 +1,243 @@
+INFO: Constructing runner from config.
+INFO: Configuring Android Instrumentation driver: android_instrumentation_runtime {
+  instrumentation_info {
+    app_package: "com.betterclock"
+    test_package: "com.betterclock.test"
+    test_runner_class: "androidx.test.runner.AndroidJUnitRunner"
+  }
+  instrumentation_args {
+    args_map {
+      key: "additionalTestOutputDir"
+      value: "/sdcard/Android/media/com.betterclock/additional_test_output"
+    }
+    args_map {
+      key: "coverage"
+      value: "true"
+    }
+    args_map {
+      key: "coverageFile"
+      value: "/data/data/com.betterclock/coverage.ec"
+    }
+  }
+}
+am_instrument_timeout: 31536000
+
+INFO: Configuring AndroidTestApkInstallerPlugin: apks_to_install {
+  apk_paths: "/Users/petermousses/Local/Github/BetterClock/app/build/outputs/apk/debug/app-debug.apk"
+  install_options {
+  }
+  uninstall_after_test: true
+}
+apks_to_install {
+  apk_paths: "/Users/petermousses/Local/Github/BetterClock/app/build/outputs/apk/androidTest/debug/app-debug-androidTest.apk"
+  install_options {
+  }
+  uninstall_after_test: true
+}
+
+INFO: No installables found in test fixture. Nothing to install.
+INFO: Installing [/Users/petermousses/Local/Github/BetterClock/app/build/outputs/apk/debug/app-debug.apk] on device 57060DLCH000PK.
+INFO: Installing [/Users/petermousses/Local/Github/BetterClock/app/build/outputs/apk/androidTest/debug/app-debug-androidTest.apk] on device 57060DLCH000PK.
+INFO: Start logcat streaming.
+INFO: Running Android Instrumentation driver.
+INFO: Copying files from device to host: /sdcard/Android/media/com.betterclock/additional_test_output to /Users/petermousses/Local/Github/BetterClock/app/build/outputs/connected_android_test_additional_output/debugAndroidTest/connected/Pixel 10 Pro - 16
+INFO: Stop logcat streaming.
+INFO: Uninstalling com.betterclock for device 57060DLCH000PK.
+INFO: Uninstalling com.betterclock.test for device 57060DLCH000PK.
+INFO: Execute com.betterclock.data.AlarmDaoTest.getEnabledAlarms_onlyReturnsEnabled: PASSED
+INFO: Execute com.betterclock.data.AlarmDaoTest.insertAndRetrieveAlarm: PASSED
+INFO: Execute com.betterclock.data.AlarmDaoTest.deleteAlarm: PASSED
+INFO: Execute com.betterclock.data.AlarmDaoTest.alarmWithRepeatDays_persistsCorrectly: PASSED
+INFO: Execute com.betterclock.data.AlarmDaoTest.alarmWithChallengeSettings_persistsCorrectly: PASSED
+INFO: Execute com.betterclock.data.AlarmDaoTest.getAlarmCount_returnsCorrectCount: PASSED
+INFO: Execute com.betterclock.data.AlarmDaoTest.updateAlarm: PASSED
+INFO: Execute com.betterclock.data.AlarmDaoTest.updateSnoozeCount_updatesCorrectly: PASSED
+INFO: Execute com.betterclock.data.AlarmDaoTest.deleteAlarmById: PASSED
+INFO: Execute com.betterclock.data.AlarmDaoTest.getEnabledAlarmCount_returnsCorrectCount: PASSED
+INFO: Execute com.betterclock.data.AlarmDaoTest.updateTriggerTime_updatesCorrectly: PASSED
+INFO: Execute com.betterclock.data.AlarmDaoTest.setAlarmEnabled_updatesStatus: PASSED
+INFO: Execute com.betterclock.data.AlarmDaoTest.getAllAlarms_returnsSortedByTime: PASSED
+SEVERE: Execute com.betterclock.ui.AlarmListScreenTest.alarmToggle_triggersCallback: FAILED
+java.lang.IllegalStateException: java.lang.IllegalStateException: No compose hierarchies found in the app. Possible reasons include: (1) the Activity that calls setContent did not launch; (2) setContent was not called; (3) setContent was called before the ComposeTestRule ran. If setContent is called by the Activity, make sure the Activity is launched after the ComposeTestRule runs
+at androidx.compose.ui.test.TestContext.getAllSemanticsNodes$ui_test_release(TestOwner.kt:87)
+at androidx.compose.ui.test.SemanticsNodeInteraction.fetchSemanticsNodes$ui_test_release(SemanticsNodeInteraction.kt:63)
+at androidx.compose.ui.test.SemanticsNodeInteraction.fetchOneOrThrow(SemanticsNodeInteraction.kt:157)
+at androidx.compose.ui.test.SemanticsNodeInteraction.fetchOneOrThrow$default(SemanticsNodeInteraction.kt:150)
+at androidx.compose.ui.test.SemanticsNodeInteraction.fetchSemanticsNode(SemanticsNodeInteraction.kt:84)
+at androidx.compose.ui.test.ActionsKt.performTouchInput(Actions.kt:394)
+at androidx.compose.ui.test.Actions_androidKt.performClickImpl(Actions.android.kt:20)
+at androidx.compose.ui.test.ActionsKt.performClick(Actions.kt:54)
+at com.betterclock.ui.AlarmListScreenTest.alarmToggle_triggersCallback(AlarmListScreenTest.kt:243)
+
+java.lang.IllegalStateException: No compose hierarchies found in the app. Possible reasons include: (1) the Activity that calls setContent did not launch; (2) setContent was not called; (3) setContent was called before the ComposeTestRule ran. If setContent is called by the Activity, make sure the Activity is launched after the ComposeTestRule runs
+at androidx.compose.ui.test.TestContext.getAllSemanticsNodes$ui_test_release(TestOwner.kt:87)
+at androidx.compose.ui.test.SemanticsNodeInteraction.fetchSemanticsNodes$ui_test_release(SemanticsNodeInteraction.kt:63)
+at androidx.compose.ui.test.SemanticsNodeInteraction.fetchOneOrThrow(SemanticsNodeInteraction.kt:157)
+at androidx.compose.ui.test.SemanticsNodeInteraction.fetchOneOrThrow$default(SemanticsNodeInteraction.kt:150)
+at androidx.compose.ui.test.SemanticsNodeInteraction.fetchSemanticsNode(SemanticsNodeInteraction.kt:84)
+at androidx.compose.ui.test.ActionsKt.performTouchInput(Actions.kt:394)
+at androidx.compose.ui.test.Actions_androidKt.performClickImpl(Actions.android.kt:20)
+at androidx.compose.ui.test.ActionsKt.performClick(Actions.kt:54)
+at com.betterclock.ui.AlarmListScreenTest.alarmToggle_triggersCallback(AlarmListScreenTest.kt:243)
+SEVERE: Execute com.betterclock.ui.AlarmListScreenTest.alarmCard_displaysRepeatInfo: FAILED
+java.lang.IllegalStateException: java.lang.IllegalStateException: No compose hierarchies found in the app. Possible reasons include: (1) the Activity that calls setContent did not launch; (2) setContent was not called; (3) setContent was called before the ComposeTestRule ran. If setContent is called by the Activity, make sure the Activity is launched after the ComposeTestRule runs
+at androidx.compose.ui.test.TestContext.getAllSemanticsNodes$ui_test_release(TestOwner.kt:87)
+at androidx.compose.ui.test.SemanticsNodeInteraction.fetchSemanticsNodes$ui_test_release(SemanticsNodeInteraction.kt:63)
+at androidx.compose.ui.test.SemanticsNodeInteraction.fetchSemanticsNodes$ui_test_release$default(SemanticsNodeInteraction.kt:56)
+at androidx.compose.ui.test.AndroidAssertions_androidKt.checkIsDisplayed(AndroidAssertions.android.kt:29)
+at androidx.compose.ui.test.AssertionsKt.isDisplayed(Assertions.kt:359)
+at androidx.compose.ui.test.AssertionsKt.assertIsDisplayed(Assertions.kt:33)
+at com.betterclock.ui.AlarmListScreenTest.alarmCard_displaysRepeatInfo(AlarmListScreenTest.kt:154)
+
+java.lang.IllegalStateException: No compose hierarchies found in the app. Possible reasons include: (1) the Activity that calls setContent did not launch; (2) setContent was not called; (3) setContent was called before the ComposeTestRule ran. If setContent is called by the Activity, make sure the Activity is launched after the ComposeTestRule runs
+at androidx.compose.ui.test.TestContext.getAllSemanticsNodes$ui_test_release(TestOwner.kt:87)
+at androidx.compose.ui.test.SemanticsNodeInteraction.fetchSemanticsNodes$ui_test_release(SemanticsNodeInteraction.kt:63)
+at androidx.compose.ui.test.SemanticsNodeInteraction.fetchSemanticsNodes$ui_test_release$default(SemanticsNodeInteraction.kt:56)
+at androidx.compose.ui.test.AndroidAssertions_androidKt.checkIsDisplayed(AndroidAssertions.android.kt:29)
+at androidx.compose.ui.test.AssertionsKt.isDisplayed(Assertions.kt:359)
+at androidx.compose.ui.test.AssertionsKt.assertIsDisplayed(Assertions.kt:33)
+at com.betterclock.ui.AlarmListScreenTest.alarmCard_displaysRepeatInfo(AlarmListScreenTest.kt:154)
+SEVERE: Execute com.betterclock.ui.AlarmListScreenTest.alarmAt_noon_displaysCorrectly: FAILED
+java.lang.IllegalStateException: java.lang.IllegalStateException: No compose hierarchies found in the app. Possible reasons include: (1) the Activity that calls setContent did not launch; (2) setContent was not called; (3) setContent was called before the ComposeTestRule ran. If setContent is called by the Activity, make sure the Activity is launched after the ComposeTestRule runs
+at androidx.compose.ui.test.TestContext.getAllSemanticsNodes$ui_test_release(TestOwner.kt:87)
+at androidx.compose.ui.test.SemanticsNodeInteraction.fetchSemanticsNodes$ui_test_release(SemanticsNodeInteraction.kt:63)
+at androidx.compose.ui.test.SemanticsNodeInteraction.fetchSemanticsNodes$ui_test_release$default(SemanticsNodeInteraction.kt:56)
+at androidx.compose.ui.test.AndroidAssertions_androidKt.checkIsDisplayed(AndroidAssertions.android.kt:29)
+at androidx.compose.ui.test.AssertionsKt.isDisplayed(Assertions.kt:359)
+at androidx.compose.ui.test.AssertionsKt.assertIsDisplayed(Assertions.kt:33)
+at com.betterclock.ui.AlarmListScreenTest.alarmAt_noon_displaysCorrectly(AlarmListScreenTest.kt:409)
+
+java.lang.IllegalStateException: No compose hierarchies found in the app. Possible reasons include: (1) the Activity that calls setContent did not launch; (2) setContent was not called; (3) setContent was called before the ComposeTestRule ran. If setContent is called by the Activity, make sure the Activity is launched after the ComposeTestRule runs
+at androidx.compose.ui.test.TestContext.getAllSemanticsNodes$ui_test_release(TestOwner.kt:87)
+at androidx.compose.ui.test.SemanticsNodeInteraction.fetchSemanticsNodes$ui_test_release(SemanticsNodeInteraction.kt:63)
+at androidx.compose.ui.test.SemanticsNodeInteraction.fetchSemanticsNodes$ui_test_release$default(SemanticsNodeInteraction.kt:56)
+at androidx.compose.ui.test.AndroidAssertions_androidKt.checkIsDisplayed(AndroidAssertions.android.kt:29)
+at androidx.compose.ui.test.AssertionsKt.isDisplayed(Assertions.kt:359)
+at androidx.compose.ui.test.AssertionsKt.assertIsDisplayed(Assertions.kt:33)
+at com.betterclock.ui.AlarmListScreenTest.alarmAt_noon_displaysCorrectly(AlarmListScreenTest.kt:409)
+SEVERE: Execute com.betterclock.ui.AlarmListScreenTest.alarmSwitch_isAccessible: FAILED
+java.lang.IllegalStateException: java.lang.IllegalStateException: No compose hierarchies found in the app. Possible reasons include: (1) the Activity that calls setContent did not launch; (2) setContent was not called; (3) setContent was called before the ComposeTestRule ran. If setContent is called by the Activity, make sure the Activity is launched after the ComposeTestRule runs
+at androidx.compose.ui.test.TestContext.getAllSemanticsNodes$ui_test_release(TestOwner.kt:87)
+at androidx.compose.ui.test.SemanticsNodeInteraction.fetchSemanticsNodes$ui_test_release(SemanticsNodeInteraction.kt:63)
+at androidx.compose.ui.test.SemanticsNodeInteraction.fetchOneOrThrow(SemanticsNodeInteraction.kt:157)
+at androidx.compose.ui.test.SemanticsNodeInteraction.fetchOneOrThrow$default(SemanticsNodeInteraction.kt:150)
+at androidx.compose.ui.test.SemanticsNodeInteraction.assertExists(SemanticsNodeInteraction.kt:125)
+at androidx.compose.ui.test.SemanticsNodeInteraction.assertExists$default(SemanticsNodeInteraction.kt:124)
+at com.betterclock.ui.AlarmListScreenTest.alarmSwitch_isAccessible(AlarmListScreenTest.kt:177)
+
+java.lang.IllegalStateException: No compose hierarchies found in the app. Possible reasons include: (1) the Activity that calls setContent did not launch; (2) setContent was not called; (3) setContent was called before the ComposeTestRule ran. If setContent is called by the Activity, make sure the Activity is launched after the ComposeTestRule runs
+at androidx.compose.ui.test.TestContext.getAllSemanticsNodes$ui_test_release(TestOwner.kt:87)
+at androidx.compose.ui.test.SemanticsNodeInteraction.fetchSemanticsNodes$ui_test_release(SemanticsNodeInteraction.kt:63)
+at androidx.compose.ui.test.SemanticsNodeInteraction.fetchOneOrThrow(SemanticsNodeInteraction.kt:157)
+at androidx.compose.ui.test.SemanticsNodeInteraction.fetchOneOrThrow$default(SemanticsNodeInteraction.kt:150)
+at androidx.compose.ui.test.SemanticsNodeInteraction.assertExists(SemanticsNodeInteraction.kt:125)
+at androidx.compose.ui.test.SemanticsNodeInteraction.assertExists$default(SemanticsNodeInteraction.kt:124)
+at com.betterclock.ui.AlarmListScreenTest.alarmSwitch_isAccessible(AlarmListScreenTest.kt:177)
+SEVERE: Execute com.betterclock.ui.AlarmListScreenTest.alarmList_displays24HourFormat: FAILED
+java.lang.IllegalStateException: java.lang.IllegalStateException: No compose hierarchies found in the app. Possible reasons include: (1) the Activity that calls setContent did not launch; (2) setContent was not called; (3) setContent was called before the ComposeTestRule ran. If setContent is called by the Activity, make sure the Activity is launched after the ComposeTestRule runs
+at androidx.compose.ui.test.TestContext.getAllSemanticsNodes$ui_test_release(TestOwner.kt:87)
+at androidx.compose.ui.test.SemanticsNodeInteraction.fetchSemanticsNodes$ui_test_release(SemanticsNodeInteraction.kt:63)
+at androidx.compose.ui.test.SemanticsNodeInteraction.fetchSemanticsNodes$ui_test_release$default(SemanticsNodeInteraction.kt:56)
+at androidx.compose.ui.test.AndroidAssertions_androidKt.checkIsDisplayed(AndroidAssertions.android.kt:29)
+at androidx.compose.ui.test.AssertionsKt.isDisplayed(Assertions.kt:359)
+at androidx.compose.ui.test.AssertionsKt.assertIsDisplayed(Assertions.kt:33)
+at com.betterclock.ui.AlarmListScreenTest.alarmList_displays24HourFormat(AlarmListScreenTest.kt:93)
+
+java.lang.IllegalStateException: No compose hierarchies found in the app. Possible reasons include: (1) the Activity that calls setContent did not launch; (2) setContent was not called; (3) setContent was called before the ComposeTestRule ran. If setContent is called by the Activity, make sure the Activity is launched after the ComposeTestRule runs
+at androidx.compose.ui.test.TestContext.getAllSemanticsNodes$ui_test_release(TestOwner.kt:87)
+at androidx.compose.ui.test.SemanticsNodeInteraction.fetchSemanticsNodes$ui_test_release(SemanticsNodeInteraction.kt:63)
+at androidx.compose.ui.test.SemanticsNodeInteraction.fetchSemanticsNodes$ui_test_release$default(SemanticsNodeInteraction.kt:56)
+at androidx.compose.ui.test.AndroidAssertions_androidKt.checkIsDisplayed(AndroidAssertions.android.kt:29)
+at androidx.compose.ui.test.AssertionsKt.isDisplayed(Assertions.kt:359)
+at androidx.compose.ui.test.AssertionsKt.assertIsDisplayed(Assertions.kt:33)
+at com.betterclock.ui.AlarmListScreenTest.alarmList_displays24HourFormat(AlarmListScreenTest.kt:93)
+SEVERE: Execute com.betterclock.ui.AlarmListScreenTest.alarmList_displaysAlarms: FAILED
+java.lang.IllegalStateException: java.lang.IllegalStateException: No compose hierarchies found in the app. Possible reasons include: (1) the Activity that calls setContent did not launch; (2) setContent was not called; (3) setContent was called before the ComposeTestRule ran. If setContent is called by the Activity, make sure the Activity is launched after the ComposeTestRule runs
+at androidx.compose.ui.test.TestContext.getAllSemanticsNodes$ui_test_release(TestOwner.kt:87)
+at androidx.compose.ui.test.SemanticsNodeInteraction.fetchSemanticsNodes$ui_test_release(SemanticsNodeInteraction.kt:63)
+at androidx.compose.ui.test.SemanticsNodeInteraction.fetchSemanticsNodes$ui_test_release$default(SemanticsNodeInteraction.kt:56)
+at androidx.compose.ui.test.AndroidAssertions_androidKt.checkIsDisplayed(AndroidAssertions.android.kt:29)
+at androidx.compose.ui.test.AssertionsKt.isDisplayed(Assertions.kt:359)
+at androidx.compose.ui.test.AssertionsKt.assertIsDisplayed(Assertions.kt:33)
+at com.betterclock.ui.AlarmListScreenTest.alarmList_displaysAlarms(AlarmListScreenTest.kt:67)
+
+java.lang.IllegalStateException: No compose hierarchies found in the app. Possible reasons include: (1) the Activity that calls setContent did not launch; (2) setContent was not called; (3) setContent was called before the ComposeTestRule ran. If setContent is called by the Activity, make sure the Activity is launched after the ComposeTestRule runs
+at androidx.compose.ui.test.TestContext.getAllSemanticsNodes$ui_test_release(TestOwner.kt:87)
+at androidx.compose.ui.test.SemanticsNodeInteraction.fetchSemanticsNodes$ui_test_release(SemanticsNodeInteraction.kt:63)
+at androidx.compose.ui.test.SemanticsNodeInteraction.fetchSemanticsNodes$ui_test_release$default(SemanticsNodeInteraction.kt:56)
+at androidx.compose.ui.test.AndroidAssertions_androidKt.checkIsDisplayed(AndroidAssertions.android.kt:29)
+at androidx.compose.ui.test.AssertionsKt.isDisplayed(Assertions.kt:359)
+at androidx.compose.ui.test.AssertionsKt.assertIsDisplayed(Assertions.kt:33)
+at com.betterclock.ui.AlarmListScreenTest.alarmList_displaysAlarms(AlarmListScreenTest.kt:67)
+SEVERE: Execute com.betterclock.ui.AlarmListScreenTest.fab_hasCorrectContentDescription: FAILED
+java.lang.IllegalStateException: java.lang.IllegalStateException: No compose hierarchies found in the app. Possible reasons include: (1) the Activity that calls setContent did not launch; (2) setContent was not called; (3) setContent was called before the ComposeTestRule ran. If setContent is called by the Activity, make sure the Activity is launched after the ComposeTestRule runs
+at androidx.compose.ui.test.TestContext.getAllSemanticsNodes$ui_test_release(TestOwner.kt:87)
+at androidx.compose.ui.test.SemanticsNodeInteraction.fetchSemanticsNodes$ui_test_release(SemanticsNodeInteraction.kt:63)
+at androidx.compose.ui.test.SemanticsNodeInteraction.fetchOneOrThrow(SemanticsNodeInteraction.kt:157)
+at androidx.compose.ui.test.SemanticsNodeInteraction.fetchOneOrThrow$default(SemanticsNodeInteraction.kt:150)
+at androidx.compose.ui.test.SemanticsNodeInteraction.assertExists(SemanticsNodeInteraction.kt:125)
+at androidx.compose.ui.test.SemanticsNodeInteraction.assertExists$default(SemanticsNodeInteraction.kt:124)
+at com.betterclock.ui.AlarmListScreenTest.fab_hasCorrectContentDescription(AlarmListScreenTest.kt:112)
+
+java.lang.IllegalStateException: No compose hierarchies found in the app. Possible reasons include: (1) the Activity that calls setContent did not launch; (2) setContent was not called; (3) setContent was called before the ComposeTestRule ran. If setContent is called by the Activity, make sure the Activity is launched after the ComposeTestRule runs
+at androidx.compose.ui.test.TestContext.getAllSemanticsNodes$ui_test_release(TestOwner.kt:87)
+at androidx.compose.ui.test.SemanticsNodeInteraction.fetchSemanticsNodes$ui_test_release(SemanticsNodeInteraction.kt:63)
+at androidx.compose.ui.test.SemanticsNodeInteraction.fetchOneOrThrow(SemanticsNodeInteraction.kt:157)
+at androidx.compose.ui.test.SemanticsNodeInteraction.fetchOneOrThrow$default(SemanticsNodeInteraction.kt:150)
+at androidx.compose.ui.test.SemanticsNodeInteraction.assertExists(SemanticsNodeInteraction.kt:125)
+at androidx.compose.ui.test.SemanticsNodeInteraction.assertExists$default(SemanticsNodeInteraction.kt:124)
+at com.betterclock.ui.AlarmListScreenTest.fab_hasCorrectContentDescription(AlarmListScreenTest.kt:112)
+SEVERE: Execute com.betterclock.ui.AlarmListScreenTest.multipleAlarms_allDisplayed: FAILED
+java.lang.IllegalStateException: java.lang.IllegalStateException: No compose hierarchies found in the app. Possible reasons include: (1) the Activity that calls setContent did not launch; (2) setContent was not called; (3) setContent was called before the ComposeTestRule ran. If setContent is called by the Activity, make sure the Activity is launched after the ComposeTestRule runs
+at androidx.compose.ui.test.TestContext.getAllSemanticsNodes$ui_test_release(TestOwner.kt:87)
+at androidx.compose.ui.test.SemanticsNodeInteraction.fetchSemanticsNodes$ui_test_release(SemanticsNodeInteraction.kt:63)
+at androidx.compose.ui.test.SemanticsNodeInteraction.fetchSemanticsNodes$ui_test_release$default(SemanticsNodeInteraction.kt:56)
+at androidx.compose.ui.test.AndroidAssertions_androidKt.checkIsDisplayed(AndroidAssertions.android.kt:29)
+at androidx.compose.ui.test.AssertionsKt.isDisplayed(Assertions.kt:359)
+at androidx.compose.ui.test.AssertionsKt.assertIsDisplayed(Assertions.kt:33)
+at com.betterclock.ui.AlarmListScreenTest.multipleAlarms_allDisplayed(AlarmListScreenTest.kt:315)
+
+java.lang.IllegalStateException: No compose hierarchies found in the app. Possible reasons include: (1) the Activity that calls setContent did not launch; (2) setContent was not called; (3) setContent was called before the ComposeTestRule ran. If setContent is called by the Activity, make sure the Activity is launched after the ComposeTestRule runs
+at androidx.compose.ui.test.TestContext.getAllSemanticsNodes$ui_test_release(TestOwner.kt:87)
+at androidx.compose.ui.test.SemanticsNodeInteraction.fetchSemanticsNodes$ui_test_release(SemanticsNodeInteraction.kt:63)
+at androidx.compose.ui.test.SemanticsNodeInteraction.fetchSemanticsNodes$ui_test_release$default(SemanticsNodeInteraction.kt:56)
+at androidx.compose.ui.test.AndroidAssertions_androidKt.checkIsDisplayed(AndroidAssertions.android.kt:29)
+at androidx.compose.ui.test.AssertionsKt.isDisplayed(Assertions.kt:359)
+at androidx.compose.ui.test.AssertionsKt.assertIsDisplayed(Assertions.kt:33)
+at com.betterclock.ui.AlarmListScreenTest.multipleAlarms_allDisplayed(AlarmListScreenTest.kt:315)
+INFO: Execute com.betterclock.ui.AlarmListScreenTest.settingsButton_clickAction_triggersCallback: PASSED
+INFO: Execute com.betterclock.ui.AlarmListScreenTest.emptyState_displaysCorrectMessage: PASSED
+INFO: Execute com.betterclock.ui.AlarmListScreenTest.alarmAt_midnight_displaysCorrectly: PASSED
+INFO: Execute com.betterclock.ui.AlarmListScreenTest.disabledAlarm_showsEnableSwitch: PASSED
+INFO: Execute com.betterclock.ui.AlarmListScreenTest.alarmWithEveryDayRepeat_displaysCorrectly: PASSED
+INFO: Execute com.betterclock.ui.AlarmListScreenTest.settingsButton_hasCorrectContentDescription: PASSED
+INFO: Execute com.betterclock.ui.AlarmListScreenTest.alarmWithWeekendRepeat_displaysCorrectly: PASSED
+INFO: Execute com.betterclock.ui.AlarmListScreenTest.fab_clickAction_triggersCallback: PASSED
+INFO: Execute com.betterclock.ui.AlarmListScreenTest.alarmWithChallenge_displaysLabel: PASSED
+INFO: Execute com.betterclock.ui.ChallengeScreenTest.challengeScreen_multipleAttempts_displaysCorrectCount: PASSED
+INFO: Execute com.betterclock.ui.ChallengeScreenTest.challengeScreen_displaysChallengeQuestion: PASSED
+INFO: Execute com.betterclock.ui.ChallengeScreenTest.challengeScreen_displaysErrorMessage: PASSED
+INFO: Execute com.betterclock.ui.ChallengeScreenTest.challengeScreen_displaysMultiplicationChallenge: PASSED
+INFO: Execute com.betterclock.ui.ChallengeScreenTest.challengeScreen_answerInput_hasCorrectDescription: PASSED
+INFO: Execute com.betterclock.ui.ChallengeScreenTest.challengeScreen_displaysSubtractionChallenge: PASSED
+INFO: Execute com.betterclock.ui.ChallengeScreenTest.challengeScreen_displaysDivisionChallenge: PASSED
+INFO: Execute com.betterclock.ui.ChallengeScreenTest.challengeScreen_differentSnoozeDuration_displaysCorrectly: PASSED
+INFO: Execute com.betterclock.ui.ChallengeScreenTest.challengeScreen_displaysAlarmLabel: PASSED
+INFO: Execute com.betterclock.ui.ChallengeScreenTest.challengeScreen_snoozeButton_triggersCallback: PASSED
+INFO: Execute com.betterclock.ui.ChallengeScreenTest.challengeScreen_hidesButtons_whenChallengeNotCompleted: PASSED
+INFO: Execute com.betterclock.ui.ChallengeScreenTest.challengeScreen_displaysSuccessMessage_whenCorrect: PASSED
+INFO: Execute com.betterclock.ui.ChallengeScreenTest.challengeScreen_displaysAlarmTime: PASSED
+INFO: Execute com.betterclock.ui.ChallengeScreenTest.challengeScreen_alarmWithoutLabel_displaysTimeOnly: PASSED
+INFO: Execute com.betterclock.ui.ChallengeScreenTest.challengeScreen_showsSnoozeAndStopButtons_whenChallengeCompleted: PASSED
+INFO: Execute com.betterclock.ui.ChallengeScreenTest.challengeScreen_stopButton_triggersCallback: PASSED
+INFO: Execute com.betterclock.ui.SettingsScreenTest.settingsScreen_withEasyDifficulty_showsCorrectSelection: PASSED
+INFO: Execute com.betterclock.ui.SettingsScreenTest.settingsScreen_difficultySelection_triggersCallback: PASSED
+INFO: Execute com.betterclock.ui.SettingsScreenTest.settingsScreen_displaysDifficultyButtons: PASSED
+INFO: Execute com.betterclock.ui.SettingsScreenTest.settingsScreen_displaysAllSections: PASSED
+INFO: Execute com.betterclock.ui.SettingsScreenTest.settingsScreen_withDifferentSnoozeDuration_displaysCorrectValue: PASSED
+INFO: Execute com.betterclock.ui.SettingsScreenTest.settingsScreen_displaysVibrationToggle: PASSED
+INFO: Execute com.betterclock.ui.SettingsScreenTest.settingsScreen_displays24HourToggle: PASSED
+INFO: Execute com.betterclock.ui.SettingsScreenTest.settingsScreen_displaysChallengeToggle: PASSED
+INFO: Execute com.betterclock.ui.SettingsScreenTest.settingsScreen_displaysSnoozeSlider: PASSED
+INFO: Execute com.betterclock.ui.SettingsScreenTest.settingsScreen_backButton_triggersCallback: PASSED
+INFO: Execute com.betterclock.ui.SettingsScreenTest.settingsScreen_confirmStopToggle_visible: PASSED

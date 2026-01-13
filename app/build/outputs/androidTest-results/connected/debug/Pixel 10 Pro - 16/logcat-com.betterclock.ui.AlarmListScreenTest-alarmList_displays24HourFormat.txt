@@ -1,0 +1,203 @@
+01-13 06:26:32.592  9693  9709 I TestRunner: started: alarmList_displays24HourFormat(com.betterclock.ui.AlarmListScreenTest)
+01-13 06:26:32.596  9693  9709 D IdlingRegistry: Registering idling resources: [androidx.compose.ui.test.EspressoLink@2cb2f38]
+01-13 06:26:32.597  2656  2727 D WindowOnBackDispatcher: setTopOnBackInvokedCallback (unwrapped): null
+01-13 06:26:32.600  9693  9709 W Settings: Setting always_finish_activities has moved from android.provider.Settings.System to android.provider.Settings.Global, returning read-only value.
+01-13 06:26:32.603  1584  4788 V GrammaticalInflectionUtils: AttributionSource: android.content.AttributionSource@428f98d6 does not have READ_SYSTEM_GRAMMATICAL_GENDER permission.
+01-13 06:26:32.609  9693  9693 D LifecycleMonitor: Lifecycle status change: androidx.activity.ComponentActivity@3934e7c in: PRE_ON_CREATE
+01-13 06:26:32.609  9693  9693 V ActivityScenario: Activity lifecycle changed event received but ignored because the reported transition was not ON_CREATE while the last known transition was PRE_ON_CREATE
+01-13 06:26:32.611  9693  9693 D LifecycleMonitor: Lifecycle status change: androidx.activity.ComponentActivity@3934e7c in: CREATED
+01-13 06:26:32.611  9693  9693 V ActivityScenario: Update currentActivityStage to CREATED, currentActivity=androidx.activity.ComponentActivity@3934e7c
+01-13 06:26:32.611  9693  9693 D LifecycleMonitor: Lifecycle status change: androidx.activity.ComponentActivity@3934e7c in: STARTED
+01-13 06:26:32.611  9693  9693 V ActivityScenario: Update currentActivityStage to STARTED, currentActivity=androidx.activity.ComponentActivity@3934e7c
+01-13 06:26:32.612  9693  9693 D LifecycleMonitor: Lifecycle status change: androidx.activity.ComponentActivity@3934e7c in: RESUMED
+01-13 06:26:32.612  9693  9693 V ActivityScenario: Update currentActivityStage to RESUMED, currentActivity=androidx.activity.ComponentActivity@3934e7c
+01-13 06:26:32.615  2656  2727 D WindowOnBackDispatcher: setTopOnBackInvokedCallback (unwrapped): android.view.ViewRootImpl$$ExternalSyntheticLambda12@d2b0d6
+01-13 06:26:32.619  1197 24555 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:32.619  1197 24555 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:32.619  1197 24555 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:32.619  1197 24555 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:32.619  1197 24555 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:32.621  9693  9693 D LifecycleMonitor: Lifecycle status change: androidx.activity.ComponentActivity@3934e7c in: PAUSED
+01-13 06:26:32.621  9693  9693 V ActivityScenario: Update currentActivityStage to PAUSED, currentActivity=androidx.activity.ComponentActivity@3934e7c
+01-13 06:26:32.622  9693  9693 D WindowOnBackDispatcher: setTopOnBackInvokedCallback (unwrapped): android.view.ViewRootImpl$$ExternalSyntheticLambda12@fb9a8b9
+01-13 06:26:32.623  1197 24555 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:32.623  1197 24555 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:32.623  1197 24555 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:32.623  1197 24555 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:32.623  1197 24555 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:32.633  1584  1674 I ActivityTaskManager: Displayed com.betterclock/androidx.activity.ComponentActivity for user 0: +30ms
+01-13 06:26:32.634  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:32.634  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:32.634  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:32.634  1584  1677 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:32.636  9693  9693 D LifecycleMonitor: Lifecycle status change: androidx.activity.ComponentActivity@3934e7c in: STOPPED
+01-13 06:26:32.636  9693  9693 V ActivityScenario: Update currentActivityStage to STOPPED, currentActivity=androidx.activity.ComponentActivity@3934e7c
+01-13 06:26:32.637  9739  9739 D WindowOnBackDispatcher: setTopOnBackInvokedCallback (unwrapped): null
+01-13 06:26:32.641  2656  2727 D WindowOnBackDispatcher: setTopOnBackInvokedCallback (unwrapped): null
+01-13 06:26:32.645  9739  9739 D ViewRootImpl: Skipping stats log for color mode
+01-13 06:26:32.658 16650 16650 D RecentsView: onTaskRemoved: 10064, not handling task stack changes
+01-13 06:26:32.659 16650 16650 D RecentsView: onTaskRemoved: 10064, not handling task stack changes
+01-13 06:26:32.735  3743  3770 W pixelstats-vendor: Thread Pool max thread count is 0. Cannot cache binder as linkToDeath cannot be implemented. serviceName: android.frameworks.stats.IStats/default
+01-13 06:26:32.740   656  2760 E powerhal-libperfmgr: Error: shouldn't report duration during pause state.
+01-13 06:26:32.742 17749 17819 I ReactNativeJNI: Memory warning (pressure level: TRIM_MEMORY_UI_HIDDEN) received by JS VM, ignoring because it's non-severe
+01-13 06:26:32.752   656  2760 E powerhal-libperfmgr: Error: shouldn't report duration during pause state.
+01-13 06:26:32.777 17749 17819 I ReactNativeJNI: Memory warning (pressure level: TRIM_MEMORY_BACKGROUND) received by JS VM, running a GC
+01-13 06:26:32.847  1584  2539 D InetDiagMessage: Destroyed 0 sockets, proto=IPPROTO_TCP, family=AF_INET, states=14
+01-13 06:26:32.848  1584  2539 D InetDiagMessage: Destroyed 0 sockets, proto=IPPROTO_TCP, family=AF_INET6, states=14
+01-13 06:26:32.848  1584  2539 D InetDiagMessage: Destroyed live tcp sockets for uids={10282} in 2ms
+01-13 06:26:32.901  3743  3770 W pixelstats-vendor: Thread Pool max thread count is 0. Cannot cache binder as linkToDeath cannot be implemented. serviceName: android.frameworks.stats.IStats/default
+01-13 06:26:33.538  1239  1239 D AOC     : A3:MSG: tmd3743_device.cc, 977: USF: TMD3743: C/G switch 2 -> 1 d_lux:0.99 w_lux: 0.63 C:0.02 G:0.00
+01-13 06:26:33.636  1239  1239 D AOC     : A3:MSG: tmd3743_device.cc, 977: USF: TMD3743: C/G switch 1 -> 2 d_lux:0.93 w_lux: 0.63 C:0.02 G:0.00
+01-13 06:26:35.213  2804  3122 D TemperatureStateSource: sequence=127778 actualDelay=10001
+01-13 06:26:35.215  1538  1571 I pixel-thermal: soc_therm:33.733 raw data: soc_therm:33733
+01-13 06:26:35.220  2804  3122 D TemperatureStateSource: Reading temperature: sequence=127779
+01-13 06:26:35.231  1538  1538 I pixel-thermal: VIRTUAL-SKIN:31.1682 raw data: VIRTUAL-SKIN:31168.2 VIRTUAL-SKIN-EQ:31168.2 VIRTUAL-SKIN-LEGACY:30608.4 VIRTUAL-SKIN-LEGACY-MODEL-DIFF:-410.359 VIRTUAL-SKIN-LEGACY-SHUTDOWN:0 VIRTUAL-SKIN-MODEL:31018.7 VIRTUAL-SKIN-MODEL-CLAMPED:31018.7 VIRTUAL-SKIN-MODEL-LEGACY-DIFF:410.359 VIRTUAL-SKIN-MODEL-UPDATED:31168.2 VIRTUAL-SKIN-MODEL-UPPER-CLAMPED:31018.7 VIRTUAL-SKIN-SUB-0:30272.2 VIRTUAL-SKIN-SUB-1:30470.8 VIRTUAL-SKIN-SUB-2:30608.4 VIRTUAL-SKIN-SUB-3:30052.8 VIRTUAL-SKIN-SUB-4:29883.8 VT_LEGACY_WEIGHT:0 VT_MODEL_WEIGHT:1 charging_therm:33880 disp0_therm:27770 flash_therm:28949 north_therm:32145 quiet_therm:32249 rfpa_therm:32906 soc_therm:33733 usb_pwr_therm:27443
+01-13 06:26:35.233  2804  3122 D TemperatureStateSource: getDeviceTemperatures: sequence=127779 deviceTemperatureType=3 temperatureSource=0 temperatures=[31.168203]
+01-13 06:26:35.233  2804  3122 D BusinessScope: Enqueuing the block
+01-13 06:26:35.234  2804  3122 D TemperatureStateSource: sequence=127779 waitTime=10000
+01-13 06:26:35.234  2804  3122 D BusinessScope: Start running the #256471 block
+01-13 06:26:35.239  1538  1538 I pixel-thermal: VIRTUAL-SKIN:31.1682 raw data: VIRTUAL-SKIN:31168.2
+01-13 06:26:35.242  1538  1571 I pixel-thermal: rfpa_therm:32.906 raw data: rfpa_therm:32906
+01-13 06:26:35.243  2804  3122 I TemperatureStateSource: temperature was set
+01-13 06:26:35.243  2804  3122 D BusinessScope: Enqueuing the block
+01-13 06:26:35.243  2804  3122 D ImpulseStateSource: Notify clients: 128232
+01-13 06:26:35.243  2804  3122 D BusinessScope: Finish running the #256471 block
+01-13 06:26:35.244  2804  3122 D BusinessScope: Start running the #256472 block
+01-13 06:26:35.248  2804  3122 D BusinessScope: Finish running the #256472 block
+01-13 06:26:35.328  1055  1091 D shamp   : Temp sensor 0 - Update 0 - Temperature 32000
+01-13 06:26:35.329  1055  1091 D shamp   : Temp sensor 1 - Update 0 - Temperature 31000
+01-13 06:26:35.329  1055  1091 D shamp   : Temp sensor 2 - Update 0 - Temperature 31000
+01-13 06:26:35.329  1055  1091 D shamp   : Temp sensor 3 - Update 0 - Temperature 30000
+01-13 06:26:35.329  1055  1091 D shamp   : Temp sensor 4 - Update 0 - Temperature 30000
+01-13 06:26:35.329  1055  1091 D shamp   : Temp sensor 5 - Update 1 - Temperature 34000
+01-13 06:26:35.329  1055  1091 D shamp   : Temp sensor 6 - Update 0 - Temperature 34000
+01-13 06:26:35.337  3743  3770 W pixelstats-vendor: Thread Pool max thread count is 0. Cannot cache binder as linkToDeath cannot be implemented. serviceName: android.frameworks.stats.IStats/default
+01-13 06:26:35.584  3743  3770 W pixelstats-vendor: Thread Pool max thread count is 0. Cannot cache binder as linkToDeath cannot be implemented. serviceName: android.frameworks.stats.IStats/default
+01-13 06:26:36.309  1039  2619 I WifiHAL : Creating message to get link statistics; iface = 47
+01-13 06:26:36.426  1039  2619 I WifiHAL : index: 0 per_rate_size 32, data_rem_len 1152
+01-13 06:26:36.426  1039  2619 I WifiHAL : index: 1 per_rate_size 32, data_rem_len 1120
+01-13 06:26:36.426  1039  2619 I WifiHAL : index: 2 per_rate_size 32, data_rem_len 1088
+01-13 06:26:36.426  1039  2619 I WifiHAL : index: 3 per_rate_size 32, data_rem_len 1056
+01-13 06:26:36.426  1039  2619 I WifiHAL : index: 4 per_rate_size 32, data_rem_len 1024
+01-13 06:26:36.426  1039  2619 I WifiHAL : index: 5 per_rate_size 32, data_rem_len 992
+01-13 06:26:36.426  1039  2619 I WifiHAL : index: 6 per_rate_size 32, data_rem_len 960
+01-13 06:26:36.426  1039  2619 I WifiHAL : index: 7 per_rate_size 32, data_rem_len 928
+01-13 06:26:36.426  1039  2619 I WifiHAL : index: 8 per_rate_size 32, data_rem_len 896
+01-13 06:26:36.426  1039  2619 I WifiHAL : index: 9 per_rate_size 32, data_rem_len 864
+01-13 06:26:36.426  1039  2619 I WifiHAL : index: 10 per_rate_size 32, data_rem_len 832
+01-13 06:26:36.426  1039  2619 I WifiHAL : index: 11 per_rate_size 32, data_rem_len 800
+01-13 06:26:36.426  1039  2619 I WifiHAL : index: 12 per_rate_size 32, data_rem_len 768
+01-13 06:26:36.426  1039  2619 I WifiHAL : index: 13 per_rate_size 32, data_rem_len 736
+01-13 06:26:36.426  1039  2619 I WifiHAL : index: 14 per_rate_size 32, data_rem_len 704
+01-13 06:26:36.427  1039  2619 I WifiHAL : index: 15 per_rate_size 32, data_rem_len 672
+01-13 06:26:36.427  1039  2619 I WifiHAL : index: 16 per_rate_size 32, data_rem_len 640
+01-13 06:26:36.427  1039  2619 I WifiHAL : index: 17 per_rate_size 32, data_rem_len 608
+01-13 06:26:36.427  1039  2619 I WifiHAL : index: 18 per_rate_size 32, data_rem_len 576
+01-13 06:26:36.427  1039  2619 I WifiHAL : index: 19 per_rate_size 32, data_rem_len 544
+01-13 06:26:36.427  1039  2619 I WifiHAL : index: 20 per_rate_size 32, data_rem_len 512
+01-13 06:26:36.427  1039  2619 I WifiHAL : index: 21 per_rate_size 32, data_rem_len 480
+01-13 06:26:36.427  1039  2619 I WifiHAL : index: 22 per_rate_size 32, data_rem_len 448
+01-13 06:26:36.427  1039  2619 I WifiHAL : index: 23 per_rate_size 32, data_rem_len 416
+01-13 06:26:36.427  1039  2619 I WifiHAL : index: 24 per_rate_size 32, data_rem_len 384
+01-13 06:26:36.427  1039  2619 I WifiHAL : index: 25 per_rate_size 32, data_rem_len 352
+01-13 06:26:36.427  1039  2619 I WifiHAL : index: 26 per_rate_size 32, data_rem_len 320
+01-13 06:26:36.427  1039  2619 I WifiHAL : index: 27 per_rate_size 32, data_rem_len 288
+01-13 06:26:36.427  1039  2619 I WifiHAL : index: 28 per_rate_size 32, data_rem_len 256
+01-13 06:26:36.427  1039  2619 I WifiHAL : index: 29 per_rate_size 32, data_rem_len 224
+01-13 06:26:36.427  1039  2619 I WifiHAL : index: 30 per_rate_size 32, data_rem_len 192
+01-13 06:26:36.427  1039  2619 I WifiHAL : index: 31 per_rate_size 32, data_rem_len 160
+01-13 06:26:36.427  1039  2619 I WifiHAL : index: 32 per_rate_size 32, data_rem_len 128
+01-13 06:26:36.427  1039  2619 I WifiHAL : index: 33 per_rate_size 32, data_rem_len 96
+01-13 06:26:36.427  1039  2619 I WifiHAL : index: 34 per_rate_size 32, data_rem_len 64
+01-13 06:26:36.427  1039  2619 I WifiHAL : index: 35 per_rate_size 32, data_rem_len 32
+01-13 06:26:36.427  1039  2619 E libbinder.IPCThreadState: binder thread pool (1 threads) starved for 119 ms
+01-13 06:26:36.429  1039  2619 I WifiHAL : Getting cached scan results, iface handle = 0xb4000076d792e490
+01-13 06:26:36.429  1039  2619 E WifiHAL : Creating message to get cached scan results
+01-13 06:26:36.439  1039  2619 I WifiHAL : In GetCachedScanResultsCommand::handleResponse
+01-13 06:26:36.613   965   965 W TracingMuxer: type=1400 audit(0.0:302462): avc:  denied  { write } for  name="traced_producer" dev="tmpfs" ino=1334 scontext=u:r:hal_neuralnetworks_darwinn:s0 tcontext=u:object_r:traced_producer_socket:s0 tclass=sock_file permissive=0
+01-13 06:26:36.743  1584  3662 V GrammaticalInflectionUtils: AttributionSource: android.content.AttributionSource@44447175 does not have READ_SYSTEM_GRAMMATICAL_GENDER permission.
+01-13 06:26:36.766  2656  2727 D WindowOnBackDispatcher: setTopOnBackInvokedCallback (unwrapped): android.view.ViewRootImpl$$ExternalSyntheticLambda12@76a460c
+01-13 06:26:36.770  1197 24555 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:36.770  1197 24555 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:36.770  1197 24555 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:36.770  1197 24555 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:36.770  1197 24555 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:36.772  1197 24555 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:36.772  1197 24555 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:36.772  1197 24555 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:36.772  1197 24555 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:36.773  1197 24555 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+01-13 06:26:36.779  9739  9739 D WindowOnBackDispatcher: setTopOnBackInvokedCallback (unwrapped): android.view.ViewRootImpl$$ExternalSyntheticLambda12@e264bba
+01-13 06:26:36.783  9693  9693 D LifecycleMonitor: Lifecycle status change: androidx.activity.ComponentActivity@3934e7c in: DESTROYED
+01-13 06:26:36.783  9693  9693 V ActivityScenario: Update currentActivityStage to DESTROYED, currentActivity=null
+01-13 06:26:36.783  9693  9693 D WindowOnBackDispatcher: setTopOnBackInvokedCallback (unwrapped): null
+01-13 06:26:36.788 16650 16650 D RecentsView: onTaskRemoved: 10065, not handling task stack changes
+01-13 06:26:36.789 16650 16650 D RecentsView: onTaskRemoved: 10065, not handling task stack changes
+01-13 06:26:36.789  9693  9709 D IdlingRegistry: Unregistering idling resources: [androidx.compose.ui.test.EspressoLink@2cb2f38]
+01-13 06:26:36.790  1584  1674 I ActivityTaskManager: Displayed com.betterclock.test/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity for user 0: +54ms
+01-13 06:26:36.790  9693  9709 E TestRunner: failed: alarmList_displays24HourFormat(com.betterclock.ui.AlarmListScreenTest)
+01-13 06:26:36.791  9693  9709 E TestRunner: ----- begin exception -----
+01-13 06:26:36.791  9693  9709 E TestRunner: java.lang.IllegalStateException: No compose hierarchies found in the app. Possible reasons include: (1) the Activity that calls setContent did not launch; (2) setContent was not called; (3) setContent was called before the ComposeTestRule ran. If setContent is called by the Activity, make sure the Activity is launched after the ComposeTestRule runs
+01-13 06:26:36.791  9693  9709 E TestRunner: 	at androidx.compose.ui.test.TestContext.getAllSemanticsNodes$ui_test_release(TestOwner.kt:87)
+01-13 06:26:36.791  9693  9709 E TestRunner: 	at androidx.compose.ui.test.SemanticsNodeInteraction.fetchSemanticsNodes$ui_test_release(SemanticsNodeInteraction.kt:63)
+01-13 06:26:36.791  9693  9709 E TestRunner: 	at androidx.compose.ui.test.SemanticsNodeInteraction.fetchSemanticsNodes$ui_test_release$default(SemanticsNodeInteraction.kt:56)
+01-13 06:26:36.791  9693  9709 E TestRunner: 	at androidx.compose.ui.test.AndroidAssertions_androidKt.checkIsDisplayed(AndroidAssertions.android.kt:29)
+01-13 06:26:36.791  9693  9709 E TestRunner: 	at androidx.compose.ui.test.AssertionsKt.isDisplayed(Assertions.kt:359)
+01-13 06:26:36.791  9693  9709 E TestRunner: 	at androidx.compose.ui.test.AssertionsKt.assertIsDisplayed(Assertions.kt:33)
+01-13 06:26:36.791  9693  9709 E TestRunner: 	at com.betterclock.ui.AlarmListScreenTest.alarmList_displays24HourFormat(AlarmListScreenTest.kt:93)
+01-13 06:26:36.791  9693  9709 E TestRunner: 	at java.lang.reflect.Method.invoke(Native Method)
+01-13 06:26:36.791  9693  9709 E TestRunner: 	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:59)
+01-13 06:26:36.791  9693  9709 E TestRunner: 	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+01-13 06:26:36.791  9693  9709 E TestRunner: 	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:56)
+01-13 06:26:36.791  9693  9709 E TestRunner: 	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
+01-13 06:26:36.791  9693  9709 E TestRunner: 	at org.junit.rules.ExternalResource$1.evaluate(ExternalResource.java:54)
+01-13 06:26:36.791  9693  9709 E TestRunner: 	at androidx.compose.ui.test.junit4.AndroidComposeTestRule$apply$1$evaluate$1.invoke(AndroidComposeTestRule.android.kt:272)
+01-13 06:26:36.791  9693  9709 E TestRunner: 	at androidx.compose.ui.test.junit4.AndroidComposeTestRule$apply$1$evaluate$1.invoke(AndroidComposeTestRule.android.kt:271)
+01-13 06:26:36.791  9693  9709 E TestRunner: 	at androidx.compose.ui.test.AndroidComposeUiTestEnvironment$AndroidComposeUiTestImpl.withDisposableContent(ComposeUiTest.android.kt:505)
+01-13 06:26:36.791  9693  9709 E TestRunner: 	at androidx.compose.ui.test.AndroidComposeUiTestEnvironment$runTest$1$1$1$1$1$1.invoke(ComposeUiTest.android.kt:333)
+01-13 06:26:36.791  9693  9709 E TestRunner: 	at androidx.compose.ui.test.AndroidComposeUiTestEnvironment.withComposeIdlingResource(ComposeUiTest.android.kt:385)
+01-13 06:26:36.791  9693  9709 E TestRunner: 	at androidx.compose.ui.test.AndroidComposeUiTestEnvironment.access$withComposeIdlingResource(ComposeUiTest.android.kt:219)
+01-13 06:26:36.791  9693  9709 E TestRunner: 	at androidx.compose.ui.test.AndroidComposeUiTestEnvironment$runTest$1$1$1$1$1.invoke(ComposeUiTest.android.kt:332)
+01-13 06:26:36.791  9693  9709 E TestRunner: 	at androidx.compose.ui.test.AndroidComposeUiTestEnvironment.withWindowRecomposer(ComposeUiTest.android.kt:359)
+01-13 06:26:36.791  9693  9709 E TestRunner: 	at androidx.compose.ui.test.AndroidComposeUiTestEnvironment.access$withWindowRecomposer(ComposeUiTest.android.kt:219)
+01-13 06:26:36.791  9693  9709 E TestRunner: 	at androidx.compose.ui.test.AndroidComposeUiTestEnvironment$runTest$1$1$1$1.invoke(ComposeUiTest.android.kt:331)
+01-13 06:26:36.791  9693  9709 E TestRunner: 	at androidx.compose.ui.test.AndroidComposeUiTestEnvironment.withTestCoroutines(ComposeUiTest.android.kt:372)
+01-13 06:26:36.791  9693  9709 E TestRunner: 	at androidx.compose.ui.test.AndroidComposeUiTestEnvironment.access$withTestCoroutines(ComposeUiTest.android.kt:219)
+01-13 06:26:36.791  9693  9709 E TestRunner: 	at androidx.compose.ui.test.AndroidComposeUiTestEnvironment$runTest$1$1$1.invoke(ComposeUiTest.android.kt:330)
+01-13 06:26:36.791  9693  9709 E TestRunner: 	at androidx.compose.ui.test.EspressoLink.withStrategy(EspressoLink.android.kt:66)
+01-13 06:26:36.791  9693  9709 E TestRunner: 	at androidx.compose.ui.test.AndroidComposeUiTestEnvironment$runTest$1$1.invoke(ComposeUiTest.android.kt:329)
+01-13 06:26:36.791  9693  9709 E TestRunner: 	at androidx.compose.ui.test.IdlingResourceRegistry.withRegistry(IdlingResourceRegistry.jvm.kt:155)
+01-13 06:26:36.791  9693  9709 E TestRunner: 	at androidx.compose.ui.test.AndroidComposeUiTestEnvironment$runTest$1.invoke(ComposeUiTest.android.kt:328)
+01-13 06:26:36.791  9693  9709 E TestRunner: 	at androidx.compose.ui.test.ComposeRootRegistry.withRegistry(ComposeRootRegistry.android.kt:146)
+01-13 06:26:36.791  9693  9709 E TestRunner: 	at androidx.compose.ui.test.AndroidComposeUiTestEnvironment.runTest(ComposeUiTest.android.kt:327)
+01-13 06:26:36.791  9693  9709 E TestRunner: 	at androidx.compose.ui.test.junit4.AndroidComposeTestRule$apply$1.evaluate(AndroidComposeTestRule.android.kt:271)
+01-13 06:26:36.791  9693  9709 E TestRunner: 	at org.junit.runners.ParentRunner$3.evaluate(ParentRunner.java:306)
+01-13 06:26:36.791  9693  9709 E TestRunner: 	at org.junit.runners.BlockJUnit4ClassRunner$1.evaluate(BlockJUnit4ClassRunner.java:100)
+01-13 06:26:36.791  9693  9709 E TestRunner: 	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:366)
+01-13 06:26:36.791  9693  9709 E TestRunner: 	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:103)
+01-13 06:26:36.791  9693  9709 E TestRunner: 	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:63)
+01-13 06:26:36.791  9693  9709 E TestRunner: 	at org.junit.runners.ParentRunner$4.run(ParentRunner.java:331)
+01-13 06:26:36.791  9693  9709 E TestRunner: 	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:79)
+01-13 06:26:36.791  9693  9709 E TestRunner: 	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:329)
+01-13 06:26:36.791  9693  9709 E TestRunner: 	at org.junit.runners.ParentRunner.access$100(ParentRunner.java:66)
+01-13 06:26:36.791  9693  9709 E TestRunner: 	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:293)
+01-13 06:26:36.791  9693  9709 E TestRunner: 	at org.junit.runners.ParentRunner$3.evaluate(ParentRunner.java:306)
+01-13 06:26:36.791  9693  9709 E TestRunner: 	at org.junit.runners.ParentRunner.run(ParentRunner.java:413)
+01-13 06:26:36.791  9693  9709 E TestRunner: 	at androidx.test.ext.junit.runners.AndroidJUnit4.run(AndroidJUnit4.java:162)
+01-13 06:26:36.791  9693  9709 E TestRunner: 	at org.junit.runners.Suite.runChild(Suite.java:128)
+01-13 06:26:36.791  9693  9709 E TestRunner: 	at org.junit.runners.Suite.runChild(Suite.java:27)
+01-13 06:26:36.791  9693  9709 E TestRunner: 	at org.junit.runners.ParentRunner$4.run(ParentRunner.java:331)
+01-13 06:26:36.791  9693  9709 E TestRunner: 	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:79)
+01-13 06:26:36.791  9693  9709 E TestRunner: 	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:329)
+01-13 06:26:36.791  9693  9709 E TestRunner: 	at org.junit.runners.ParentRunner.access$100(ParentRunner.java:66)
+01-13 06:26:36.791  9693  9709 E TestRunner: 	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:293)
+01-13 06:26:36.791  9693  9709 E TestRunner: 	at org.junit.runners.ParentRunner$3.evaluate(ParentRunner.java:306)
+01-13 06:26:36.791  9693  9709 E TestRunner: 	at org.junit.runners.ParentRunner.run(ParentRunner.java:413)
+01-13 06:26:36.791  9693  9709 E TestRunner: 	at org.junit.runner.JUnitCore.run(JUnitCore.java:137)
+01-13 06:26:36.791  9693  9709 E TestRunner: 	at org.junit.runner.JUnitCore.run(JUnitCore.java:115)
+01-13 06:26:36.791  9693  9709 E TestRunner: 	at androidx.test.internal.runner.TestExecutor.execute(TestExecutor.java:68)
+01-13 06:26:36.791  9693  9709 E TestRunner: 	at androidx.test.internal.runner.TestExecutor.execute(TestExecutor.java:59)
+01-13 06:26:36.791  9693  9709 E TestRunner: 	at androidx.test.runner.AndroidJUnitRunner.onStart(AndroidJUnitRunner.java:463)
+01-13 06:26:36.791  9693  9709 E TestRunner: 	at android.app.Instrumentation$InstrumentationThread.run(Instrumentation.java:2604)
+01-13 06:26:36.791  9693  9709 E TestRunner: ----- end exception -----
+01-13 06:26:36.791  9693  9709 I TestRunner: finished: alarmList_displays24HourFormat(com.betterclock.ui.AlarmListScreenTest)
