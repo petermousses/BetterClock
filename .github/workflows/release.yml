@@ -28,10 +28,21 @@ jobs:
       - name: Make gradlew executable
         run: chmod +x gradlew
 
-      - name: Build Release APK
-        run: ./gradlew assembleRelease
+      - name: Build Debug APK (for distribution)
+        run: ./gradlew assembleDebug
         env:
           ANDROID_SDK_ROOT: ${{ env.ANDROID_SDK_ROOT }}
+
+      - name: Verify APK was built
+        run: |
+          if [ -f "app/build/outputs/apk/debug/app-debug.apk" ]; then
+            echo "✅ APK built successfully"
+            ls -lh app/build/outputs/apk/debug/app-debug.apk
+          else
+            echo "❌ APK not found at expected location"
+            find app/build/outputs -name "*.apk" -type f
+            exit 1
+          fi
 
       - name: Check if release already exists
         id: check_release
@@ -51,7 +62,7 @@ jobs:
         if: steps.check_release.outputs.exists == 'false'
         uses: softprops/action-gh-release@v1
         with:
-          files: app/build/outputs/apk/release/app-release.apk
+          files: app/build/outputs/apk/debug/app-debug.apk
           draft: false
           prerelease: false
           body: |
@@ -61,8 +72,8 @@ jobs:
             The APK file is attached below and ready for installation.
 
             ## Installation Instructions
-            1. Download the `app-release.apk` file from the assets below
-            2. Transfer to your Android device or use ADB: `adb install app-release.apk`
+            1. Download the `app-debug.apk` file from the assets below
+            2. Transfer to your Android device or use ADB: `adb install app-debug.apk`
             3. Grant necessary permissions when prompted
             4. Launch the app from your device's app drawer
 
@@ -75,10 +86,10 @@ jobs:
             5. Click "Update release" to save
 
             Alternatively, you can manually upload APKs:
-            1. Build locally: `./gradlew assembleRelease`
+            1. Build locally: `./gradlew assembleDebug`
             2. Go to GitHub → Releases → "Create a new release"
             3. Create a new tag or select existing version
-            4. Upload the APK from `app/build/outputs/apk/release/app-release.apk`
+            4. Upload the APK from `app/build/outputs/apk/debug/app-debug.apk`
             5. Add release notes describing the changes
             6. Publish the release
         env:
@@ -88,7 +99,7 @@ jobs:
         if: steps.check_release.outputs.exists == 'false'
         run: |
           echo "✅ Release ${{ github.ref_name }} created successfully!"
-          echo "📦 APK: app-release.apk"
+          echo "📦 APK: app-debug.apk"
           echo "🔗 View at: https://github.com/${{ github.repository }}/releases/tag/${{ github.ref_name }}"
 
       - name: Already Released
