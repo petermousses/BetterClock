@@ -1,0 +1,98 @@
+name: Create Release
+
+on:
+  push:
+    tags:
+      - 'v*'
+
+permissions:
+  contents: write
+
+jobs:
+  build-and-release:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Set up JDK 17
+        uses: actions/setup-java@v3
+        with:
+          java-version: '17'
+          distribution: 'temurin'
+
+      - name: Setup Android SDK
+        uses: android-actions/setup-android@v3
+
+      - name: Make gradlew executable
+        run: chmod +x gradlew
+
+      - name: Build Release APK
+        run: ./gradlew assembleRelease
+        env:
+          ANDROID_SDK_ROOT: ${{ env.ANDROID_SDK_ROOT }}
+
+      - name: Check if release already exists
+        id: check_release
+        run: |
+          RELEASE_EXISTS=$(gh release view ${{ github.ref_name }} 2>/dev/null && echo "true" || echo "false")
+          echo "exists=$RELEASE_EXISTS" >> $GITHUB_OUTPUT
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Skip if release exists
+        if: steps.check_release.outputs.exists == 'true'
+        run: |
+          echo "Release ${{ github.ref_name }} already exists. Skipping to prevent overwriting."
+          exit 0
+
+      - name: Create Release
+        if: steps.check_release.outputs.exists == 'false'
+        uses: softprops/action-gh-release@v1
+        with:
+          files: app/build/outputs/apk/release/app-release.apk
+          draft: false
+          prerelease: false
+          body: |
+            # ${{ github.ref_name }} Release
+
+            ## APK Download
+            The APK file is attached below and ready for installation.
+
+            ## Installation Instructions
+            1. Download the `app-release.apk` file from the assets below
+            2. Transfer to your Android device or use ADB: `adb install app-release.apk`
+            3. Grant necessary permissions when prompted
+            4. Launch the app from your device's app drawer
+
+            ## Release Notes
+            To add detailed release notes:
+            1. Navigate to the GitHub Releases page for this repository
+            2. Click on this release (${{ github.ref_name }})
+            3. Click the "Edit" button
+            4. Update the release description with features, bug fixes, and changes
+            5. Click "Update release" to save
+
+            Alternatively, you can manually upload APKs:
+            1. Build locally: `./gradlew assembleRelease`
+            2. Go to GitHub → Releases → "Create a new release"
+            3. Create a new tag or select existing version
+            4. Upload the APK from `app/build/outputs/apk/release/app-release.apk`
+            5. Add release notes describing the changes
+            6. Publish the release
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Release Creation Summary
+        if: steps.check_release.outputs.exists == 'false'
+        run: |
+          echo "✅ Release ${{ github.ref_name }} created successfully!"
+          echo "📦 APK: app-release.apk"
+          echo "🔗 View at: https://github.com/${{ github.repository }}/releases/tag/${{ github.ref_name }}"
+
+      - name: Already Released
+        if: steps.check_release.outputs.exists == 'true'
+        run: |
+          echo "⏭️  Release ${{ github.ref_name }} already exists."
+          echo "🔗 View at: https://github.com/${{ github.repository }}/releases/tag/${{ github.ref_name }}"
