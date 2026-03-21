@@ -4,6 +4,12 @@ on:
   push:
     tags:
       - 'v*'
+  workflow_dispatch:
+    inputs:
+      version:
+        description: 'Version tag to release (e.g. v1.0.2)'
+        required: true
+        type: string
 
 permissions:
   contents: write
@@ -12,9 +18,26 @@ jobs:
   build-and-release:
     runs-on: ubuntu-latest
 
+    env:
+      VERSION: ${{ github.event_name == 'workflow_dispatch' && inputs.version || github.ref_name }}
+
     steps:
       - name: Checkout code
         uses: actions/checkout@v4
+
+      - name: Create and push tag
+        if: github.event_name == 'workflow_dispatch'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          if git rev-parse "$VERSION" >/dev/null 2>&1; then
+            echo "Tag $VERSION already exists, skipping tag creation"
+          else
+            git tag "$VERSION"
+            git push origin "$VERSION"
+          fi
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Set up JDK 17
         uses: actions/setup-java@v3
@@ -47,7 +70,7 @@ jobs:
       - name: Check if release already exists
         id: check_release
         run: |
-          if gh release view ${{ github.ref_name }} &>/dev/null; then
+          if gh release view "$VERSION" &>/dev/null; then
             echo "exists=true" >> $GITHUB_OUTPUT
           else
             echo "exists=false" >> $GITHUB_OUTPUT
@@ -55,21 +78,16 @@ jobs:
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Skip if release exists
-        if: steps.check_release.outputs.exists == 'true'
-        run: |
-          echo "Release ${{ github.ref_name }} already exists. Skipping to prevent overwriting."
-          exit 0
-
       - name: Create Release
         if: steps.check_release.outputs.exists == 'false'
         uses: softprops/action-gh-release@v1
         with:
+          tag_name: ${{ env.VERSION }}
           files: app/build/outputs/apk/debug/app-debug.apk
           draft: false
           prerelease: false
           body: |
-            # ${{ github.ref_name }} Release
+            # ${{ env.VERSION }} Release
 
             ## APK Download
             The APK file is attached below and ready for installation.
@@ -83,30 +101,22 @@ jobs:
             ## Release Notes
             To add detailed release notes:
             1. Navigate to the GitHub Releases page for this repository
-            2. Click on this release (${{ github.ref_name }})
+            2. Click on this release (${{ env.VERSION }})
             3. Click the "Edit" button
             4. Update the release description with features, bug fixes, and changes
             5. Click "Update release" to save
-
-            Alternatively, you can manually upload APKs:
-            1. Build locally: `./gradlew assembleDebug`
-            2. Go to GitHub → Releases → "Create a new release"
-            3. Create a new tag or select existing version
-            4. Upload the APK from `app/build/outputs/apk/debug/app-debug.apk`
-            5. Add release notes describing the changes
-            6. Publish the release
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Release Creation Summary
         if: steps.check_release.outputs.exists == 'false'
         run: |
-          echo "✅ Release ${{ github.ref_name }} created successfully!"
+          echo "✅ Release $VERSION created successfully!"
           echo "📦 APK: app-debug.apk"
-          echo "🔗 View at: https://github.com/${{ github.repository }}/releases/tag/${{ github.ref_name }}"
+          echo "🔗 View at: https://github.com/${{ github.repository }}/releases/tag/$VERSION"
 
       - name: Already Released
         if: steps.check_release.outputs.exists == 'true'
         run: |
-          echo "⏭️  Release ${{ github.ref_name }} already exists."
-          echo "🔗 View at: https://github.com/${{ github.repository }}/releases/tag/${{ github.ref_name }}"
+          echo "⏭️  Release $VERSION already exists."
+          echo "🔗 View at: https://github.com/${{ github.repository }}/releases/tag/$VERSION"
