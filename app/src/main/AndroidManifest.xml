@@ -42,6 +42,7 @@
             android:turnScreenOn="true"
             android:showWhenLocked="true"
             android:launchMode="singleTop"
+            android:excludeFromRecents="true"
             android:theme="@style/Theme.BetterClock" />
 
         <!-- Alarm Receiver -->
