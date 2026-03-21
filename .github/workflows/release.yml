@@ -47,8 +47,11 @@ jobs:
       - name: Check if release already exists
         id: check_release
         run: |
-          RELEASE_EXISTS=$(gh release view ${{ github.ref_name }} 2>/dev/null && echo "true" || echo "false")
-          echo "exists=$RELEASE_EXISTS" >> $GITHUB_OUTPUT
+          if gh release view ${{ github.ref_name }} &>/dev/null; then
+            echo "exists=true" >> $GITHUB_OUTPUT
+          else
+            echo "exists=false" >> $GITHUB_OUTPUT
+          fi
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
